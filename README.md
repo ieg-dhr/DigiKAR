@@ -4,7 +4,11 @@
 
 <img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" align="center"/>
 
-- Datenabruf aus mehreren CSV-Tabellen / data retrieval from several CSV tables
+- Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables
+
+a) Script 
+b) Beispielhaftes Ergebnis / Sample Output
+
 - Identifikation von Zeitverläufen in Datensätzen / identifying chonologies in data sets
 - Datenvergleich / data comparison
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
