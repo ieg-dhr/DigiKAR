@@ -6,8 +6,9 @@
 
 - Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables
 
-a) Script 
-b) Beispielhaftes Ergebnis / Sample Output
+a) [XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py) 
+
+b) [XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
 
 - Identifikation von Zeitverläufen in Datensätzen / identifying chonologies in data sets
 - Datenvergleich / data comparison
