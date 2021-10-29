@@ -1,10 +1,10 @@
+<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" align="left"/>
+
 # DigiKAR
 
-**Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt / scripts for managing spatial and biographic data in the DigiKAR project**
+## Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt / scripts for managing spatial and biographic data in the DigiKAR project
 
-<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" align="center"/>
-
-- Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables
+**1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables**
 
 a) [XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py) 
 
@@ -14,7 +14,13 @@ b) [XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blo
 - Datenvergleich / data comparison
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
 
-- Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files
+c) *Erweiterte Skripe in Bearbeitung / advanced scripts in progress:*
+
+- "BIOGRAPHY TRACING": select person by ID, match name variants, find all life events recorded, narrow down events by time limits if necessary, put events in chronological order
+- "DISAMBIGUATION": script to compare similar names of people and places and assign unique IDs (human intervention necessary)
+- "SPATIAL EVOLUTION": extracts events coinciding in specific places, reconstruct political / cultural role of places through human agency
+
+**2) Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files**
 
 a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py) 
 
@@ -26,6 +32,7 @@ b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_spli
 - Identifizierung von Personeneinträgen durch Großschreibung der Namen / identifiying person entries based on uppercase characters in names
 
 <img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="left"/>
+
 
 **Ausführliche Beschreibung des Worksflows / detailed workflow description**
 
