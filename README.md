@@ -22,9 +22,9 @@ b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_spli
 
 **Ausführliche Beschreibung des Worksflows / detailed workflow description**
 
-<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="center"/>
+<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="left"/>
 
-[https://insulae.hypotheses.org/333](https://insulae.hypotheses.org/)
+[Disambiguating people and places in dirty historical data](https://insulae.hypotheses.org/333)
 
 **Verantwortlich für den Inhalt / responsible for content:**
 
