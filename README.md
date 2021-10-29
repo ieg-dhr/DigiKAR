@@ -1,4 +1,4 @@
-<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" align="left"/>
+<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" style="padding=10px" align="left"/>
 
 # DigiKAR
 
@@ -31,7 +31,7 @@ b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_spli
 
 - Identifizierung von Personeneinträgen durch Großschreibung der Namen / identifiying person entries based on uppercase characters in names
 
-<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="left"/>
+<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="250" align="left"/>
 
 
 **Ausführliche Beschreibung des Worksflows / detailed workflow description**
