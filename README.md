@@ -2,7 +2,7 @@
 
 # DigiKAR
 
-## Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt / scripts for managing spatial and biographic data in the DigiKAR project
+### Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt / scripts for managing spatial and biographic data in the DigiKAR project
 
 <hr>
 
