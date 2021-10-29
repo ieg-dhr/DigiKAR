@@ -14,7 +14,19 @@ b) [XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blo
 - Datenvergleich / data comparison
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
 
-Verantwortlich für den Inhalt / resposible for content:
+- Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files
+
+a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py) 
+
+b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_splitUPPERCASE.py)
+
+**Ausführliche Beschreibung des Worksflows / detailed workflow description**
+
+<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="center"/>
+
+[https://insulae.hypotheses.org/333](https://insulae.hypotheses.org/)
+
+**Verantwortlich für den Inhalt / responsible for content:**
 
 [Monika Barget](https://github.com/MonikaBarget)
 
