@@ -20,11 +20,13 @@ a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TX
 
 b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_splitUPPERCASE.py)
 
-**Ausführliche Beschreibung des Worksflows / detailed workflow description**
-
 <img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="450" align="left"/>
 
-[Disambiguating people and places in dirty historical data](https://insulae.hypotheses.org/333)
+**Ausführliche Beschreibung des Worksflows / detailed workflow description**
+
+[Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
+
+
 
 **Verantwortlich für den Inhalt / responsible for content:**
 
