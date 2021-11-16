@@ -7,12 +7,16 @@ import nltk # NLP package
 
 # path of input file
 
-infile="C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Universitätsmatrikeln\\#####.txt"
+infile="C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Universitätsmatrikeln\\students_hashtags_corr9_source-added.txt"
 
-# define output list for all identified place names
+# define output list for all identified place names and tokens to exclude
 
 origin_list=[]
-
+exclude_list=["get", "erhält", "*", "+", "V", "=", "hat", "oo", "-", "phil", "theol",
+              "Bittet", "bittet", "mag", "stud", ".", "Mag", "bac", "bacc", "Bacc", 
+              "Dr.", "paup.", "paup", "Pfr", "log", "lic", "Lic."] # titles and biographic info not to be read as place
+delimiters=[".", "/", "-"]
+regexPattern='|'.join(map(re.escape, delimiters))
 count=-1
 
 # open and read file
@@ -44,8 +48,40 @@ with open(infile, 'r', encoding="utf-8") as file1:
             
 # find places of origin            
         try:
-            origin=first_tokens[:2] # place of origin is most likely first TWO tokens in first event
-            origin_list.append(origin) # write all presumed places to one list to clean manually
+            one_token=first_tokens[0] # place of origin is most likely FIRST token in first event
+            second_token=first_tokens[1] # get 2nd token
+            digit1=re.split(regexPattern, one_token)[0] # handle date variants in first token
+            digit2=re.split(regexPattern, second_token)[0] # handle date variants in second token
+            four_tokens=first_tokens[:4] # place of origin is most likely first FOUR tokens in first event
+             
+# check validity of 1st token 
+            
+            if one_token.isdigit():
+                print("EXCLUDE NUMBER:", one_token)
+                continue
+            if one_token in exclude_list:
+                print("EXCLUDE INFO:", one_token)
+                continue 
+            if digit1.isdigit():
+                print("EXCLUDE NUMBER:", one_token)
+                continue
+            else:    
+                
+# check validity of 2nd token
+                if second_token in exclude_list:
+                    print("EXCLUDE INFO:", second_token)
+                    origin_list.append(one_token)
+                    continue
+                if second_token.isdigit():
+                    print("EXCLUDE NUMBER:", second_token)
+                    origin_list.append(one_token)
+                    continue
+                if digit2.isdigit():
+                    print("EXCLUDE NUMBER:", second_token)
+                    origin_list.append(one_token)
+                    continue
+                else:
+                    origin_list.append(four_tokens)
         except:
             pass
                             
@@ -53,5 +89,6 @@ with open(infile, 'r', encoding="utf-8") as file1:
 
 for o in origin_list:
     print(o) # write each entry to new row
+
 
         
