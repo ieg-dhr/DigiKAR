@@ -12,8 +12,7 @@ infile="C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Universitätsmat
 # define output list for all identified place names
 
 origin_list=[]
-person_list=[]
-result_list
+
 count=-1
 
 # open and read file
