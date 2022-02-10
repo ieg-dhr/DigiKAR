@@ -1,4 +1,4 @@
-# Data structure in the Mainz work package**
+# Data structure in the Mainz work package
 
 1) **Table design in EXCEL for collecting biographic data**
 
