@@ -1,3 +1,8 @@
+**Tagging system for metadata of historic maps,
+initial categories chosen by Sarah Büttner (student assistant) in 2021,
+to be updated and refined**
+
+
 | TAGS   used for historic maps from Mainz: | Description of how tags were used:                                                                                                                                                                                                                                         |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | digCoScan                                 | digital copy scan: A digital copy of a map created by scanning the original map without noteworthy post-processing.                                                                                                                                                        |
