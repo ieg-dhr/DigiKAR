@@ -8,13 +8,27 @@
 
 **1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables**
 
-a) [XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py) 
+a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien / simple analysis of table columns with identical labels from several EXCEL files:*[XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py) 
 
-b) [XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
+**Use cases:**
 
 - Identifikation von Zeitverläufen in Datensätzen / identifying chonologies in data sets
-- Datenvergleich / data comparison
+- Datenvergleich / data comparison 
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
+
+* Output-Beispiel für das obige Skript / sample output for the above-mentioned script:*
+[XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
+
+b) *Skript für die Identifikation biographischer Ereignisse pro Person und ihre Sortierung nach Ereignis-Wert und Zeit / script for identifying biographic events per person and sorting them by event-value and date:* https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py
+
+**Use case:**
+
+- experimentelle Rekonstruktion biographischer Abfolgen in Fällen, in denen viele Lebensereignissen keine oder nur vage Datierungen haben / experimental reconstruction of biographic chronologies in cases where a lot of events have no or vague dating
+- Errechnung möglicher Ereigniszeiträume auf Basis vorausgehender oder nachfolgender Ereignisse / calculation of possible event time frames based on previous or following events
+
+Die derzeitige Sortierung der Daten im Skript ist vier-stufig und beginnt mit der Ereignisklassifikation. Dies kann entsprechend im Code geändert werden. / The current sorting is four-fold and starts with the event classification. This can be adjusted in the code.
+
+```res_sorted=res_df.sort_values(by =['event_value','event_after-date','event_start','event_before-date',])``` 
 
 c) *Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL Dateien / advanced script to query several columns across several spreadsheets based on user input:* https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py
 
