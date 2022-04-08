@@ -16,7 +16,7 @@ b) [XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blo
 - Datenvergleich / data comparison
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
 
-c) Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL Dateien / advanced script to query several columns across several spreadsheets based on user input:
+c) Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL Dateien / advanced script to query several columns across several spreadsheets based on user input: https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py
 
 - Aus dem Standard-Ordner DigiKAR_DATEN\\Python\\InputLists werden alle dort abgelegten EXCEL-Dateien (in Factoid-Struktur) in einen gemeinsamen Dataframe gelesen. / Files from directory DigiKAR_DATEN\\Python\\InputLists are read to a single dataframe.
 
