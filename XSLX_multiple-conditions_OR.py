@@ -4,6 +4,7 @@
 # with kind support by https://stackoverflow.com/users/8479387/tlentali
 
 # USE CASES: flexibly matching conditions across EXCEL columns
+# check documentation for detailed description of script performance
 
 import csv
 import pandas as pd
@@ -123,6 +124,10 @@ except ValueError:
 
 
 ### STEP 3: RUN QUERY BASED ON TIME CONDITIONS
+
+
+result_df1=pd.DataFrame()
+result_df2=pd.DataFrame()
 
 ## CASE 0: NO TIME SELECTED
 
@@ -357,7 +362,7 @@ try:
     result_df2 = pd.DataFrame(result_array)
     result_df=pd.concat([result_df1, result_df2], axis=1, ignore_index=False, sort=False)
     
-    print("Elements found: ", result_df[6]) # only show names
+    #print("Elements found: ", result_df[4]) # optional für data cleaning
   
     # save to xlsx file
 
