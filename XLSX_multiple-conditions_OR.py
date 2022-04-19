@@ -5,6 +5,7 @@
 
 # USE CASES: flexibly matching conditions across EXCEL columns
 # check documentation for detailed description of script performance
+# integration into GUI in progress
 
 import csv
 import pandas as pd
