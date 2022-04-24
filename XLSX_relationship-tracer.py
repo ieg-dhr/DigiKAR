@@ -75,6 +75,7 @@ qr=["Ehefrau: ",
     "Schwiegervater: ", 
     "Großmutter: ", 
     "Großvater: ",
+    "Gv:",
     "Cousin: ",
     "Cousine: ",
     "Adoptivvater: ",
@@ -88,37 +89,62 @@ qr=["Ehefrau: ",
 print("\n\nYour factoid list contains", len(pers_f), "entries.") # count data in selected column
 
 for i in [item for sublist in pers_unique_list for item in sublist]: # count person occurrences
-    print("\n", i, " / ", "Häufigkeit:", pers_list_flat.count(i), "\n") # print name and occurrences
+    #print("\n", i, " / ", "Häufigkeit:", pers_list_flat.count(i), "\n") # print name and occurrences
 
 ### STEP 2: ITERATE THROUGH UNIQUE PERSONS TO FIND RLEATIONSHIPS
 
-    df_new=(f.loc[f['pers_name'] == i])
-    
+    df_new=f.loc[f['pers_name'] == i]
+    #print(df_new)
     try:
-        for q in qr:
-            condlist = [df_new['rel_pers'].str.contains(q, na=False)]
-            choicelist = [df_new['rel_pers']]
+        condlist = [df_new['rel_pers'].notnull()]
+        choicelist = [df_new['rel_pers']]
 
-            output_list = np.select(condlist, choicelist).tolist()
-            unique_output = set(output_list)
-            for u in unique_output:
+        output_list = np.select(condlist, choicelist).tolist()
+        unique_out_set = set(output_list) # convert to set to remove duplicates
+        unique_out_list = list(unique_out_set)
+        #print(unique_out_list)
+        #print(len(unique_out_list))
+        for u in unique_out_list:
+            if u == 0:
+                continue
+            else:
                 results=u.split(" / ")
-                #print(results)
-                # print(type(results))            
                 for r in results:
-                    person=r.split("$", 1)
-                    pers_res=person[0].split(":")
-                    function=pers_res[0]
-                    name_ident=pers_res[1]
+                    #print(r)
+                    #print(type(r))
+                    try:
+                        person=r.split(" $ ", 1)
+                    except:
+                        person=r
+
+                    try:
+                        pers_res=person[0].split(":")
+                        function=pers_res[0]
+                        name_ident=pers_res[1]
+                    except:
+                        pers_res=person[0]
+                        function=pers_res[0]
+                        name_ident=pers_res[1]
                     try:
                         name=name_ident.split("#")[0]
                         ident=name_ident.split("#")[1]
                     except:
                         name=name_ident
                         ident=("none")
+                    else:
+                        person=r.split(" $ ", 1)
+                        pers_res=person[0]
+                        function="unknown"
+                        name_ident=pers_res[0]
+                        try:
+                            name=name_ident.split("#")[0]
+                            ident=name_ident.split("#")[1]
+                        except:
+                            name=name_ident
+                            ident=("none")
 
-                    name_list.append([i, function, name, ident])
-                    
+                name_list.append([i, function, name, ident])
+
     except AttributeError:
         pass
         
