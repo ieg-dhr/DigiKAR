@@ -46,7 +46,7 @@ column_names = ["factoid_ID",
 frame_list=[]
 for item in os.listdir(filenames):
     file = os.path.join(filenames, item)
-    df = pd.read_excel(file, sheet_name='FactoidList', axis=1, ignore_index=False, sort=False)
+    df = pd.read_excel(file, sheet_name='FactoidList', axis=1, ignore_index=False, sort=False, encoding="utf-8")
     frame_list.append(df)
 
 f = pd.concat(frame_list, axis=0, ignore_index=False, sort=False)
@@ -73,9 +73,16 @@ qr=["Ehefrau: ",
     "Schwester: ", 
     "Schwiegermutter: ", 
     "Schwiegervater: ", 
+    "Schwiegertochter: ", 
+    "Schwiegersohn: ",
+    "Schwager: ", 
+    "Schwägerin: ",
     "Großmutter: ", 
     "Großvater: ",
-    "Gv:",
+    "GVm: ",
+    "GVv: ",
+    "GMm: ",
+    "GMv: ",
     "Cousin: ",
     "Cousine: ",
     "Adoptivvater: ",
@@ -89,12 +96,12 @@ qr=["Ehefrau: ",
 print("\n\nYour factoid list contains", len(pers_f), "entries.") # count data in selected column
 
 for i in [item for sublist in pers_unique_list for item in sublist]: # count person occurrences
-    #print("\n", i, " / ", "Häufigkeit:", pers_list_flat.count(i), "\n") # print name and occurrences
+    print("\n", i, " / ", "Häufigkeit:", pers_list_flat.count(i), "\n") # print name and occurrences
 
 ### STEP 2: ITERATE THROUGH UNIQUE PERSONS TO FIND RLEATIONSHIPS
 
     df_new=f.loc[f['pers_name'] == i]
-    #print(df_new)
+    print("There are", len(df_new), " entries associated with this name.")
     try:
         condlist = [df_new['rel_pers'].notnull()]
         choicelist = [df_new['rel_pers']]
@@ -108,42 +115,38 @@ for i in [item for sublist in pers_unique_list for item in sublist]: # count per
             if u == 0:
                 continue
             else:
-                results=u.split(" / ")
+                try:
+                    results=u.split("/")
+                except:
+                    results=u
                 for r in results:
-                    #print(r)
+                    print(r)
                     #print(type(r))
-                    try:
-                        person=r.split(" $ ", 1)
-                    except:
-                        person=r
-
-                    try:
-                        pers_res=person[0].split(":")
-                        function=pers_res[0]
-                        name_ident=pers_res[1]
-                    except:
-                        pers_res=person[0]
-                        function=pers_res[0]
-                        name_ident=pers_res[1]
-                    try:
-                        name=name_ident.split("#")[0]
-                        ident=name_ident.split("#")[1]
-                    except:
-                        name=name_ident
-                        ident=("none")
+                    if "$" in r:
+                        pers_inf=r.split("$", 1)
+                        print("COMPLETE PERSON:", pers_inf)
+                        person=pers_inf[0]
+                        info=pers_inf[1]
                     else:
-                        person=r.split(" $ ", 1)
-                        pers_res=person[0]
+                        person=r
+                        info=("none")
+                    print("PERSON:", person, "INFO:", info)    
+                    try:
+                        pers_res=person.split(":", 1)
+                        function=pers_res[0]
+                        name_ident=pers_res[1]
+                    except:
+                        pers_res=person
                         function="unknown"
                         name_ident=pers_res[0]
-                        try:
-                            name=name_ident.split("#")[0]
-                            ident=name_ident.split("#")[1]
-                        except:
-                            name=name_ident
-                            ident=("none")
+                    if "#" in name_ident:
+                        name=name_ident.split("#")[0]
+                        ident=name_ident.split("#")[1]
+                    else:
+                        name=name_ident
+                        ident=("none")
 
-                name_list.append([i, function, name, ident])
+                    name_list.append([i, function, name, ident, info])
 
     except AttributeError:
         pass
@@ -151,6 +154,7 @@ for i in [item for sublist in pers_unique_list for item in sublist]: # count per
 ### STEP 3: SAVE TO NEW FILE
 
 print(name_list)
+print(len(name_list))
 
 df = pd.DataFrame(name_list)
 
@@ -160,5 +164,4 @@ res_file=os.path.join(resultpath, res_filename + ".xlsx")
 
 df.to_excel(res_file, index=True)
     
-print("Done.") 
-    
+print("Done.")
