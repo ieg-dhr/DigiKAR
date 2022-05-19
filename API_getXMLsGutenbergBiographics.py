@@ -23,22 +23,14 @@ def getHTMLdocument(url):
     # response will be provided in JSON format
     return response1.text
 
-# open new browser session
-
-option = webdriver.ChromeOptions()
-driver = webdriver.Chrome(executable_path='C:\\Users\\mobarget\\Downloads\\chromedriver_win32\\chromedriver.exe', options=option)
-driver.maximize_window()
-
 # Navigate to the application home page
-
-page=driver.get(gutenberg_url)
 
 html_document = getHTMLdocument(gutenberg_url)
 soup = BeautifulSoup(html_document, 'xml')
 
 # Find links for all XML files
 
-links = soup.find_all('resource') # accessing XML tag where gender info is stored
+links = soup.find_all('resource')
 
 # create counter to number files
 
@@ -69,6 +61,3 @@ for lnk in links:
         print("File no.", counter, "downloaded!")
                     
 print("Done")
-
-# close the browser window
-driver.quit()
