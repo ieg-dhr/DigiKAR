@@ -6,7 +6,6 @@ import urllib.request
 import os
 from bs4 import BeautifulSoup
 import bs4.builder._lxml
-from xml.etree.ElementTree import XML, fromstring
 
 # URL to be called
 
