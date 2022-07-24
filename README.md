@@ -1,3 +1,3 @@
 # DigiKAR
 
-scripts for managing spatial and biographic data in the DigiKAR project
+scripts & tutorials for managing spatial and biographic data in the DigiKAR project
