@@ -7,8 +7,8 @@
 <hr>
 
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables</a><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/TXT.html"></a>2) Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files<br>
-<a href="https://ieg-dhr.github.io/DigiKAR/XML.html"></a>3) Reading XML data ...<br>
+<a href="https://ieg-dhr.github.io/DigiKAR/TXT.html">2) Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/XML.html">3) Reading XML data ...</a><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">Projektbezogene Links / project-related links</a>
 
 <hr>
