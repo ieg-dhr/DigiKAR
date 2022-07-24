@@ -1,4 +1,4 @@
-<img src="./main/DigiKAR_logo-small.png" alt="logo" width="200" style="padding=10px" align="left"/>
+<img src="./assets/DigiKAR_logo-small.png" alt="logo" width="200" style="padding=10px" align="left"/>
 
 # DigiKAR
 
