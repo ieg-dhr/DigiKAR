@@ -1,6 +1,8 @@
 **1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables**
 
-a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien / simple analysis of table columns with identical labels from several EXCEL files:*[XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py) 
+a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien / simple analysis of table columns with identical labels from several EXCEL files:*
+
+<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a> 
 
 **Use cases:**
 
@@ -9,9 +11,12 @@ a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien / 
 - Datenbereinigung und Datennormalisierung / data cleanign and data normalisation
 
 * Output-Beispiel für das obige Skript / sample output for the above-mentioned script:*
-[XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
 
-b) *Skript für die Identifikation biographischer Ereignisse pro Person und ihre Sortierung nach Ereignis-Wert und Zeit / script for identifying biographic events per person and sorting them by event-value and date:* https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py
+<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md">XLSX_multiple-files_sample-output.md</a> 
+
+b) *Skript für die Identifikation biographischer Ereignisse pro Person und ihre Sortierung nach Ereignis-Wert und Zeit / script for identifying biographic events per person and sorting them by event-value and date:* 
+
+<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py">XLSX_select-and-sort-events.py</a> 
 
 **Use case:**
 
@@ -36,10 +41,4 @@ c) *Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL D
 
 - Das Zeit-Management verarbeitet sowohl "YYYY" als auch "YYYY-MM" und "YYYY-MM-DD" Eingaben verarbeitet, und das Skript berücksichtigt z.B. bei der Suche nach "before" und "after" auch die entsprechenden "before" und "after" Spalten. / Time management handles "YYYY" as well as "YYYY-MM" and "YYYY-MM-DD" inputs. Searching for dates before and after input date, the "before" and "after" columns in the original spreadsheet are consider alongside start and end dates.
 
-c) *Erweiterte Skripe in Bearbeitung / advanced scripts in progress:*
 
-- "BIOGRAPHY TRACING": select person by ID, match name variants, find all life events recorded, narrow down events by time limits if necessary, put events in chronological order
-- "DISAMBIGUATION": script to compare similar names of people and places and assign unique IDs (human intervention necessary), e.g. using Python's fuzzy wuzzy package.
-- "SPATIAL EVOLUTION": extracts events coinciding in specific places, reconstruct political / cultural role of places through human agency
-
-<hr>
