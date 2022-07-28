@@ -31,7 +31,7 @@
 
  <table width="100%>
   <tr>
-    <td><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px"/></td>
+    <td><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding="10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></td>
   </tr>
   <tr>
