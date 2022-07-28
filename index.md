@@ -7,7 +7,7 @@
 <p>FR</p>
 
 <hr>
-<p align="justify">
+<p align="justify" align="center">
 <img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br>
 <img src="./assets/txt.png" alt="drawing" width="40" style="padding=10px" align="left"/>
@@ -20,7 +20,7 @@
 
 <hr>
 
-<p align="justify">
+<p align="justify" align="center">
 <img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br>
 <img src="./assets/txt.png" alt="drawing" width="40" style="padding=10px" align="left"/>
