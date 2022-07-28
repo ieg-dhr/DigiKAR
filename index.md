@@ -1,4 +1,4 @@
-<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="200" style="padding=10px" align="left"/>
+<img src="./assets/DigiKAR_logo-small.png" alt="drawing" width="200" style="padding=10px" align="left"/>
 
 <h2>DigiKAR</h2>
 
@@ -31,7 +31,7 @@
 
  <table width="100%>
   <tr>
-    <td><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding="10px"/></td>
+    <td><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></td>
   </tr>
   <tr>
@@ -47,14 +47,3 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">Project-related links</a></td>
   </tr>
 </table> 
-
-
-
-
-
-
-
-
-
-
-
