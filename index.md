@@ -4,6 +4,7 @@
 
 <p>Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt</p>
 <p>Scripts for managing spatial and biographic data in the DigiKAR project</p>
+<p>FR</p>
 
 <hr>
 <p align="justify">
