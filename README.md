@@ -10,8 +10,8 @@
 
  <table width="100%">
   <tr>
-    <th><img src="./links.png" alt="drawing" width="150" style="padding=10px"/></th>
-    <th><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></th>
+    <td><img src="./links.png" alt="drawing" width="150" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></td>
   </tr>
   <tr>
     <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
@@ -31,8 +31,8 @@
 
  <table width="100%>
   <tr>
-    <th><img src="./links.png" alt="drawing" width="150" style="padding=10px"/></th>
-    <th><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></th>
+    <td><img src="./links.png" alt="drawing" width="150" style="padding=10px"/></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></td>
   </tr>
   <tr>
     <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
