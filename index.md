@@ -8,7 +8,7 @@
 
 <hr>
 
- <table>
+ <table width="100%">
   <tr>
     <th><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px"/></th>
     <th><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></th>
@@ -29,7 +29,7 @@
 
 <hr>
 
- <table>
+ <table width="100%>
   <tr>
     <th><img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px"/></th>
     <th><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></th>
