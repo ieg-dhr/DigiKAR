@@ -10,11 +10,11 @@
 <p align="justify">
 <img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br>
-<img src="./assets/txt.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/txt.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/TXT.html">2) Extrahieren strukturierter Informationen aus TXT Dateien</a><br><br>
-<img src="./assets/html_xml.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/html_xml.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/XML.html">3) Auslesen von Daten aus HTML und XML (via API)</a><br><br>
-<img src="./assets/links.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/links.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">Projektbezogene Links</a>
 </p>
 
@@ -23,11 +23,11 @@
 <p align="justify">
 <img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br>
-<img src="./assets/txt.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/txt.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/TXT.html">2) Extracting structured information from TXT files</a><br><br>
-<img src="./assets/html_xml.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/html_xml.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/XML.html">3) Reading data from HTML and XML (via API)</a><br><br>
-<img src="./assets/links.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/links.png" alt="drawing" width="40" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">Project-related links</a>
 
 
