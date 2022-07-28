@@ -7,7 +7,7 @@
 
 <hr>
 
-<img src="./assets/excel_CSV.png" alt="drawing" width="50" style="padding=10px" align="left"/>
+<img src="./assets/excel_CSV.png" alt="drawing" width="150" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen / data retrieval from several CSV/EXCEL tables</a><br>
 <img src="./assets/txt.png" alt="drawing" width="50" style="padding=10px" align="left"/>
 <a href="https://ieg-dhr.github.io/DigiKAR/TXT.html">2) Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files</a><br>
