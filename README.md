@@ -10,7 +10,7 @@
 
  <table width="100%">
   <tr>
-    <td><img src="./links.png" alt="drawing" width="150" style="padding=10px"/></td>
+    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_de.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_en.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></td>
   </tr>
