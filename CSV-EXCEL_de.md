@@ -4,7 +4,7 @@ a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien:*
 
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a> 
 
-**Use cases:**
+**Anwendungsfälle:**
 
 - Identifikation von Zeitverläufen in Datensätzen
 - Datenvergleich
@@ -18,7 +18,7 @@ b) *Skript für die Identifikation biographischer Ereignisse pro Person und ihre
 
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py">XLSX_select-and-sort-events.py</a> 
 
-**Use case:**
+**Anwendungsfälle:**
 
 - experimentelle Rekonstruktion biographischer Abfolgen in Fällen, in denen viele Lebensereignissen keine oder nur vage Datierungen haben
 - Errechnung möglicher Ereigniszeiträume auf Basis vorausgehender oder nachfolgender Ereignisse
@@ -32,7 +32,7 @@ c) *Relationship Tracer:*
 
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py">XSLX_relationship-tracer.py</a>
 
-*Anwendungsfälle:*
+**Anwendungsfälle:**
 
 - Konsolidierung genealogischer Informationen aus der Spalte <code>rel_pers</code> in Factoid-Listen
 - Rekonstruktion von Geschwisterbeziehungen basierend auf bekannten Eltern-Kind-Verbindungen
