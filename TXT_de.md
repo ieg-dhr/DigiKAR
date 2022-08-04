@@ -1,18 +1,17 @@
-**2) Extrahieren strukturierter Informationen aus TXT Dateien / extracting structured information from TXT files**
+**2) Extrahieren strukturierter Informationen aus TXT Dateien**
 
 a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py) 
 
-- Trennzeichen nach "regular expression" in Text einfügen / adding delimiters to text based on regular expression
-- Vorbereitung des Texts für Aufteilung in einzelne Abschnitte / preparing text for splitting into individual sections
+- Trennzeichen nach "regular expression" in Text einfügen
+- Vorbereitung des Texts für Aufteilung in einzelne Abschnitte
 
 b) [TXT_splitUPPERCASE.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_splitUPPERCASE.py)
 
-- Identifizierung von Personeneinträgen durch Großschreibung der Namen / identifiying person entries based on uppercase characters in names
+- Identifizierung von Personeneinträgen durch Großschreibung der Namen
 
 c) [UniversityRecordsMainz_identifyPLACEofORIGIN.py](https://github.com/ieg-dhr/DigiKAR/blob/main/UniversityRecordsMainz_identifyPLACEofORIGIN.py)
 
-- Identifizierung der Herkunftsorte aufgrund der Tokenposition im Text / identifying places of origin according to token position in text
-- Beispielergebnis des Skripts für die Mainzer Universitätsmatrikel / sample output of script for the Mainz university records: 
-
+- Identifizierung der Herkunftsorte aufgrund der Tokenposition im Text
+- Beispielergebnis des Skripts für die Mainzer Universitätsmatrikel:
 [UniversityRecordsMainz_output_place-names.txt](https://github.com/ieg-dhr/DigiKAR/blob/main/UniversityRecordsMainz_output_place-names.txt)
 
