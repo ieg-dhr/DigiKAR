@@ -10,7 +10,7 @@ a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien:*
 - Datenvergleich
 - Datenbereinigung und Datennormalisierung
 
-* Output-Beispiel für das obige Skript:*
+*Output-Beispiel für das obige Skript:*
 
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md">XLSX_multiple-files_sample-output.md</a> 
 
