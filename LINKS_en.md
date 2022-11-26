@@ -8,6 +8,12 @@ The following blog post describes the application of the above-mentioned scripts
 
 <hr>
 
+**Publications by DigiKAR team members:**
+
+[DigiKAR Output on ZOTERO](https://www.zotero.org/groups/4725161/digikar_output/library)
+
+<hr>
+
 **Responsible for content:**
 
 [Monika Barget](https://github.com/MonikaBarget)
