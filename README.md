@@ -42,15 +42,15 @@
 
 <hr>
 
-**Ausführliche Beschreibung des Worksflows / detailed workflow description**
+**Ausführliche Beschreibung des Worksflows / detailed workflow description / description détaillée du flux de travail**
 
-Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz": / The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package:
+Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz": / The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package: / Le billet de blog suivant décrit l'application des scripts susmentionnés dans le paquet de travail "Kurmainz":
 
 [Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
 
 <hr>
 
-**Verantwortlich für den Inhalt / responsible for content:**
+**Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
 
 [Monika Barget](https://github.com/MonikaBarget)
 
