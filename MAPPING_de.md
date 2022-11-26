@@ -21,5 +21,5 @@
 |Berufung                 |Vokation         |
 
 <p>In diesem Beispiel steht "event_name" für die Bezeichnung in der Eingabedatei, die ersetzt werden soll. Die neue Bezeichnung steht in "event_type".
-Diese Beziehung zwischen den Daten wird in zwei Spalten einer CSV-Datei dargestellt, die vom Skript gelesen werden.</p>
+Diese Beziehung zwischen den Daten wird in zwei Spalten einer CSV-Datei dargestellt, die das Skript Eintrag für Eintrag auswertet.</p>
 
