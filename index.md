@@ -57,8 +57,6 @@ Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im A
 
 **Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
 
-[Monika Barget](https://github.com/MonikaBarget)
-
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
 
 Leibniz-Institut für Europäische Geschichte (IEG) 
