@@ -43,7 +43,7 @@
 
 <hr>
 
-<p><strong>DE: </strong>Der folgenden Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":</p>
+<p><strong>DE: </strong>Der folgende Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":</p>
 <p><strong>EN: </strong>The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:</p>
 <p><strong>FR: </strong>Le billet suivant décrit l'application de quelques scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
 
