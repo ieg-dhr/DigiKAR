@@ -21,4 +21,4 @@
 |Berufung                 |Vokation         |
 
 <p align="justify">Dans cet exemple, "event_name" est le nom dans le fichier d'entrée qui doit être remplacé. Le nouveau nom se trouve dans "event_type". 
-  Cette relation entre les données est représentée dans deux colonnes du fichier CSV, qui sont lues par le script.</p>
+  Cette relation entre les données est représentée dans deux colonnes du fichier CSV. Le script lit le fichier CSV dans un <em>dataframe</em> et analyse les éléments de "event_name" les uns après les autres.</p>
