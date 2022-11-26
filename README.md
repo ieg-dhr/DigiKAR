@@ -30,7 +30,6 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR/WHG_fr.html">4) Préparation des données spatiales pour le World Historical Gazetteer</a><br><br></td>
   </tr>
   <tr>
-    <td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
