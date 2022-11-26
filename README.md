@@ -32,7 +32,7 @@
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/Mapping_de.html">5) Ersetzen von Daten basierend auf Ontologielisten</a></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/Mapping_en.html">5) Data replacement based on ontology lists</a><br><br></td>
-    <td>5) Remplacement de données basé sur des listes d'ontologies: veuillez consulter la version allemande ou anglaise</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/Mapping_fr.html">5) Remplacement de données basé sur des listes d'ontologies: veuillez consulter la version allemande ou anglaise</a><br><br></td>
   </tr>
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
@@ -47,9 +47,9 @@
 
 <hr>
 
-**Ausführliche Beschreibung des Worksflows / detailed workflow description / description détaillée du processus de travail**
-
-Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz": / The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package: / Le billet de blog suivant décrit l'application des scripts susmentionnés dans le paquet de travail "Kurmainz":
+<p>Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz":</p>
+<p>The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package:</p>
+<p>Le billet de blog suivant décrit l'application des scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
 
 [Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
 
@@ -57,15 +57,13 @@ Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im A
 
 **Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
 
-[Monika Barget](https://github.com/MonikaBarget)
-
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
 
 Leibniz-Institut für Europäische Geschichte (IEG) 
 Alte Universitätsstraße 19 
 55116 Mainz 
 
-[DigiKAR on Twitter](https://twitter.com/digi_KAR)
+[DigiKAR @ Twitter](https://twitter.com/digi_KAR)
 
 
 
