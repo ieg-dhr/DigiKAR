@@ -1,4 +1,4 @@
-<img src="./DigiKAR_logo-small.png" alt="drawing" width="180" style="padding=10px" align="left"/>
+<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="drawing" width="180" style="padding=10px" align="left"/>
 
 <h2>DigiKAR</h2>
 
