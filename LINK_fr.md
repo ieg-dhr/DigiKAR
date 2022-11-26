@@ -8,6 +8,12 @@ Le billet de blog suivant décrit l'application des scripts susmentionnés dans 
 
 <hr>
 
+**Publications de l'équipe DigiKAR:**
+
+[DigiKAR Output on ZOTERO](https://www.zotero.org/groups/4725161/digikar_output/library)
+
+<hr>
+
 **Responsable du contenu:**
 
 [Monika Barget](https://github.com/MonikaBarget)
