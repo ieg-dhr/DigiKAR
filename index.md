@@ -35,9 +35,9 @@
     <td>5) Remplacement de données basé sur des listes d'ontologies: veuillez consulter la version allemande ou anglaise</a><br><br></td>
   </tr>
   <tr>
-    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
-    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
-    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
+    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
+    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
+    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
   </tr>
 </table> 
 
