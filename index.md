@@ -51,16 +51,6 @@ Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im A
 
 <hr>
 
-**Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
-
-*Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
-
-Leibniz-Institut für Europäische Geschichte (IEG) 
-Alte Universitätsstraße 19 
-55116 Mainz 
-
-[DigiKAR @ Twitter](https://twitter.com/digi_KAR)
-
 
 
 
