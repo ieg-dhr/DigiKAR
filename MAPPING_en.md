@@ -12,6 +12,13 @@
 
 <h3>Example for data mapping</h3>
 
+|event_name               |event_type       |
+|-------------------------|-----------------|
+|Akademische Laufbahn     |Funktionsausübung|
+|Aufnahme in eine Fakultät|Rezeption        |
+|Auslandsaufenthalt       |Reise            |
+|Berufliche Tätigkeit     |Funktionsausübung|
+|Berufung                 |Vokation         |
 
 <p>In this example, "event_name" is the term in the input file that is to be replaced. The new term is in "event_type".</p>
 
