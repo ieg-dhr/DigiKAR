@@ -45,7 +45,9 @@
 
 **Ausführliche Beschreibung des Worksflows / detailed workflow description / description détaillée du processus de travail**
 
-Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz": / The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package: / Le billet de blog suivant décrit l'application des scripts susmentionnés dans le paquet de travail "Kurmainz":
+<p>Der folgenden Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":</p>
+<p>The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:</p>
+<p>Le billet suivant décrit l'application de quelques scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
 
 [Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
 
