@@ -35,15 +35,11 @@
     <td>5) Remplacement de données basé sur des listes d'ontologies: veuillez consulter la version allemande ou anglaise</a><br><br></td>
   </tr>
   <tr>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
+    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
+    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
+    <td><td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/></td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
   </tr>
 </table> 
-
-<hr>
-
-<td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
 
 <hr>
 
@@ -63,7 +59,7 @@ Leibniz-Institut für Europäische Geschichte (IEG)
 Alte Universitätsstraße 19 
 55116 Mainz 
 
-[DigiKAR on Twitter](https://twitter.com/digi_KAR)
+[DigiKAR @ Twitter](https://twitter.com/digi_KAR)
 
 
 
