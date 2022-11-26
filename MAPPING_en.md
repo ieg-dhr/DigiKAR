@@ -20,5 +20,6 @@
 |Berufliche Tätigkeit     |Funktionsausübung|
 |Berufung                 |Vokation         |
 
-<p>In this example, "event_name" is the term in the input file that is to be replaced. The new term is in "event_type".</p>
+<p align="justify">In this example, "event_name" is the term in the input file that is to be replaced. The new term is in "event_type". 
+  This relationship between the data is represented in two columns of the CSV file, which are read by the script.</p>
 
