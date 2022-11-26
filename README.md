@@ -43,10 +43,6 @@
 
 <hr>
 
-<td><img src="./links.png" alt="drawing" width="40" style="padding=10px"/></td>
-
-<hr>
-
 **Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
 
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
