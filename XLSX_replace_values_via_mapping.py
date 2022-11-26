@@ -7,11 +7,9 @@ import csv
 import pandas as pd
 from pandas import DataFrame
 import numpy as np
-import pdftotext
 import os
-from collections import defaultdict
 
-CSV_FILE='C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Python\\InputLists\\event_mapping.csv' # sample file containing original keywords and mapping to final index words
+CSV_FILE='C:\\Users\\###\\event_mapping.csv' # sample file containing original keywords and mapping to final words
 
 with open(CSV_FILE, encoding="utf-8", errors="ignore") as f:
     data = pd.read_csv(f, sep=";")
@@ -19,7 +17,7 @@ with open(CSV_FILE, encoding="utf-8", errors="ignore") as f:
     events_new=data['event_type'].values
     func_new=data['pers_function'].values
     
-# open input files as dataframe and replace / add values
+# open input files as dataframe and replace or add values
 
 def extract_information(filenames):
         
@@ -51,9 +49,9 @@ def extract_information(filenames):
 # write all results to new EXCEL file
 
     workbook='C:\\Users\\###\\Profs_mapped.xlsx'
-    writer = pd.ExcelWriter(workbook, engine='xlsxwriter') # create a Pandas Excel writer using XlsxWriter as the engine.
-    f.to_excel(writer, sheet_name='Mapped') # Convert the dataframe to an XlsxWriter Excel object.
-    writer.save() # Close the Pandas Excel writer and output the Excel file.
+    writer = pd.ExcelWriter(workbook, engine='xlsxwriter') # create a Pandas Excel writer using XlsxWriter as engine
+    f.to_excel(writer, sheet_name='Mapped') # convert the dataframe to an XlsxWriter Excel object
+    writer.save() # close and save the Excel file
                    
 # iterate through all XLSX files in directoy        
 
