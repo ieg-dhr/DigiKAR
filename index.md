@@ -30,8 +30,8 @@
     <td>4) Préparation des données spatiales pour le World Historical Gazetteer: veuillez consulter la version allemande ou anglaise</a><br><br></td>
   </tr>
   <tr>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/Mapping_de.html">5) Ersetzen von Daten basierend auf Ontologielisten</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/Mapping_en.html">5) Data replacement based on ontology lists</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_de.html">5) Ersetzen von Daten basierend auf Ontologielisten</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_en.html">5) Data replacement based on ontology lists</a><br><br></td>
     <td>5) Remplacement de données basé sur des listes d'ontologies: veuillez consulter la version allemande ou anglaise</a><br><br></td>
   </tr>
   <tr>
