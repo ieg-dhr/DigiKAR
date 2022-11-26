@@ -4,8 +4,14 @@
 
 <h3>Use cases</h3>
 
-<ol>
+<ul>
   <li>Replace cell values in XSLX based on mapping in a separate CSV file</li>
   <li>Adding additional cell values in selected cases</li>
   <li> Data cleaning and normalisation</li>
-</ol>
+</ul>
+
+<h3>Example for data mapping</h3>
+
+
+<p>In this example, "event_name" is the term in the input file that is to be replaced. The new term is in "event_type".</p>
+
