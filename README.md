@@ -47,14 +47,6 @@
 
 <hr>
 
-<p>Der folgenden Blogpost beschreibt die Verwendung der oben genannten Skripte im Arbeitspaket "Kurmainz":</p>
-<p>The following blog post describes the application of the above-mentioned scripts in the "Kurmainz" work package:</p>
-<p>Le billet de blog suivant décrit l'application des scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
-
-[Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
-
-<hr>
-
 **Verantwortlich für den Inhalt / responsible for content / responsable du contenu:**
 
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
