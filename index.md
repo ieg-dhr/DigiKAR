@@ -43,8 +43,6 @@
 
 <hr>
 
-**Ausführliche Beschreibung des Worksflows / detailed workflow description / description détaillée du processus de travail**
-
 <p>Der folgenden Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":</p>
 <p>The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:</p>
 <p>Le billet suivant décrit l'application de quelques scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
