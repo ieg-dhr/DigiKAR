@@ -4,8 +4,21 @@
 
 <h3>Anwendungsfälle</h3>
 
-<ol>
+<ul>
   <li>Ersetzen von Zellwerten in XSLX basierend auf Mapping in einer separaten CSV Datei</li>
   <li>Ergänzen von Zellwerten in ausgewählten Fällen</li>
   <li>Datenbereinigung und Normalisierung</li>
-</ol>
+</ul>
+
+<h3>Beispiel für Datenmapping</h3>
+
+|event_name               |event_type       |
+|-------------------------|-----------------|
+|Akademische Laufbahn     |Funktionsausübung|
+|Aufnahme in eine Fakultät|Rezeption        |
+|Auslandsaufenthalt       |Reise            |
+|Berufliche Tätigkeit     |Funktionsausübung|
+|Berufung                 |Vokation         |
+
+<p>In diesem Beispiel steht "event_name" für die Bezeichnung in der Eingabedatei, die ersetzt werden soll. Die neue Bezeichnung steht in "event_type".</p>
+
