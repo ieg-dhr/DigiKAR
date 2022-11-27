@@ -1,6 +1,5 @@
-<img src="https://leibniz-ios.de/fileadmin/mediamanager/012_logos/Logo_DigiKAR.svg" alt="logo" width="150" style="padding:10px" align="left"/>
-
 <h2>DigiKAR</h2>
+<img src="https://leibniz-ios.de/fileadmin/mediamanager/012_logos/Logo_DigiKAR.svg" alt="logo" width="150" style="padding:10px" align="left"/>
 
 <p><strong>DE: </strong>Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt</p>
 <p><strong>EN: </strong>Scripts for managing spatial and biographic data in the DigiKAR project</p>
