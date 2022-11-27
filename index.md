@@ -1,4 +1,4 @@
-<img src="https://github.com/ieg-dhr/DigiKAR/blob/main/DigiKAR_logo-small.png" alt="logo" width="180" style="padding=10px" align="left"/>
+<img src="https://leibniz-ios.de/fileadmin/mediamanager/012_logos/Logo_DigiKAR.svg" alt="logo" width="180" style="padding=10px" align="left"/>
 
 <h2>DigiKAR</h2>
 
