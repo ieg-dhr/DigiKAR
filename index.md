@@ -47,6 +47,7 @@
 <p><strong>EN: </strong>The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:</p>
 <p><strong>FR: </strong>Le billet suivant décrit l'application de quelques scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
 
-[Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
+<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="250" align="left"/>
+<a href="https://insulae.hypotheses.org/333">Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021</a>
 
 <hr>
