@@ -1,6 +1,6 @@
-**Visit the DigiKAR website:**
+**Project information:**
 
-https://digikar.eu/
+[DigiKAR website](https://digikar.eu/)
 
 [DigiKAR on Twitter](https://twitter.com/digi_KAR)
 
@@ -16,7 +16,7 @@ https://digikar.eu/
 
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR)* 
 
-Leibniz-Institut für Europäische Geschichte (IEG) 
-Alte Universitätsstraße 19 
-55116 Mainz 
-Germany
+<p>Leibniz-Institut für Europäische Geschichte (IEG)<br> 
+Alte Universitätsstraße 19<br>
+55116 Mainz<br>
+Germany</p>
