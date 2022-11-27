@@ -1,6 +1,6 @@
-**Visitez le site web de DigiKAR:**
+**Informations sur le projet:**
 
-https://digikar.eu/
+[DigiKAR site web](https://digikar.eu/)
 
 [DigiKAR sur Twitter](https://twitter.com/digi_KAR)
 
@@ -14,7 +14,7 @@ https://digikar.eu/
 
 **Responsable du contenu:**
 
-*Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
+*Digitale Kartenwerkstatt Altes Reich (DigiKAR)* 
 
 Leibniz-Institut für Europäische Geschichte (IEG) 
 Alte Universitätsstraße 19 
