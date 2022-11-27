@@ -1,4 +1,4 @@
-**Visitez the DigiKAR website:**
+**Visit the DigiKAR website:**
 
 https://digikar.eu/
 
