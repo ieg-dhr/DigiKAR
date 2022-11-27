@@ -14,7 +14,7 @@ https://digikar.eu/
 
 **Responsible for content:**
 
-*Digitale Kartenwerkstatt Altes Reich (DigiKAR) – Daten & Transfer* 
+*Digitale Kartenwerkstatt Altes Reich (DigiKAR)* 
 
 Leibniz-Institut für Europäische Geschichte (IEG) 
 Alte Universitätsstraße 19 
