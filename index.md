@@ -1,4 +1,4 @@
-<img src="./main/DigiKAR_logo-small.png" alt="drawing" width="180" style="padding=10px" align="left"/>
+<img src="../main/DigiKAR_logo-small.png" alt="drawing" width="180" style="padding=10px" align="left"/>
 
 <h2>DigiKAR</h2>
 
