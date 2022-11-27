@@ -42,7 +42,7 @@
 </table> 
 
 <hr>
-<img src="https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png" alt="drawing" width="250" style="padding=10px" align="left"/>
+<img src="[https://insulae.hypotheses.org/files/2021/10/INSULAE_featured-images_biographic-data-980x450.png](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg)" alt="drawing" width="150" style="padding=10px" align="left"/>
 <p><strong>DE: </strong>Der folgende Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":<br>
 <strong>EN: </strong>The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:<br>
 <strong>FR: </strong>Le billet suivant décrit l'application de quelques scripts susmentionnés dans le paquet de travail "Kurmainz":</p>
