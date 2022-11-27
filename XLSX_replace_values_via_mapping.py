@@ -1,5 +1,5 @@
-# Script for replacing cell values in XSLX based on mapping
-# get new words from CSV file and replace old words
+# Script for replacing cell values in XLSX based on mapping
+# get new words from several CSV files and replace old words in XLSX files
 # written for the DigiKAR project by Monika Barget in November 2022
 
 import xlsxwriter
@@ -7,11 +7,9 @@ import csv
 import pandas as pd
 from pandas import DataFrame
 import numpy as np
-import pdftotext
 import os
-from collections import defaultdict
 
-# define file containing original terms and ontological mapping
+# define files containing ontological mapping
 
 event_ontology='C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Python\\InputLists\\event_ontology.csv' 
 title_ontology='C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Python\\InputLists\\title_ontology.csv' 
@@ -26,12 +24,12 @@ with open(event_ontology, encoding="utf-8", errors="ignore") as f_event:
     events_new=data_e['event_type'].values
     func_new=data_e['pers_function'].values
     
-#with open(title_ontology, encoding="utf-8", errors="ignore") as f_title:
+#with open(title_ontology, encoding="utf-8", errors="ignore") as f_title: # MAPPING NOT COMPLETE
     #data_t = pd.read_csv(f_title, sep=";")
     #title_old=data_t['title_old'].values
     #events_new=data_t['per_title'].values
 
-#with open(function_ontology, encoding="utf-8", errors="ignore") as f_function:
+#with open(function_ontology, encoding="utf-8", errors="ignore") as f_function: # MAPPING NOT COMPLETE
     #data_f = pd.read_csv(f_function, sep=";")
     #function_old=data_f['function_old'].values
     #function_new=data_f['pers_function'].values
@@ -106,7 +104,7 @@ def extract_information(filenames):
     f.to_excel(writer, sheet_name='Mapped2') # Convert the dataframe to an XlsxWriter Excel object.
     writer.save() # Close the Pandas Excel writer and output the Excel file.
                    
-# iterate through all XLSX files in directoy        
+# MAIN FUNCTION: iterate through all XLSX files in directoy        
 
 if __name__ == '__main__':
     filenames = "C:\\Users\\mobarget\\Documents\\Seafile\\DigiKAR_DATEN\\Python\\Results\\ProfEvents_MAPPING"
