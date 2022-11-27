@@ -16,7 +16,7 @@
 
 *Digitale Kartenwerkstatt Altes Reich (DigiKAR)* 
 
-Leibniz-Institut für Europäische Geschichte (IEG) 
-Alte Universitätsstraße 19 
-55116 Mainz 
-Allemagne
+<p>Leibniz-Institut für Europäische Geschichte (IEG)</p> 
+<p>Alte Universitätsstraße 19 </p>
+<p>55116 Mainz </p>
+<p>Allemagne</p>
