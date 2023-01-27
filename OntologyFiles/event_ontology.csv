@@ -1,44 +1,44 @@
-﻿event_old;event_type;pers_function;notes
-Akademische Laufbahn;Funktionsausübung;Akademiker;
-Aufnahme in eine Fakultät;Rezeption;Fakultätsmitglied;
-Auslandsaufenthalt;Reise;;
-Berufliche Tätigkeit;Funktionsausübung;;
-Berufung;Vokation;;
-birth;Geburt;;
-death;Tod;;
-Durchführung einer Studie;Funktionsausübung;Forscher;
-Eintritt in einen geistlichen Orden;Aufnahme;Ordensmitglied;
-Entlassung aus dem Staatsdienst;Entlassung;;
-Erhalt einer Auszeichnung;Auszeichnung;;
-Erhalt einer Präbende;Amtsantritt;Benefiziar;Ist das das richtige deutsche Wort für den Inhaber der Präbende?
-Erhalt eines Adelstitels;Nobilitierung;;
-Ernennung;Ernennung;;
-Flucht;Flucht;Flüchtling;
-Forschungsaufenthalt;Funktionsausübung;Forscher;
-Forschungsreise;Reise;Forscher;
-Gründung;Funktionsausübung;Gründer;
-Habilitation;Habilitation;;
-Heirat;Eheschließung;;
-Immatrikulation;Immatrikulation;;
-Konversion;Konversion;;
-Lehrtätigkeit;Funktionsausübung;Dozent;
-Lehrtätigkeit ;Funktionsausübung;Dozent;
-Lizenziat (juristisch);Funktionsausübung;Dozent;
-Lizenziat (kirchlich);Funktionsausübung;Dozent;
-Magisterprüfung;Graduation;Mag.;
-Mitgliedschaft;Mitgliedschaft;;
-Ordination;Ordination;;
-Pensionierung;Pension;;
-Politische Mitgliedschaft;Mitgliedschaft;Politischer Amtsträger;
-Promotion;Promotion;;
-Studium;Studium;Student;
-Teilnahme an Verhandlungen;Funktionsausübung;Verhandler;ODER: Gesandschaft?
-Übernahme einer Institutsleitung;Amtsantritt;Institutsleiter;
-Übernahme eines akademischen Amts;Amtsantritt;Akademiker;
-Übernahme eines Ehrenamts;Amtsantritt;Ehrenamtlicher;
-Übernahme eines geistlichen Amts;Amtsantritt;Geistlicher Amtsträger;
-Übernahme eines politischen Amts;Amtsantritt;Politischer Amtsträger;
-Verhaftung;Verhaftung;;
-Verleihung eines Ehrentitels;Verleihung eines Ehrentitels;;
-Vikariat;Funktionsausübung;Vikar;
-Wissenschaftliche Mitgliedschaft;Mitgliedschaft;Wissenschaftler;
+﻿event_old,event_type,pers_function,notes
+Akademische Laufbahn,Funktionsausübung,Akademiker,
+Aufnahme in eine Fakultät,Rezeption,Fakultätsmitglied,
+Auslandsaufenthalt,Reise,,
+Berufliche Tätigkeit,Funktionsausübung,,
+Berufung,Vokation,,
+birth,Geburt,,
+death,Tod,,
+Durchführung einer Studie,Funktionsausübung,Forscher,
+Eintritt in einen geistlichen Orden,Aufnahme,Ordensmitglied,
+Entlassung aus dem Staatsdienst,Entlassung,,
+Erhalt einer Auszeichnung,Auszeichnung,,
+Erhalt einer Präbende,Amtsantritt,Benefiziar,Ist das das richtige deutsche Wort für den Inhaber der Präbende?
+Erhalt eines Adelstitels,Nobilitierung,,
+Ernennung,Ernennung,,
+Flucht,Flucht,Flüchtling,
+Forschungsaufenthalt,Funktionsausübung,Forscher,
+Forschungsreise,Reise,Forscher,
+Gründung,Funktionsausübung,Gründer,
+Habilitation,Habilitation,,
+Heirat,Eheschließung,,
+Immatrikulation,Immatrikulation,,
+Konversion,Konversion,,
+Lehrtätigkeit,Funktionsausübung,Dozent,
+Lehrtätigkeit ,Funktionsausübung,Dozent,
+Lizenziat (juristisch),Funktionsausübung,Dozent,
+Lizenziat (kirchlich),Funktionsausübung,Dozent,
+Magisterprüfung,Graduation,Mag.,
+Mitgliedschaft,Mitgliedschaft,,
+Ordination,Ordination,,
+Pensionierung,Pension,,
+Politische Mitgliedschaft,Mitgliedschaft,Politischer Amtsträger,
+Promotion,Promotion,,
+Studium,Studium,Student,
+Teilnahme an Verhandlungen,Funktionsausübung,Verhandler,ODER: Gesandschaft?
+Übernahme einer Institutsleitung,Amtsantritt,Institutsleiter,
+Übernahme eines akademischen Amts,Amtsantritt,Akademiker,
+Übernahme eines Ehrenamts,Amtsantritt,Ehrenamtlicher,
+Übernahme eines geistlichen Amts,Amtsantritt,Geistlicher Amtsträger,
+Übernahme eines politischen Amts,Amtsantritt,Politischer Amtsträger,
+Verhaftung,Verhaftung,,
+Verleihung eines Ehrentitels,Verleihung eines Ehrentitels,,
+Vikariat,Funktionsausübung,Vikar,
+Wissenschaftliche Mitgliedschaft,Mitgliedschaft,Wissenschaftler,
