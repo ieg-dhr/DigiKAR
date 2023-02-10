@@ -1,88 +1,65 @@
-﻿event_old,event_type,pers_function,notes
- immatr., Immatrikulation, Student,
- *, Geburt, Kind,
- +, Tod, Toter,
-Akademische Laufbahn,Funktionsausübung,Akademiker,
-Aufnahme in eine Fakultät,Rezeption,Fakultätsmitglied,
-Auslandsaufenthalt,Reise,,
-Berufliche Tätigkeit,Funktionsausübung,,
-Berufung,Vokation,,
-birth,Geburt,Kind,
-death,Tod,Toter,
-Durchführung einer Studie,Funktionsausübung,Forscher,
-Eintritt in einen geistlichen Orden,Aufnahme,Ordensmitglied,
-Entlassung aus dem Staatsdienst,Entlassung,,
-Erhalt einer Auszeichnung,Auszeichnung,,
-Erhalt einer Präbende,Amtsantritt,Benefiziar,Ist das das richtige deutsche Wort für den Inhaber der Präbende?
-Erhalt eines Adelstitels,Nobilitierung,,
-Ernennung,Ernennung,,
-Flucht,Flucht,Flüchtling,
-Forschungsaufenthalt,Funktionsausübung,Forscher,
-Forschungsreise,Reise,Forscher,
-Gründung,Funktionsausübung,Gründer,
-Habilitation,Habilitation,,
-Heirat,Eheschließung,,
-Immatrikulation,Immatrikulation,,
-Konversion,Konversion,,
-Lehrtätigkeit,Funktionsausübung,Dozent,
-Lehrtätigkeit ,Funktionsausübung,Dozent,
-Lizenziat (juristisch),Funktionsausübung,Dozent,
-Lizenziat (kirchlich),Funktionsausübung,Dozent,
-Magisterprüfung,Graduation,Mag.,
-Mitgliedschaft,Mitgliedschaft,,
-Ordination,Ordination,,
-Pensionierung,Pension,,
-Politische Mitgliedschaft,Mitgliedschaft,Politischer Amtsträger,
-Promotion,Promotion,,
-Studium,Studium,Student,
-Teilnahme an Verhandlungen,Funktionsausübung,Verhandler,ODER: Gesandschaft?
-Übernahme einer Institutsleitung,Amtsantritt,Institutsleiter,
-Übernahme eines akademischen Amts,Amtsantritt,Akademiker,
-Übernahme eines Ehrenamts,Amtsantritt,Ehrenamtlicher,
-Übernahme eines geistlichen Amts,Amtsantritt,Geistlicher Amtsträger,
-Übernahme eines politischen Amts,Amtsantritt,Politischer Amtsträger,
-Verhaftung,Verhaftung,,
-Verleihung eines Ehrentitels,Verleihung eines Ehrentitels,,
-Vikariat,Funktionsausübung,Vikar,
-Wissenschaftliche Mitgliedschaft,Mitgliedschaft,Wissenschaftler,
-Absetzung,Absetzung,,
-Amtsantritt,Amtsantritt,,
-Aufnahme,Aufnahme,,
-Aufschwörung,Aufschwörung,,
-Eheschließung,Eheschließung,,
-Entlassung,Entlassung,,
-erfolglose Bewerbung,erfolglose Bewerbung,,
-Ernennung,Ernennung,,
-Funktionsausübung,Funktionsausübung,,
-Geburt,Geburt,,
-Gesandtschaft,Gesandtschaft,,
-Graduation,Graduation,,
-Immatrikulation,Immatrikulation,,
-Introduktion,Introduktion,,
-Konversion,Konversion,,
-Mitgliedschaft,Mitgliedschaft,,
-mittelbare Nobilitierung,mittelbare Nobilitierung,,
-Nobilitierung,Nobilitierung,,
-Pension,Pension,,
-Praktikum,Praktikum,,
-Präsentation,Präsentation,,
-Primäre Bildungsstation,Primäre Bildungsstation,,
-Privatunterricht,Privatunterricht,,
-Privilegierung,Privilegierung,,
-Promotion,Promotion,,
-Prüfungsverfahren,Prüfungsverfahren,,
-Reise,Reise,,
-Rejektion,Rejektion,,
-Resignation,Resignation,,
-Rezeption,Rezeption,,
-Rücktritt,Rücktritt,,
-Sonstiges,Sonstiges,,
-Studium,Studium,,
-Suspendierung,Suspendierung,,
-Taufe,Taufe,,
-Tod,Tod,,
-Vereidigung,Vereidigung,,
-Vokation,Vokation,,
-Wappenbesserung,Wappenbesserung,,
-Wohnsitznahme,Wohnsitznahme,,
-Zulassung,Zulassung,,
+﻿event_old;event_type;pers_function;notes
+*;Geburt;Kind;
++;Tod;Toter;
+Absetzung;Absetzung;;
+Amtsantritt;Amtsantritt;;
+Aufnahme;Aufnahme;;
+Aufschwörung;Aufschwörung;;
+begr.;Beisetzung;;
+berufen;Amtsantritt;;
+berufen;Amtsantritt;;
+Eheschließung;Eheschließung;;
+Eintritt;Eintritt;;
+Entlassung;Entlassung;;
+er war;Funktionsausübung;;
+erfolglose Bewerbung;erfolglose Bewerbung;;
+erhielt;Amtsantritt;;
+Ernennung;Ernennung;;
+Funktionsausübung;Funktionsausübung;;
+Geburt;Geburt;;
+Gesandtschaft;Gesandtschaft;;
+gewählt;Wahl;;
+ging er;Amtsantritt;;
+Graduation;Graduation;;
+immatr.;Immatrikulation;Student;
+Immatrikulation;Immatrikulation;;
+immatrikuliert;Immatrikulation;;
+inne;Funktionsausübung;;
+inscribiert;Mitgliedschaft;;
+Introduktion;Introduktion;;
+kam;Amtsantritt;;
+Konversion;Konversion;;
+lehrte;Funktionsausübung;;
+Mitgliedschaft;Mitgliedschaft;;
+mittelbare Nobilitierung;mittelbare Nobilitierung;;
+Nobilitierung;Nobilitierung;;
+Pension;Pension;;
+Praktikum;Praktikum;;
+Präsentation;Präsentation;;
+Primäre Bildungsstation;Primäre Bildungsstation;;
+Privatunterricht;Privatunterricht;;
+Privilegierung;Privilegierung;;
+Promotion;Promotion;;
+promoviert;Promotion;;
+Prüfungsverfahren;Prüfungsverfahren;;
+Reise;Reise;;
+Rejektion;Rejektion;;
+Resignation;Resignation;;
+resignierte;Resignation;;
+Rezeption;Rezeption;;
+Rücktritt;Rücktritt;;
+Sonstiges;Sonstiges;;
+studiert;Studium;;
+Studium;Studium;;
+Suspendierung;Suspendierung;;
+Taufe;Taufe;;
+Tod;Tod;;
+übernahm;Amtsantritt;;
+Vereidigung;Vereidigung;;
+verweigerte;Widerstand;;
+Vokation;Vokation;;
+Wappenbesserung;Wappenbesserung;;
+war er;Funktionsausübung;;
+Wohnsitznahme;Wohnsitznahme;;
+zugelassen;Zulassung;;
+Zulassung;Zulassung;;
