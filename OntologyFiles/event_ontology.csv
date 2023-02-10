@@ -1,6 +1,7 @@
 ﻿event_old,event_type,pers_function,notes
  immatr., Immatrikulation, Student,
  *, Geburt, Kind,
+ +, Tod, Toter,
 Akademische Laufbahn,Funktionsausübung,Akademiker,
 Aufnahme in eine Fakultät,Rezeption,Fakultätsmitglied,
 Auslandsaufenthalt,Reise,,
