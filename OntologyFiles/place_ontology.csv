@@ -1,4 +1,4 @@
-place_old,places_new,suffix,community,region_1,region_2,continent,variant_1,variant_2,variant_3,count,ID,Source
+place_old,place_new,suffix,community,region_1,region_2,continent,variant_1,variant_2,variant_3,count,ID,Source
 Bayrisch Hof,Bayrisch Hof,,,,,Europe,Stadtamhof;Stadt am Hof,,,1,B1,Bavariae (Homann 1752)
 Kuta Lingga,Kuta Lingga,,,,,Europe,,,,1,11,Broek
 Kuta Waringin,Kuta Waringin,,,,,Europe,,,,1,12,Broek
