@@ -35,9 +35,9 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_fr.html">5) Remplacement de données basé sur des listes d'ontologies</a><br><br></td>
   </tr>
   <tr>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_de.html">6) Anreicherung von Ortsdaten, Geocodierung und Kartenerstellung</a></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_en.html">6) Enriching geodata, geocoding and mapping</a><br><br></td>
-    <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_fr.html">6) Enrichissement des géodonnées, géocodage et cartographie</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/GEO_de.html">6) Anreicherung von Ortsdaten, Geocodierung und Kartenerstellung</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/GEO_en.html">6) Enriching geodata, geocoding and mapping</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/GEO_fr.html">6) Enrichissement des géodonnées, géocodage et cartographie</a><br><br></td>
   </tr>
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
