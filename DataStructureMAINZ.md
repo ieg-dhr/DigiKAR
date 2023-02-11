@@ -7,5 +7,5 @@
 
 2) **Ontology tables**
 
-For an overview of named entities in the Mainz work package and our data mapping, cf. the ontology lists.
+For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles).
 
