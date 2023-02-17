@@ -1,0 +1,150 @@
+﻿id;title_old;title_new;coment_fs;Frequency
+1;(Tit.-)Geh. Staatsrat;Geheimer Staatsrat, titular;"Differenzierung title-function (bspw. Geheimer Rat). Genaue Unterscheidung häufig nicht aus Quellen zu entnehmen, dort selten Unterscheidung getroffen; im Zweifelsfall auch zeitgenössisch nicht eindeutig; daher allg. Lösungsvorschlag für tatsächliche Funktionen generische Bezeichnungen zu verwenden, die spezifischeren als Titel zu führen → Bsp: Geheimer Rat = title, Fkt. generisch ""Rat""";1
+2;(Titular-)Rat;Rat, titular;Info nicht unsicher;1
+3;@;;;7513
+4;Adel- und Ritterstand des H. Röm. Reichs;;"eigentlich kein Titel; Erfassung in dieser Spalte war nur Verlegenheitslösung; ist obsolet, da wir Nobilitierungen als relevante Ereignisse fallen lassen können → Zeilen aus (aktiver) Tabelle löschen oder Info in Zusatzinfo-Spalte verschieben.";1
+5;Adelsstand;;"eigentlich kein Titel; Erfassung in dieser Spalte war nur Verlegenheitslösung; ist obsolet, da wir Nobilitierungen als relevante Ereignisse fallen lassen können → Zeilen aus (aktiver) Tabelle löschen oder Info in Zusatzinfo-Spalte verschieben.";1
+6;Adelsstand, erblicher;;"eigentlich kein Titel; Erfassung in dieser Spalte war nur Verlegenheitslösung; ist obsolet, da wir Nobilitierungen als relevante Ereignisse fallen lassen können → Zeilen aus (aktiver) Tabelle löschen oder Info in Zusatzinfo-Spalte verschieben.";1
+7;Adelsstand, preußisch;;"eigentlich kein Titel; Erfassung in dieser Spalte war nur Verlegenheitslösung; ist obsolet, da wir Nobilitierungen als relevante Ereignisse fallen lassen können → Zeilen aus (aktiver) Tabelle löschen oder Info in Zusatzinfo-Spalte verschieben.";1
+8;Adelstitel;;"eigentlich kein Titel; Erfassung in dieser Spalte war nur Verlegenheitslösung; ist obsolet, da wir Nobilitierungen als relevante Ereignisse fallen lassen können → Zeilen aus (aktiver) Tabelle löschen oder Info in Zusatzinfo-Spalte verschieben.";1
+9;bacc. iur.;bacc., iur.;;1
+10;Bacc. phil.;bacc., phil.;;7
+11;bacc. phil.;bacc., phil.;;3
+12;bacc. phil.;bacc.,  phil.;;3
+13;Bacc. phil.;bacc.,  phil.;;7
+14;böhmisches Inkolat im Grafenstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+15;Burgmann zu Dieburg, Herr auf Messel und Dürrenried;;Zusatzinfo;1
+16;D[r.];Dr.;;6
+17;des Heiligen Römischen Reichs Ritter;;Nobilitierungssache → obsolet/Zusatzinfo;1
+18;des Heiligen Römischen Reichs Ritter;;Nobilitierungssache → obsolet/Zusatzinfo;1
+19;Dr.;Dr.;;66
+20;"Dr. ""beyder Wissenschaften""";Dr., iur. / Dr. theol.;"Ich vermute, dass hier Theologie und Jura gemeint sind; für iur. utr. würde eher ""beider Rechte"" stehen. Kategorie: unsicher";1
+21;Dr. iur;Dr., iur.;;3
+22;Dr. iur.;Dr., iur.;;53
+23;Dr. iur. h.c.;Dr. h.c., iur.;;1
+24;Dr. iur. h.c.;Dr. h.c., iur.;;1
+25;Dr. iur. utr;Dr., iur. utr.;;1
+26;Dr. iur. utr;Dr., iur. utr.;Sollte man derlei Tippfehler (hier fehlt offensichtlich nur ein Punkt) nicht einfach in der Liste bereinigen?;1
+27;Dr. iur. utr.;Dr., iur. utr.;;93
+28;Dr. iur. utr.;Dr., iur. utr.;;61
+29;Dr. med.;Dr., med.;;13
+30;Dr. med.;Dr., med.;;1
+31;Dr. phil.;Dr., phil.;;3
+32;Dr. phil.;Dr., phil.;;2
+33;Dr. Phil. [?];Dr., phil.;Vorschlag: Unsicherheit in Zusatzspalte spezifizieren.;1
+34;Dr. theol.;Dr., theol.;;1
+35;Dr.iur. utr.;Dr., iur. utr.;;1
+36;Dr.iur. utr.;Dr., iur. utr.;;1
+37;erbl. Adel;;Nobilitierungssache → obsolet/Zusatzinfo;1
+38;Freiherr;;Nobilitierungssache → obsolet/Zusatzinfo;2
+39;Freiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;4
+40;fürstbischöflich trientischer Adel und Ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+41;Geheimer Rat;Geheimer Rat;;8
+42;Geheimer Rat, kaiserlicher;Geheimer Rat, Kaiser;Wenn Substantive, dann so. In der Literatur ist die adjektivische Verwendung usus. Aber die Beziehung wird so oder so klar. Wichtiger erscheint mir die Frage der Abgrenzung zur Institutionsspalte (das gilt cum grano salis analog für Funktionen): führen wir die Beziehung als Zusatz zur Titel-/Funktionsinformation oder eigenständig in der Institutionenspalte? In den Daten kommt durchaus beides vor, so dass im Hinblick auf valide Auswertungen ohnehin eine Überarbeitung nötig wäre.;1
+43;Geheimer Rat, kurmainzischer;Geheimer Rat, Kurfürstentum Mainz;;1
+44;Grafenstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+45;Herr auf Blumenthal (ab 1806);;Zusatzinfo;1
+46;Herr auf Dietenheim und Brandenburg (bis 1806);;Zusatzinfo;1
+47;Herr auf Ermreuth;;Zusatzinfo;1
+48;Herr auf Falkenberg;;Zusatzinfo;1
+49;Herr auf Gelsdorf und Ipplendorf;;Zusatzinfo;1
+50;Herr auf Lannach und Winterhof;;Zusatzinfo;1
+51;Herr auf Loh bei Offenburg;;Zusatzinfo;1
+52;Herr auf Neunthausen;;Zusatzinfo;1
+53;Herr auf Oberheimbach;;Zusatzinfo;1
+54;Herr auf Strazowiz bei Hradisch in Mähren;;Zusatzinfo;1
+55;Herr auf Wischenau, Tribuswinkel, Ober- und Niederklingenburg, Übelngönne, Canstein, Hanxleden und Beringhausen;Herr auf Wischenau, Tribuswinkel, Ober- und Niederklingenburg, Übelngönne, Canstein, Hanxleden und Beringhausen;Zusatzinfo;1
+56;Herr zu Burkheim, Einödhausen und Melkers;Herr zu Burkheim, Einödhausen und Melkers;Zusatzinfo;1
+57;Hofkammerpräsident;Hofkammerpräsident;"Differenzierung title-institution: Analog zu Räten ""Präsident"" als generische Funktion, Hofkammer als (Zusatz) zur Institution (default/höchste Ebene hier: zugehöriges Territorium bzw. kirchl. Herrschaftsberich). ""Hofkammerpräsident"" als Titel mitführen, wenn klar? -> Entscheidung notwendig und anschließend einheitliche Bereinigung des Datenbestands! (d.h.: häufig in Funktionen erfasste ""Titel"" in Titelspalte, Beziehungen konsequent in Institutionenspalte und generische Funktionsbezeichnungen in Funktionsspalte.";1
+58;Hofrat;Hofrat;Differenzierung: title-function-institution;2
+59;Inkolat;Inkolat;;1
+60;J.U.D.;Dr., iur. utr.;;6
+61;J.U.L.;Lic., iur. utr.;;5
+62;k.k. wirklicher Geheimer Hofrat / Geheimer Rat und Hofrat;Geheimer Hofrat, wirklicher / Geheimer Rat / Hofrat;"Differenzierung title-institution: Analog zu Räten ""Präsident"" als generische Funktion, Hofkammer als (Zusatz) zur Institution (default/höchste Ebene hier: zugehöriges Territorium bzw. kirchl. Herrschaftsberich). ""Hofkammerpräsident"" als Titel mitführen, wenn klar? -> Entscheidung notwendig und anschließend einheitliche Bereinigung des Datenbestands!";5
+63;kaiserlicher Titular- wirklicher Geheimer Rat;Geheimer Rat, wirklicher, titular, Kaiser;einheitlich und konsistent mit anderen Formen;1
+64;Kammerdirektor;Kammerdirektor;"Differenzierung title-institution: Analog zu Räten ""Präsident"" als generische Funktion, Hofkammer als (Zusatz) zur Institution (default/höchste Ebene hier: zugehöriges Territorium bzw. kirchl. Herrschaftsberich). ""Hofkammerpräsident"" als Titel mitführen, wenn klar? -> Entscheidung notwendig und anschließend einheitliche Bereinigung des Datenbestands!";1
+65;Kammerrat;Kammerrat;;1
+66;kleines Palatinat;;nicht mehr relevante biographische Information;1
+67;königlich bayerischer erblicher Freiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+68;"königlich böhmischer Ritterstand mit Prädikat ""von""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+69;königlich böhmisches Inkolat im Ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+70;"königlich preußischer Grafenstand mit Namen- und Wappenvermehrung ""Hanxleden""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+71;"königlich preußischer Grafenstand mit Namen- und Wappenvermehrung ""Hanxleden""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+72;kurbayerischer Freiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+73;kurbayerischer Titularhofrat;Hofrat, Kurbayern, titular;Differenzierung: title-function-institution;4
+74;kurpfälzischer (Titular-)Geheimer Rat;Geheimer Rat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+75;kurpfälzischer (Titular-)Geheimer Rat;Geheimer Rat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+76;kurpfälzischer (Titular-)Hofgerichtsrat;Hofgerichtsrat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+77;kurpfälzischer (Titular-)Hofgerichtsrat;Hofgerichtsrat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+78;kurpfälzischer (Titular-)Rat;Rat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+79;kurpfälzischer (Titular-)Rat;Rat, Kurpfalz, titular;Differenzierung: title-function-institution;1
+80;kurpfälzischer Freiherrnstand;#;Nobilitierungssache → obsolet/Zusatzinfo;2
+81;kurpfälzischer Freiherrnstand;#;Nobilitierungssache → obsolet/Zusatzinfo;2
+82;L[ic.];Lic.;;1
+83;Lic.;Lic.;;5
+84;Lic.;Lic.;;8
+85;Lic. iur;Lic., iur.;;3
+86;Lic. iur;Lic., iur.;;1
+87;Lic. iur.;Lic., iur.;;40
+88;Lic. iur.;Lic., iur.;;35
+89;Lic. iur. utr.;Lic., iur. utr.;;11
+90;Lic. iur. utr.;Lic., iur. utr.;;7
+91;Lic. med.;Lic., med.;;2
+92;Lic. med.;Lic., med.;;1
+93;Mag.;mag.;analog bacc.;1
+94;Mag.;mag.;;3
+95;Mag. phil.;mag., phil.;;9
+96;mag. phil.;mag., phil.;;4
+97;Mag. phil.;mag., phil.;;8
+98;mag. phil.;mag., phil.;;4
+99;Magister;mag.;;1
+100;Magister;mag.;;2
+101;Mitherr des Amtes Lichtenfels;;Zusatzinfo;1
+102;Mitherr des Amtes Lichtenfels;;Zusatzinfo;1
+103;ohne jurist. Grad;;Zusatzinfo;1
+104;österreichisch-erbländischer Freiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+105;österreichisch-erbländischer Freiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+106;österreichisch-erbländischer Ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+107;österreichisch-erbländischer Ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+108;"pfälzischer Adelsstand mit dem Prädikat ""von Hueber von der Wiltau""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+109;"pfälzischer Adelsstand mit dem Prädikat ""von Hueber von der Wiltau""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+110;"Prädikat ""Edler von""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+111;Regierungsrat;Regierungsrat;Differenzierung: title-function-institution;3
+112;Regierungsrat, kurfürstlich mainzischer;Reigerugsrat, Kurfürstentum Mainz;Differenzierung: title-function-institution;3
+113;"Reichadelsstand ""von Beurieu und Schönbach""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+114;"Reichsadels- und -ritterstand mit dem Prädikat ""Edler von""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+115;"Reichsadels- und -ritterstand mit Prädikat ""Edler von""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+116;Reichsadelsstand;;Nobilitierungssache → obsolet/Zusatzinfo;17
+117;Reichsadelsstand;;Nobilitierungssache → obsolet/Zusatzinfo;18
+118;Reichsadelsstand / Reichsritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+119;"Reichsadelsstand mit dem Zusatz ""genannt Haberkorn""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+120;Reichsfreiherr;;Nobilitierungssache → obsolet/Zusatzinfo;3
+121;Reichsfreiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;17
+122;"Reichsfreiherrnstand mit dem Titel ""Freiherr von Pape genannt Papius""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+123;"Reichsfreiherrnstand mit Pärdikat ""von Bellinghausen""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+124;Reichsfvikariatsfreiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo / Die Hierarchie der Titel an sich ist wohl ein eigenes Forschungsfeld und im Zwiefelsfall wohl schon zeitgenössich nicht ganz eindeutig.;1
+125;Reichsgraf;;Nobilitierungssache → obsolet/Zusatzinfo;1
+126;Reichsgrafenstand;;Nobilitierungssache → obsolet/Zusatzinfo;5
+127;Reichsritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;3
+128;Reichsritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;3
+129;"Reichsritterstand mit dem Prädikat ""Edler von""";;Nobilitierungssache → obsolet/Zusatzinfo;2
+130;"Reichsritterstand mit Prädikat ""Edler von oder de""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+131;"Reichsritterstand mit Prädikat ""Edler von Sonborn, des Heil. Röm. Reichs Ritter""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+132;"Reichsritterstand mit Prädikat ""Edler von""";;Nobilitierungssache → obsolet/Zusatzinfo;2
+133;Reichsvikariatsadels- und ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+134;Reichsvikariatsfreiherrnstadt (cum priv. de non usu);;Nobilitierungssache → obsolet/Zusatzinfo;1
+135;Reichsvikariatsfreiherrnstand;;Nobilitierungssache → obsolet/Zusatzinfo;2
+136;"Reichsvikariatsfreiherrnstand als ""Schmitz zu Grollenburg""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+137;"Reichsvikariatsfreiherrnstand mit Namenszusatz ""von Bellinghausen""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+138;"Reichsvikariatsritter- und adelsstand mit Prädikat ""Edler Herr von""";;Nobilitierungssache → obsolet/Zusatzinfo;1
+139;Ritter des Zivil-Verdienstordens der Bayerischen Krone / Ritterstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+140;rittermäßiger Reichsadelsstand;;Nobilitierungssache → obsolet/Zusatzinfo;1
+141;Rottermund / Rodermund;#;Das ist ein Name. → Falsche Spalte!;1
+142;Titular- wirklicher Geheimer Rat;Geheimer Rat, wirklicher, titular;;3
+143;Titular wirklicher Gehermer Rat;Geheimer Rat, wirklicher, titular;;4
+144;Titular wirklicher Gehermer Rat;Geheimer Rat, wirklicher, titular;;4
+145;Titular-]Regierungsrat;Regierungsrat, titular];"Frage: Titular-eigenschaft ist hier von mir vermutet, daher ""]"". Dies besser über Zusatzinfo markieren? Bzw. denkbar auch Abbildung in der Form als Regierungsrat (Titel) ohne Funktions- und Institutionsbeziehung?";2
+146;Titular-Erzbischof von Tarsus;Erzbischof von Tarsus, titular;;1
+147;Titularregierungsrat;Regierungsrat, titular;;1
+148;Titular-Reichshofrat;Reichshofrat,  titular;;1
+149;Vorderösterreichischer Regiments- und Kammerrat;Regimentsrat, Vorderösterreich / Kammerrat, Vorderösterreich;;1
