@@ -1,675 +1,675 @@
-﻿id;institution_old;institution_new;comment_fs;Notes;Frequency
-1;gemeinschaftlich kurpfälzisch-kurbayerisches Reichsvikatiatshofgericht;Reichsvikariatshofgericht, Kurpfalz-Kurbayern;Pragmatische Lösung?;"Siehe Problem mit Territorialbezügen in ""Funktionen""!";1
-2;Graf von Metternich-Winneburg[-Beilstein];Privathaus, Graf von Metternich-Winneburg-Beilstein] ###;"Ableitung / Was heißt ""Privathaus""? Für Fälle, die sich eindeutig auf einen persönlichen Dienst beziehen, ist das ok so. Aber die Grenzen sind sehr fließend. Der kurmainzische Geheime Rat ist ja auch auf den Kurfürsten persönlich bezogen, ohne dass wir hier ""Privathaus"" angeben. Entsprechende Einträge müssen im Einzelfall noch einmal im Kontext geprüft werden!";#;1
-3;Gymnasium;Gymnasium ###;Hier lassen sich in den Daten meist unterschiedliche Ortsbezüge eruieren, die als identifizierender Namensbestandteil hinzugefügt werden sollten.;#;10
-4;Jesuiten;Jesuiten ###;"Einzelfall; Kontext betrachten und Daten auflösen";#;1
-5;Jesuitengymnasium;Jesuitengymnasium ###;Hier lassen sich in den Daten meist unterschiedliche Ortsbezüge eruieren, die als identifizierender Namensbestandteil hinzugefügt werden sollten.;#;3
-6;Kaiser;Kaiser ###;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;Weitere Angabe möglich?;9
-7;Königreich Bayern, Staatsministerium der Justiz;Königreich Bayern, Justizministerium;Solche Institutionen wurden über Zeiten und Räume hinweg (bis heute) immer wechselnd benannt. Da jeder Änderung hinterherzujagen ist nicht möglich. Also entweder differente Quellenbezeichnungen verwenden (auf Kosten von Analysemöglichkeiten) oder (soweit dies inhaltlich plausibel) aggregieren. Ich plädiere für Zweiteres.;"Gibt es auch ""Justizministerium""?";2
-8;Kurfürstentum Mainz / kaiserlicher Hof;Kaiser, Hof;Hier: Mainzer Resident am kaiserlichen Hof. Tätigkeit bezieht sich auf den Hof, Auftraggeber ist Kurmainz. Würde ich als Zusatzangabe in Funktion/Titel abbilden.;#;1
-9;Kurfürstentum Mainz, Großes Hospital zu Erfurt;Kurfürstentum Mainz, Großes Hospital Erfurt;Frage, wann und wo (und welche) übergeordneten Bezugsebenen abgebildet werden müssen, stellt sich allg. Für Datenerfassung und ersten Überblick genügt m.E. meist Bezeichnung + Ort zur eindeutigen Identifikation. Aber für Analyse wäre Abfrage von höheren Ebenen interessant.;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";1
-10;Niedersächsischer Reichskreis / Kaiser;Reichskreis, Niedersachsen;Gesandtenproblem: Resident beim RK für den Kaiser. → Beziehung Kaiser als Zusatzangabe zur Funktion.;#;1
-11;Rheinische Reichsritterscahft;Reichsritterschaft, Rhein;"Eigentlich: Niederrhein, Mittelrhein oder Oberrhein. Quelle spezifiziert nicht. Kunstgebilde ""Rheinisch"". Besser: Zuordnung Mittel-/Nieder-/Oberrhein + Unsicherheit?";#;1
-12;Schwäbische Reichsritterschaft, Kanton im Hegau, Allgäu und am Bodensee;Schwäbische Reichsritterschaft, Kanton Hegau-Allgäu-Bodensee;"Bindestriche für zusammengesetzte Gebilde (statt Komma und ""und"")?";#;2
-13;Zentraldepartement;Zentraldepartement;War oberste Behörde der von den Alliierten eingerichteten Zentralvw. für die eroberten Gebiete 1813/14. Wie abbilden?;#;1
-14;[Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt];1.) Bei Institutionen per default Territorien mitführen, um Vergleichbarkeit herzustellen. (Außerhalb Kurmainz seltener differenziertere Behördenangaben). To do: einheitliche Korrektur des Datenbestands. 2.) Ableitung von Orten einheitlich vornehmen [siehe Anm. bei titles]. 3.) Alternative Dokumentation der Unsicherheit/Abgeleitetheit?;Offenbar 1. Klammer im Datensatz, obwohl Florian nur 2. Klammer als Marker für Unsicherheit verwendet?;7
-15;böhmisch-österreichische Hofkanzlei;Königreich Böhmen, Hofkanzlei / Erzherzogtum Österreich, Hofkanzlei;Da laufen wir voll in die Wirren der Verwaltungsgeschichte. Die österreichische für sämtliche Erblande der Habsburger zuständig (Erzherzogtum Österreich, Herzogtum Steyer, …[es sind viele!], ähnlioch die böhmische für die böhmischen Länder. Der Ausdruck der Quelle wischt da gleich in mehrfacher Hinsicht drüber hinweg. Der Fall ist inhaltlich für uns nicht wichtig. Daher pragmatischer Vorschlag für hier und sonst wo, wo maßgeblich der Kaiser als Landesherr auftritt: Identifikation mit dem Hauptterritorium als Bezugsebene.;Achtung: bitte alle Einträge zu österreichischen Hofkanzleien prüfen! Bin nicht sicher, welche davon Synonyme sind!;1
-16;Erfurter Staat, Kommerziendeputation;Kurfürstentum Mainz, Kommerziendeputation Erfurt;Wie weit wollen/müssen wir es mit der Explikation von Bezugsebenen treiben? M.E. genügt es zur Erfassung, dass eine eindeutige Identifikation möglich ist. Alles weitere ließe sich dann via Beziehungen im Datenmodell abbilden - oder nicht?;#;1
-17;Erzbistum Mainz, Stift B.M.V. zu Erfurt;Kollegiatstift St. Maria Erfurt;Allg. Prob.: Angabe von Bezugsebene: So viel wie nötig zur eindeutigen Identifikation. In den meisten Fällen dürfte Ort ausreichen. Zudem entledigen wir uns damit ein Stück weit des verfassungs- und verwaltungsgeschichtlichen Ballasts, insb. im Hinblick auf nicht kurmainzsiche Institutionen.;"Ist das nicht Metainfo, dass das Stift zum Erzbistum Mainz gehört? Zudem: gibt offenbar verschiedene Namen. Ist ""Zu unserer Lieben Frau"" identisch?";1
-18;evangelisch;;"die Bezeichnungen sind in dem Fall nach Vorlage bewusst gewählt. Hier handelt es sich ja schon um (biographisch) relevante Unterscheidungen. Für unser Projekt ist die Konfession aber nicht weiter relevant. Vorschlag: a) Zusatzinfo oder b) als Zusatz zur Funktion: ""Täufling, evangelisch"".";"Siehe auch Funktionen: teils steht auch ""evangelisch-lutherisch"", ""evangelisch-reformiert"" oder ""lutherisch"". Sind die Bezeichnungen immer richtig gewählt?";2
-19;Fürstbischof von Augsburg;Fürstbischof von Augsburg;Datenkontext zeigt: Erfasssung ist hier missverständlich. Geht um k.k. Gesandten beim Fürstbischof. Solche Fälle müssen im Kontext einheitlich modelliert werden. Vorschlag: Fkt: Gesandter (ggf. Hinzufügung des Senders), Titel: [ggf. spezifische Bezeichnung], Ort: Zielort der Gesandtschaft (Territorialebene bzw. Residenzstadt erschließen?), Institution: keine  oder  sendende Herrschaftsträger;Tätigkeit für den Bischof als Person?;1
-20;Philipp Wilhelm von Boineburg #233;Person, Philipp Wilhelm von Boineburg #233;"Analog ""Privathaus"". - Was gibt es zu bedenken?";Dienstherr hier als Institution gedacht? Muss dann bei Erstellung einer gesamten Namensliste bedacht werden!;1
-21;Vereinigte K.K. Hofkanzlei;Kaiserreich Österreich, Vereinigte K.K. Hofkanzlei;"Verwaltungsgeschichtlich unsauber; wurde 1802 aus einzelnen Hofkanzleien gebildet, Kaissertum Österreich aber eigentlich erst ab 1804; dennoch pragmatisch Identifikation mit Hauptterritorium während Bestehenszeit?";Bitte Abgleichen mit anderen Bezeichnungen der Hofkanzlei in diesem Datensatz!;2
-22;Akademie Bamberg;Akademie Bamberg;Identifikation der Institution erfordert Recherche;#;1
-23;"""Freimaurerloge ""Joseph zu den drei Helmen""";"Freimaurer, Loge ""Joseph zu den drei Helmen"" [+ Ort?]";;Bitte alle Logen gleich Erfassen, Namen konsequent in Anführungszeichen?;1
-24;?];;Ohne Kontext unklar.;Was ist hier unsicher?;1
-25;@;###;"Wichtig: Nach Festlegung der Konventionen für die Datenerfassung müssen auch leere Felder im Kontext betrachtet und evtl. ausgefüllt werden, bspw. wenn Information bzgl. Institution in Funktionsspalte erfasst wurde (""kurmainzischer Rat"" o.ä.)";VIRTUELLER PLATZHALTER für unbekannte ORTE;4420
-26;[?];;Ohne Kontext unklar.;Hier gar kein Eintrag, nur Fragezeichen in Klammer?;1
-27;[Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";16
-28;[Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";16
-29;[Kurfürstentum Mainz, Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";19
-30;[Kurfürstentum Mainz, Stadtrat zu Erfurt ?];Kurfürstentum Mainz, Stadtrat Erfurt ?];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";1
-31;[Kurfürstentum Mainz, Vizedomamt Erfurt];Kurfürstentum Mainz, Vizedomamt Erfurt];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";3
-32;[Kurfürstentum Mainz, Vizedomamt zu Erfurt];Kurfürstentum Mainz, Vizedomamt Erfurt];Ableitung und Bezugsebene;"Muss ""Kurfürstentum Mainz"" hier genannt werden?";1
-33;[Kurfürstentum Mainz];Kurfürstentum Mainz];Bezugsebene;#;4
-34;[Regierung zu Erfurt?];Kurfürstentum Mainz, Regierung Erfurt?];Ableitung und Bezugsebene;#;1
-35;[Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt];Ableitung und Bezugsebene;#;20
-36;[Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Bezugsebene;#;1
-37;[Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt];"M.E. doppelt ""Stadtrat Erfurt"" ist Institution und Erfurt der zugehörige Ort.";Ingo: Als Instutionsname behandeln, oder Ort trennen? Hängt m.M.n. von geplanten Queries ab!;3
-38;[Universität Erfurt];Universität Erfurt];Ableitung;#;3
-39;[Universität Mainz];Universität Mainz];Ableitung;#;1
-40;[Vizedomamt];Kurfürstentum Mainz, Vizedomamt Erfurt];Ort? Wahrscheinlich Erfurt / Ableitung;#;9
-41;[Weltliches Gericht?];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;2
-42;2. Bayerische Kammer;Königreich Bayern, Kammer der Abgeordneten;;"Siehe Probleme mit ""Erster"" etc. in ""Funktionen""!";1
-43;Adam Tils $ Advokat;Advokatur, Adam Tils;"Ich denke, so ist das zu verstehen, auch wenn ""Kanzlei"" wohl zu moderne Vorstellungen an eine Organisation evoziert. Analog ""Privathaus"" behandeln?";"Wie verhält sich Personenname als ""Institution""? Ist ""Anwaltskanzlei Adam Tils"" gemeint?";1
-44;adliges Haus derer von Besche;Privathaus, von Besche;;#;1
-45;Akademie der Wissenschaften;Akademie der Wissenschaften München;;#;1
-46;Akademie der Wissenschaften zu Erfurt;Akademie nützlicher Wissenschaften Erfurt;;#;1
-47;Akademie nützlicher Wissenschaften;Akademie nützlicher Wissenschaften Erfurt;;#;1
-48;Akademisches Gymnasium;Akademisches Gymnasium Konstanz;"M.W.n. kein Typ im Sinne von ""technisches G."" o.ä. → Name";Verschiedene Typen von Gymnasien unterschieden?;1
-49;Allerheiligenkirche;Allerheiligenkirche Erfurt;;Mit Ort?;2
-50;Allerheiligenkirche Erfurt;Allerheiligenkirche Erfurt;;#;1
-51;Amt Alach;Kurfürstentum Mainz, Amt Alach;"Bezugsebene; Ortsangabe als Namensbestandteil analog ""Stadtrat Erfurt"" etc.";Frage @ Ingo: wie feinteilig wollen wir modellieren?;2
-52;Amt Azmannsdorf;Kurfürstentum Mainz, Amt Azmannsdorf;Bezugsebene;"Siehe andere Einträge zu ""Amt""";2
-53;Amt Fritzlar;Kurfürstentum Mainz, Amt Fritzlar;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-54;Amt Fritzlar];Kurfürstentum Mainz, Amt Fritzlar];Ableitung und Bezugsebene;"Siehe andere Einträge zu ""Amt""";2
-55;Amt Gleichenstein;Kurfürstentum Mainz, Amt Gleichenstein;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-56;Amt Harburg;Kurfürstentum Mainz, Amt Harburg;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-57;Amt Mühlberg;Kurfürstentum Mainz, Amt Mühlberg;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-58;Amt Naumburg;Kurfürstentum Mainz, Amt Naumburg;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-59;Amt Sömmerda;Kurfürstentum Mainz, Amt Sömmerda;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-60;Amt Sontra;Kurfürstentum Mainz, Amt Sontra;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-61;Amt Tonndorf;Kurfürstentum Mainz, Amt Tonndorf;Bezugsebene;"Siehe andere Einträge zu ""Amt""";1
-62;Amt Treffurt];Kurfürstentum Mainz, Amt Treffurt];Ableitung und Bezugsebene;"Siehe andere Einträge zu ""Amt""";2
-63;Amt Vippach;Kurfürstentum Mainz, Amt Vippach;Bezugsebene;"Siehe andere Einträge zu ""Amt""";3
-64;Amt Vippach];Kurfürstentum Mainz, Amt Vippach];Ableitung und Bezugsebene;"Siehe andere Einträge zu ""Amt""";3
-65;Andreanum;Andreanum Hildesheim;;#;2
-66;Andreasgemeinde;Andreasgemeinde Erfurt;;#;1
-67;Andreasschule;Andreanum Hildesheim;;#;3
-68;Appellationsgericht für Böhmen und Mähren;Appellationsgericht, Böhmen / Mähren;;#;1
-69;Assoziationstag der Reichskreise;Assoziationstag, Reichskreise;;#;1
-70;Athenäum;Athenäum Trier;;#;1
-71;Augustinergemeinde;Augustinergemeinde Erfurt;;#;1
-72;Augustinerkirche zu Erfurt;Augustinerkirche Erfurt;;#;1
-73;Augustinerschule;Augustinerschule Erfurt;;#;1
-74;außerordentliche Reichsdeputation;Reichsdeputation, außerordentliche;;#;1
-75;Barfüßerkirche;Barfüßerkirche Erfurt;;Gleicher Eintrag?;3
-76;Barfüßerkirchengemeinde;Barfüßerkirche Erfurt;;Gleicher Eintrag?;1
-77;Barfüßerschule;Barfüßerschule Erfurt;;#;5
-78;Baron Heinrich Horn;Privathaus, Baron Heinrich Horn;;#;1
-79;Bayerische Akademie der Wissenschaften;Bayerische Akademie der Wissenschaften;;#;1
-80;Bayerische Deputiertenkammer;Königreich Bayern, Kammer der Abgeordneten;;Oder: Deputiertenkammer, Königreich Bayern?;4
-81;Bayerische Ständekammer;Königreich Bayern, Kammer der Abgeordneten;;Oder: Ständekammer, Königreich Bayern?;3
-82;Bistum Konstanz;Bistum Konstanz;;#;2
-83;Bistum Regensburg;Bistum Regensburg;;#;1
-84;Bistum Worms;Bistum Worms;;#;1
-85;Boineburgische Bibliothek;Boineburgische Bibliothek Erfurt;;#;4
-86;Boineburgische Bibliothek in der Juristenschule;Boineburgische Bibliothek Erfurt;;#;1
-87;Brau- und Armendirektion, kurmainzische;Kurfürstentum Mainz, Brau- und Armendirektion;"eine; Bezugsebene Erfurter Staat?";"Eine Institution, oder 2 Institutionen? Dann ""/"".";1
-88;Breisgauische Reichsritterschaft;Reichsritterschaft, Breisgau;;#;1
-89;Buchbinderzunft;Buchbinderzunft Erfurt;;#;1
-90;Bürgerschaft;Stadt Erfurt;"In unseren Daten kommt nur Erfurt vor, potenziell ist aber auch etwas anderes denkbar. Institution ist eher die ""Stadtgemeinde"".";Angabe detailliert genug?;2
-91;Bürgerschaft zu Erfurt;Stadt Erfurt;;#;84
-92;Catharinenschule;Catharinenschule Braunschweig;;#;1
-93;Chor der Nikolaikirche;Nikolaikirche Berlin, Chor;;Eine Institution, oder Chor und Kirche trennen?;1
-94;Claproth;Privatperson, Claproth;;#;1
-95;Collegium Germanicum;Collegium Germanicum Rom;;#;1
-96;Collegium PP. S. Jesu;Jesuitenkolleg Erfurt;;#;1
-97;Collegium Saxonicum;Collegium Saxonicum Erfurt;;#;1
-98;Consilium Secretum Academicum;Universität Erfurt, Consilium Secretum Academicum;;#;1
-99;Cyriaxkloster;Cyriaxkloster Erfurt;;#;1
-100;Departement Aschaffenburg;Großherzogtum Frankfurt, Departement Aschaffenburg;;#;1
-101;Deutsche Bundesversammlung;Deutsche Bundesversammlung;;#;2
-102;Deutsche Nation Löwen;Deutsche Nation Löwen;;#;2
-103;Deutscher Bundestag;Deutscher Bundestag;;#;2
-104;Deutscher Orden;Deutscher Orden;;#;2
-105;Deutscher Orden, Ballei Franken;Deutscher Orden, Ballei Franken;;#;2
-106;Deutscher Orden, Regierung zu Mergentheim;Deutscher Orden, Regierung  Mergentheim;;#;1
-107;Domkapitel Mainz];Domstift Mainz];Ableitung;#;1
-108;Domkapitel Trier];Domstift Trier];Ableitung;#;1
-109;Domkapitel zu Mainz];Domstift Mainz];Ableitung;#;2
-110;Domstift;Domstift;Nein, aber in diesem einen Fall gibt die Quelle nicht mehr her. Angabe bezieht sich aber auch auf Person, die nicht weiter von Interesse ist → streichen.;Angabe detailliert genug?;1
-111;Domstift Halberstadt;Domstift Halberstadt;;#;2
-112;Domstift Mainz;Domstift Mainz;;#;30
-113;Domstift Speyer;Domstift Speyer;;#;6
-114;Domstift Trier;Domstift Trier;;#;14
-115;Domstift Worms;Domstift Worms;;#;3
-116;Domstift Würzburg;Domstift Würzburg;;#;9
-117;Domstift zu Konstanz;Domstift Konstanz;;#;2
-118;Domstift zu Mainz;Domstift Mainz;;#;13
-119;Domstift zu Speyer;Domstift Speyer;;#;1
-120;Domstift zu Trier;Domstift Trier;;#;8
-121;Domstift zu Trier];Domstift Trier];Ableitung;#;1
-122;Domstift zu Worms;Domstift Worms;;#;3
-123;Domstift zu Würzburg;Domstift Würzburg;;#;6
-124;Domstift zu Würzburg];Domstift Würzburg];Ableitung;#;2
-125;Dr. Linden (Lynden);Advokatur, Dr. Linden;;Kanzlei oder Praxis als Institution?;1
-126;Erfurter Akademie;Akademie nützlicher Wissenschaften Erfurt;;#;2
-127;Erfurter Bibliothek;Boineburgische Bibliothek Erfurt;;#;1
-128;Erfurter Staat;Erfurter Staat;;#;30
-129;Erfurter Staat, Kammer zu Erfurt;Kurfürstentum Mainz, Kammer Erfurt;Bezugsebene;#;1
-130;Erfurter Staat, Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt;;#;14
-131;Erfurter Staat, Vizedomamt Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt;;#;3
-132;Erfurter Staat, Weltliche Gerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt];;#;1
-133;Erfurter Staat];Kurfürstentum, Mainz, Erfurter Staat];Ableitung und Bezugsebene / Erfurter Staat als eigene institutionelle Ebene?;#;9
-134;"erzbischöfliche Pagerie ""Gregorianum""";Pagerie Gregorianum Salzburg;;#;1
-135;Erzbistum Mainz;Erzbistum Mainz;;#;2
-136;Erzbistum Mainz, Geistliches Gericht zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt;;#;13
-137;Erzbistum Mainz, Stift St. Severi zu Erfurt;Kollegiatstift St. Severus Erfurt;Das wäre eine sehr bedeutsame unterscheidung, wenn es nicht schlichtweg falsch wäre.;Wieviel Attribute erfassen? Reduktion auf notwendige Info? Zudem: bei manchen Stiften steht, glaube ich, Kurfürstentum Mainz, nicht Erzbistum Mainz. Ist das eine bedeutsame Unterscheidung?;2
-138;Erzbistum Regensburg;Erzbistum Regensburg;;#;2
-139;Erzbistum Regensburg?];Erzbistum Regensburg?];Ableitung;#;1
-140;Erzbistum Regensburg];Erzbistum Regensburg];Ableitung;#;1
-141;evangelische Kirche;evangelische Kirche;s. 124;#;1
-142;Evangelischer Rat;Evangelisches Ministerium Erfurt;;#;3
-143;Evangelisches Ministerium;Evangelisches Ministerium Erfurt;;#;13
-144;Evangelisches Ministerium];Evangelisches Ministerium Erfurt];Ableitung und Bezugsebene;#;1
-145;Evangelisches Ratsgymnasium;Evangelisches Ratsgymnasium;;#;1
-146;Evangelisches Weisenhaus;Evangelisches Weisenhaus Erfurt;;#;1
-147;evangelisch-lutherisch;;s. 124;#;3
-148;evangelisch-reformiert;;s. 124;#;1
-149;Flößholzamt;Kurfürstentum Mainz;In Daten nachgeschaut: Wohl keine Institution, sondern mehr zusätzlich übertragene Aufgaben. Abbildung allg. als in kurmainzischen Diensten.;Weitere Angabe möglich?;1
-150;Franckesches Pädagogium;Franckesches Pädagogium Halle;;#;1
-151;Fränkische Kreistage;Reichskreis, Franken, Kreistag;;#;1
-152;Fränkische Reichsritterschaft;Reichsritterschaft, Franken;;#;1
-153;Fränkische Reichsritterschaft, Kanton Baunach;Reichsritterschaft, Franken, Kanton Baunach;;#;2
-154;Fränkische Reichsritterschaft, Kanton Odenwald;Reichsritterschaft, Franken, Kanton Odenwald;;#;3
-155;Fränkische Reichsritterschaft, Kanton Rhön-Werra;Reichsritterschaft, Franken Kanton Rhön-Werra;;#;2
-156;Franz Freiherr von Fürstenberg;Privatperson: Franz Freiherr von Fürstenberg;;Privathaus? Oder sonstige Einrichtung?;1
-157;Franz Konrad Graf Stadion (1679-1757);Privatperson: Franz Konrad Graf Stadion (1679-1757);;Privathaus? Oder sonstige Einrichtung?;1
-158;Freie Zeichenschule;Freie Zeichenschule;nähere Identifikation nicht möglich;#;2
-159;Freiherrnklasse der kgl. bayerischen Adelsmatrikel;;"Keine Institution; Zusatzinfo";#;1
-160;"Freimaurerische Provinzialloge ""Joseph zum Reichsadler""";"Freimaurer, Provinzialloge ""Joseph zum Reichsadler"" Wetzlar";;Bitte alle Logen gleich Erfassen, Namen konsequent in Anführungszeichen?;1
-161;Freimaurerloge Joseph zu den drei Helmen;"Freimaurer, Loge ""Joseph zu den drei Helmen"" Wetzlar";;#;2
-162;Fürst von Hohenzollern-Hechingen;Fürstentum Hohenzollern-Hechingen;"Grenzen zwischen Fürst als Privatperson und Fürst als politischer Institution (""Fürstentum"") fließend. Wenn nicht eindeutig der persönliche Dienst im Vordergrund steht, würde ich die institutionelle Perspektive präferieren.";Privathaus? Oder sonstige Einrichtung?;5
-163;Fürst von Hohenzollern-Sigmaringen;Fürstentum von Hohenzollern-Sigmaringen;;Privathaus? Oder sonstige Einrichtung?;3
-164;Fürst von Löwenstein-Wertheim;Fürstentum von Löwenstein-Wertheim;;Privathaus? Oder sonstige Einrichtung?;1
-165;Fürstbischof von Konstanz;Fürstbischof von Konstanz;s. 149;Tätigkeit für den Bischof als Person?;1
-166;fürstbischöflich salzburgischer Hofrat;Fürstbistum Salzburg, Hofrat;;#;1
-167;Fürstbistum Bamberg, Hofgericht;Fürstbistum Bamberg, Hofgericht;;#;1
-168;Fürstbistum Bamberg, Hofkammer;Fürstbistum Bamberg, Hofkammer;;#;1
-169;Fürstbistum Bamberg, Hofkriegsrat;Fürstbistum Bamberg, Hofkriegsrat;;#;1
-170;Fürstbistum Bamberg, Obereinnahme;Fürstbistum Bamberg, Obereinnahme;;#;1
-171;Fürstbistum Bamberg, Regierung;Fürstbistum Bamberg, Regierung;;#;1
-172;Fürstbistum Hildesheim, Offizialatsgericht;Fürstbistum Hildesheim, Offizialatsgericht;;#;1
-173;Fürstbistum Konstanz;Fürstbistum Konstanz;;#;5
-174;Fürstbistum Münster, Landesgerichte;Fürstbistum Münster, Landesgerichte;;#;1
-175;Fürstbistum Münster, Landesgerichte;Fürstbistum Münster, Landesgerichte;;#;1
-176;Fürstbistum Münster, Untergerichte;Fürstbistum Münster, Untergerichte;;#;1
-177;Fürstbistum Münster, Untergerichte;Fürstbistum Münster, Untergerichte;;#;1
-178;Fürstbistum Salzburg;Fürstbistum Salzburg;;#;1
-179;Fürstbistum Salzburg, Pflege Mühldorf am Inn;Fürstbistum Salzburg, Pflege Mühldorf am Inn;;#;1
-180;Fürstbistum Speyer;Fürstbistum Speyer;;#;1
-181;Fürstbistum Worms;Fürstbistum Worms;;#;3
-182;Fürstbistum Würzburg;Fürstbistum Würzburg;;#;1
-183;Fürstbistum Würzburg, Geheime Kanzlei;Fürstbistum Würzburg, Geheime Kanzlei;;#;2
-184;Fürstbistum Würzburg, Juliusspital;Juliusspital Würzburg;;#;2
-185;Fürstbistum Würzburg, Vizedomamt in Würzburg;Fürstbistum Würzburg, Vizedomamt Würzburg;;#;1
-186;Fürstbistum Würzburg, weltliche Regierung;Fürstbistum Würzburg, weltliche Regierung;;#;2
-187;Fürstentum Aschaffenburg;Fürstentum Aschaffenburg;;#;2
-188;Fürstentum Erfurt;Fürstentum Erfurt;;#;1
-189;Fürstentum Halberstadt;Fürstentum Halberstadt;;#;1
-190;Fürstentum Halberstadt, Salpeterwerk;Fürstentum Halberstadt, Salpeterwerke;Die Quellen sind hier missverständlich. Unklar, ob Werke in Magdeburg/Halberstadt oder die Werke der Terriotorien anderswo gemeint sind.;#;7
-191;Fürstentum Nassau, Oberappellationsgericht;Fürstentum Nassau, Oberappellationsgericht Hadamar;;#;1
-192;Fürstentum Regensburg;Fürstentum Regensburg;;#;3
-193;Fürstentum Sachsen;Fürstentum Sachsen;;Achtung: Gebietsnamen etc. müssen hier einheitlich erfasst werden! Automatischen Abgleich mit Ortslisten einrichten!;2
-194;Fürstentum Sachsen;Fürstentum Sachsen;;#;3
-195;Fürstentum Schwarzburg-Sondershausen];Fürstentum Schwarzburg-Sondershausen];Ableitung;#;1
-196;fürstlich nassauisches gemeinschaftliches Oberappellationsgericht;Fürstentum Nassau, Oberappellationsgericht Hadamar;;#;1
-197;Fürstprimatialischer Staat, Landesregierung;Fürstentum Regensburg, Landesregierung;Die Bezeichnungen für das napoleonische Staatsgebilde gehen in der Literatur weit auseinander und man kann sich da wohl leicht in staatsrechtlichen Details verheddern. Gemeint ist hier das 1803-1810 geschaffene Territorium, dem Dalberg zunächst als Administrator, dann ab 1806 als Fürstprimas und Kurerzkanzler vorstand.;#;1
-198;Geheime Hofkanzlei;Kurfürstentum Mainz, Geheime Hofkanzlei;;#;3
-199;Geheime Kabinettskonferenz;Kurfürstentum Mainz, Geheime Kabinettskonferenz;;#;3
-200;Geheime Staatskonferenz;Kurfürstentum Mainz, Geheime Staatskonferenz;;#;3
-201;Geheimes Staatskabinett;Kurfürstentum Mainz, Geheimes Staatskabinett;;#;1
-202;Geheimorden der Gold- und Rosenkreuzer;Geheimorden der Gold- und Rosenkreuzer;;#;1
-203;Geheimorden der Gold- und Rosenkreuzer;Geheimorden der Gold- und Rosenkreuzer;;#;1
-204;geistliche Gerichte zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt;Vorschlag Flughöhe: default: Bezugsinstitution + Gericht;"Allgemeine Frage der ""Flughöhe"" bei Gerichten mit Ingo klären.";3
-205;geistliches Gericht;Erzbistum Mainz, Geistliches Gericht Erfurt;;#;1
-206;Geistliches Gericht zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt;;#;1
-207;Geistliches Gericht];Erzbistum Mainz, Geistliches Gericht Erfurt] ;Ableitung und Bezugsebene;#;1
-208;Geistliches Gericht];Erzbistum Mainz, Geistliches Gericht Erfurt] ;Ableitung und Bezugsebene;#;1
-209;Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission;;#;2
-210;Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission;;#;2
-211;General-Studienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission;;#;2
-212;General-Studienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission;;#;2
-213;Graf Carl Gustab Wrangel;Privathaus, Graf Carl Gustab Wrangel ###;;#;1
-214;Graf Johann Ludwig zu Gleichen;Privathaus, Graf Johann Ludwig zu Gleichen ###;;#;1
-215;Graf Philipp Ernst zu Gleichen;Privathaus, Graf Philipp Ernst zu Gleichen ###;;#;1
-216;Graf Philipp Reinhard zu Solms;Privathaus, Graf Philipp Reinhard zu Solms ###;;#;1
-217;Graf von Gleichen;Privathaus, Graf von Gleichen ###;;#;1
-218;Graf von Solms;Privathaus, Graf von Solms ###;;#;1
-219;Grafen von Hatzfeld;Privathaus, Grafen von Hatzfeld ###;;#;1
-220;Grafen von Hatzfeld-Gleichen;Privathaus, Grafen von Hatzfeld-Gleichen ###;;#;2
-221;Gräfin von Henneberg;Privathaus, Gräfin von Henneberg ###;;#;1
-222;Gräfin-Witwe Sophie von Henneberg geb. Herzogin zu Braunschweig-Lüneburg;Privathaus, Gräfin-Witwe Sophie von Henneberg geb. Herzogin Braunschweig-Lüneburg ###;;Personeninfos in Personenliste: hier Privathaushalt?;1
-223;Grafschaft;Grafschaft Wetzlar;Einzelfall ergänzt aus Kontextinfo.;Weitere Angabe möglich?;1
-224;Grafschaft Blankenhain;Grafschaft Blankenhain;;#;1
-225;Großes Hospital;Großes Hospital Erfurt;;In Erfurt?;8
-226;Großes Hospital zu Erfurt;Großes Hospital Erfurt;;Frage @ Ingo: wie wollen wir das abfragen?? Davon hängt Aufteilung hier ab?;2
-227;Großherzogtum Baden;Großherzogtum Baden;;#;4
-228;Großherzogtum Baden, Departement des Innern;Großherzogtum Baden, Departement des Innern;;#;5
-229;Großherzogtum Baden, Departement des Innern];Großherzogtum Baden, Departement des Innern];Ableitung und Bezugsebene;#;1
-230;Großherzogtum Baden, Generalstudienkommission;Großherzogtum Baden, Generalstudienkommission;;In Karlsruhe?;2
-231;Großherzogtum Baden, Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission;;#;1
-232;Großherzogtum Baden, Hofgericht;Großherzogtum Baden, Hofgericht;;#;1
-233;Großherzogtum Baden, Innenministerium;Großherzogtum Baden, Innenministerium;;#;1
-234;Großherzogtum Baden, Ministerium des Innern;Großherzogtum Baden, Innenministerium;;#;1
-235;Großherzogtum Baden, Oberhofgericht;Großherzogtum Baden, Oberhofgericht Mannheim;;#;2
-236;Großherzogtum Baden, Polizeidepartement;Großherzogtum Baden, Polizeidepartement;;#;3
-237;Großherzogtum Frankfurt;Großherzogtum Frankfurt;;#;22
-238;Großherzogtum Frankfurt, Finanzministerium;Großherzogtum Frankfurt, Finanzministerium;;#;2
-239;Großherzogtum Frankfurt, Kassationshof;Großherzogtum Frankfurt, Kassationshof;;#;1
-240;Großherzogtum Frankfurt, Landesdirektion in Aschaffenburg;Großherzogtum Frankfurt, Landesdirektion Aschaffenburg;;#;1
-241;Großherzogtum Frankfurt, Ministerium der Justiz, des Innern und der Polizei;Großherzogtum Frankfurt, Justiz- und Innenministerium;;#;1
-242;Großherzogtum Frankfurt, Ministerium der Justiz, des Innern und der Polizei;Großherzogtum Frankfurt, Justiz- und Innenministerium;;#;1
-243;Großherzogtum Frankfurt, Staatsrat;Großherzogtum Frankfurt, Staatsrat;;#;1
-244;Großherzogtum Hessen, Provinz Oberhessen;Großherzogtum Hessen, Provinz Oberhessen;;#;5
-245;Gymnasium Bonn;Gymnasium Bonn;;#;2
-246;Gymnasium Gotha;Gymnasium Gotha;;#;1
-247;Gymnasium Montanum;Gymnasium Montanum Köln;;#;2
-248;Gymnasium Tricoronatum;Gymnasium Tricoronatum Köln;;#;2
-249;Gymnasium zu Gotha;Gymnasium  Gotha;;#;1
-250;Gynmasium;Gymnasium;;Tippfehler;2
-251;Heiliges Römisches Reich;Heiliges Römisches Reich;;#;1
-252;Herzog von Sachsen-Eisenach;Herzog von Sachsen-Eisenach;;#;1
-253;Herzog von Württemberg;Herzog von Württemberg;;#;1
-254;herzoglich braunschweigischer Hof;Herzogtum Braunschweig, Hof;;#;1
-255;Herzogtum Magdeburg;Herzogtum Magdeburg;;#;1
-256;Herzogtum Magdeburg, Salpeterwerk;Herzogtum Magdeburg, Salpeterwerke;Die Quellen sind hier missverständlich. Unklar, ob Werke in Magdeburg/Halberstadt oder die Werke der Terriotorien anderswo gemeint sind.;#;7
-257;Herzogtum Nassau, Oberappelationsgericht;Herzogtum Nassau, Oberappelationsgericht;;#;3
-258;Herzogtum Sachsen-Gotha;Herzogtum Sachsen-Gotha;;#;9
-259;Hessen-Braubach, Landgraf Johannes;Hessen-Braubach, Landgraf Johannes;;#;1
-260;Hildesheimische Republik ?];Hildesheimische Republik ?];Ableitung;#;1
-261;Hofgericht;Hofgericht;;#;5
-262;Hofrats- und Landesregierungskollegium;Hofrats- und Landesregierungskollegium;;#;1
-263;Illuminatenorden;Illuminatenorden;;#;3
-264;"Illuminatenorden, Loge ""Johannes zur brüderlichen Liebe""";"Illuminatenorden, Loge ""Johannes zur brüderlichen Liebe""";;#;1
-265;"Illuminatenorden, Loge ""Karl zu den drei Rädern""";"Illuminatenorden, Loge ""Karl zu den drei Rädern""";;#;1
-266;Illuminatenorden, Mainz und Rheinpfalz;Illuminatenorden, Mainz und Rheinpfalz;;#;1
-267;Illuminatenorden, Niederlassung in Wetzlar namens Sebaste;"Illuminatenorden, Wetzlar, ""Sebaste""";;#;2
-268;Jagstkreis;Jagstkreis;;#;1
-269;Jesuitengymna;Jesuitengymnasium;;Tippfehler;1
-270;Jesuitengymnasium Koblenz;Jesuitengymnasium Koblenz;;#;1
-271;Jesuitengymnasium Wetzlar;Jesuitengymnasium Wetzlar;;#;1
-272;Jesuitengymnasium zu Heiligenstadt;Jesuitengymnasium Heiligenstadt;;#;1
-273;Jesuitenkolleg;Jesuitenkolleg Erfurt;;#;2
-274;Jesuitenkolleg zu Erfurt;Jesuitenkolleg Erfurt;;#;1
-275;Jesuitenschule;Jesuitengymnasium Heiligenstadt;;#;1
-276;Jesuitenseminar;Jesuitenseminar Fulda;;#;2
-277;Johann Stephan Pütter;Privatperson: Johann Stephan Pütter;;#;1
-278;k.k. Josephinisches Lyzeum;Josephinisches Lyzeum Konstanz;;Wir wissen, dass es k.k. ist?;1
-279;kaiserlich königliche vorderösterreichische Regierung;kaiserlich königliche vorderösterreichische Regierung;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;"In Funktion stand teils nur ""Vorderösterreich""?";1
-280;kaiserlich königliches Militär, General Sinceresches Infanterieregiment;kaiserlich königliches Militär, General Sinceresches Infanterieregiment;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;"Siehe Fragen zu ""kaiserlich"" in ""Funktionen"".";2
-281;Kaiserliche Geheime Konferenz;Kaiserliche Geheime Konferenz;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;#;2
-282;Kaiserlicher Hof;Kaiser, Hof;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;#;1
-283;Kaiserliches Landgericht;Kaiserliches Landgericht Bamberg;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;#;1
-284;Kaiserliches Landgericht des Herzogtums Franken;Kaiserliches Landgericht Würzburg;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;#;1
-285;Kaiserliches Militär;Kaiserliches Militär;Im Kontext revidieren und sofern nicht explizit persönlichen Dienste gemeint sind auflösen nach a) HRR oder bei eigener Landesherrschaft höchste Territorialwürde.;"Anderswo stand ""Armee"": soll das als Variante ""mitlaufen""?";3
-286;Kaiserwahl;Königs- und Kaiserwahlkonvent;;#;1
-287;Kammer zu Erfurt;Kurfürstentum Mainz, Kammer Erfurt;Bezugsebene;Bestimmte Kammer? Ort direkt im Institutionennamen?;116
-288;Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt];Ableitung und Bezugsebene;#;19
-289;Kammeramt;Kurfürstentum Mainz, Kammeramt Mainz;Bezugsebene;#;1
-290;Kanzler Veit Ludwig von Seckendorf;Privatperson: Kanzler Veit Ludwig von Seckendorf;;Kanzlei oder Privathaushalt?;1
-291;Karl Johann Alexander Freiherr von Rotenhan;Privathaus: Karl Johann Alexander Freiherr von Rotenhan;;#;1
-292;Karl-Universität Aschaffenburg;Universität Aschaffenburg;Einheitliche Benennung von Universitäten.;"Anderswo steht nur ""Universität Aschaffenburg""!";1
-293;katholisch;katholisch;s. 124;"Vgl. ""Katholische Kirche""?";63
-294;katholisch];katholisch];Ableitung / betrifft einige Taufen / s. 124;"Vgl. ""Katholische Kirche""?";2
-295;Katholische Kirche;Katholische Kirche;s. 124;#;2
-296;Katholische Westfälische Reichsgrafen;Reichskammergerichtsvisitation, 2. Klasse;Einzelfall: von den Reichsgrafen in die Visitation entsandt, welche Verfasstheit die Grafen hatten, weiß ich nicht speziell.;Kollegium?;1
-297;Kaufmannsgemeinde;Kaufmannsgemeinde Erfurt;;#;4
-298;Kaufmannskirche;Kaufmannsgemeinde Erfurt;;#;1
-299;Kaufmannsschule;Kaufmannsschule Erfurt;;#;2
-300;Kirche;;Nein. → Angabe ist so unsinnig;Weitere Angabe möglich?;1
-301;Kleines Hospital;Kleines Hospital Erfurt;;#;1
-302;Kloser Reiffenstein;Kloster Reiffenstein;;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;2
-303;Kollegiatstift St. Alban;Ritterstift St. Alban Mainz;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;2
-304;Kollegiatstift St. Maria;Kollegiatstift St. Maria Erfurt;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;1
-305;Kollegiatstift St. Peter und Alexander;Kollegiatstift St. Peter und Alexander Aschaffenburg;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;1
-306;Kollegiatstift St. Severin;Kollegiatstift St. Severus Erfurt;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;2
-307;Kollegiatstift St. Severus;Kollegiatstift St. Severus Erfurt;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;5
-308;Kollegiatstift St. Stephan;Kollegiatstift St. Stephan Mainz;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;1
-309;Kollegiatstift St. Viktor;Kollegiatstift St. Viktor Mainz;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;2
-310;Kommerz-Deputation;Kurfürstentum Mainz, Kommerziendeputation;Bezugsebene;#;1
-311;Kommerziendeputation, kurmainzische;Kurfürstentum Mainz, Kommerziendeputation;Bezugsebene;#;1
-312;Königin von Polen und Kurfürstin von Sachsen;Königreich Polen / Kurfürstentum Sachsen;Kontext!;#;1
-313;königlich bayerischer Hof;Königreich Bayern, Hof;;#;1
-314;königlich großbritannische-kurbraunschweigische Justizkanzlei;Kurfürstentum Braunschweig, Justizkanzlei;;Wie soll das erfasst werden?;1
-315;königlich großbritannische-kurbraunschweigische Justizkanzlei;Kurfürstentum Braunschweig, Justizkanzlei;;Substantivierung sinnvoll?;1
-316;königlich hannoveranischer Hof;Königreich Hannover, Hof;;Substantivierung sinnvoll?;1
-317;Königlich-württembergischer katholischer Geistlicher Rat (Kirchenrat);Königreich Württemberg, Kirchenrat;;Synonyme in Klammern sind ungünstig in Datenmodell!;2
-318;Königlich-württembergisches Oberjustizkollegium, 1. Senat;Königreich Württemberg, Oberjustizkollegium, 1. Senat;;#;3
-319;Königreich Bayern, Geheimer Rat;Königreich Bayern, Geheimer Rat;;#;1
-320;Königreich Bayern, Justizdepartement;Königreich Bayern, Justizdepartement;;#;3
-321;Königreich Bayern, Justizministerium;Königreich Bayern, Justizministerium;;#;1
-322;Königreich Bayern, Oberappelationsgericht;Königreich Bayern, Oberappellationsgericht;;Tippfehler;1
-323;Königreich Bayern, Oberappellationsgericht;Königreich Bayern, Oberappellationsgericht München;;#;1
-324;Königreich Bayern, Oberappellationsgericht Amberg;Königreich Bayern, Oberappellationsgericht Amberg;;#;1
-325;Königreich Bayern, Oberappellationsgericht Ansbach;Königreich Bayern, Oberappellationsgericht Ansbach;;#;2
-326;Königreich Bayern, Oberappellationsgericht Straubing;Königreich Bayern, Oberappellationsgericht Straubing;;#;1
-327;Königreich Bayern, Oberste Justizstelle;Königreich Bayern, Oberste Justizstelle Ulm;;#;2
-328;Königreich Bayern, Oberste Justizstelle für Franken;Königreich Bayern, Oberste Justizstelle Bamberg;;#;1
-329;Königreich Bayern, Sektion der Justiz;Sektion der Justiz,  Königreich Bayern;;#;1
-330;Königreich Bayern, Sektion der Justiz;Königreich Bayern, Sektion der Justiz;;#;1
-331;Königreich Bayern, Staatsrat;Königreich Bayern, Staatsrat;;#;1
-332;Königreich Frankreich, Elsässisches Regiment;Königreich Frankreich, Elsässisches Regiment;;#;2
-333;Königreich Polen;Königreich Polen;;#;1
-334;Königreich Preußen, Kriegs- und Domänenkammer;Königreich Preußen, Kriegs- und Domänenkammer;;#;1
-335;Königreich Preußen, Regierung;Königreich Preußen, Regierung;;#;1
-336;Königreich Schweden;Königreich Schweden;;Achtung: Gebietsnamen etc. müssen einheitlich erfasst werden! Automatischen Abgleich mit Ortslisten einrichten!;2
-337;Königriech Schweden, Armee;Königriech Schweden, Militär;Einheitlich.;"Vgl. ähnliche Angaben mit ""Militär"" etc.";2
-338;Königs- und Kaiserwahl Franz' II.;Königs- und Kaiserwahlkonvent;;#;1
-339;Kreis-Feuer-Sozietät des Fürstentums Erfurt und der Herrschaft Blankenhain;Kreis-Feuer-Sozietät Erfurt;Vorschlag, um Bezugsproblem (dass sich ohne spezialrecherche nicht lösen lässt) zu lösen: Institutsname + identifizierender Ortsname;Wie modellieren?;1
-340;Kreis-Infanterie-Regiment von Kerpen;Fürstbistum Würzburg, Kreis-Infanterie-Regiment von Kerpen;;#;3
-341;Kreuz-Stift;Kollegiatstift Heiligkreuz Hildesheim;;#;1
-342;Kurbayerischer Hof;Kurfürstentum Bayern, Hof;;#;4
-343;kurbayerischer Hofrat;Kurfürstentum Bayern, Hofrat;;#;1
-344;Kurerzkanzlerstaat;Fürstentum Regensburg;Die Bezeichnungen für das napoleonische Staatsgebilde gehen in der Literatur weit auseinander und man kann sich da wohl leicht in staatsrechtlichen Details verheddern. Gemeint ist hier das 1803-1810 geschaffene Territorium, dem Dalberg zunächst als Administrator, dann ab 1806 als Fürstprimas und Kurerzkanzler vorstand.;#;3
-345;Kurerzkanzlerstaat];Fürstentum Regensburg];Die Bezeichnungen für das napoleonische Staatsgebilde gehen in der Literatur weit auseinander und man kann sich da wohl leicht in staatsrechtlichen Details verheddern. Gemeint ist hier das 1803-1810 geschaffene Territorium, dem Dalberg zunächst als Administrator, dann ab 1806 als Fürstprimas und Kurerzkanzler vorstand.;#;1
-346;Kurfürst Friedrich August III.;Kurfürstentum Sachsen;;Privathaus? Oder sonstige Einrichtung?;2
-347;Kurfürst Maximilian III.;Kurfürst Maximilian III.;;Privathaus? Oder sonstige Einrichtung?;1
-348;Kurfürst von Mainz;Kurfürstentum Mainz;;Privathaus? Oder sonstige Einrichtung?;1
-349;Kurfürst von Trier;Kurfürstentum Trier, ###;Kontext: spezifischer Institution ergänzen;Privathaus? Oder sonstige Einrichtung?;2
-350;Kurfürstemtum Mainz, Amt Treffurt;Kurfürstemtum Mainz, Amt Treffurt;;#;1
-351;Kurfürstentum Köln;Kurfürstentum Köln;;#;1
-352;Kurfürstentum Köln, Oberappellationsgericht;Kurfürstentum Köln, Oberappellationsgericht Bonn;;#;1
-353;Kurfürstentum Köln, Oberappellationsgericht;Kurfürstentum Köln, Oberappellationsgericht Bonn;;#;1
-354;Kurfürstentum Köln, Weltliches Gericht;Kurfürstentum Köln, Weltliches Gericht Köln;;#;2
-355;Kurfürstentum Köln, Weltliches Gericht zu Köln;Kurfürstentum Köln, Weltliches Gericht Köln;;#;1
-356;Kurfürstentum Mainz;Kurfürstentum Mainz;;#;22
-357;Kurfürstentum Mainz, [Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt];Ableitung und Bezugsebene;#;2
-358;Kurfürstentum Mainz, Amt Algesheim];Kurfürstentum Mainz, Amt Algesheim];Ableitung und Bezugsebene;"Wieso wird hier ""Mainz"" genannt und bei anderen Einträgen für Ämter nicht?";1
-359;Kurfürstentum Mainz, Amt Neubamberg];Kurfürstentum Mainz, Amt Neubamberg];Ableitung und Bezugsebene;"Wieso wird hier ""Mainz"" genannt und bei anderen Einträgen für Ämter nicht?";1
-360;Kurfürstentum Mainz, Amt Olm];Kurfürstentum Mainz, Amt Olm];Ableitung und Bezugsebene;"Wieso wird hier ""Mainz"" genannt und bei anderen Einträgen für Ämter nicht?";1
-361;Kurfürstentum Mainz, Amt Vippach];Kurfürstentum Mainz, Amt Vippach];Ableitung und Bezugsebene;"Wieso wird hier ""Mainz"" genannt und bei anderen Einträgen für Ämter nicht?";1
-362;Kurfürstentum Mainz, Erfurter Staat;Kurfürstentum Mainz, Erfurter Staat;;"Wieso wird hier ""Mainz"" genannt und bei anderen Einträgen für Ämter nicht?";7
-363;Kurfürstentum Mainz, Hof;Kurfürstentum Mainz, Hof;;Mit Ingo besprechen: welche Ontologie ist bislang für Höfe und Hofämter vorgesehen?;1
-364;Kurfürstentum Mainz, Hofgericht;Kurfürstentum Mainz, Hofgericht;;#;1
-365;Kurfürstentum Mainz, Hofkammer;Kurfürstentum Mainz, Hofkammer;;#;1
-366;Kurfürstentum Mainz, Hofrat- und Landesregierung];Kurfürstentum Mainz, Hofrat- und Landesregierung];Ableitung und Bezugsebene;#;1
-367;Kurfürstentum Mainz, Hofrats- und Regierungskollegium;Kurfürstentum Mainz, Hofrat- und Landesregierung;;#;1
-368;Kurfürstentum Mainz, Kammer;Kurfürstentum Mainz, Kammer Erfurt;Bezugsebene;#;1
-369;Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt] ;Ableitung und Bezugsebene;#;2
-370;Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt] ;Ableitung und Bezugsebene;#;2
-371;Kurfürstentum Mainz, Kurfürst Johann Philipp;Kurfürstentum Mainz;Einzelfall, diplomatische Missionen für Kurfürst. Prob. allg. Institutionalisierung/Personalisierung.;#;1
-372;Kurfürstentum Mainz, Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt;;#;1
-373;Kurfürstentum Mainz, Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt];Ableitung und Bezugsebene;#;1
-374;Kurfürstentum Mainz, Stadtgericht Mainz;Kurfürstentum Mainz, Stadtgericht Mainz;;#;1
-375;Kurfürstentum Mainz, Stadtrat zu Erfurt ?];Kurfürstentum Mainz, Stadtrat Erfurt ?];"Ableitung und Bezugsebene; Unsicherheit anders abbilden!?";#;1
-376;Kurfürstentum Mainz, Vizedomamt;Kurfürstentum Mainz, Vizedomamt;;#;1
-377;Kurfürstentum Mainz, Vizedomamt Erfurt];Kurfürstentum Mainz, Vizedomat Erfurt] ;Ableitung und Bezugsebene;#;3
-378;Kurfürstentum Mainz, Vizedomamt zu Erfurt];Kurfürstentum Mainz, Vizedomat Erfurt] ;Ableitung und Bezugsebene;#;1
-379;Kurfürstentum Mainz, Zivil- und Kriminalgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt];;"""Und"" bitte nur, wenn es zum Namen gehört.";1
-380;Kurfürstentum Mainz];Kurfürstentum Mainz] ;Ableitung;#;4
-381;Kurfürstentum Pfalz, Departement der auswärtigen Angelegenheiten;Kurfürstentum Pfalz, Departement der auswärtigen Angelegenheiten;;#;1
-382;Kurfürstentum Pfalz, Pupillenamt;Kurfürstentum Pfalz, Pupillenamt Mannheim;;#;1
-383;Kurfürstentum Pfalz, Regierung;Kurfürstentum Pfalz, Regierung;;#;1
-384;Kurfürstentum Pfalz, Stadtgericht;Kurfürstentum Pfalz, Stadtgericht Mannheim;;#;1
-385;Kurfürstentum Sachsen;Kurfürstentum Sachsen;;#;1
-386;Kurfürstentum Sachsen, Hof;Kurfürstentum Sachsen, Hof;;#;2
-387;Kurfürstentum Salzburg, Hofgericht;Kurfürstentum Salzburg, Hofgericht;;#;2
-388;Kurfürstentum Trier;Kurfürstentum Trier;;#;2
-389;Kurfürstentum Trier, Hof;Kurfürstentum Trier, Hof;;#;1
-390;Kurfürstentum Trier, Hofgericht;Kurfürstentum Trier, Hofgericht;;#;3
-391;Kurfürstentum Trier, Hofrentkammer;Kurfürstentum Trier, Hofrentkammer;;#;1
-392;Kurfürstentum Trier, Hohes weltliches Gericht (Schöffengericht);Kurfürstentum Trier, Hohes weltliches Gericht;;#;1
-393;Kurfürstentum Trier, Hohes weltliches Gericht (Schöffengericht);Kurfürstentum Trier, Hohes weltliches Gericht;;Beschreibung in runder Klammer ungünstig: mit Ingo besprechen!;1
-394;Kurfürstentum Trier, Offizialat;Kurfürstentum Trier, Offizialat;;#;1
-395;Kurfürstentum Trier, Revisionsgericht;Kurfürstentum Trier, Revisionsgericht;;#;1
-396;kurfürstlich mainzische Stadtgerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;3
-397;kurfürstlich mainzisches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;1
-398;kurfürstlich mainzisches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;1
-399;Kurfürstliche Akademie nützlicher Wissenschaften;Akademie nützlicher Wissenschaften Erfurt;;#;9
-400;Kurhessischer Hof;Kurfürstentum Hessen, Hof;;Besser so, wenn alle Hofämter leicht abgefragt werden sollen?;1
-401;Kurkölnische Ritterschaft;Ritterschaft, Kurfürstentum Köln;;#;1
-402;Kurpfälzische Gerichte;Gerichte, Kurpfalz;;#;1
-403;Kurrheinischer Kreiskonvent;Reichskreis, Kurrhein, Kreiskonvent;;#;1
-404;Kurüfrstentum Mainz, Hofkammer;Hofkammer, Kurfürstentum Mainz;;#;1
-405;Kurüfrstentum Mainz, Hofkammer;Hofkammer, Kurfürstentum Mainz;;Tippfehler;1
-406;Land- und Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;2
-407;Landgericht;Landgericht;;#;2
-408;Landgrafschaft Hessen-Kassel;Landgrafschaft Hessen-Kassel;;#;3
-409;Landgrafschaft Hessen-Kassel, Oberappellationsgericht;Landgrafschaft Hessen-Kassel, Oberappellationsgericht Kassel;;#;2
-410;Landgrafschaft Hessen-Kassel, Regierung;Landgrafschaft Hessen-Kassel, Regierung;;#;1
-411;Landgrafschaft Hessen-Rheinfels-Rotenburg;Landgrafschaft Hessen-Rheinfels-Rotenburg;;#;3
-412;Landtag des Herzogtums Westfalen;Herzogtum Westfalen, Landtag;;#;1
-413;Lateinschule in Duderstadt;Lateinschule Duderstadt;;#;1
-414;lutherisch;lutherisch;;"In ""Titel"" und ""Funktion"" stand auch ""evangelisch-lutherisch""?";1
-415;Mägdleinschule;Mägdleinschule;;#;1
-416;Mainzer Hof;Kurfürstentum Mainz, Hof;;#;1
-417;Markgrafschaft Baden;Markgrafschaft Baden;;#;1
-418;Markgrafschaft Baden-Baden, Vordere Grafschaft Sponheim;Markgrafschaft Baden-Baden, Vordere Grafschaft Sponheim;;#;3
-419;Markgrafschaft Brandenburg-Ansbach, Hof-, Regierungs- und Justizsenat;Markgrafschaft Brandenburg-Ansbach, Hof-, Regierungs- und Justizsenat;;#;2
-420;Merkantildeputation;Merkantildeputation;;#;4
-421;Ministerrat;Ministerrat;;#;1
-422;Mittelrheinische Reichsritterschaft;Reichsritterschaft, Mittelrhein;;#;4
-423;Niederrheinische Reichsritterschaft;Reichsritterschaft, Niederrhein;;#;15
-424;Oberamt Amöneburg;Kurfürstentum Mainz, Oberamt Amöneburg;;#;1
-425;Oberamt Amöneburg];Kurfürstentum Mainz, Oberamt Amöneburg];Ableitung und Bezugsebene;#;1
-426;Oberappellationsgericht;Königreich Bayern, Oberappellationsgericht München;;#;2
-427;Oberheinische Reichsritterschaft;Reichsritterschaft, Oberrhein;;#;1
-428;Oberhofgericht;Großherzogtum Baden, Oberhofgericht Mannheim;;#;2
-429;Oberlandgericht zu Heiligenstadt;Kurfürstentum Mainz, Oberlandgericht Heiligenstadt;Bezugsebene?;Hier Institution und Ort trennen? Hängt auch von Abfragewünschen ab?;1
-430;Oberrheinische Reichsritterschaft;Reichsritterschaft, Oberrhein;;#;4
-431;Oberrheinischer Reichskreis;Reichskreis, Oberrhein;;#;1
-432;österreichische Geheime Hof- und Staatskanzlei;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei;Problem: differende Bezeichnungen schon zeitgenössisch. Offizielle Bezeichnung laut Archivfindmittel verwenden.;Zu Österreich scheint es abweichende Bezeichnungen der Hofkanzlei zu geben? Bitte im Datensatz prüfen.;1
-433;Österreichische Haus-, Hof- und Staatskanzlei;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei;Problem: differende Bezeichnungen schon zeitgenössisch. Offizielle Bezeichnung laut Archivfindmittel verwenden.;Bezeichnung problematisch, wenn wir das Komma als Trennung von Attributen verwenden!;1
-434;Österreichische Haus-, Hof- und Staatskanzlei, Referat für die deutschen Bundesangelegenheiten;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei, Referat für die deutschen Bundesangelegenheiten;Problem: differende Bezeichnungen schon zeitgenössisch. Offizielle Bezeichnung laut Archivfindmittel verwenden.;Bezeichnung problematisch, wenn wir das Komma als Trennung von Attributen verwenden!;1
-435;Pädagogium Marburg;Pädagogium Marburg;;#;2
-436;Peterskloster;Peterskloster;;#;1
-437;Petersstift;Kollegiatstift St. Peter Fritzlar;;#;2
-438;Polizeydepartement;Polizeydepartement;;#;1
-439;Predigergemeinde;Predigergemeinde Erfurt;;#;4
-440;Predigerschule;Predigerschule;;#;2
-441;preußisch-sächsische Ausgleichsverhandlungen, österreichische Delegation zur Vermittlung;preußisch-sächsische Ausgleichsverhandlungen, österreichische Delegation r Vermittlung;;Wie modellieren?;1
-442;Prinz von Dänemark;Prinz von Dänemark;;#;1
-443;Probstei Wechterswinkel];Probstei Wechterswinkel];Ableitung;#;2
-444;Pütter;Privatperson: Johann Stephan Pütter;;#;1
-445;Rastatter Kongress;Rastatter Kongress;;#;1
-446;Rastatter Kongress, fürstbischöflich würzburgische Gesandtschaft;Rastatter Kongress, Gesandtschaft, Fürstbistum Würzburg;;#;1
-447;Ratsgymnasium;Ratsgymnasium Erfurt;;#;11
-448;Rechtsschule Wetzlar;Rechtsschule Wetzlar;;#;1
-449;Reformierte Gemeinde zu Marburg;Reformierte Gemeinde  Marburg;;"Anderswo: ""evangelisch-reformiert""?";1
-450;Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt;"Bezugsebene / Wie kommst du auf das Eichsfeld? Regiertes Gebiet ist der ""Erfurter Staat"" (nicht der ""Eichsfelder Staat"").";"""Erfurt"" als Ort denken? Regiertes Gebiet ist das ""Eichsfeld""?";121
-451;Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt;Bezugsebene;#;149
-452;Regierung zu Erfurt?];Kurfürstentum Mainz, Regierung Erfurt?];Ableitung und Bezugsebene;#;1
-453;Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt;Ableitung und Bezugsebene;#;32
-454;Regierung zu Erfurt];Kurfürstentum Mainz Regierung Erfurt] ;Ableitung und Bezugsebene;#;20
-455;Regierung zu Erfurt];Kurfürstentum Mainz Regierung Erfurt] ;Ableitung und Bezugsebene;#;63
-456;Regierung zu Erufrt;Kurfürstentum Mainz, Regierung Erfurt;Ableitung und Bezugsebene;#;1
-457;Regierung zu Erufrt;Kurfürstentum Mainz, Regierung Erfurt;Ableitung und Bezugsebene;#;1
-458;Regierung zzu Erfurt];Kurfürstentum Mainz Regierung Erfurt] ;Ableitung und Bezugsebene;#;1
-459;Regierungs-Justizsenat;Regierungs-Justizsenat;;#;1
-460;Reglergemeinde;Reglergemeinde Erfurt;;#;1
-461;Reglerkirche;Reglerkirche;;#;1
-462;Reglerschule;Reglerschule;;#;1
-463;Reichsabtei Salem (Salmansweiler);Reichsabtei Salem (Salmansweiler);;#;1
-464;Reichshofkanzlei, deutsche Expedition;Heiliges Römisches Reich, Reichshofkanzlei, deutsche Expedition;"Bezugsebene ""Heiliges Römisches Reich einfügen?";#;9
-465;Reichshofkanzlei, lateinische Expedition;Heiliges Römisches Reich, Reichshofkanzlei, lateinische Expedition;"Bezugsebene ""Heiliges Römisches Reich einfügen?";#;4
-466;Reichshofrat;Reichshofrat;;#;33
-467;Reichskammergericht;Reichskammergericht;;#;408
-468;Reichskammergerichts-Visitationskommission;Reichskammergerichts-Visitationskommission;;#;1
-469;Reichspostamt Worms;Reichspostamt Worms;;#;1
-470;Reichsritterschaft;Reichsritterschaft;;#;5
-471;Reichstag;Reichstag Regensburg;;#;29
-472;Reichstag, kurmainzische Direktorialkanzlei;Reichstag Regensburg, Direktorialkanzlei;Ist eindeutig.;#;1
-473;Reichstag, kurmainzische Direktorialkanzlei;Reichstag Regensburg, Direktorialkanzlei;Ist eindeutig.;#;1
-474;Reichstag, kurpfalzbayerische Gesandtschaft;Reichstag Regensburg;Gesandtenproblem → Abbildung Dienstherr als Zusatz der Funktion;#;1
-475;Reichstag?];Reichstag Regensburg?];Ableitung;#;1
-476;Reichsversammlung;Reichstag Regensburg;;#;9
-477;Reichsversammlung / Kurfürstentum Mainz;Reichstag Regensburg;Gesandtenproblem → Abbildung Dienstherr als Zusatz der Funktion;#;1
-478;Reichsvikariatshofgericht;Reichsvikariatshofgericht München;;#;1
-479;Rhein. Vik.Hofgericht;Reichsvikariatshofgericht München;Schreibfehler der Quelle. Muss Reichsvikariatshofgericht München sein.;#;1
-480;Rheinbund;Rheinbund;;#;5
-481;Rheinische Reichsritterschaft;Reichsritterschaft, Rhein;"Eigentlich: Niederrhein, Mittelrhein oder Oberrhein. Quelle spezifiziert nicht. Kunstgebilde ""Rheinisch"". Besser: Zuordnung Mittel-/Nieder-/Oberrhein + Unsicherheit?";#;1
-482;Ritterakademie;Ritterakademie Wien;;#;1
-483;Ritterstift St. Alban;Ritterstift St. Alban Mainz;;#;2
-484;Ritterstift St. Ferrutius zu Bleidenstadt;Ritterstift St. Ferrutius Bleidenstadt;NB: Der zugehörige Ort ist hier Mainz!;#;3
-485;RKG-Assessor Johann Stephan von Speckmann;Privatperson: Reichskammergerichtsassessor Johann Stephan von Speckmann;;#;1
-486;RKG-Assessor Tönnemann;Privatperson: Reichskammergerichtsassessor Tönnemann;;#;1
-487;RKG-Visitation;Reichskammergericht, Vistation;;#;2
-488;RKG-Visitation, 3. Klasse;Reichskammergericht, Vistation, 3. Klasse;;#;1
-489;Sachsen-Eisenach;Herzogtum Sachsen-Eisenach;;#;2
-490;Sachsenkolleg;Sachsenkolleg Erfurt;;#;2
-491;Sachsen-Kollegium;Sachsenkolleg Erfurt;;#;3
-492;sächsischer Hof;Kurfürstentum Sachsen, Hof;;#;1
-493;Salpeterwerk Halberstadt;Fürstentum Halberstadt, Salpeterwerke;Die Quellen sind hier missverständlich. Unklar, ob Werke in Magdeburg/Halberstadt oder die Werke der Terriotorien anderswo gemeint sind.;#;1
-494;Salpeterwerk Magdeburg;Herzogtum Magdeburg, Salpeterwerke;Die Quellen sind hier missverständlich. Unklar, ob Werke in Magdeburg/Halberstadt oder die Werke der Terriotorien anderswo gemeint sind.;#;1
-495;Schreib- und Rechenschule;Barfüßerschule Erfurt;;#;1
-496;Schule;;"Angabe lässt sich anhand der Quelle nicht spezifizieren; ist so unbrauchbar → raus";#;1
-497;Schule zu den Predigern;Predigerschule;;#;1
-498;Schwäbische Reichsgrafen;Reichskammergerichtsvisitation, 3. Klasse / Reichskammergerichtsvisitation, 4. Klasse ###;Einzelfall: von den Reichsgrafen in die Visitation entsandt, welche Verfasstheit die Grafen hatten, weiß ich nicht speziell. Manuelle Nachbearbeitung der Daten nötig wg. unters. Klassen.;Kollegium?;2
-499;Schwäbische Reichsritterschaft, Bezirk Ortenau;Reichsritterschaft, Schwaben, Bezirk Ortenau;;#;2
-500;Schwäbische Reichsritterschaft, Kanton an der Donau;Reichsritterschaft, Schwaben, Kanton Donau;;#;1
-501;Schwäbische Reichsritterschaft, Kanton im Hegau, Allgäu und am Bodensee;Schwäbische Reichsritterschaft, Kanton Hegau-Allgäu-Bodensee;;#;2
-502;Schwäbische Reichsritterschaft, Kanton Kocher;Reichsritterschaft, Schwaben, Kanton Kocher;;#;1
-503;Schwäbische Reichsritterschaft, Kanton Neckar-Schwarzwald;Reichsritterschaft, Schwaben, Kanton Neckar-Schwarzwald;;#;1
-504;Schwäbischer Reichskreis;Reichskreis, Schwaben;;#;2
-505;Schwarzwaldtkreis;Schwarzwaldkreis;;#;1
-506;Seminar St. Kilian Würzburg;Seminar St. Kilian Würzburg;;#;1
-507;Severistift;Kollegiatstift St. Severus Erfurt;;#;1
-508;Severusstift;Kollegiatstift St. Severus Erfurt;;#;1
-509;Sigilliferat;Erzbistum Mainz, Geistliches Gericht Erfurt;;#;5
-510;St. Alban;Ritterstift St. Alban Mainz;;#;1
-511;St. Alban;Ritterstift St. Alban Mainz;;#;1
-512;St. Andreas-Schule;Andreanum Hildesheim;;"Anderswo: ""Andreasschule""?";1
-513;St. Maria zu Erfurt;Kollegiatstift St. Maria, Erfurt;;#;1
-514;St. Severus-Stift;Kollegiatstift St. Severus Erfurt;;#;2
-515;Staatsrat;Königreich Bayern, Staatsrat;Bislang eindeutig.;#;1
-516;Stadt Erfurt;Stadt Erfurt;;#;11
-517;Stadt Köln;Stadt Köln;;#;1
-518;Stadterichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;1
-519;Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;16
-520;Stadtgericht zu Erfurt, kurmainzisches;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;1
-521;Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-522;Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-523;Stadtgerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;3
-524;Stadtgerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;2
-525;Stadtgerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;8
-526;Stadtgerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-527;Stadtgerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-528;Stadtrat;Stadtrat Erfurt;Bislang eindeutig.;#;3
-529;Stadtrat 1729;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;"Generell Frage klären, welche Info als ""Name"" der Institution gilt, und was als Attribut mit Komma getrennt wird!";1
-530;Stadtrat 1729;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;1
-531;Stadtrat 1730;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;1
-532;Stadtrat 1730;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;1
-533;Stadtrat 1731;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;3
-534;Stadtrat 1731;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;3
-535;Stadtrat zu Erfrurt];Kurfürstentum Mainz, Stadtrat Erfurt] ;Ableitung und Bezugsebene;Tippfehler;2
-536;Stadtrat zu Erfrurt];Kurfürstentum Mainz, Stadtrat Erfurt] ;Ableitung und Bezugsebene;Tippfehler;2
-537;Stadtrat zu Erfurt;Stadtrat Erfurt;;Erfurt steht hoffentlich auch im Ort??;51
-538;Stadtrat zu Erfurt;Stadtrat Erfurt;;#;104
-539;Stadtrat zu Erfurt?];Kurfürstentum Mainz, Stadtrat Erfurt?];Ableitung und Bezugsebene;#;2
-540;Stadtrat zu Erfurt?];Kurfürstentum Mainz, Stadtrat Erfurt?];Ableitung und Bezugsebene;#;2
-541;Stadtrat zu Erfurt];Stadtrat Erfurt;;#;3
-542;Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt] ;Ableitung und Bezugsebene;#;61
-543;Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt] ;Ableitung und Bezugsebene;#;269
-544;Stadtrat zu eRfurt];Kurfürstentum Mainz, Stadtrat Erfurt] ;Ableitung und Bezugsebene;Tippfehler;1
-545;Stadtrat zu Gotha?];Stadtrat Gotha?];Bezug?;#;2
-546;Stadtratstransitus 1665;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;1
-547;Stadtratstransitus 1665;Stadtrat Erfurt;Die Jahreszahlen beziehen sich auf den Transitus (dreijährlicher Turnus des amtierenden Ratsgremiums). Das ist ein Erfurter Spezifikum. M.E. ist für uns eine Unterscheidung nicht nötig, zumal nicht auf Institutionenebene.;#;1
-548;Stadtsyndikus Georg Lauterbrunn;Privatperson: Stadtsyndikus Georg Lauterbrunn;;#;1
-549;Stadtvogtei;Stadtvogtei Erfurt;;#;3
-550;Statthaltereiamt;Kurfürstentum Mainz, Regierung Erfurt;;#;13
-551;Stift St. Marien;Kollegiatstift St. Maria Erfurt;Ortsnennung zwecks Identifikation nötig;An anderer Stelle werden Stifte und Klöster mit Ort genannt. Ortsnennung meiner Meinug nach optional nach Komma?;2
-552;Stradtrat 1709;Stadtrat Erfurt;;#;1
-553;Stradtrat 1709;Stadtrat Erfurt;;#;1
-554;Syndikus der Stadt Köln Eschenbrenner;Privatperson: Syndikus der Stadt Köln Eschenbrenner;;#;1
-555;Teutsche Gesellschaft  Jena;Deutsche Gesellschaft Jena;;#;1
-556;Theresianische Ritterakademie;Ritterakademie Wien;;#;1
-557;Thomasgemeinde;Thomasgemeinde Erfurt;;#;1
-558;Univeristät Erfurt, Juristische Fakultät;Univeristät Erfurt, Juristische Fakultät;;#;2
-559;Univeristät Erfurt?];Univeristät Erfurt?] ;Ableitung;#;1
-560;Univeristät Erfurt?];Univeristät Erfurt?];Ableitung;#;1
-561;Univeristät Würzburg;Univeristät Würzburg;;#;2
-562;Universität Altdorf;Universität Altdorf;;#;4
-563;Universität Aschaffenburg;Universität Aschaffenburg;;#;3
-564;Universität Bamberg;Universität Bamberg;;#;3
-565;Universität Bamberg ?];Universität Bamberg ?] ;Ableitung;#;1
-566;Universität Bamberg [?];Universität Bamberg ?];Ableitung;#;1
-567;Universität Bamberg];Universität Bamberg];Ableitung;#;2
-568;Universität Basel;Universität Basel;;#;1
-569;Universität Dillingen;Universität Dillingen;;#;1
-570;Universität Erfurt;Universität Erfurt;;#;103
-571;Universität Erfurt, Corpus Amplonianum;Universität Erfurt, Corpus Amplonianum;;#;2
-572;Universität Erfurt, Hebammeninstitut;Universität Erfurt, Hebammeninstitut;;#;2
-573;Universität Erfurt, Juristenfakultät;Universität Erfurt, Juristsiche Fakultät;;#;1
-574;Universität Erfurt, Juristenkolleg;Universität Erfurt, Juristsiche Fakultät;;#;1
-575;Universität Erfurt, juristische Fakultät;Universität Erfurt, Juristische Fakultät;;#;10
-576;Universität Erfurt, juristische Fakultät];Universität Erfurt, Juristische Fakultät] ;Ableitung;#;1
-577;Universität Erfurt, juristische Fakultät];Universität Erfurt, Juristische Fakultät] ;Ableitung;#;5
-578;Universität Erfurt, Medizinische Fakultät;Universität Erfurt, Medizinische Fakultät;;#;2
-579;Universität Erfurt, Philosophische Fakultät;Universität Erfurt, Philosophische Fakultät;;#;5
-580;Universität Erfurt, philosophische Fakultät, Corpus majoristicum;Universität Erfurt, Philosophische Fakultät, Corpus majoristicum;;#;1
-581;Universität Erfurt, theologische Fakultät;Universität Erfurt, Theologische Fakultät;;#;2
-582;Universität Erfurt?];Universität Erfurt] ;Ableitung;#;1
-583;Universität Erfurt?];Universität Erfurt?];Ableitung;#;1
-584;Universität Erfurt];Universität Erfurt];Ableitung;#;3
-585;Universität Erfurt];Universität Erfurt] ;Ableitung;#;73
-586;Universität Franeker;Universität Franeker;;#;1
-587;Universität Frankfurt an der Oder;Universität Frankfurt an der Oder;;#;1
-588;Universität Freiburg;Universität Freiburg;;#;1
-589;Universität Gießen;Universität Gießen;;#;1
-590;Universität Göttingen;Universität Göttingen;;#;5
-591;Universität Göttingen];Universität Göttingen];Ableitung;#;1
-592;Universität Halle;Universität Halle;;#;2
-593;Universität Heidelberg;Universität Heidelberg;;#;5
-594;Universität Heidelberg];Universität Heidelberg];Ableitung;#;1
-595;Universität Helmstädt];Universität Helmstedt] ;Ableitung;#;4
-596;Universität Helmstädt];Universität Helmstedt];Ableitung;#;10
-597;Universität Helmstedt;Universität Helmstedt;;#;4
-598;Universität Helmstedt];Universität Helmstedt] ;Ableitung;#;1
-599;Universität Helmstedt];Universität Helmstedt];Ableitung;#;2
-600;Universität Ingolstadt;Universität Ingolstadt;;#;4
-601;Universität Ingolstadt, juristische Fakultät;Universität Ingolstadt, Juristische Fakultät;;#;1
-602;Universität Ingolstadt];Universität Ingolstadt];Ableitung;#;1
-603;Universität Innsbruck;Universität Innsbruck;;#;1
-604;Universität Jena;Universität Jena;;#;7
-605;Universität Jena, Philosophische Fakultät;Universität Jena, Philosophische Fakultät;;#;1
-606;Universität Jena];Universität Jena] ;Ableitung;#;6
-607;Universität Jena];Universität Jena];Ableitung;#;17
-608;Universität Köln;Universität Köln;;#;1
-609;Universität Leiden;Universität Leiden;;#;1
-610;Universität Leiden];Universität Leiden] ;Ableitung;#;1
-611;Universität Leiden];Universität Leiden];Ableitung;#;1
-612;Universität Leipzig;Universität Leipzig;;#;10
-613;Universität Leipzig, juristische Fakultät;Universität Leipzig, Juristische Fakultät;;#;1
-614;Universität Leipzig];Universität Leipzig];Ableitung;#;2
-615;Universität Mainz;Universität Mainz;;#;24
-616;Universität Mainz, juristische Fakultät;Universität Mainz, Juristische Fakultät;;#;5
-617;Universität Mainz];Universität Mainz] ;Ableitung;#;1
-618;Universität Marburg;Universität Marburg;;#;4
-619;Universität Marburg];Universität Marburg] ;Ableitung;#;4
-620;Universität Marburg];Universität Marburg];Ableitung;#;6
-621;Universität Metz];Universität Metz];Ableitung;#;1
-622;Universität Nancy];Universität Nancy];Ableitung;#;1
-623;Universität Orléans;Universität Orléans;;#;1
-624;Universität Paris];Universität Paris];Ableitung;#;1
-625;Universität Pavia;Universität Pavia;;#;1
-626;Universität Plombières];Universität Plombières];Ableitung;#;1
-627;Universität Prag;Universität Prag;;#;1
-628;Universität Prag];Universität Prag];Ableitung;#;2
-629;Universität Rinteln;Universität Rinteln;;#;1
-630;Universität Rinteln];Universität Rinteln];Ableitung;#;1
-631;Universität Straßburg;Universität Straßburg;;#;4
-632;Universität Straßburg?];Universität Straßburg?];Ableitung;#;2
-633;Universität Straßburg];Universität Straßburg] ;Ableitung;#;1
-634;Universität Straßburg];Universität Straßburg];Ableitung;#;1
-635;Universität Tübingen;Universität Tübingen;;#;3
-636;Universität Tübingen];Universität Tübingen];Ableitung;#;4
-637;Universität Upsala;Universität Uppsala;;#;1
-638;Universität Wien;Universität Wien;;#;4
-639;Universität Wien];Universität Wien] ;Ableitung;#;1
-640;Universität Wien];Universität Wien];Ableitung;#;1
-641;Universität Wittenberg;Universität Wittenberg;;#;1
-642;Universität Würzburg;Universität Würzburg;;#;2
-643;Universität Würzburg];Universität Würzburg];Ableitung;#;3
-644;Vereinigte Niederlande;Vereinigte Niederlande, Militär;Ind Daten bislang Spezifizierung eindeutig.;Ingo: müssen über Erfassung von Ländern außerhalb des HRR unterhalten!;2
-645;Verwaltungsrat des Generalgouverneurs;Großherzogtum Frankfurt, Verwaltungsrat;;#;1
-646;Viertel Unter-Wienerwald (N.Ö.);Erzherzogtum Österreich, Kreis Viertel Unter-Wienerwald;;#;1
-647;Vizedomamt;Kurfürstentum Mainz, Vizedomamt Erfurt;"Potenziell auch andere Vizdedomämter; in unseren Daten bisher aber nur Erfurt.";#;2
-648;Vizedomamt Rheingau];Kurfürstentum Mainz, Vizedomamt Rheingau];Ableitung und Bezugsebene;#;2
-649;Vizedomamt zu Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt;;#;12
-650;Vizedomamt zu Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt;;#;12
-651;Vizedomamt];Kurfürstentum Mainz, Vizedomat Erfurt] ;Ableitung und Bezugsebene;#;9
-652;Vizedomamt];Kurfürstentum Mainz, Vizedomat Erfurt] ;Ableitung und Bezugsebene;#;2
-653;Wahl Franz' II.;Königs- und Kaiserwahlkonvent;;Streng genommen Ereignis: wie modellieren?;1
-654;Wahl Leopolds II.;Königs- und Kaiserwahlkonvent;;Streng genommen Ereignis: wie modellieren?;1
-655;Wahlkonvent;Königs- und Kaiserwahlkonvent;;#;1
-656;Weltliche Gerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt;"Zeitweise hatte ich auf die Ortsangabe bei Institutionen verzichtet, da Schreibarbeit und Information im Kontext klar. / Achtung bzgl. Mapping: Bei momentanem Stand der Datenerfassung (und voraussichtlich für DigiKAR gesamt) ist die Zuordnung zu Erfurt klar. Aber natürlich gab es auch anderswo ""Weltliche Gerichte"". ";"Anderswo sind ""Weltliche Gerichte"" noch genauer bezeichnet?";1
-657;weltliche Gerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt;Aus Auswertungssicht sollte der Ort im Namen stehen. Nur zur Erfassung in Excel ist das etwas lästig.;Mit Ort im Institutionennamen? Hängt meiner Meinung nach davon ob, wie wir nachher abfragen wollen, @Ingo!;3
-658;weltliche Gerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;3
-659;Weltliche Gerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-660;Weltliche Gerichte];Kurfürstentum Mainz, Weltliches Gericht Erfurt];Ableitung und Bezugsebene;#;1
-661;Weltliche Stadtgercihte;Kurfürstentum Mainz, Weltliches Gericht Erfurt;;#;1
-662;Weltliches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;Im Vordergrund stehen für uns die Ortsbezüge der Station!;"Frage: interessieren uns mehr die ""Gerichte"", oder geht es uns eher darum, ob eine Institution weltlich oder geistlich ist?";11
-663;Weltliches Gericht?];Kurfürstentum Mainz, Weltliches Gericht Erfurt?];Ableitung und Bezugsebene;#;2
-664;Weltliches Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;Im Vordergrund stehen für uns die Ortsbezüge der Station!;"Frage: interessieren uns mehr die ""Gerichte"", oder geht es uns eher darum, ob eine Institution weltlich oder geistlich ist?";1
-665;Westfälischer Friedenskongress;Westfälischer Friedenskongress;;#;2
-666;Westfälischer Landtag;Herzogtum Westfalen, Landtag;;Substantivierung sinnvoll?;1
-667;Wiener Kongress;Wiener Kongress;;#;1
-668;Wiener Kongress, Metternich-Kommission;Wiener Kongress, Metternich-Kommission;;#;1
-669;Wollfabrik;Wollfabrik Erfurt;;#;1
-670;Württembergische Erste Kammer der Standesherren;Königriech Württemberg, Erste Kammer der Standesherren;;Substantivierung sinnvoll?;1
-671;Wwahlkonvent, königlich böhmische Kanzlei;Königs- und Kaiserwahlkonvent, königlich böhmische Kanzlei;;"Oder: ""Kanzlei, Königreich Böhmen""?";1
-672;Zivil- und Kriminalgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt;Die Institution wird teilweise so bezeichnet. Es gibt aber auch einige andere, daher Vereinheitlichung.;Heißt die Institution so, oder sind es 2 Gerichte?;2
-673;Zweite Kammer der bayerischen Stände;Königreich Bayern, Kammer der Abgeordneten;;#;1
-;;;;;
+﻿id;institution_old;institution_new_fs
+1;gemeinschaftlich kurpfälzisch-kurbayerisches Reichsvikatiatshofgericht;Reichsvikariatshofgericht, Kurpfalz-Kurbayern
+2;Graf von Metternich-Winneburg[-Beilstein];Privathaus, Graf von Metternich-Winneburg-Beilstein] ###
+3;Gymnasium;Gymnasium ###
+4;Jesuiten;Jesuiten ###
+5;Jesuitengymnasium;Jesuitengymnasium ###
+6;Kaiser;Kaiser ###
+7;Königreich Bayern, Staatsministerium der Justiz;Königreich Bayern, Justizministerium
+8;Kurfürstentum Mainz / kaiserlicher Hof;Kaiser, Hof
+9;Kurfürstentum Mainz, Großes Hospital zu Erfurt;Kurfürstentum Mainz, Großes Hospital Erfurt
+10;Niedersächsischer Reichskreis / Kaiser;Reichskreis, Niedersachsen
+11;Rheinische Reichsritterscahft;Reichsritterschaft, Rhein
+12;Schwäbische Reichsritterschaft, Kanton im Hegau, Allgäu und am Bodensee;Schwäbische Reichsritterschaft, Kanton Hegau-Allgäu-Bodensee
+13;Zentraldepartement;Zentraldepartement
+14;[Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt]
+15;böhmisch-österreichische Hofkanzlei;Königreich Böhmen, Hofkanzlei / Erzherzogtum Österreich, Hofkanzlei
+16;Erfurter Staat, Kommerziendeputation;Kurfürstentum Mainz, Kommerziendeputation Erfurt
+17;Erzbistum Mainz, Stift B.M.V. zu Erfurt;Kollegiatstift St. Maria Erfurt
+18;evangelisch;
+19;Fürstbischof von Augsburg;Fürstbischof von Augsburg
+20;Philipp Wilhelm von Boineburg #233;Person, Philipp Wilhelm von Boineburg #233
+21;Vereinigte K.K. Hofkanzlei;Kaiserreich Österreich, Vereinigte K.K. Hofkanzlei
+22;Akademie Bamberg;Akademie Bamberg
+23;"""Freimaurerloge ""Joseph zu den drei Helmen""";"Freimaurer, Loge ""Joseph zu den drei Helmen"" [+ Ort?]"
+24;?];
+25;@;###
+26;[?];
+27;[Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt]
+28;[Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt]
+29;[Kurfürstentum Mainz, Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt]
+30;[Kurfürstentum Mainz, Stadtrat zu Erfurt ?];Kurfürstentum Mainz, Stadtrat Erfurt ?]
+31;[Kurfürstentum Mainz, Vizedomamt Erfurt];Kurfürstentum Mainz, Vizedomamt Erfurt]
+32;[Kurfürstentum Mainz, Vizedomamt zu Erfurt];Kurfürstentum Mainz, Vizedomamt Erfurt]
+33;[Kurfürstentum Mainz];Kurfürstentum Mainz]
+34;[Regierung zu Erfurt?];Kurfürstentum Mainz, Regierung Erfurt?]
+35;[Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt]
+36;[Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+37;[Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt]
+38;[Universität Erfurt];Universität Erfurt]
+39;[Universität Mainz];Universität Mainz]
+40;[Vizedomamt];Kurfürstentum Mainz, Vizedomamt Erfurt]
+41;[Weltliches Gericht?];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+42;2. Bayerische Kammer;Königreich Bayern, Kammer der Abgeordneten
+43;Adam Tils $ Advokat;Advokatur, Adam Tils
+44;adliges Haus derer von Besche;Privathaus, von Besche
+45;Akademie der Wissenschaften;Akademie der Wissenschaften München
+46;Akademie der Wissenschaften zu Erfurt;Akademie nützlicher Wissenschaften Erfurt
+47;Akademie nützlicher Wissenschaften;Akademie nützlicher Wissenschaften Erfurt
+48;Akademisches Gymnasium;Akademisches Gymnasium Konstanz
+49;Allerheiligenkirche;Allerheiligenkirche Erfurt
+50;Allerheiligenkirche Erfurt;Allerheiligenkirche Erfurt
+51;Amt Alach;Kurfürstentum Mainz, Amt Alach
+52;Amt Azmannsdorf;Kurfürstentum Mainz, Amt Azmannsdorf
+53;Amt Fritzlar;Kurfürstentum Mainz, Amt Fritzlar
+54;Amt Fritzlar];Kurfürstentum Mainz, Amt Fritzlar]
+55;Amt Gleichenstein;Kurfürstentum Mainz, Amt Gleichenstein
+56;Amt Harburg;Kurfürstentum Mainz, Amt Harburg
+57;Amt Mühlberg;Kurfürstentum Mainz, Amt Mühlberg
+58;Amt Naumburg;Kurfürstentum Mainz, Amt Naumburg
+59;Amt Sömmerda;Kurfürstentum Mainz, Amt Sömmerda
+60;Amt Sontra;Kurfürstentum Mainz, Amt Sontra
+61;Amt Tonndorf;Kurfürstentum Mainz, Amt Tonndorf
+62;Amt Treffurt];Kurfürstentum Mainz, Amt Treffurt]
+63;Amt Vippach;Kurfürstentum Mainz, Amt Vippach
+64;Amt Vippach];Kurfürstentum Mainz, Amt Vippach]
+65;Andreanum;Andreanum Hildesheim
+66;Andreasgemeinde;Andreasgemeinde Erfurt
+67;Andreasschule;Andreanum Hildesheim
+68;Appellationsgericht für Böhmen und Mähren;Appellationsgericht, Böhmen / Mähren
+69;Assoziationstag der Reichskreise;Assoziationstag, Reichskreise
+70;Athenäum;Athenäum Trier
+71;Augustinergemeinde;Augustinergemeinde Erfurt
+72;Augustinerkirche zu Erfurt;Augustinerkirche Erfurt
+73;Augustinerschule;Augustinerschule Erfurt
+74;außerordentliche Reichsdeputation;Reichsdeputation, außerordentliche
+75;Barfüßerkirche;Barfüßerkirche Erfurt
+76;Barfüßerkirchengemeinde;Barfüßerkirche Erfurt
+77;Barfüßerschule;Barfüßerschule Erfurt
+78;Baron Heinrich Horn;Privathaus, Baron Heinrich Horn
+79;Bayerische Akademie der Wissenschaften;Bayerische Akademie der Wissenschaften
+80;Bayerische Deputiertenkammer;Königreich Bayern, Kammer der Abgeordneten
+81;Bayerische Ständekammer;Königreich Bayern, Kammer der Abgeordneten
+82;Bistum Konstanz;Bistum Konstanz
+83;Bistum Regensburg;Bistum Regensburg
+84;Bistum Worms;Bistum Worms
+85;Boineburgische Bibliothek;Boineburgische Bibliothek Erfurt
+86;Boineburgische Bibliothek in der Juristenschule;Boineburgische Bibliothek Erfurt
+87;Brau- und Armendirektion, kurmainzische;Kurfürstentum Mainz, Brau- und Armendirektion
+88;Breisgauische Reichsritterschaft;Reichsritterschaft, Breisgau
+89;Buchbinderzunft;Buchbinderzunft Erfurt
+90;Bürgerschaft;Stadt Erfurt
+91;Bürgerschaft zu Erfurt;Stadt Erfurt
+92;Catharinenschule;Catharinenschule Braunschweig
+93;Chor der Nikolaikirche;Nikolaikirche Berlin, Chor
+94;Claproth;Privatperson, Claproth
+95;Collegium Germanicum;Collegium Germanicum Rom
+96;Collegium PP. S. Jesu;Jesuitenkolleg Erfurt
+97;Collegium Saxonicum;Collegium Saxonicum Erfurt
+98;Consilium Secretum Academicum;Universität Erfurt, Consilium Secretum Academicum
+99;Cyriaxkloster;Cyriaxkloster Erfurt
+100;Departement Aschaffenburg;Großherzogtum Frankfurt, Departement Aschaffenburg
+101;Deutsche Bundesversammlung;Deutsche Bundesversammlung
+102;Deutsche Nation Löwen;Deutsche Nation Löwen
+103;Deutscher Bundestag;Deutscher Bundestag
+104;Deutscher Orden;Deutscher Orden
+105;Deutscher Orden, Ballei Franken;Deutscher Orden, Ballei Franken
+106;Deutscher Orden, Regierung zu Mergentheim;Deutscher Orden, Regierung  Mergentheim
+107;Domkapitel Mainz];Domstift Mainz]
+108;Domkapitel Trier];Domstift Trier]
+109;Domkapitel zu Mainz];Domstift Mainz]
+110;Domstift;Domstift
+111;Domstift Halberstadt;Domstift Halberstadt
+112;Domstift Mainz;Domstift Mainz
+113;Domstift Speyer;Domstift Speyer
+114;Domstift Trier;Domstift Trier
+115;Domstift Worms;Domstift Worms
+116;Domstift Würzburg;Domstift Würzburg
+117;Domstift zu Konstanz;Domstift Konstanz
+118;Domstift zu Mainz;Domstift Mainz
+119;Domstift zu Speyer;Domstift Speyer
+120;Domstift zu Trier;Domstift Trier
+121;Domstift zu Trier];Domstift Trier]
+122;Domstift zu Worms;Domstift Worms
+123;Domstift zu Würzburg;Domstift Würzburg
+124;Domstift zu Würzburg];Domstift Würzburg]
+125;Dr. Linden (Lynden);Advokatur, Dr. Linden
+126;Erfurter Akademie;Akademie nützlicher Wissenschaften Erfurt
+127;Erfurter Bibliothek;Boineburgische Bibliothek Erfurt
+128;Erfurter Staat;Erfurter Staat
+129;Erfurter Staat, Kammer zu Erfurt;Kurfürstentum Mainz, Kammer Erfurt
+130;Erfurter Staat, Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt
+131;Erfurter Staat, Vizedomamt Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt
+132;Erfurter Staat, Weltliche Gerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+133;Erfurter Staat];Kurfürstentum, Mainz, Erfurter Staat]
+134;"erzbischöfliche Pagerie ""Gregorianum""";Pagerie Gregorianum Salzburg
+135;Erzbistum Mainz;Erzbistum Mainz
+136;Erzbistum Mainz, Geistliches Gericht zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt
+137;Erzbistum Mainz, Stift St. Severi zu Erfurt;Kollegiatstift St. Severus Erfurt
+138;Erzbistum Regensburg;Erzbistum Regensburg
+139;Erzbistum Regensburg?];Erzbistum Regensburg?]
+140;Erzbistum Regensburg];Erzbistum Regensburg]
+141;evangelische Kirche;evangelische Kirche
+142;Evangelischer Rat;Evangelisches Ministerium Erfurt
+143;Evangelisches Ministerium;Evangelisches Ministerium Erfurt
+144;Evangelisches Ministerium];Evangelisches Ministerium Erfurt]
+145;Evangelisches Ratsgymnasium;Evangelisches Ratsgymnasium
+146;Evangelisches Weisenhaus;Evangelisches Weisenhaus Erfurt
+147;evangelisch-lutherisch;
+148;evangelisch-reformiert;
+149;Flößholzamt;Kurfürstentum Mainz
+150;Franckesches Pädagogium;Franckesches Pädagogium Halle
+151;Fränkische Kreistage;Reichskreis, Franken, Kreistag
+152;Fränkische Reichsritterschaft;Reichsritterschaft, Franken
+153;Fränkische Reichsritterschaft, Kanton Baunach;Reichsritterschaft, Franken, Kanton Baunach
+154;Fränkische Reichsritterschaft, Kanton Odenwald;Reichsritterschaft, Franken, Kanton Odenwald
+155;Fränkische Reichsritterschaft, Kanton Rhön-Werra;Reichsritterschaft, Franken Kanton Rhön-Werra
+156;Franz Freiherr von Fürstenberg;Privatperson: Franz Freiherr von Fürstenberg
+157;Franz Konrad Graf Stadion (1679-1757);Privatperson: Franz Konrad Graf Stadion (1679-1757)
+158;Freie Zeichenschule;Freie Zeichenschule
+159;Freiherrnklasse der kgl. bayerischen Adelsmatrikel;
+160;"Freimaurerische Provinzialloge ""Joseph zum Reichsadler""";"Freimaurer, Provinzialloge ""Joseph zum Reichsadler"" Wetzlar"
+161;Freimaurerloge Joseph zu den drei Helmen;"Freimaurer, Loge ""Joseph zu den drei Helmen"" Wetzlar"
+162;Fürst von Hohenzollern-Hechingen;Fürstentum Hohenzollern-Hechingen
+163;Fürst von Hohenzollern-Sigmaringen;Fürstentum von Hohenzollern-Sigmaringen
+164;Fürst von Löwenstein-Wertheim;Fürstentum von Löwenstein-Wertheim
+165;Fürstbischof von Konstanz;Fürstbischof von Konstanz
+166;fürstbischöflich salzburgischer Hofrat;Fürstbistum Salzburg, Hofrat
+167;Fürstbistum Bamberg, Hofgericht;Fürstbistum Bamberg, Hofgericht
+168;Fürstbistum Bamberg, Hofkammer;Fürstbistum Bamberg, Hofkammer
+169;Fürstbistum Bamberg, Hofkriegsrat;Fürstbistum Bamberg, Hofkriegsrat
+170;Fürstbistum Bamberg, Obereinnahme;Fürstbistum Bamberg, Obereinnahme
+171;Fürstbistum Bamberg, Regierung;Fürstbistum Bamberg, Regierung
+172;Fürstbistum Hildesheim, Offizialatsgericht;Fürstbistum Hildesheim, Offizialatsgericht
+173;Fürstbistum Konstanz;Fürstbistum Konstanz
+174;Fürstbistum Münster, Landesgerichte;Fürstbistum Münster, Landesgerichte
+175;Fürstbistum Münster, Landesgerichte;Fürstbistum Münster, Landesgerichte
+176;Fürstbistum Münster, Untergerichte;Fürstbistum Münster, Untergerichte
+177;Fürstbistum Münster, Untergerichte;Fürstbistum Münster, Untergerichte
+178;Fürstbistum Salzburg;Fürstbistum Salzburg
+179;Fürstbistum Salzburg, Pflege Mühldorf am Inn;Fürstbistum Salzburg, Pflege Mühldorf am Inn
+180;Fürstbistum Speyer;Fürstbistum Speyer
+181;Fürstbistum Worms;Fürstbistum Worms
+182;Fürstbistum Würzburg;Fürstbistum Würzburg
+183;Fürstbistum Würzburg, Geheime Kanzlei;Fürstbistum Würzburg, Geheime Kanzlei
+184;Fürstbistum Würzburg, Juliusspital;Juliusspital Würzburg
+185;Fürstbistum Würzburg, Vizedomamt in Würzburg;Fürstbistum Würzburg, Vizedomamt Würzburg
+186;Fürstbistum Würzburg, weltliche Regierung;Fürstbistum Würzburg, weltliche Regierung
+187;Fürstentum Aschaffenburg;Fürstentum Aschaffenburg
+188;Fürstentum Erfurt;Fürstentum Erfurt
+189;Fürstentum Halberstadt;Fürstentum Halberstadt
+190;Fürstentum Halberstadt, Salpeterwerk;Fürstentum Halberstadt, Salpeterwerke
+191;Fürstentum Nassau, Oberappellationsgericht;Fürstentum Nassau, Oberappellationsgericht Hadamar
+192;Fürstentum Regensburg;Fürstentum Regensburg
+193;Fürstentum Sachsen;Fürstentum Sachsen
+194;Fürstentum Sachsen;Fürstentum Sachsen
+195;Fürstentum Schwarzburg-Sondershausen];Fürstentum Schwarzburg-Sondershausen]
+196;fürstlich nassauisches gemeinschaftliches Oberappellationsgericht;Fürstentum Nassau, Oberappellationsgericht Hadamar
+197;Fürstprimatialischer Staat, Landesregierung;Fürstentum Regensburg, Landesregierung
+198;Geheime Hofkanzlei;Kurfürstentum Mainz, Geheime Hofkanzlei
+199;Geheime Kabinettskonferenz;Kurfürstentum Mainz, Geheime Kabinettskonferenz
+200;Geheime Staatskonferenz;Kurfürstentum Mainz, Geheime Staatskonferenz
+201;Geheimes Staatskabinett;Kurfürstentum Mainz, Geheimes Staatskabinett
+202;Geheimorden der Gold- und Rosenkreuzer;Geheimorden der Gold- und Rosenkreuzer
+203;Geheimorden der Gold- und Rosenkreuzer;Geheimorden der Gold- und Rosenkreuzer
+204;geistliche Gerichte zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt
+205;geistliches Gericht;Erzbistum Mainz, Geistliches Gericht Erfurt
+206;Geistliches Gericht zu Erfurt;Erzbistum Mainz, Geistliches Gericht Erfurt
+207;Geistliches Gericht];Erzbistum Mainz, Geistliches Gericht Erfurt] 
+208;Geistliches Gericht];Erzbistum Mainz, Geistliches Gericht Erfurt] 
+209;Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission
+210;Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission
+211;General-Studienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission
+212;General-Studienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission
+213;Graf Carl Gustab Wrangel;Privathaus, Graf Carl Gustab Wrangel ###
+214;Graf Johann Ludwig zu Gleichen;Privathaus, Graf Johann Ludwig zu Gleichen ###
+215;Graf Philipp Ernst zu Gleichen;Privathaus, Graf Philipp Ernst zu Gleichen ###
+216;Graf Philipp Reinhard zu Solms;Privathaus, Graf Philipp Reinhard zu Solms ###
+217;Graf von Gleichen;Privathaus, Graf von Gleichen ###
+218;Graf von Solms;Privathaus, Graf von Solms ###
+219;Grafen von Hatzfeld;Privathaus, Grafen von Hatzfeld ###
+220;Grafen von Hatzfeld-Gleichen;Privathaus, Grafen von Hatzfeld-Gleichen ###
+221;Gräfin von Henneberg;Privathaus, Gräfin von Henneberg ###
+222;Gräfin-Witwe Sophie von Henneberg geb. Herzogin zu Braunschweig-Lüneburg;Privathaus, Gräfin-Witwe Sophie von Henneberg geb. Herzogin Braunschweig-Lüneburg ###
+223;Grafschaft;Grafschaft Wetzlar
+224;Grafschaft Blankenhain;Grafschaft Blankenhain
+225;Großes Hospital;Großes Hospital Erfurt
+226;Großes Hospital zu Erfurt;Großes Hospital Erfurt
+227;Großherzogtum Baden;Großherzogtum Baden
+228;Großherzogtum Baden, Departement des Innern;Großherzogtum Baden, Departement des Innern
+229;Großherzogtum Baden, Departement des Innern];Großherzogtum Baden, Departement des Innern]
+230;Großherzogtum Baden, Generalstudienkommission;Großherzogtum Baden, Generalstudienkommission
+231;Großherzogtum Baden, Generalstudienkommission zu Karlsruhe;Großherzogtum Baden, Generalstudienkommission
+232;Großherzogtum Baden, Hofgericht;Großherzogtum Baden, Hofgericht
+233;Großherzogtum Baden, Innenministerium;Großherzogtum Baden, Innenministerium
+234;Großherzogtum Baden, Ministerium des Innern;Großherzogtum Baden, Innenministerium
+235;Großherzogtum Baden, Oberhofgericht;Großherzogtum Baden, Oberhofgericht Mannheim
+236;Großherzogtum Baden, Polizeidepartement;Großherzogtum Baden, Polizeidepartement
+237;Großherzogtum Frankfurt;Großherzogtum Frankfurt
+238;Großherzogtum Frankfurt, Finanzministerium;Großherzogtum Frankfurt, Finanzministerium
+239;Großherzogtum Frankfurt, Kassationshof;Großherzogtum Frankfurt, Kassationshof
+240;Großherzogtum Frankfurt, Landesdirektion in Aschaffenburg;Großherzogtum Frankfurt, Landesdirektion Aschaffenburg
+241;Großherzogtum Frankfurt, Ministerium der Justiz, des Innern und der Polizei;Großherzogtum Frankfurt, Justiz- und Innenministerium
+242;Großherzogtum Frankfurt, Ministerium der Justiz, des Innern und der Polizei;Großherzogtum Frankfurt, Justiz- und Innenministerium
+243;Großherzogtum Frankfurt, Staatsrat;Großherzogtum Frankfurt, Staatsrat
+244;Großherzogtum Hessen, Provinz Oberhessen;Großherzogtum Hessen, Provinz Oberhessen
+245;Gymnasium Bonn;Gymnasium Bonn
+246;Gymnasium Gotha;Gymnasium Gotha
+247;Gymnasium Montanum;Gymnasium Montanum Köln
+248;Gymnasium Tricoronatum;Gymnasium Tricoronatum Köln
+249;Gymnasium zu Gotha;Gymnasium  Gotha
+250;Gynmasium;Gymnasium
+251;Heiliges Römisches Reich;Heiliges Römisches Reich
+252;Herzog von Sachsen-Eisenach;Herzog von Sachsen-Eisenach
+253;Herzog von Württemberg;Herzog von Württemberg
+254;herzoglich braunschweigischer Hof;Herzogtum Braunschweig, Hof
+255;Herzogtum Magdeburg;Herzogtum Magdeburg
+256;Herzogtum Magdeburg, Salpeterwerk;Herzogtum Magdeburg, Salpeterwerke
+257;Herzogtum Nassau, Oberappelationsgericht;Herzogtum Nassau, Oberappelationsgericht
+258;Herzogtum Sachsen-Gotha;Herzogtum Sachsen-Gotha
+259;Hessen-Braubach, Landgraf Johannes;Hessen-Braubach, Landgraf Johannes
+260;Hildesheimische Republik ?];Hildesheimische Republik ?]
+261;Hofgericht;Hofgericht
+262;Hofrats- und Landesregierungskollegium;Hofrats- und Landesregierungskollegium
+263;Illuminatenorden;Illuminatenorden
+264;"Illuminatenorden, Loge ""Johannes zur brüderlichen Liebe""";"Illuminatenorden, Loge ""Johannes zur brüderlichen Liebe"""
+265;"Illuminatenorden, Loge ""Karl zu den drei Rädern""";"Illuminatenorden, Loge ""Karl zu den drei Rädern"""
+266;Illuminatenorden, Mainz und Rheinpfalz;Illuminatenorden, Mainz und Rheinpfalz
+267;Illuminatenorden, Niederlassung in Wetzlar namens Sebaste;"Illuminatenorden, Wetzlar, ""Sebaste"""
+268;Jagstkreis;Jagstkreis
+269;Jesuitengymna;Jesuitengymnasium
+270;Jesuitengymnasium Koblenz;Jesuitengymnasium Koblenz
+271;Jesuitengymnasium Wetzlar;Jesuitengymnasium Wetzlar
+272;Jesuitengymnasium zu Heiligenstadt;Jesuitengymnasium Heiligenstadt
+273;Jesuitenkolleg;Jesuitenkolleg Erfurt
+274;Jesuitenkolleg zu Erfurt;Jesuitenkolleg Erfurt
+275;Jesuitenschule;Jesuitengymnasium Heiligenstadt
+276;Jesuitenseminar;Jesuitenseminar Fulda
+277;Johann Stephan Pütter;Privatperson: Johann Stephan Pütter
+278;k.k. Josephinisches Lyzeum;Josephinisches Lyzeum Konstanz
+279;kaiserlich königliche vorderösterreichische Regierung;kaiserlich königliche vorderösterreichische Regierung
+280;kaiserlich königliches Militär, General Sinceresches Infanterieregiment;kaiserlich königliches Militär, General Sinceresches Infanterieregiment
+281;Kaiserliche Geheime Konferenz;Kaiserliche Geheime Konferenz
+282;Kaiserlicher Hof;Kaiser, Hof
+283;Kaiserliches Landgericht;Kaiserliches Landgericht Bamberg
+284;Kaiserliches Landgericht des Herzogtums Franken;Kaiserliches Landgericht Würzburg
+285;Kaiserliches Militär;Kaiserliches Militär
+286;Kaiserwahl;Königs- und Kaiserwahlkonvent
+287;Kammer zu Erfurt;Kurfürstentum Mainz, Kammer Erfurt
+288;Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt]
+289;Kammeramt;Kurfürstentum Mainz, Kammeramt Mainz
+290;Kanzler Veit Ludwig von Seckendorf;Privatperson: Kanzler Veit Ludwig von Seckendorf
+291;Karl Johann Alexander Freiherr von Rotenhan;Privathaus: Karl Johann Alexander Freiherr von Rotenhan
+292;Karl-Universität Aschaffenburg;Universität Aschaffenburg
+293;katholisch;katholisch
+294;katholisch];katholisch]
+295;Katholische Kirche;Katholische Kirche
+296;Katholische Westfälische Reichsgrafen;Reichskammergerichtsvisitation, 2. Klasse
+297;Kaufmannsgemeinde;Kaufmannsgemeinde Erfurt
+298;Kaufmannskirche;Kaufmannsgemeinde Erfurt
+299;Kaufmannsschule;Kaufmannsschule Erfurt
+300;Kirche;
+301;Kleines Hospital;Kleines Hospital Erfurt
+302;Kloser Reiffenstein;Kloster Reiffenstein
+303;Kollegiatstift St. Alban;Ritterstift St. Alban Mainz
+304;Kollegiatstift St. Maria;Kollegiatstift St. Maria Erfurt
+305;Kollegiatstift St. Peter und Alexander;Kollegiatstift St. Peter und Alexander Aschaffenburg
+306;Kollegiatstift St. Severin;Kollegiatstift St. Severus Erfurt
+307;Kollegiatstift St. Severus;Kollegiatstift St. Severus Erfurt
+308;Kollegiatstift St. Stephan;Kollegiatstift St. Stephan Mainz
+309;Kollegiatstift St. Viktor;Kollegiatstift St. Viktor Mainz
+310;Kommerz-Deputation;Kurfürstentum Mainz, Kommerziendeputation
+311;Kommerziendeputation, kurmainzische;Kurfürstentum Mainz, Kommerziendeputation
+312;Königin von Polen und Kurfürstin von Sachsen;Königreich Polen / Kurfürstentum Sachsen
+313;königlich bayerischer Hof;Königreich Bayern, Hof
+314;königlich großbritannische-kurbraunschweigische Justizkanzlei;Kurfürstentum Braunschweig, Justizkanzlei
+315;königlich großbritannische-kurbraunschweigische Justizkanzlei;Kurfürstentum Braunschweig, Justizkanzlei
+316;königlich hannoveranischer Hof;Königreich Hannover, Hof
+317;Königlich-württembergischer katholischer Geistlicher Rat (Kirchenrat);Königreich Württemberg, Kirchenrat
+318;Königlich-württembergisches Oberjustizkollegium, 1. Senat;Königreich Württemberg, Oberjustizkollegium, 1. Senat
+319;Königreich Bayern, Geheimer Rat;Königreich Bayern, Geheimer Rat
+320;Königreich Bayern, Justizdepartement;Königreich Bayern, Justizdepartement
+321;Königreich Bayern, Justizministerium;Königreich Bayern, Justizministerium
+322;Königreich Bayern, Oberappelationsgericht;Königreich Bayern, Oberappellationsgericht
+323;Königreich Bayern, Oberappellationsgericht;Königreich Bayern, Oberappellationsgericht München
+324;Königreich Bayern, Oberappellationsgericht Amberg;Königreich Bayern, Oberappellationsgericht Amberg
+325;Königreich Bayern, Oberappellationsgericht Ansbach;Königreich Bayern, Oberappellationsgericht Ansbach
+326;Königreich Bayern, Oberappellationsgericht Straubing;Königreich Bayern, Oberappellationsgericht Straubing
+327;Königreich Bayern, Oberste Justizstelle;Königreich Bayern, Oberste Justizstelle Ulm
+328;Königreich Bayern, Oberste Justizstelle für Franken;Königreich Bayern, Oberste Justizstelle Bamberg
+329;Königreich Bayern, Sektion der Justiz;Sektion der Justiz,  Königreich Bayern
+330;Königreich Bayern, Sektion der Justiz;Königreich Bayern, Sektion der Justiz
+331;Königreich Bayern, Staatsrat;Königreich Bayern, Staatsrat
+332;Königreich Frankreich, Elsässisches Regiment;Königreich Frankreich, Elsässisches Regiment
+333;Königreich Polen;Königreich Polen
+334;Königreich Preußen, Kriegs- und Domänenkammer;Königreich Preußen, Kriegs- und Domänenkammer
+335;Königreich Preußen, Regierung;Königreich Preußen, Regierung
+336;Königreich Schweden;Königreich Schweden
+337;Königriech Schweden, Armee;Königriech Schweden, Militär
+338;Königs- und Kaiserwahl Franz' II.;Königs- und Kaiserwahlkonvent
+339;Kreis-Feuer-Sozietät des Fürstentums Erfurt und der Herrschaft Blankenhain;Kreis-Feuer-Sozietät Erfurt
+340;Kreis-Infanterie-Regiment von Kerpen;Fürstbistum Würzburg, Kreis-Infanterie-Regiment von Kerpen
+341;Kreuz-Stift;Kollegiatstift Heiligkreuz Hildesheim
+342;Kurbayerischer Hof;Kurfürstentum Bayern, Hof
+343;kurbayerischer Hofrat;Kurfürstentum Bayern, Hofrat
+344;Kurerzkanzlerstaat;Fürstentum Regensburg
+345;Kurerzkanzlerstaat];Fürstentum Regensburg]
+346;Kurfürst Friedrich August III.;Kurfürstentum Sachsen
+347;Kurfürst Maximilian III.;Kurfürst Maximilian III.
+348;Kurfürst von Mainz;Kurfürstentum Mainz
+349;Kurfürst von Trier;Kurfürstentum Trier, ###
+350;Kurfürstemtum Mainz, Amt Treffurt;Kurfürstemtum Mainz, Amt Treffurt
+351;Kurfürstentum Köln;Kurfürstentum Köln
+352;Kurfürstentum Köln, Oberappellationsgericht;Kurfürstentum Köln, Oberappellationsgericht Bonn
+353;Kurfürstentum Köln, Oberappellationsgericht;Kurfürstentum Köln, Oberappellationsgericht Bonn
+354;Kurfürstentum Köln, Weltliches Gericht;Kurfürstentum Köln, Weltliches Gericht Köln
+355;Kurfürstentum Köln, Weltliches Gericht zu Köln;Kurfürstentum Köln, Weltliches Gericht Köln
+356;Kurfürstentum Mainz;Kurfürstentum Mainz
+357;Kurfürstentum Mainz, [Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt]
+358;Kurfürstentum Mainz, Amt Algesheim];Kurfürstentum Mainz, Amt Algesheim]
+359;Kurfürstentum Mainz, Amt Neubamberg];Kurfürstentum Mainz, Amt Neubamberg]
+360;Kurfürstentum Mainz, Amt Olm];Kurfürstentum Mainz, Amt Olm]
+361;Kurfürstentum Mainz, Amt Vippach];Kurfürstentum Mainz, Amt Vippach]
+362;Kurfürstentum Mainz, Erfurter Staat;Kurfürstentum Mainz, Erfurter Staat
+363;Kurfürstentum Mainz, Hof;Kurfürstentum Mainz, Hof
+364;Kurfürstentum Mainz, Hofgericht;Kurfürstentum Mainz, Hofgericht
+365;Kurfürstentum Mainz, Hofkammer;Kurfürstentum Mainz, Hofkammer
+366;Kurfürstentum Mainz, Hofrat- und Landesregierung];Kurfürstentum Mainz, Hofrat- und Landesregierung]
+367;Kurfürstentum Mainz, Hofrats- und Regierungskollegium;Kurfürstentum Mainz, Hofrat- und Landesregierung
+368;Kurfürstentum Mainz, Kammer;Kurfürstentum Mainz, Kammer Erfurt
+369;Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt] 
+370;Kurfürstentum Mainz, Kammer zu Erfurt];Kurfürstentum Mainz, Kammer Erfurt] 
+371;Kurfürstentum Mainz, Kurfürst Johann Philipp;Kurfürstentum Mainz
+372;Kurfürstentum Mainz, Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt
+373;Kurfürstentum Mainz, Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt]
+374;Kurfürstentum Mainz, Stadtgericht Mainz;Kurfürstentum Mainz, Stadtgericht Mainz
+375;Kurfürstentum Mainz, Stadtrat zu Erfurt ?];Kurfürstentum Mainz, Stadtrat Erfurt ?]
+376;Kurfürstentum Mainz, Vizedomamt;Kurfürstentum Mainz, Vizedomamt
+377;Kurfürstentum Mainz, Vizedomamt Erfurt];Kurfürstentum Mainz, Vizedomat Erfurt] 
+378;Kurfürstentum Mainz, Vizedomamt zu Erfurt];Kurfürstentum Mainz, Vizedomat Erfurt] 
+379;Kurfürstentum Mainz, Zivil- und Kriminalgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+380;Kurfürstentum Mainz];Kurfürstentum Mainz] 
+381;Kurfürstentum Pfalz, Departement der auswärtigen Angelegenheiten;Kurfürstentum Pfalz, Departement der auswärtigen Angelegenheiten
+382;Kurfürstentum Pfalz, Pupillenamt;Kurfürstentum Pfalz, Pupillenamt Mannheim
+383;Kurfürstentum Pfalz, Regierung;Kurfürstentum Pfalz, Regierung
+384;Kurfürstentum Pfalz, Stadtgericht;Kurfürstentum Pfalz, Stadtgericht Mannheim
+385;Kurfürstentum Sachsen;Kurfürstentum Sachsen
+386;Kurfürstentum Sachsen, Hof;Kurfürstentum Sachsen, Hof
+387;Kurfürstentum Salzburg, Hofgericht;Kurfürstentum Salzburg, Hofgericht
+388;Kurfürstentum Trier;Kurfürstentum Trier
+389;Kurfürstentum Trier, Hof;Kurfürstentum Trier, Hof
+390;Kurfürstentum Trier, Hofgericht;Kurfürstentum Trier, Hofgericht
+391;Kurfürstentum Trier, Hofrentkammer;Kurfürstentum Trier, Hofrentkammer
+392;Kurfürstentum Trier, Hohes weltliches Gericht (Schöffengericht);Kurfürstentum Trier, Hohes weltliches Gericht
+393;Kurfürstentum Trier, Hohes weltliches Gericht (Schöffengericht);Kurfürstentum Trier, Hohes weltliches Gericht
+394;Kurfürstentum Trier, Offizialat;Kurfürstentum Trier, Offizialat
+395;Kurfürstentum Trier, Revisionsgericht;Kurfürstentum Trier, Revisionsgericht
+396;kurfürstlich mainzische Stadtgerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+397;kurfürstlich mainzisches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+398;kurfürstlich mainzisches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+399;Kurfürstliche Akademie nützlicher Wissenschaften;Akademie nützlicher Wissenschaften Erfurt
+400;Kurhessischer Hof;Kurfürstentum Hessen, Hof
+401;Kurkölnische Ritterschaft;Ritterschaft, Kurfürstentum Köln
+402;Kurpfälzische Gerichte;Gerichte, Kurpfalz
+403;Kurrheinischer Kreiskonvent;Reichskreis, Kurrhein, Kreiskonvent
+404;Kurüfrstentum Mainz, Hofkammer;Hofkammer, Kurfürstentum Mainz
+405;Kurüfrstentum Mainz, Hofkammer;Hofkammer, Kurfürstentum Mainz
+406;Land- und Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+407;Landgericht;Landgericht
+408;Landgrafschaft Hessen-Kassel;Landgrafschaft Hessen-Kassel
+409;Landgrafschaft Hessen-Kassel, Oberappellationsgericht;Landgrafschaft Hessen-Kassel, Oberappellationsgericht Kassel
+410;Landgrafschaft Hessen-Kassel, Regierung;Landgrafschaft Hessen-Kassel, Regierung
+411;Landgrafschaft Hessen-Rheinfels-Rotenburg;Landgrafschaft Hessen-Rheinfels-Rotenburg
+412;Landtag des Herzogtums Westfalen;Herzogtum Westfalen, Landtag
+413;Lateinschule in Duderstadt;Lateinschule Duderstadt
+414;lutherisch;lutherisch
+415;Mägdleinschule;Mägdleinschule
+416;Mainzer Hof;Kurfürstentum Mainz, Hof
+417;Markgrafschaft Baden;Markgrafschaft Baden
+418;Markgrafschaft Baden-Baden, Vordere Grafschaft Sponheim;Markgrafschaft Baden-Baden, Vordere Grafschaft Sponheim
+419;Markgrafschaft Brandenburg-Ansbach, Hof-, Regierungs- und Justizsenat;Markgrafschaft Brandenburg-Ansbach, Hof-, Regierungs- und Justizsenat
+420;Merkantildeputation;Merkantildeputation
+421;Ministerrat;Ministerrat
+422;Mittelrheinische Reichsritterschaft;Reichsritterschaft, Mittelrhein
+423;Niederrheinische Reichsritterschaft;Reichsritterschaft, Niederrhein
+424;Oberamt Amöneburg;Kurfürstentum Mainz, Oberamt Amöneburg
+425;Oberamt Amöneburg];Kurfürstentum Mainz, Oberamt Amöneburg]
+426;Oberappellationsgericht;Königreich Bayern, Oberappellationsgericht München
+427;Oberheinische Reichsritterschaft;Reichsritterschaft, Oberrhein
+428;Oberhofgericht;Großherzogtum Baden, Oberhofgericht Mannheim
+429;Oberlandgericht zu Heiligenstadt;Kurfürstentum Mainz, Oberlandgericht Heiligenstadt
+430;Oberrheinische Reichsritterschaft;Reichsritterschaft, Oberrhein
+431;Oberrheinischer Reichskreis;Reichskreis, Oberrhein
+432;österreichische Geheime Hof- und Staatskanzlei;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei
+433;Österreichische Haus-, Hof- und Staatskanzlei;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei
+434;Österreichische Haus-, Hof- und Staatskanzlei, Referat für die deutschen Bundesangelegenheiten;Erzherzogtum Österreich, Geheime Haus-Hof-Staatskanzlei, Referat für die deutschen Bundesangelegenheiten
+435;Pädagogium Marburg;Pädagogium Marburg
+436;Peterskloster;Peterskloster
+437;Petersstift;Kollegiatstift St. Peter Fritzlar
+438;Polizeydepartement;Polizeydepartement
+439;Predigergemeinde;Predigergemeinde Erfurt
+440;Predigerschule;Predigerschule
+441;preußisch-sächsische Ausgleichsverhandlungen, österreichische Delegation zur Vermittlung;preußisch-sächsische Ausgleichsverhandlungen, österreichische Delegation r Vermittlung
+442;Prinz von Dänemark;Prinz von Dänemark
+443;Probstei Wechterswinkel];Probstei Wechterswinkel]
+444;Pütter;Privatperson: Johann Stephan Pütter
+445;Rastatter Kongress;Rastatter Kongress
+446;Rastatter Kongress, fürstbischöflich würzburgische Gesandtschaft;Rastatter Kongress, Gesandtschaft, Fürstbistum Würzburg
+447;Ratsgymnasium;Ratsgymnasium Erfurt
+448;Rechtsschule Wetzlar;Rechtsschule Wetzlar
+449;Reformierte Gemeinde zu Marburg;Reformierte Gemeinde  Marburg
+450;Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt
+451;Regierung zu Erfurt;Kurfürstentum Mainz, Regierung Erfurt
+452;Regierung zu Erfurt?];Kurfürstentum Mainz, Regierung Erfurt?]
+453;Regierung zu Erfurt];Kurfürstentum Mainz, Regierung Erfurt
+454;Regierung zu Erfurt];Kurfürstentum Mainz Regierung Erfurt] 
+455;Regierung zu Erfurt];Kurfürstentum Mainz Regierung Erfurt] 
+456;Regierung zu Erufrt;Kurfürstentum Mainz, Regierung Erfurt
+457;Regierung zu Erufrt;Kurfürstentum Mainz, Regierung Erfurt
+458;Regierung zzu Erfurt];Kurfürstentum Mainz Regierung Erfurt] 
+459;Regierungs-Justizsenat;Regierungs-Justizsenat
+460;Reglergemeinde;Reglergemeinde Erfurt
+461;Reglerkirche;Reglerkirche
+462;Reglerschule;Reglerschule
+463;Reichsabtei Salem (Salmansweiler);Reichsabtei Salem (Salmansweiler)
+464;Reichshofkanzlei, deutsche Expedition;Heiliges Römisches Reich, Reichshofkanzlei, deutsche Expedition
+465;Reichshofkanzlei, lateinische Expedition;Heiliges Römisches Reich, Reichshofkanzlei, lateinische Expedition
+466;Reichshofrat;Reichshofrat
+467;Reichskammergericht;Reichskammergericht
+468;Reichskammergerichts-Visitationskommission;Reichskammergerichts-Visitationskommission
+469;Reichspostamt Worms;Reichspostamt Worms
+470;Reichsritterschaft;Reichsritterschaft
+471;Reichstag;Reichstag Regensburg
+472;Reichstag, kurmainzische Direktorialkanzlei;Reichstag Regensburg, Direktorialkanzlei
+473;Reichstag, kurmainzische Direktorialkanzlei;Reichstag Regensburg, Direktorialkanzlei
+474;Reichstag, kurpfalzbayerische Gesandtschaft;Reichstag Regensburg
+475;Reichstag?];Reichstag Regensburg?]
+476;Reichsversammlung;Reichstag Regensburg
+477;Reichsversammlung / Kurfürstentum Mainz;Reichstag Regensburg
+478;Reichsvikariatshofgericht;Reichsvikariatshofgericht München
+479;Rhein. Vik.Hofgericht;Reichsvikariatshofgericht München
+480;Rheinbund;Rheinbund
+481;Rheinische Reichsritterschaft;Reichsritterschaft, Rhein
+482;Ritterakademie;Ritterakademie Wien
+483;Ritterstift St. Alban;Ritterstift St. Alban Mainz
+484;Ritterstift St. Ferrutius zu Bleidenstadt;Ritterstift St. Ferrutius Bleidenstadt
+485;RKG-Assessor Johann Stephan von Speckmann;Privatperson: Reichskammergerichtsassessor Johann Stephan von Speckmann
+486;RKG-Assessor Tönnemann;Privatperson: Reichskammergerichtsassessor Tönnemann
+487;RKG-Visitation;Reichskammergericht, Vistation
+488;RKG-Visitation, 3. Klasse;Reichskammergericht, Vistation, 3. Klasse
+489;Sachsen-Eisenach;Herzogtum Sachsen-Eisenach
+490;Sachsenkolleg;Sachsenkolleg Erfurt
+491;Sachsen-Kollegium;Sachsenkolleg Erfurt
+492;sächsischer Hof;Kurfürstentum Sachsen, Hof
+493;Salpeterwerk Halberstadt;Fürstentum Halberstadt, Salpeterwerke
+494;Salpeterwerk Magdeburg;Herzogtum Magdeburg, Salpeterwerke
+495;Schreib- und Rechenschule;Barfüßerschule Erfurt
+496;Schule;
+497;Schule zu den Predigern;Predigerschule
+498;Schwäbische Reichsgrafen;Reichskammergerichtsvisitation, 3. Klasse / Reichskammergerichtsvisitation, 4. Klasse ###
+499;Schwäbische Reichsritterschaft, Bezirk Ortenau;Reichsritterschaft, Schwaben, Bezirk Ortenau
+500;Schwäbische Reichsritterschaft, Kanton an der Donau;Reichsritterschaft, Schwaben, Kanton Donau
+501;Schwäbische Reichsritterschaft, Kanton im Hegau, Allgäu und am Bodensee;Schwäbische Reichsritterschaft, Kanton Hegau-Allgäu-Bodensee
+502;Schwäbische Reichsritterschaft, Kanton Kocher;Reichsritterschaft, Schwaben, Kanton Kocher
+503;Schwäbische Reichsritterschaft, Kanton Neckar-Schwarzwald;Reichsritterschaft, Schwaben, Kanton Neckar-Schwarzwald
+504;Schwäbischer Reichskreis;Reichskreis, Schwaben
+505;Schwarzwaldtkreis;Schwarzwaldkreis
+506;Seminar St. Kilian Würzburg;Seminar St. Kilian Würzburg
+507;Severistift;Kollegiatstift St. Severus Erfurt
+508;Severusstift;Kollegiatstift St. Severus Erfurt
+509;Sigilliferat;Erzbistum Mainz, Geistliches Gericht Erfurt
+510;St. Alban;Ritterstift St. Alban Mainz
+511;St. Alban;Ritterstift St. Alban Mainz
+512;St. Andreas-Schule;Andreanum Hildesheim
+513;St. Maria zu Erfurt;Kollegiatstift St. Maria, Erfurt
+514;St. Severus-Stift;Kollegiatstift St. Severus Erfurt
+515;Staatsrat;Königreich Bayern, Staatsrat
+516;Stadt Erfurt;Stadt Erfurt
+517;Stadt Köln;Stadt Köln
+518;Stadterichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+519;Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+520;Stadtgericht zu Erfurt, kurmainzisches;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+521;Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+522;Stadtgericht];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+523;Stadtgerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+524;Stadtgerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+525;Stadtgerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+526;Stadtgerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+527;Stadtgerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+528;Stadtrat;Stadtrat Erfurt
+529;Stadtrat 1729;Stadtrat Erfurt
+530;Stadtrat 1729;Stadtrat Erfurt
+531;Stadtrat 1730;Stadtrat Erfurt
+532;Stadtrat 1730;Stadtrat Erfurt
+533;Stadtrat 1731;Stadtrat Erfurt
+534;Stadtrat 1731;Stadtrat Erfurt
+535;Stadtrat zu Erfrurt];Kurfürstentum Mainz, Stadtrat Erfurt] 
+536;Stadtrat zu Erfrurt];Kurfürstentum Mainz, Stadtrat Erfurt] 
+537;Stadtrat zu Erfurt;Stadtrat Erfurt
+538;Stadtrat zu Erfurt;Stadtrat Erfurt
+539;Stadtrat zu Erfurt?];Kurfürstentum Mainz, Stadtrat Erfurt?]
+540;Stadtrat zu Erfurt?];Kurfürstentum Mainz, Stadtrat Erfurt?]
+541;Stadtrat zu Erfurt];Stadtrat Erfurt
+542;Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt] 
+543;Stadtrat zu Erfurt];Kurfürstentum Mainz, Stadtrat Erfurt] 
+544;Stadtrat zu eRfurt];Kurfürstentum Mainz, Stadtrat Erfurt] 
+545;Stadtrat zu Gotha?];Stadtrat Gotha?]
+546;Stadtratstransitus 1665;Stadtrat Erfurt
+547;Stadtratstransitus 1665;Stadtrat Erfurt
+548;Stadtsyndikus Georg Lauterbrunn;Privatperson: Stadtsyndikus Georg Lauterbrunn
+549;Stadtvogtei;Stadtvogtei Erfurt
+550;Statthaltereiamt;Kurfürstentum Mainz, Regierung Erfurt
+551;Stift St. Marien;Kollegiatstift St. Maria Erfurt
+552;Stradtrat 1709;Stadtrat Erfurt
+553;Stradtrat 1709;Stadtrat Erfurt
+554;Syndikus der Stadt Köln Eschenbrenner;Privatperson: Syndikus der Stadt Köln Eschenbrenner
+555;Teutsche Gesellschaft  Jena;Deutsche Gesellschaft Jena
+556;Theresianische Ritterakademie;Ritterakademie Wien
+557;Thomasgemeinde;Thomasgemeinde Erfurt
+558;Univeristät Erfurt, Juristische Fakultät;Univeristät Erfurt, Juristische Fakultät
+559;Univeristät Erfurt?];Univeristät Erfurt?] 
+560;Univeristät Erfurt?];Univeristät Erfurt?]
+561;Univeristät Würzburg;Univeristät Würzburg
+562;Universität Altdorf;Universität Altdorf
+563;Universität Aschaffenburg;Universität Aschaffenburg
+564;Universität Bamberg;Universität Bamberg
+565;Universität Bamberg ?];Universität Bamberg ?] 
+566;Universität Bamberg [?];Universität Bamberg ?]
+567;Universität Bamberg];Universität Bamberg]
+568;Universität Basel;Universität Basel
+569;Universität Dillingen;Universität Dillingen
+570;Universität Erfurt;Universität Erfurt
+571;Universität Erfurt, Corpus Amplonianum;Universität Erfurt, Corpus Amplonianum
+572;Universität Erfurt, Hebammeninstitut;Universität Erfurt, Hebammeninstitut
+573;Universität Erfurt, Juristenfakultät;Universität Erfurt, Juristsiche Fakultät
+574;Universität Erfurt, Juristenkolleg;Universität Erfurt, Juristsiche Fakultät
+575;Universität Erfurt, juristische Fakultät;Universität Erfurt, Juristische Fakultät
+576;Universität Erfurt, juristische Fakultät];Universität Erfurt, Juristische Fakultät] 
+577;Universität Erfurt, juristische Fakultät];Universität Erfurt, Juristische Fakultät] 
+578;Universität Erfurt, Medizinische Fakultät;Universität Erfurt, Medizinische Fakultät
+579;Universität Erfurt, Philosophische Fakultät;Universität Erfurt, Philosophische Fakultät
+580;Universität Erfurt, philosophische Fakultät, Corpus majoristicum;Universität Erfurt, Philosophische Fakultät, Corpus majoristicum
+581;Universität Erfurt, theologische Fakultät;Universität Erfurt, Theologische Fakultät
+582;Universität Erfurt?];Universität Erfurt] 
+583;Universität Erfurt?];Universität Erfurt?]
+584;Universität Erfurt];Universität Erfurt]
+585;Universität Erfurt];Universität Erfurt] 
+586;Universität Franeker;Universität Franeker
+587;Universität Frankfurt an der Oder;Universität Frankfurt an der Oder
+588;Universität Freiburg;Universität Freiburg
+589;Universität Gießen;Universität Gießen
+590;Universität Göttingen;Universität Göttingen
+591;Universität Göttingen];Universität Göttingen]
+592;Universität Halle;Universität Halle
+593;Universität Heidelberg;Universität Heidelberg
+594;Universität Heidelberg];Universität Heidelberg]
+595;Universität Helmstädt];Universität Helmstedt] 
+596;Universität Helmstädt];Universität Helmstedt]
+597;Universität Helmstedt;Universität Helmstedt
+598;Universität Helmstedt];Universität Helmstedt] 
+599;Universität Helmstedt];Universität Helmstedt]
+600;Universität Ingolstadt;Universität Ingolstadt
+601;Universität Ingolstadt, juristische Fakultät;Universität Ingolstadt, Juristische Fakultät
+602;Universität Ingolstadt];Universität Ingolstadt]
+603;Universität Innsbruck;Universität Innsbruck
+604;Universität Jena;Universität Jena
+605;Universität Jena, Philosophische Fakultät;Universität Jena, Philosophische Fakultät
+606;Universität Jena];Universität Jena] 
+607;Universität Jena];Universität Jena]
+608;Universität Köln;Universität Köln
+609;Universität Leiden;Universität Leiden
+610;Universität Leiden];Universität Leiden] 
+611;Universität Leiden];Universität Leiden]
+612;Universität Leipzig;Universität Leipzig
+613;Universität Leipzig, juristische Fakultät;Universität Leipzig, Juristische Fakultät
+614;Universität Leipzig];Universität Leipzig]
+615;Universität Mainz;Universität Mainz
+616;Universität Mainz, juristische Fakultät;Universität Mainz, Juristische Fakultät
+617;Universität Mainz];Universität Mainz] 
+618;Universität Marburg;Universität Marburg
+619;Universität Marburg];Universität Marburg] 
+620;Universität Marburg];Universität Marburg]
+621;Universität Metz];Universität Metz]
+622;Universität Nancy];Universität Nancy]
+623;Universität Orléans;Universität Orléans
+624;Universität Paris];Universität Paris]
+625;Universität Pavia;Universität Pavia
+626;Universität Plombières];Universität Plombières]
+627;Universität Prag;Universität Prag
+628;Universität Prag];Universität Prag]
+629;Universität Rinteln;Universität Rinteln
+630;Universität Rinteln];Universität Rinteln]
+631;Universität Straßburg;Universität Straßburg
+632;Universität Straßburg?];Universität Straßburg?]
+633;Universität Straßburg];Universität Straßburg] 
+634;Universität Straßburg];Universität Straßburg]
+635;Universität Tübingen;Universität Tübingen
+636;Universität Tübingen];Universität Tübingen]
+637;Universität Upsala;Universität Uppsala
+638;Universität Wien;Universität Wien
+639;Universität Wien];Universität Wien] 
+640;Universität Wien];Universität Wien]
+641;Universität Wittenberg;Universität Wittenberg
+642;Universität Würzburg;Universität Würzburg
+643;Universität Würzburg];Universität Würzburg]
+644;Vereinigte Niederlande;Vereinigte Niederlande, Militär
+645;Verwaltungsrat des Generalgouverneurs;Großherzogtum Frankfurt, Verwaltungsrat
+646;Viertel Unter-Wienerwald (N.Ö.);Erzherzogtum Österreich, Kreis Viertel Unter-Wienerwald
+647;Vizedomamt;Kurfürstentum Mainz, Vizedomamt Erfurt
+648;Vizedomamt Rheingau];Kurfürstentum Mainz, Vizedomamt Rheingau]
+649;Vizedomamt zu Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt
+650;Vizedomamt zu Erfurt;Kurfürstentum Mainz, Vizedomamt Erfurt
+651;Vizedomamt];Kurfürstentum Mainz, Vizedomat Erfurt] 
+652;Vizedomamt];Kurfürstentum Mainz, Vizedomat Erfurt] 
+653;Wahl Franz' II.;Königs- und Kaiserwahlkonvent
+654;Wahl Leopolds II.;Königs- und Kaiserwahlkonvent
+655;Wahlkonvent;Königs- und Kaiserwahlkonvent
+656;Weltliche Gerichte;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+657;weltliche Gerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+658;weltliche Gerichte zu Erfurt;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+659;Weltliche Gerichte zu Erfurt];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+660;Weltliche Gerichte];Kurfürstentum Mainz, Weltliches Gericht Erfurt]
+661;Weltliche Stadtgercihte;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+662;Weltliches Gericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+663;Weltliches Gericht?];Kurfürstentum Mainz, Weltliches Gericht Erfurt?]
+664;Weltliches Stadtgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+665;Westfälischer Friedenskongress;Westfälischer Friedenskongress
+666;Westfälischer Landtag;Herzogtum Westfalen, Landtag
+667;Wiener Kongress;Wiener Kongress
+668;Wiener Kongress, Metternich-Kommission;Wiener Kongress, Metternich-Kommission
+669;Wollfabrik;Wollfabrik Erfurt
+670;Württembergische Erste Kammer der Standesherren;Königriech Württemberg, Erste Kammer der Standesherren
+671;Wwahlkonvent, königlich böhmische Kanzlei;Königs- und Kaiserwahlkonvent, königlich böhmische Kanzlei
+672;Zivil- und Kriminalgericht;Kurfürstentum Mainz, Weltliches Gericht Erfurt
+673;Zweite Kammer der bayerischen Stände;Königreich Bayern, Kammer der Abgeordneten
+;;
