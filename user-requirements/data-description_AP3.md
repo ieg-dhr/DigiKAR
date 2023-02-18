@@ -8,11 +8,15 @@ Zur Analyse (biographischer) Mobilität in Kurmainz haben wir die folgenden Quel
 - in XML strukturierte biographische Daten (Professoren-API der JGU)
 - gedruckte Quellen (Staatskalender)
 
+<img scr="./assets/DataOverview.png" width="50%">
+
 Für die Extraktion relevanter Daten aus diesen Quellen sind verschiedene Strategien erforderlich, die wir u.a. in den folgenden Beiträgen beschrieben haben:
 
 (Hier Liste mit Blogposts, Papers, etc. ergänzen!)
 
 Die folgende Graphik fasst die Herangehensweise zusammen:
+
+(BILD EINFÜGEN)
 
 Um diese Daten für die computergestützte Aufbereitung verfügbar zu machen, war eine Strukturierung in Tabellenformat notwendig. Alternativ wäre eine Strukturierung als TTL möglich gewesen, aber wir haben uns in AP3 bewusst für das folgende Modell entschieden:
 
