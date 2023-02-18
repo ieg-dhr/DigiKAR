@@ -8,7 +8,7 @@ Zur Analyse (biographischer) Mobilität in Kurmainz haben wir die folgenden Quel
 - in XML strukturierte biographische Daten (Professoren-API der JGU)
 - gedruckte Quellen (Staatskalender)
 
-<img scr="https://github.com/ieg-dhr/DigiKAR/gh-pages/assets/DataOverview.png" width="50%">
+<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/DataOverview.png" width="50%">
 
 Für die Extraktion relevanter Daten aus diesen Quellen sind verschiedene Strategien erforderlich, die wir u.a. in den folgenden Beiträgen beschrieben haben:
 
@@ -34,5 +34,15 @@ Das Problem, Unsicherheiten hier nicht explizit erfassen zu können, wurde durch
 - viele Quellentypen (z.B. die Universitätsmatrikeln, die selbst eine sekundäre Quelle sind) werden generell als unsicher behandelt
 - Hierarchie der Vertrauenswürdigkeit: höchste Qualität wird eigener Erfassung aus Primärquellen zugeschrieben
 - Datenkonflikte werden durch bewusste Mehrfachnennung von Ereignissen abgebildet
+
+Die Auswertung folge dann einem No DB Modell:
+
+<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/NoDB.png" width="50%">
+
+Auf ein graphisches Interface wurde verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.
+
+Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...
+
+<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/DBReview.png" width="50%">
 
 
