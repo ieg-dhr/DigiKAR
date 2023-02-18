@@ -8,7 +8,7 @@ Zur Analyse (biographischer) Mobilität in Kurmainz haben wir die folgenden Quel
 - in XML strukturierte biographische Daten (Professoren-API der JGU)
 - gedruckte Quellen (Staatskalender)
 
-<img scr="../assets/DataOverview.png" width="50%">
+<img scr="./gh-pages/assets/DataOverview.png" width="50%">
 
 Für die Extraktion relevanter Daten aus diesen Quellen sind verschiedene Strategien erforderlich, die wir u.a. in den folgenden Beiträgen beschrieben haben:
 
