@@ -101,7 +101,7 @@ cand. iur,Student
 Canonicum a latere,"Gesandter, Papst"
 Chorbischof,Bischof
 Chorherr,Kapitularherr
-consiliarius intimus,
+consiliarius intimus,""
 Dechant,Dekan
 Decanus,Dekan
 Dekan,Dekan
@@ -472,7 +472,7 @@ Kanzlist,Kanzlist
 Kapitän,Kapitän
 Kapitular,Kapitularherr
 Kapitularherr,Kapitularherr
-,Konsekretär #
+Konsekretär,Konsekretär #
 Capitularherren/Domicellaren,Domizellar #
 katholischer RKG-Präsident,Präsident
 katholischer Täufling,"Täufling, katholisch"
