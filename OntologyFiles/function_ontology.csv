@@ -1,1326 +1,1326 @@
-﻿id;function_old;function_new;;;;;
-1;(Titular-) Geheimer Rat;;;;;;
-2;(Titular-)Geheimer Rat;;;;;;
-3;(Titular-)Regierungsrat;;;;;;
-4;?;;;;;;
-5;@;@;;;;;
-6;[?];;;;;;
-7;Ab seiten der churfürstlichen Regierung;;;;;;
-8;Abgeordneter;Abgeordneter;;;;;
-9;Abt;Abt;;;;;
-10;Actuarius;Aktuar;;;;;
-11;kurpfalzbayerischer adeliger Hofrat;Rat;;;;;
-12;kurpfalzbayerischer adeliger Oberlandesregierungsrat;Rat;;;;;
-13;Adjudant;Adjutant;;;;;
-14;Adjunkt;Adjunkt;;;;;
-15;adliger Hof- und Regierungsrat;Rat;;;;;
-16;Administrator;Administrator;;;;;
-17;Administrator, apostolischer;Administrator;;;;;
-18;Advocat;Advokat;;;;;
-19;Advocatus ordinarius;Advokat;;;;;
-20;Advokat;Advokat;;;;;
-21;Advokat, ordentlicher;Advokat;;;;;
-22;Aktuar;Aktuar;;;;;
-23;Akzisekommissar, kurmainzischer;Kommissar;;;;;
-24;Altbürgermeister;Bürgermeister, älterer;;;;;
-25;Älterer Bürgermeister;Bürgermeister, älterer;;;;;
-26;Ältester;Ältester;;;;;
-27;Ältester Beisitzer der Juristenfakultät;Assessor, ältester;;;;;
-28;Ältester Bürgermeister;Bürgermeister, älterer;;;;;
-29;Alumnus;Alumnus;;;;;
-30;Amanuensis;Schreibgehilfe;;;;;
-31;Amtmann;Amtmann;;;;;
-32;Amtmann, kurmainzischer;Amtmann;;;;;
-33;kurmainzischer Amtmann;Amtmann;;;;;
-34;Amtmann, städtischer;Amtmann;;;;;
-35;Amtmann, stellvertretender;Amtmann, stellvertretender;;;;;
-36;Amtsadministrator;Administrator;;;;;
-37;Amtsrichter;Amtsrichter;;;;;
-38;Amtsschösser;Amtsschösser;;;;;
-39;Amtsschultheiß;Amtsschultheiß;;;;;
-40;Amtsvogt;Amtsvogt;;;;;
-41;Anderer Ratsmeister;Ratsmeister, anderer;;;;;
-42;Anwalt;Advokat;;;;;
-43;Archivar;Archivar;;;;;
-44;Archivrat;Archivrat;;;;;
-45;Arzt;Arzt;;;;;
-46;Asessor;Assessor;;;;;
-47;Assessor;Assessor;;;;;
-48;"Assessor (""Steuerdeputierter"")";Assessor;;;;;
-49;Assessores;Assessor;;;;;
-50;Assessor (Supernumerar);Assessor, Supernumerar;;;;;
-51;Assessor Primarius;Assessor, erster;;;;;
-52;Assessor Senior;Assessor, ältester;;;;;
-53;Assessor, außerordentlicher;Assessor, außerordentlicher;;;;;
-54;Assessor honorarius;#;;;;;
-55;Assessores Honorarii.;#;;;;;
-56;Assessor, kurmainzischer;Assessor;;;;;
-57;Assessor im Landgericht;Assessor;;;;;
-58;Assessor, ordentlicher;Assessor, ordentlicher;;;;;
-59;Assessor, Senior;Assessor, ältester;;;;;
-60;Assessor beim Stadtgericht;Assessor;;;;;
-61;Assessores und Professores;;;;;;
-62;Assessor];Assessor];;;;;
-63;Assessor-Adjunkt;Assessor-Adjunkt;;;;;
-64;Assessores Referendarii. Ordinarii.;;;;;;
-65;Assesssor;Assesssor;;;;;
-66;Auditor;Auditor;;;;;
-67;Aufnahme;;;;;;
-68;außerordentlicher bevollmächtigter Gesandter am königlich sächsischen Hof in Dresden;Gesandter, außerordentlicher, bevollmächtigter;;;;;
-69;außerordentlicher Gesandter und bevollmächtigter Minister Österreichs;Gesandter, außerordentlicher, bevollmächtigter, Erzherzogtum Österreich;;;;;
-70;Auszubildender;Auszubildender;;;;;
-71;Bacc. phil.;;;;;;
-72;Bankier;Bankier;;;;;
-73;Beisitzer;Assessor;;;;;
-74;Beisitzer, außerordentlicher;Assessor, außerordentlicher;;;;;
-75;Beisitzer, erster;Assessor, erster;;;;;
-76;erster und ältester Beisitzer;Assessor, ältester ;;;;;
-77;Beisitzer bei den erzbischöflichen geistlichen Gerichten;Assessor;;;;;
-78;Beisitzer der erzbischöflichen Gerichte;Assessor;;;;;
-79;Beisitzer bei den kurfürstlichen weltlichen Gerichten;Assessor;;;;;
-80;Beisitzer Senior;Assessor, ältester;;;;;
-81;Beisitzer der weltlichen Gerichte;Assessor;;;;;
-82;Bergdirektor;Direktor;;;;;
-83;Bergdirektor, gewerkschaftlicher;Direktor;;;;;
-84;Bergkommissar;Kommissar;;;;;
-85;Bergwerkskommissar für Erfurt und Blankenhain;Kommissar;;;;;
-86;bevollmächtigter Gesandter Bayerns;Gesandter, Königriech Bayern;;;;;
-87;kurmainzischer bevollmächtigter Minister am kaiserlichen Hof in Wien;Gesandter, Kurfürstentum Mainz;;;;;
-88;österreichischer bevollmächtigter Minister;Bevollmächtigter Minister, Erzherzogtum Österreich;;;;;
-89;Bibliothekar;Bibliothekar;;;;;
-90;Biereige;Biereige;;;;;
-91;Bischof;Bischof;;;;;
-92;Brautvater;;;;;;
-93;Brückenherr;Brückenherr;;;;;
-94;Buchhalter;Buchhalter;;;;;
-95;Bürger;Bürger;;;;;
-96;Bürgermeister;Bürgermeister;;;;;
-97;jüngster Bürgermeister;Bürgermeister, jüngerer;;;;;
-98;Burgmann;Burgmann;;;;;
-99;cand. iur;Student;;;;;
-100;Canonicum a latere;Gesandter, Papst;;;;;
-101;Chorbischof;Bischof;;;;;
-102;Chorherr;Kapitularherr;;;;;
-103;consiliarius intimus;;;;;;
-104;Dechant;Dekan;;;;;
-105;Decanus;Dekan;;;;;
-106;Dekan;Dekan;;;;;
-107;Deputirter;Deputierter;;;;;
-108;Deutschordensritter;Mitglied;;;;;
-109;Diaconus;Diakon;;;;;
-110;Diakon;Diakon;;;;;
-111;Diplomat;Diplomat;;;;;
-112;Diplomat, hessen-darmstädtischer;Diplomat;;;;;
-113;Diplomat, hessen-kasselischer;Diplomat;;;;;
-114;Diplomat, kaiserlicher;Diplomat;;;;;
-115;Direktor;Direktor;;;;;
-116;Direktor des Marschwesens;Direktor;;;;;
-117;kurüfrstlich salzburgischer Direktor;Direktor;;;;;
-118;Direktorialgesandter;Gesandter;;;;;
-119;schwäbischer Direktorial-Kreisgesandter;Gesandter;;;;;
-120;Doktorand;Doktorand;;;;;
-121;Domdechant;Dekan;;;;;
-122;Domherr;Kapitularherr;;;;;
-123;Domicellarherren;Domizellar;;;;;
-124;Domizellar;Domizellar;;;;;
-125;Domizellar / Kapitularherr;Kapitularherr #;;;;;
-;Domizellar / Kapitularherr;Domizellar #;;;;;
-126;Domizellarkanoniker;Domizellar;;;;;
-127;Domkantor;Kantor;;;;;
-128;Domkapitular (nicht spezifiziert);Kapitularherr;;;;;
-129;Domkapitular];Kapitularherr];;;;;
-130;Domprobst;Probst;;;;;
-131;Domprobsteiamtmann;Amtmann;;;;;
-132;Domprobsteikonsulent;Konsulent;;;;;
-133;Domscholaster;Scholaster;;;;;
-134;Domstiftssyndikus;Syndikus;;;;;
-135;Domstifts-Syndikus und -konsekretär;Syndikus;;;;;
-;Domstifts-Syndikus und -konsekretär;Konsekretär #;;;;;
-136;Domstiftssyndikus und Konsekretär;Syndikus #;;;;;
-137;Übrige Universitätsdoctores;Konsekretär;;;;;
-138;Dragoneroffizier;Offizier;;;;;
-139;Dritter Ratsmeister;Ratsmeister, dritter;;;;;
-140;dritter kurböhmischer Wahlbotschafter;Wahlbotschafter, dritter;;;;;
-141;Edelknabe;Edelknabe;;;;;
-142;Ehefrau;Ehefrau;;;;;
-143;Ehemann;Ehemann;;;;;
-144;Ehren-)Bürger;Ehrenbürger;;;;;
-145;Ehrenmitglied;Ehrenmitglied;;;;;
-146;Ephorus;Ephorus;;;;;
-147;ernannter außerordentlicher bevollmächtigter Gesandter am königlich preußischen Hof in Berlin;Gesandter, außerordentlicher, bevollmächtigter;;;;;
-148;Erster Assessor;Assessor, erster;;;;;
-149;erster dirigierender Staatsminister im kurerzkanzlerischen Staat;Staatsminister, erster;;;;;
-150;erster Minister, kurmainzischer;Minister, erster;;;;;
-151;Erster Syndikus;Syndikus, erster;;;;;
-152;Erzbischof;Erzbischof;;;;;
-153;Erzieher;Erzieher;;;;;
-154;Erzkanzler;Reichserzkanzler;;;;;
-155;Exdekan;Dekan #;;;;;
-156;Expektant auf Reichskammergerichtspräsentation des österreichischen Kreises;;;;;;
-157;Exspektant auf habsburgische Reichskammergerichtspräsentation;;;;;;
-158;Exspektant auf nächstvakante habsburgische Reichskammergerichtspräsentation;;;;;;
-159;Fabrikant;Fabrikant;;;;;
-160;Fähnrich;Offizier;;;;;
-161;Feldbuchhalter;Feldbuchhalter;;;;;
-162;Feldkriegskommissar;Kommissar;;;;;
-163;Finanzminister;Minister;;;;;
-164;Finanzrat, kurmainzischer;Rat;;;;;
-165;Fleischermeister;Fleischermeister;;;;;
-166;Förster;Förster;;;;;
-167;Forstkommissar, kurmainzischer;Kommissar;;;;;
-168;Fürst;Fürst;;;;;
-169;Fürstbischof;Fürstbischof;;;;;
-170;fürstbischöflich augsburgischer Hofrat;Rat;;;;;
-171;Fürstbistum Bamberg [Geheimer?] Referendar;Referendar, geheimer;;;;;
-172;Fürstbistum Bamberg Geheimer Rat;Rat;;;;;
-173;Fürstbistum Bamberg Hofgerichtsassessor;Assessor;;;;;
-174;Fürstbistum Bamberg Hofrat;Rat;;;;;
-175;Fürstbistum Bamberg Konsulent;Konsulent;;;;;
-176;Fürstbistum Bamberg Prokurator Fisci;Prokurator Fisci;;;;;
-177;Fürstbistum Bamberg Resident am päpstlichen Hof in Rom mit dem Charakter eines Hofrats;Resident, Fürstbistum Bamberg;;;;;
-178;Fürstbistum Bamberg wirklicher gelehrter Hof- und Regierungsrat;Rat;;;;;
-179;Fürstbistum Bamberg wirklicher Hofkriegsrat;Rat;;;;;
-180;fürstbischöflich eichstättischer Kammerherr;Kammerherr;;;;;
-181;fürstbischöflich freisingischer bevollmächtigter Minister;Bevollmächtigter Minister, Fürstbistum Freising;;;;;
-182;fürstbischöflich konstanzischer Geheimer Rt;Rat;;;;;
-183;fürstbischöflich konstanzischer Kanzler;Kanzler;;;;;
-184;Fürstbistum Paderborn Geheimer Referendar;Referendar, geheimer;;;;;
-185;Fürstbistum Paderborn Kanzler;Kanzler;;;;;
-186;Fürstbistum Paderborn Lehedirektor;Lehendirektor;;;;;
-187;Fürstbistum Paderborn Vizekanzler;Vizekanzler;;;;;
-188;Fürstbistum Paderborn wirklicher Geheimer Rat;Rat;;;;;
-189;Fürstbistum Paderborn wirklicher Hofrat;Rat;;;;;
-190;Fürstbistum Salzburg Kämmerer;Kämmerer;;;;;
-191;Fürstbistum Salzburg Pfleger;Pfleger;;;;;
-192;Fürstbistum Salzburg wirklicher adliger Hofrat;Rat;;;;;
-193;Fürstbistum Salzburg wirklicher Geheimer Rat;Rat;;;;;
-194;Fürstbistum Speyer Geheimer Rat;Rat;;;;;
-195;Fürstbistum Speyer Geheimer Sekretär;Sekretär;;;;;
-196;Fürstbistum Speyer Hof- und Regierungsrat;Rat;;;;;
-197;Fürstbistum Speyer Hofkammerdirektor;Direktor;;;;;
-198;Fürstbistum Speyer Hofrat;Rat;;;;;
-199;Fürstbistum Worms Direktorialgesandter;Gesandter, Fürstbistum Worms;;;;;
-200;Fürstbistum Worms wirklicher Geheimer Rat;Rat;;;;;
-201;Fürstbistum Worms wirklicher Geheimer Referendar;Referendar, geheimer;;;;;
-202;Fürstbistum Würzburg adliger Hofrat;Rat;;;;;
-203;Fürstbistum Würzburg Assessor;Assessor;;;;;
-204;Fürstbistum Würzburg Fähnrich;Offizier;;;;;
-205;Fürstbistum Würzburg Geheimer Referendar;Referendar, geheimer;;;;;
-206;Fürstbistum Würzburg gelehrter Hof- und Regierungsrat;Rat;;;;;
-207;Fürstbistum Würzburg Hochstiftssyndikus;Syndikus;;;;;
-208;Fürstbistum Würzburg Hof- und Regierungsrat;Rat;;;;;
-209;Fürstbistum Würzburg Hofkammerfiskal;Fiskal;;;;;
-210;Fürstbistum Würzburg Hofkavalier;Kavalier;;;;;
-211;Fürstbistum Würzburg Hofrat auf der gelehrten Bank;Rat;;;;;
-212;Fürstbistum Würzburg Hofrat mit Sitz und Stimme;Rat;;;;;
-213;Fürstbistum Würzburg Kämmerer;Kämmer;;;;;
-214;Fürstbistum Würzburg Kammerherr;Kammerherr;;;;;
-215;Fürstbistum Würzburg Leutnant;Offizier;;;;;
-216;Fürstbistum Augsburg Geheimer Rat;Rat;;;;;
-217;Fürstbistum Augsburg Gesandter beim schwäbischen Reichskreis;Gesandter, Fürstbistum Augsburg;;;;;
-218;Fürstbistum Augsburg Hofrat;Rat;;;;;
-219;Fürstbistum Augsburg Referendar in Spiritualibus;Referendar, geistlicher;;;;;
-220;fürstbischöflich-hildesheimischer Assessor;Assessor;;;;;
-221;fürstbischöflich-hildesheimischer Geheimer Hof- und Regierungsrat;Rat;;;;;
-222;fürstbischöflich-hildesheimischer Hof- und Regierungsrat;Rat;;;;;
-223;fürstbischöflich-hildesheimischer Lehenprobst;Lehenpropst;;;;;
-224;fürstbischöflich-hildesheimischer Referendar;Referendar;;;;;
-225;fürstbischöflich-hildesheimischer wirklicher Hof- und Regierungsrat;Rat;;;;;
-226;fürstbischöflich-wormsischer Hof- und Regierungsrat;Rat;;;;;
-227;fürstbischöflich-wormsischer Reichstagsgesandter;Gesandter, Fürstbistum Worms;;;;;
-228;fürstbischöflich-würzburgischer Konsulent;Konsulent;;;;;
-229;fürstbischöflich-würzburgischer Regierungs- und Hofratssekretär;Sekretär;;;;;
-230;fürstbischöflich-würzburgischer Registrator;Registrator;;;;;
-231;fürstbischöflich-würzburgischer wirklicher gelehrter Geheimer Rat;Rat;;;;;
-232;fürstbischöflich-würzburgischer wirklicher gelehrter Hofrat;Rat;;;;;
-233;erzherzoglich österreichischer Fürstenratsdirektorialgesandter;Gesandter, Erzherzogtum Österreich;;;;;
-234;österreichischer Fürstenratsdirektorialgesandter;Gesandter, Erzherzogtum Österreich;;;;;
-235;Fürstentratsdirektorialgesandter;Gesandter;;;;;
-236;fürstlich schwarzburgischer Leibarzt;Leibarzt;;;;;
-237;Fürstentum Hohenlohe-Waldeburg Gesandter;Gesandter, Fürstentum Hohenlohe-Waldeburg;;;;;
-238;Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Amtmann;Amtmann;;;;;
-239;Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Geheimer Rat;Rat;;;;;
-240;Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Hofrat;Rat;;;;;
-241;Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Kanzleidirektor;Direktor;;;;;
-242;Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Oberamtmann;Oberamtmann;;;;;
-243;Fürstentum Hohenzollern-Hechingen Gesandter beim Schwäbischen Reichskreis;Gesandter, Fürstentum Hohenzollern-Hechingen;;;;;
-244;fürstlich hohenzollern-hechingischer Geheimer Rat;Rat;;;;;
-245;fürstlich hohenzollern-hechingischer Hofrat;Rat;;;;;
-246;fürstlich hohenzollern-hechingischer Kanzler;Kanzler;;;;;
-247;fürstlich hohenzollern-sigmaringenischer Gesandter beim Schwäbischen Reichskreis;Gesandter, Fürstentum Hohenzollern-Sigmaringen;;;;;
-248;fürstlich hohenzollern-sigmaringischer erster Geheimer Rat;Rat;;;;;
-249;fürstlich hohenzollern-sigmaringischer Kanzler;Kanzler;;;;;
-250;fürstlich löwenstein-wertheimischer Hofrat;Rat;;;;;
-251;fürstlich nassau-weilburgischer Regierungsrat;Rat;;;;;
-252;fürstlich Thurn- und Taxisscher Reichspostmeister in Worms;Postmeister;;;;;
-253;fürstlich-nassauischer Geheimer Rat;Rat;;;;;
-254;Fürstprimas;Fürstprimas;;;;;
-255;Fürstprimas von Deutschland;Fürstprimas;;;;;
-256;fürstprimatialischer erster dirigierender Staatsminister;Staatsminister, erster;;;;;
-257;fürstprimatialischer Gouverneur;Gouverneur;;;;;
-258;fürstprimatialischer Minister;Minister;;;;;
-259;fürstprimatialischer Präsidialgesandter;Gesandter;;;;;
-260;fürstprimatialischer wirklciher Geheimer Staatsrat;Rat;;;;;
-261;fürstprimatialischer wirklicher Geheimer Staatsrat;Rat;;;;;
-262;fürtlich isenburg-birsteinischer Regierungsrat;Rat;;;;;
-263;fürtlich isenburg-birsteinischer Regierungsvizedirektor;Vizedirektor;;;;;
-264;Futterherr;Futterherr;;;;;
-265;Gastwirt;Gastwirt;;;;;
-266;Gastwirt zur Tanne;Gastwirt;;;;;
-267;Geburt;Kind;;;;;
-268;Gegenkämmerer;Kämmerer;;;;;
-269;Geheimer Rat;Rat;;;;;
-270;Geheimer Rat, großherzoglich badischer;Rat;;;;;
-271;Geheimer Rat, hessischer;Rat;;;;;
-272;kaiserlicher Geheimer Rat;Rat;;;;;
-273;Geheimer Rat, kaiserlicher;Rat;;;;;
-274;Geheimer Rat, kurmainzischer;Rat;;;;;
-275;Geheimer Rat, supplirender;Rat;;;;;
-276;Geheimer Rat, wirklicher;Rat;;;;;
-277;Geheimer Rat, wirklicher kaiserlicher;Rat;;;;;
-278;Geheimer und Regierungsrat;Rat;;;;;
-279;Geheimer Reichsreferendar;Referendar, geheimer;;;;;
-280;Geheimer Sekretär;Sekretär;;;;;
-281;Geheimer Secretarius, fürstlich Sachsen-Eisenachischer;Sekretär;;;;;
-282;Geheimer Sekretär, sachsen-eisenachischer;Sekretär;;;;;
-283;Geheimer Staatsrat;Rat;;;;;
-284;Geheimer Staatsrat, kurerzkanzlerischer;Rat;;;;;
-285;Geheimrat;Rat;;;;;
-286;Geheimrat, sachsen eisenachischer;Rat;;;;;
-287;Geistlicher Rat;Rat;;;;;
-288;Geistlicher Rat, erzbischöflich mainzischer;Rat;;;;;
-289;Geleits-Amtsverweser;Verweser;;;;;
-290;Geleitschreiber;Geleitschreiber;;;;;
-291;Geleits- und Postschreiber;#;;;;;
-292;gemeinschaftlicher Geheimer Rat des gesamten Hauses Hohenlohe-Waldenburg;Rat;;;;;
-293;Generaldirektor;Generaldirektor;;;;;
-294;Generalfeldzeugmeister;Offizier;;;;;
-295;Generalkommissar und bevollmächtigter Minister, kaiserlicher;Generalkommissar, Kaiser / Bevollmächtigter Minister, Kaiser / #;;;;;
-296;Generalvikar;Generalvikar;;;;;
-297;Gerichtsassessor;Assessor;;;;;
-298;Gerichts-Assessor;Assessor;;;;;
-299;kurfürstlicher Gerichtsassessor;Assessor;;;;;
-300;Gerichtsperson [Assessor?];;;;;;
-301;Gerichtsschreiber;Gerichtsschreiber;;;;;
-302;Gerichtsschultheiß;Gerichtsschultheiß;;;;;
-303;Gesandter;Gesandter;;;;;
-304;Gesandter, Hessen-Kasselischer;Gesandter, Hessen-Kassel;;;;;
-305;Gesandter, hessischer;Gesandter, Hessen;;;;;
-306;Gesandter, kaiserlicher;Gesandter, Kaiser;;;;;
-307;Gesandter, kurmainzischer;Gesandter, Kurfürstentum Mainz;;;;;
-308;Geschäftsträger, hessischer;Geschäftsträger, Hessen;;;;;
-309;Gewaltbote;Gewaltbote;;;;;
-310;Gewürzhändler;Gewürzhändler;;;;;
-311;Gouverneur des Kurerzkanzlers;Gouverneur;;;;;
-312;Graf;Graf;;;;;
-313;gräflich metternich-winneburgischer Kanzleidirektor;Direktor;;;;;
-314;gräflich osteinischer Rat;Rat;;;;;
-315;gräflich waldbott-bassenheimischer Oberamtmann;Oberamtmann;;;;;
-316;Großherzog;Großherzog;;;;;
-317;großherzoglich badischer Kämmerer;Kämmerer;;;;;
-318;großherzoglich frankfurtischer außerordentlicher Gesandter und bevollmächtigter Minister;Gesandter, außerordentlicher, Großherzogtum Frankfurt / Bevollmächtigter Minister, Großherzogtum Frankfurt / #;;;;;
-319;großherzoglich frankfurtischer wirklicher Geheimer Staatsrat;Rat;;;;;
-320;großherzoglich frrankfurtischer Staatsminister der Justiz, des Innern und der Polizei;Staatsminister;;;;;
-321;großherzoglich hessischer Geheimer Rat;Rat;;;;;
-322;großherzoglich hessischer Hofgerichtsdirektor;Direktor;;;;;
-323;großherzoglich hessischer Interimsdirektor;Direktor;;;;;
-324;großherzoglich hessischer Kammerherr;Kammerherr;;;;;
-325;großherzoglich hessischer Regierungsdirektor;Direktor;;;;;
-326;großherzoglich hessischer Regierungspräsident;Präsident;;;;;
-327;großherzoglich hessischer wirklicher Geheimer Rat;Rat;;;;;
-328;großherzoglich-frankfurtischer Staatskommissar;Kommissar;;;;;
-329;Großhofmeister;Großhofmeister;;;;;
-330;Großhofmeister, kurmainzischer;Großhofmeister;;;;;
-331;Großvater;Großvater;;;;;
-332;Gubernator;Gubernator;;;;;
-333;habsburgische RKG-Präsentation;;;;;;
-334;Häftling;Häftling;;;;;
-335;Handelsmann;Händler;;;;;
-336;Handelsreisender;Händler;;;;;
-337;Händler;Händler;;;;;
-338;Hauptmann;Offizier;;;;;
-339;Hauptmann der Miliz;Offizier;;;;;
-340;österreichischer Hauptmann;Offizier;;;;;
-341;Hauslehrer;Privatlehrer;;;;;
-342;Heringer;Heringer;;;;;
-343;herzoglich pfalz-zweibrückenischer bevollmächtigter Minister;Bevollmächtigter Minister, Herzogtum Pfalz-Zweibrücken;;;;;
-344;herzoglich-nassauischer Geheimer Rat;Rat;;;;;
-345;Historiker;Historiker;;;;;
-346;Historiker und Quelleneditor;Historiker;;;;;
-347;hoch- und deutschmeisterischer wirklicher Geheimer Rat;Rat;;;;;
-348;hochstiftisch, dann Fürstbistum Würzburg Geheimer Rat;Rat;;;;;
-349;Hof- und Kammergerichtsprotokollist, königlich preußischer;Protokollist;;;;;
-350;Hof- und Kammergerichtssekretär, königlich preußischer;Sekretär;;;;;
-351;Hof- und Kammerrat;Rat;;;;;
-352;Hof- und Regierungsrat, fürstlich Sachsen-Eisenachischer;Rat;;;;;
-353;Hof- und Regierungsrat;Rat;;;;;
-354;Hof- und Regierungsrat auf der gelehrten Bank;Rat;;;;;
-355;Hof- und Regierungsrat, kurmainzischer;Rat;;;;;
-356;Hofgerichtsadvokat, hochfürstlich gemeinschaftlicher;Advokat;;;;;
-357;Hofgerichtsassessor;Assessor;;;;;
-358;Hofgerichtspräsident;Präsident;;;;;
-359;Hofgerichtsrat;Rat;;;;;
-360;Hofjunker;Junker;;;;;
-361;Hofkammerdirektor;Direktor;;;;;
-362;Hofkammerrat;Rat;;;;;
-363;Hofkammerrat, kurmainzischer;Rat;;;;;
-364;Hofkammervizepräsident;Vizepräsident;;;;;
-365;Hofkanzler;Hofkanzler;;;;;
-366;Hofkanzler, kurmainzischer;Hofkanzler;;;;;
-367;Hofkavalier;Hofkavalier;;;;;
-368;Hofmarschall;Hofmarschall;;;;;
-369;Hofmarschall, fürstlicher;Hofmarschall;;;;;
-370;Hofmeister;Hofmeister;;;;;
-371;Hofrat;Rat;;;;;
-372;Hofrat des Fürstabts von Corvey;Rat;;;;;
-373;Hofrat,  herzoglich weimarischer und eisenachischer;Rat;;;;;
-374;Hofrat des Landgrafen Christian von Hessen-Rheinfels-Eschwege-Wanfried;Rat;;;;;
-375;erzbischöflich salzburgischer Hofrat;Rat;;;;;
-376;Hofrat, Sachsen-Jenaischer;Rat;;;;;
-377;Hofrat, fürstlich sächsischer;Rat;;;;;
-378;Hofrat, Sachsen-Eisenachischer;Rat;;;;;
-379;kurbayerischer Hofrat;Rat;;;;;
-380;Hofratspräsident;Präsident;;;;;
-381;Hofrichter;Hofrichter;;;;;
-382;Hospitalarzt;Arzt;;;;;
-383;Hospitalschreiber;Hospitalschreiber;;;;;
-384;Hospitalverweser;Verweser;;;;;
-385;Hospitalvorsteher;Vorsteher;;;;;
-386;Humanista;Professor;;;;;
-387;Illuminat;Mitglied;;;;;
-388;Insepktor;Inspektor;;;;;
-389;Inspektor;Inspektor;;;;;
-390;Inspektor über die Renten und Gefälle;Inspektor;;;;;
-391;Inspektor über die Renten und Gefälle, interimsweise;Inspektor;;;;;
-392;Intendant;Intendant;;;;;
-393;Jüngerer Bürgermeister;Bürgermeister, jüngerer;;;;;
-394;Juris Consulatus;Konsulent;;;;;
-395;Juris Consultus;Konsulent;;;;;
-396;Juris Utriusque Licentiati;#;;;;;
-397;Jurist;Jurist;;;;;
-398;k.k. bevollmächtigter Minister;Bevollmächtigter Minister, Kaiser;;;;;
-399;k.k. Kämmerer;Kämmerer;;;;;
-400;k.k. vorderösterreichischer Regiments- und Kammerrat;Rat;;;;;
-401;Kadett in der österreichischen Armee;Kadett;;;;;
-402;kaiserlich königlich vorderösterreichischer Kammerrat;Rat;;;;;
-403;kaiserlich königlich vorderösterreichischer Regierungsrat;Rat;;;;;
-404;kaiserlich königlicher Appellationsrat;Rat;;;;;
-405;kaiserlich königlicher Fähnrich;Offizier;;;;;
-406;kaiserlich königlicher Kämmerer;Kämmerer;;;;;
-407;kaiserlich königlicher Kreisdirektor;Direktor;;;;;
-408;kaiserlich königlicher Leutnant;Offizier;;;;;
-409;kaiserlich königlicher Stadthauptmann;Stadthauptmann;;;;;
-410;kaiserlicher Geschäftsträger am kurfürstlichen bzw. großherzoglich badischen Hof;Geschäftsträger, Kaiser / #;;;;;
-411;kaiserlicher Hofpfalzgraf;Hofpfalzgraf;;;;;
-412;kaiserlicher Konkommissar;Konkommissar;;;;;
-413;kaiserlicher öffentlicher Notar;Notar;;;;;
-414;Comes Palatinus Caesareus;Hofpfalzgraf;;;;;
-415;kaiserlicher Postmeister;Postmeister;;;;;
-416;Kaiserlicher Rat;Rat;;;;;
-417;kaiserlicher Reichshofrat;Rat;;;;;
-418;Kaiserlicher Reichskammergerichtsassessor;Assessor;;;;;
-419;kaiserlicher Resident beim Niedersächsischen Kreis;Resident, Kaiser;;;;;
-420;kaiserlicher RKG-Assessor;Assessor;;;;;
-421;Kaiserlicher RKG-Präsentatus;;;;;;
-422;kaiserlicher wirklicher Geheimer Rat;Rat;;;;;
-423;kaiserlicher wirklicher Reichshofrat auf der Ritter- und Gelehrtenbank;Rat;;;;;
-424;kaiserlicher und kaiserlich königlicher (Titular-)wirklicher Geheimer Rat;# ;;;;;
-425;kaiserlich-königlicher oberösterreichischer Oberamtsdirektor der Landgrafschaft Nellenburg in Stockach;Direktor;;;;;
-426;kaiserlich-königlicher oberösterreichischer Regimentsrat in Innsbruck;Rat;;;;;
-427;kaiserlich-königlicher Offizier;Offizier;;;;;
-428;Kammerassessor;Assessor;;;;;
-429;Kammerdirektor;Direktor;;;;;
-430;Kammerdirektor];Direktor];;;;;
-431;Kämmereiaktuar;Aktuar;;;;;
-432;Kämmerer;Kämmerer;;;;;
-433;erzbischöflich salzburgischer Kämmerer;Kämmerer;;;;;
-434;Kämmerer, kaiserlicher;Kämmerer;;;;;
-435;kurüfrstlich salzburgischer Kämmerer;Kämmerer;;;;;
-436;Kammerherr;Kammerherr;;;;;
-437;erzbischöflich salzburgischer Kammerherr;Kammerherr;;;;;
-438;Kammerherr, kaiserlicher;Kammerherr;;;;;
-439;Kammerkanzlist;Kanzlist;;;;;
-440;Kammerkanzlist-Adjunkt cum spe successionis;Kanzlist-Adjunkt;;;;;
-441;Kammerkonsulent;Konsulent;;;;;
-442;Kammer- und Zahlmeister;Zahlmeister;;;;;
-443;Kammerpräsident;Präsident;;;;;
-444;Kammerrat;Rat;;;;;
-445;Kammerrat, [Titular-?];#;;;;;
-446;Kammerrat, außerordentlicher [?];Rat, außerordentlicher #;;;;;
-447;Kammerrat, gräflich schwarzburgischer;Rat;;;;;
-448;Kammerrat, kurmainzischer;Rat;;;;;
-449;vorderösterreichischer Kammerrat;Rat;;;;;
-450;Kammerrat, wirklicher;Rat;;;;;
-451;Kammerrat, wirklicher kurmainzischer;Rat;;;;;
-452;Kammerrechnungsrevisor;Rechnungsrevisor;;;;;
-453;Kammerregistrator;Registrator;;;;;
-454;Kammerrichter;Richter;;;;;
-455;Kammerrichter-Amtsverweser;Verweser;;;;;
-456;Kammersekretär;Sekretär;;;;;
-457;Kammersekretär, kurfürstlicher;Sekretär;;;;;
-458;Kammerzahlmeister;Zahlmeister;;;;;
-459;Kanoniker;Kapitularherr;;;;;
-460;Kanonikus;Kapitularherr;;;;;
-461;Kantor;Kantor;;;;;
-462;Kanzleiassessor;Assessor;;;;;
-463;Kanzleidirektor;Direktor;;;;;
-464;Kanzleidriektor;Direktor;;;;;
-465;Kanzleirat;Rat;;;;;
-466;Kanzler;Kanzler;;;;;
-467;Kanzler, kurmainzischer;Kanzler;;;;;
-468;Kanzlist;Kanzlist;;;;;
-469;Kapitän;Kapitän;;;;;
-470;Kapitular;Kapitularherr;;;;;
-471;Kapitularherr;Kapitularherr;;;;;
-;;Konsekretär #;;;;;
-472;Capitularherren/Domicellaren;Domizellar #;;;;;
-473;katholischer RKG-Präsident;Präsident;;;;;
-474;katholischer Täufling;Täufling, katholisch;;;;;
-475;Kauf- und Handelsherr;Händler;;;;;
-476;Kaufmann;Händler;;;;;
-477;Kauf- und Handelsmann;Händler;;;;;
-478;Kaufmannslehrling;Auszubildender;;;;;
-479;Kellerey Prodselten;#;;;;;
-480;Kind;Kind;;;;;
-481;Kirchenvorsteher;Vorsteher;;;;;
-482;Kirch- und Schulinspektor;Inspektor;;;;;
-483;Kirchvater;Kirchvater;;;;;
-484;Koadjutor;Koadjutor;;;;;
-485;Kommandant;Kommandant;;;;;
-486;Kommissar für das kurkölnische Schulwesen;Kommissar;;;;;
-487;Konferenzminister;Konferenzminister;;;;;
-488;Konfirmant;Konfirmant;;;;;
-489;königlich bayerischer 2. Direktor;Vizedirektor;;;;;
-490;königlich bayerischer 2. Direktor der Obersten Justizstelle;Vizedirektor;;;;;
-491;königlich bayerischer 2. Direktor des Oberappellationsgerichts;Vizedirektor;;;;;
-492;königlich bayerischer 2. Präsident;Vizepräsident;;;;;
-493;königlich bayerischer Direktor;Direktor;;;;;
-494;königlich bayerischer Generalkommissar;Generalkommissar, Königreich Bayern;;;;;
-495;königlich bayerischer Kämmerer;Kämmerer;;;;;
-496;königlich bayerischer Präsident;Präsident;;;;;
-497;königlich bayerischer Staatsrat im ordentlichen Dienst;Rat;;;;;
-498;königlich bayerischer Verweser;Verweser;;;;;
-499;königlich bayerischer Vizepräsident;Vizepräsident;;;;;
-500;königlich bayerischer wirklicher Staatsrat im außerordentlichen Dienst;Rat, außerordentlicher;;;;;
-501;königlich böhmischer Appellationsgerichtsrat;Rat;;;;;
-502;königlich großbritannische-kurbraunschweigischer Hof- und Kanzleirat;Rat;;;;;
-503;königlich württembergischer Staatssekretär der auswärtigen Angelegenheiten;Staatssekretär;;;;;
-504;königlich-bayerischer Gesandter;Gesandter, Königreich Bayern;;;;;
-505;königlich-bayerischer Kämmerer;Kämmerer;;;;;
-506;königlich-bayerischer Minister;Minister;;;;;
-507;königlich-bayerischer Präsident;Präsident;;;;;
-508;königlich-bayerischer wirklicher Staatsrat im ordentlichen Dienst;Rat;;;;;
-509;königlich-württembergischer außerordentlicher Gesandter;Gesandter, außerordentlicher, Königreich Württemberg;;;;;
-510;königlich-württembergischer außerordentlicher Gesandter und bevollmächtigter Minister am königlich hannoveranischen Hof;Gesandter, außerordentlicher, Königreich Württemberg / Bevollmächtigter Minister, Königreich Württemberg / #;;;;;
-511;königlich-württembergischer außerordentlicher Gesandter und bevollmächtigter Minister am königlich niederländischen Hof;Gesandter, außerordentlicher, Königreich Württemberg / Bevollmächtigter Minister, Königreich Württemberg / #;;;;;
-512;königlich-württembergischer Gesandter;Gesandter, Königreich Württemberg;;;;;
-513;königlich-württembergischer Kammerherr;Kammerherr;;;;;
-514;königlich-württembergischer Regierungspräsident;Präsident;;;;;
-515;königlich-württembergischer Staatsrat;Rat;;;;;
-516;königlich-württembergischer wirklicher adliger Geheimer Rat;Rat;;;;;
-517;Konsistorialrat;Rat;;;;;
-518;Konsulent;Konsulent;;;;;
-519;Täufling, katholischer (Konvertit);Täufling, katholisch;;;;;
-520;Täufling (Konvertit), protestantischer;Täufling, evangelisch;;;;;
-521;Kornhändler;Händler;;;;;
-522;Kramer;Händler;;;;;
-523;Kreisdirektor;Direktor;;;;;
-;Capitularherren/Domicellaren;Kapitularherr #;;;;;
-524;Kriegs- und Domänenrat;Rat;;;;;
-525;Kriegs- und Domänenrat, königlich preußischer;Rat;;;;;
-526;Kriegsauditor;Kriegsauditor;;;;;
-527;Kriegskasserier;Kriegskasserier;;;;;
-528;Kriegskommissar;Kriegskommissar;;;;;
-529;Kriegszahlmeister;Kriegszahlmeister;;;;;
-530;Kriegszahlmeister, kurmainzischer;Kriegszahlmeister;;;;;
-531;Kriminalreferendar;Referendar;;;;;
-532;Küchenmeister, kurfürstlich mainzischer;Küchenmeister;;;;;
-533;Kurator;Kurator;;;;;
-534;Kurator];Kurator];;;;;
-535;kurbayerischer RKG-Assessor;Assessor;;;;;
-536;kurbayerischer RKG-Präsentatus;;;;;;
-537;kurbayerischer wirklicher Geheimer Rat;Rat;;;;;
-538;kurbayerischer wirklicher Hofrat;Rat;;;;;
-539;kurböhmischer Reichskammergerichtsassessor;Assessor;;;;;
-540;kurböhmischer RKG-Assessor;Assessor;;;;;
-541;kurbrandenburgischer Reichskammergeirchtsassessor;Assessor;;;;;
-542;Kurerzkanzler;Reichserzkanzler;;;;;
-543;Kurfürst;Kurfürst;;;;;
-544;Kurfürst];Kurfürst];;;;;
-545;kurkölnischer Appellationskommissar;Kommissar;;;;;
-546;kurkölnischer Direktor;Direktor;;;;;
-547;kurkölnischer Geheimer Legationsrat;Diplomat;;;;;
-548;kurkölnischer Geheimer Rat;Rat;;;;;
-549;kurkölnischer gelehrter Hof- und Regierungsrat;Rat;;;;;
-550;kurkölnischer Hofkammeradvokat;Advokat;;;;;
-551;kurkölnischer Hofkammerrat;Rat;;;;;
-552;kurkölnischer Hofrat;Rat;;;;;
-553;kurkölnischer Hofratsreferendar;Referendar;;;;;
-554;kurkölnischer Kanzleidirektor;Direktor;;;;;
-555;kurkölnischer Kommissar;Kommissar;;;;;
-556;kurkölnischer Kon-Lehendirektor;Vizelehendirektor;;;;;
-557;kurkölnischer Landtagskommissar;Kommissar, Kurfürstentum Köln;;;;;
-558;kurkölnischer Lehendirektor;Lehendirektor;;;;;
-559;kurkölnischer Oberappellationsgerichtsrat;Rat;;;;;
-560;kurkölnischer Page;Page;;;;;
-561;kurkölnischer Rat;Rat;;;;;
-562;kurkölnischer RKG-Assessor;Assessor;;;;;
-563;kurkölnischer Staats- und Konferenzminister;Staatsminister / Konferenzminister / #;;;;;
-564;kurkölnischer Vizekanzleidirektor;Vizedirektor;;;;;
-565;kurkölnischer wirklicher Geheimer Rat;Rat;;;;;
-566;kurkölnischer wirklicher Geheimer Staats- und Konferenzrat;Rat;;;;;
-567;kurkölnischer wirklicher gelehrter Hof- und Regierungsrat;Rat;;;;;
-568;kurkölnischer wirklicher Kämmerer;Kämmerer;;;;;
-569;kurmainzischer (Titular-)Rat;#;;;;;
-570;kurmainzischer adliger Hof- und Regierungsrat;Rat;;;;;
-571;kurmainzischer Direktorialgesandter;Gesandter, Kurfürstentum Mainz;;;;;
-572;kurmainzischer erster Geheimer Referendar;Referendar, geheimer;;;;;
-573;kurmainzischer erster Staatsminister;Staatsminister, erster;;;;;
-574;kurmainzischer Geheimer Kabinettssekretär;Sekretär;;;;;
-575;kurmainzischer Geheimer Rat;Rat;;;;;
-576;kurmainzischer gelehrter Hof- und Regierungsrat;Rat;;;;;
-577;kurmainzischer Hauptmann;Offizier;;;;;
-578;kurmainzischer Hof- und Regierungsrat;Rat;;;;;
-579;kurmainzischer Hofgerichtsassessor;Assessor;;;;;
-580;kurmainzischer Hofgerichtsrat;Rat;;;;;
-581;kurmainzischer Hofkanzler;Hofkanzler;;;;;
-582;kurmainzischer Kammerherr;Kammerherr;;;;;
-583;kurmainzischer Konferenzminister;Konferenzminister, erster;;;;;
-584;kurmainzischer Kriegskonferenzrat;Rat;;;;;
-585;kurmainzischer Oberlandesgerichtsassessor;Assessor;;;;;
-586;kurmainzischer Prinzipalgesandter;Gesandter, Kurfürstentum Mainz;;;;;
-587;kurmainzischer Regierungsrat;Rat;;;;;
-588;kurmainzischer Reichsdirektorialgesandter;Gesandter, Kurfürstentum Mainz;;;;;
-589;Kurmainzischer Reichskammergerichtsassessor;Assessor;;;;;
-590;kurmainzischer Revisionsrat;Rat;;;;;
-591;kurmainzischer RKG-Assessor;Assessor;;;;;
-592;kurmainzischer RKG-Präsentatus;;;;;;
-593;kurmainzischer Stadtgerichtsassessor;Assessor;;;;;
-594;kurmainzischer subdelegierter kaiserlicher Kommissar;Kommissar, subdelegierter;;;;;
-595;kurmainzischer Titular-Hofgerichtsrat;#;;;;;
-596;kurmainzischer Titular-Hofrat;#;;;;;
-597;kurmainzischer wirklicher Geheimer Staatsrat;Rat;;;;;
-598;kurmainzischer wirklicher Hof- und Regierungsrat;Rat;;;;;
-599;kurmainzischer wirklicher Hof- und Regierungsrat auf der Gelehrtenbank;Rat;;;;;
-600;kurmainzischer wirklicher Staats- und Konferenzminister;Konferenzminister / Staatsminister / #;;;;;
-601;kurmainzischer Zentrgrafadjunkt;Zentrgraf-Adjunkt;;;;;
-602;kurmainzischer zweiter Geheimer Referendar;Referendar, geheimer, zweiter;;;;;
-603;kurmainzischer und kaiserlicher Diplomat;Diplomat, Kurfürstentum Mainz / Diplomat, Kaiser;;;;;
-604;kursächsischer Geheimer Rat;Rat;;;;;
-605;kurtrierischer adliger Geheimer Rat;Rat;;;;;
-606;kurtrierischer adliger Hof- und Regierungsrat;Rat;;;;;
-607;kurtrierischer adliger Hofrat auf der Ritterbank;Rat;;;;;
-608;kurtrierischer Advocatus patriae ordinarius;Jurist;;;;;
-609;kurtrierischer Assessor;Assessor;;;;;
-610;kurtrierischer erster Revisionsrat;Rat;;;;;
-611;kurtrierischer erster Stadtschultheiß;Stadtschultheiß, erster;;;;;
-612;kurtrierischer Geheimer Rat;Rat;;;;;
-613;kurtrierischer Geheimer Sekretär;Sekretär;;;;;
-614;kurtrierischer gelehrter Hof- und Regierungsrat;Rat;;;;;
-615;kurtrierischer Gesandter;Gesandter, Kurfürstentum Trier;;;;;
-616;kurtrierischer Hochgerichtsschöffe;Schöffe;;;;;
-617;kurtrierischer Hof- und Regierungsrat;Rat;;;;;
-618;kurtrierischer Hof- und Revisionsrat;Rat;;;;;
-619;kurtrierischer Hofgerichtsdirektor;Direktor;;;;;
-620;kurtrierischer Hofgerichtsrat;Rat;;;;;
-621;kurtrierischer Hofkanzler;Hofkanzler;;;;;
-622;kurtrierischer Höfling;Höfling;;;;;
-623;kurtrierischer Hofrat;Rat;;;;;
-624;kurtrierischer Hofratssekretär;Sekretär;;;;;
-625;kurtrierischer Kämmerer;Kämmerer;;;;;
-626;kurtrierischer Kanzleidirektor;Direktor;;;;;
-627;kurtrierischer Lehendirektor;Lehendirektor;;;;;
-628;kurtrierischer Lehenprobst;Lehenprobst;;;;;
-629;kurtrierischer Offizialats-Assessor;Assessor;;;;;
-630;kurtrierischer Rat;Rat;;;;;
-631;kurtrierischer Revisionsrat;Rat;;;;;
-632;kurtrierischer RKG-Assessor;Assessor;;;;;
-633;kurtrierischer RKG-Präsentatus;;;;;;
-634;kurtrierischer Stadtschultheiß;Stadtschultheiß;;;;;
-635;kurtrierischer Syndikus;Syndikus;;;;;
-636;kurtrierischer Vizekanzler;Vizekanzler;;;;;
-637;kurtrierischer wirklicher Geheimer Rat;Rat;;;;;
-638;kurtrierischer wirklicher gelehrter Hof- und Regierungsrat;Rat;;;;;
-639;kurtrierischer wirklicher Hofrat;Rat;;;;;
-640;Kurfürst-Erzbischof;Kurfürst / Erzbischof;;;;;
-641;kurhessischer Kämmerer;Kämmerer;;;;;
-642;kurkölnisch-Fürstbistum Paderborn Hofrat;Rat;;;;;
-643;kurmainzische Dienste;;;;;;
-644;kurpfälzischer Abgesandter;Gesandter, Kurfürstentum Pfalz;;;;;
-645;kurpfälzischer adliger Hofgerichtsrat;Rat;;;;;
-646;kurpfälzischer Assessor;Assessor;;;;;
-647;kurpfälzischer bevollmächtigter Minister;Bevollmächtigter Minister, Kurfürstentum Pfalz;;;;;
-648;kurpfälzischer Geheimer Rat;Rat;;;;;
-649;kurpfälzischer Hofgerichtsadvokat;Advokat;;;;;
-650;kurpfälzischer Hofgerichtsrat;Rat;;;;;
-651;kurpfälzischer Hofrat;Rat;;;;;
-652;kurpfälzischer Kriegsauditor;Kriegsauditor;;;;;
-653;kurpfälzischer Landesregierungsrat;Rat;;;;;
-654;kurpfälzischer Oberappelationsgerichtsrat;Rat;;;;;
-655;kurpfälzischer Regierungsadvokat;Advokat;;;;;
-656;kurpfälzischer Regierungsrat;Rat;;;;;
-657;kurpfälzischer Regierungsreferendar in Kriminal- und Zivilsachen;Referendar;;;;;
-658;kurpfälzischer Revisionsrat;Rat;;;;;
-659;kurpfälzischer RKG-Assessor;Assessor;;;;;
-660;kurpfälzischer Subdelegierter;Subdelegierter, Kurfürstentum Pfalz;;;;;
-661;kurpfälzischer wirklicher gelehrter Regierungsrat;Rat;;;;;
-662;kurpfälzischer wirklicher Landvisitationskommissar;Kommissar;;;;;
-663;kurpfälzich-herzoglich jülich-bergischer Rat;Rat;;;;;
-664;kurpfälzich-herzoglich jülich-bergischer Referendar;Referendar;;;;;
-665;kurpfälzisch-herzoglich-pfalz-neuburgischer adliger Geheimer Rat;Rat;;;;;
-666;kurpfälzisch-herzoglich-pfalz-neuburgischer Geheimer Rat;Rat;;;;;
-667;kurpfälzisch-herzoglich-pfalz-neuburgischer Hof- und Regierungsrat;Rat;;;;;
-668;kurpfälzisch-herzoglich-pfalz-neuburgischer Regierungspräsident;Präsident;;;;;
-669;kurpfälzisch-herzoglich-pfalz-neuburgischer Vizekanzler;Vizekanzler;;;;;
-670;kurpfälzisch-pfalz-neuburgischer adliger Regierungsrat;Rat;;;;;
-671;kurpfälzisch-pfalz-neuburgischer Oberpolizeikommissar;Kommissar;;;;;
-672;kurpfälzisch-pfalz-neuburgischer Regierungsvizepräsident;Vizepräsident;;;;;
-673;kurpfälzisch-pfalz-neuburgischer wirklicher adliger Geheimer Rat;Rat;;;;;
-674;Landeinnehmer;Landeinnehmer;;;;;
-675;landgräflich hessen-Kasselscher Burggraf;Burggraf;;;;;
-676;landgräflich hessen-rotenburg-rheinfelsischer Hofrat;Rat;;;;;
-677;landgräflich-hessen-rheinfels-rotenburgischer Kanzleidirektor;Direktor;;;;;
-678;landgräflich-hessen-rheinfels-rotenburgischer Kanzleirat;Rat;;;;;
-679;landgräflich-hessischer Hofgerichtsrat;Rat;;;;;
-680;landgräflich-hessischer Konsistorialrat;Rat;;;;;
-681;landgräflich-hessischer Regierungsrat;Rat;;;;;
-682;Landkommissar;Kommissar;;;;;
-683;Landphysicus;Physikus;;;;;
-684;Landphysikus;Physikus;;;;;
-685;Landrat, königlich preußischer;Landrat;;;;;
-686;Landrentmeister;Landrentmeister;;;;;
-687;Landschreiber;Landschreiber;;;;;
-688;Landschreiber im Eichsfeld;Landschreiber;;;;;
-689;Landsyndikus;Syndikus;;;;;
-690;Landvogt der Landgrafschaft Nellenburg;Landvogt;;;;;
-691;Landwirt;Landwirt;;;;;
-692;lebenslängliches Mitglied;Mitglied;;;;;
-693;Legationsrat bei den kurfürstlichen Wahldenunziations-Botschaften an die Höfe München, Wien und Prag;Diplomat;;;;;
-694;Legationssekretär, kaiserlicher;Sekretär;;;;;
-695;Legationssekretär, schwedischer;Sekretär;;;;;
-696;Lehenprobst;Lehenprobst;;;;;
-697;Lehnssekretär;Lehensekretär;;;;;
-698;Lehrer;Lehrer;;;;;
-699;Lehrer der Mathematik;Lehrer;;;;;
-700;Lehrling;Lehrling;;;;;
-701;Leibarzt, kurfürstlicher;Leibarzt;;;;;
-702;leitender Staatsminister, kurmainzischer;Staatsminister, leitender;;;;;
-703;Leiter;Leiter;;;;;
-704;Leiter des Archivs;Leiter;;;;;
-705;Leutnant;Offizier;;;;;
-706;Lic. examiniatus;Lic. examinatus;;;;;
-707;logicae studiosus;Student;;;;;
-708;logices candidatus;Kandidat;;;;;
-709;Logicus;Student;;;;;
-710;Lokaloberer;Lokaloberer;;;;;
-711;Mag. phil.;#;;;;;
-712;Magnificus Dn. [?] Rector;Rector Magnificus;;;;;
-713;markgräflich baden-badenischer Hof- und Regierungsrat, später Geheimer Rat und Lehenprobst, auch Gesandter beim Schwäbischen Reichskreis;Rat / Rat / Lehenprobst / #;;;;;
-714;markgräflich baden-badenischer Hofrat;Rat;;;;;
-715;markgräflich baden-badensche Dienste;;;;;;
-716;markgräflich baden-badischer Hofrat;Rat;;;;;
-717;markgräflich baden-badischer Oberamtmann;Oberamtmann;;;;;
-718;markgräflich baden-badischer Titular-Geheimer Rat;#;;;;;
-719;markgräflich brandenburg-ansbachischer Hof-, Regierungs- und Justizrat;Rat / Rat / #;;;;;
-720;markgräflich brandenburg-ansbachischer Kammerjunker;Kammerjunker;;;;;
-721;markgräflich brandenburg-ansbachischer Vizepräsident;Vizepräsident;;;;;
-722;Materialist;Händler;;;;;
-723;Mediziner;Arzt;;;;;
-724;Meister;Meister;;;;;
-725;Miinisterialdirektor;Ministerialdirektor;;;;;
-726;Minister;Minister;;;;;
-727;Minister der Finanzen, fürstlich primatialischer;Minister;;;;;
-728;Minister des Kurerzkanzlers;Minister;;;;;
-729;Ministerialdirektor;Ministerialdirektor;;;;;
-730;Ministerialdirektor, großherzoglich badischer;Ministerialdirektor;;;;;
-731;Ministerresident, kurmainzischer;Ministerresident, Kurfürstentum Mainz;;;;;
-732;Mitglied;Mitglied;;;;;
-733;Mitglied, ordentliches;Mitglied, ordentliches;;;;;
-734;Mitinspektor;Inspektor;;;;;
-735;Mutter;Mutter;;;;;
-736;Not. Caes. Publ;Notar;;;;;
-737;Notar;Notar;;;;;
-738;Notar, Supernumerar;Notar, Supernumerar;;;;;
-739;Notarius;Notar;;;;;
-740;Notarius Publicus Caesareus;Notar;;;;;
-741;Ober-)Amtmann;Oberamtmann;;;;;
-742;Oberamtmann;Oberamtmann;;;;;
-743;sächsischer Oberamtmann;Oberamtmann;;;;;
-744;Oberamtmann, sächsischer;Oberamtmann;;;;;
-745;Oberappelationsrat;Rat;;;;;
-746;landgräflich hessen-darmstädtischer Oberappellationsrat;Rat;;;;;
-747;Oberaufseher;Oberaufseher;;;;;
-748;Oberbauherr;Oberbauherr;;;;;
-749;Oberbauherr (3. Vierherr);Oberbauherr;;;;;
-750;Oberbaumeister;Oberbaumeister;;;;;
-751;Ober-Bürgermeister;Bürgermeister, älterer;;;;;
-752;Oberchorbischof;Oberchorbischof;;;;;
-753;Oberdirektor;Direktor;;;;;
-754;Oberer Ratsmeister;Ratsmeister, oberster;;;;;
-755;Oberfutterherr;Oberfutterherr;;;;;
-756;Obergeleitschreiber;Obergeleitschreiber;;;;;
-757;Obergeleitsschreiber;Obergeleitschreiber;;;;;
-758;Oberhofmarschall;Oberhofmarschall;;;;;
-759;Oberhofmarschall, herzoglich sächsischer;Oberhofmarschall;;;;;
-760;Oberhofmarschall, kurmainzischer;Oberhofmarschall;;;;;
-761;kurüfrstlich salzburgischer Oberhofrichter;Oberhofrichter;;;;;
-762;Oberinspektor;Oberinspektor;;;;;
-763;Oberkammerdirektor;Oberdirektor;;;;;
-764;Oberkämmerer;Kämmerer;;;;;
-765;Oberkammerrat;Rat;;;;;
-766;Obermarktherr;Obermarktherr;;;;;
-767;Obermarschall;Obermarschall;;;;;
-768;Obermarschall, kurmainzischer;Obermarschall;;;;;
-769;Obermeister;Obermeister;;;;;
-770;oberösterreichischer Gubernialrat;Rat;;;;;
-771;Oberratsherr;Ratsmeister, oberster;;;;;
-772;Oberratsmeister;Ratsmeister, oberster;;;;;
-773;Oberschatzungsherr;Oberschatzungsherr;;;;;
-774;Oberschlossherr;Oberschlossherr;;;;;
-775;Oberstadtvogt;Oberstadtvogt;;;;;
-776;oberster Bürgermeister;Bürgermeister, älterer;;;;;
-777;oberster Gerichtsassessor;Assessor, oberster;;;;;
-778;oberster Leiter der Departements;Leiter;;;;;
-779;oberster Leiter der Staatsgeschäfte;Leiter;;;;;
-780;Oberster Ratsmeister;Ratsmeister, oberster;;;;;
-781;Oberster Vierherr;Vierherr, oberster;;;;;
-782;Oberstratsmeister;Ratsmeister, oberster;;;;;
-783;Obervierherr;Vierherr, oberster;;;;;
-784;Oberzweiermann;Oberzweiermann;;;;;
-785;Ober-Zweiermann;Oberzweiermann;;;;;
-786;Obrist;Offizier;;;;;
-787;Obristleutnant;Offizier;;;;;
-788;Obristratsmeister;Ratsmeister, oberster;;;;;
-789;Obrist-Ratsmeister;Ratsmeister, oberster;;;;;
-790;Obristratsmeister ;Ratsmeister, oberster;;;;;
-791;Obriststallmeister;Oberststallmeister;;;;;
-792;Obristwachtmeister;Offizier;;;;;
-793;Offizier;Offizier;;;;;
-794;ordentlicher Professor des Staatsrechts und der praktischen Philosophie;Professor, ordentlicher;;;;;
-795;ordentlicher Professor iur.;Professor, ordentlicher;;;;;
-796;ordentlicher Professor iuris;Professor, ordentlicher;;;;;
-797;ordentlicher Professor iuris für Institutionen;Professor, ordentlicher;;;;;
-798;ordentlicher Professor iuris für Ius publicum;Professor, ordentlicher;;;;;
-799;ordentlicher Professor iuris für Pandekten;Professor, ordentlicher;;;;;
-800;ordentlicher Professor, für Staatsrecht (ius publicum);Professor, ordentlicher;;;;;
-801;ordentlicher Professor, iur.;Professor, ordentlicher;;;;;
-802;ordentlicher Professor, iuris;Professor, ordentlicher;;;;;
-803;ordentlicher Professor, iuris für Institutionen;Professor, ordentlicher;;;;;
-804;ordentlicher Professor, iuris für Ius publicum;Professor, ordentlicher;;;;;
-805;ordentlicher Professor, iuris für Pandekten;Professor, ordentlicher;;;;;
-806;ordentlicher Professor, des Staatsrechts;Professor, ordentlicher;;;;;
-807;Organisationskommissar zur Wiederherstellung der alten Ordnung in der rückeroberten Residenzstadt;Kommissar;;;;;
-808;Page;Page;;;;;
-809;Pastor;Pastor;;;;;
-810;Pate;;;;;;
-811;Patin;;;;;;
-812;Patricius;#;;;;;
-813;Pensionär;Pensionär;;;;;
-814;Persönlicher Sekretär;Sekretär;;;;;
-815;Persönlicher Sekretär des Johann Ernst Grafen Herberstein;Sekretär;;;;;
-816;Comes palatinus;Hofpfalzgraf;;;;;
-817;Pfannenherr;Pfannenherr;;;;;
-818;Pfarrer;Pfarrer;;;;;
-819;Pfarreradjunkt;Pfarrer-Adjunkt;;;;;
-820;Physicus;Physikus;;;;;
-821;Plenipotentarius, kaiserlicher;Bevollmächtigter Minister;;;;;
-822;Poeta;Poeta;;;;;
-823;Polizeykommissar, kurmainzischer;Kommissar;;;;;
-824;Posamentiermeister;Posamentiermeister;;;;;
-825;Postkommissar;Kommissar;;;;;
-826;Postmeister;Postmeister;;;;;
-827;Postschreiber;Postschreiber;;;;;
-828;Präfekt;Präfekt;;;;;
-829;Praktikant;Praktikant;;;;;
-830;Praktikum;Praktikant;;;;;
-831;Präseident;Präsident;;;;;
-832;Präses;Präsident;;;;;
-833;Präsident;Präsident;;;;;
-834;österreichischer Präsidialgesandter;Gesandter, Erzherzogtum Österreich;;;;;
-835;Prätor;Prätor;;;;;
-836;Präzeptor;Lehrer;;;;;
-837;Präzeptor Classicus;Lehrer;;;;;
-838;Prediger;Prediger;;;;;
-839;Priester;Priester;;;;;
-840;Primas der Stände des Eichsfeldes;Primas;;;;;
-841;kurmainzischer?] Prinzipalgesandter;Gesandter, Kurfürstentum Mainz] #;;;;;
-842;Priorin;Priorin;;;;;
-843;Privatdozent;Privatlehrer;;;;;
-844;Privatier;Privatier;;;;;
-845;Privatlehrer;Privatlehrer;;;;;
-846;Privatsekretär;Sekretär;;;;;
-847;Probst;Probst;;;;;
-848;Prodekan;Prodekan;;;;;
-849;Prof. Theol.;Professor;;;;;
-850;Professoer;Professor;;;;;
-851;Professor;Professor;;;;;
-852;Professor  Juris;Professor;;;;;
-853;Professor beider Rechte;Professor;;;;;
-854;Professor beider Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-855;Professor beider Wissenschaften, ordentlicher;Professor, ordentlicher;;;;;
-856;Professor Codicis;Professor;;;;;
-857;Professor Decretalium;Professor;;;;;
-858;Professor der Anatomie, Chirurgie und Botanik, ordentlicher;Professor, ordentlicher;;;;;
-859;Professor der Arzneigelehrsamkeit, außerordentlicher;Professor, außerordentlicher;;;;;
-860;Professor der Arzneigelehrsamkeit, ordentlicher;Professor, ordentlicher;;;;;
-861;Professor der Institutionen, ordentlicher;Professor, ordentlicher;;;;;
-862;Professor der Institutionum Juris [sic!];Professor;;;;;
-863;Professor der Jurisprudenz, außerordentlicher;Professor, außerordentlicher;;;;;
-864;Professor der Kammeralwissenschaften, ordentlicher;Professor, ordentlicher;;;;;
-865;Professor der Logik und Ethik;Professor;;;;;
-866;Professor der Mathematik;Professor;;;;;
-867;Professor der Mathematik und Philosophie, außerordenterlicher;Professor, außerordentlicher;;;;;
-868;Professor der Mathematik, ordentlicher;Professor, ordentlicher;;;;;
-869;Professor der Medizin, ordentlicher;Professor, ordentlicher;;;;;
-870;Professor der Pandekten;Professor;;;;;
-871;Professor der Pandekten, ordentlicher;Professor, ordentlicher;;;;;
-872;Professor der Philosophie und der Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-873;Professor der Philosophie und Kammeralwissenschaften;Professor;;;;;
-874;Professor der Philosophie und Kammeralwissenschaften, ordentlicher;Professor, ordentlicher;;;;;
-875;Professor der Physik und der Sprachen;Professor;;;;;
-876;Professor der Politik, ordentlicher;Professor, ordentlicher;;;;;
-877;Professor der Rechte;Professor;;;;;
-878;Professor der Rechte un der Geschichte;Professor;;;;;
-879;Professor der Rechte und Geschichte;Professor;;;;;
-880;Professor der Rechte und Philosophie, außerordenterlicher;Professor, außerordentlicher;;;;;
-881;Professor der Rechte, außerordenterlicher;Professor, außerordentlicher;;;;;
-882;Professor der Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-883;Professor der Rechte, Geschichte und Philosophie, ordentlicher;Professor, ordentlicher;;;;;
-884;Professor der Rechte, Geschichte und praktischen Philosophie, ordentlicher;Professor, ordentlicher;;;;;
-885;Professor der Rechte, ordentlicher;Professor, ordentlicher;;;;;
-886;Professor der Rechtswissenschaft;Professor;;;;;
-887;Professor der Rechtswissenschaften, außerordentlicher;Professor, außerordentlicher;;;;;
-888;Professor der Weltweisheit;Professor;;;;;
-889;Professor der Weltweisheit, außerordenterlicher;Professor, außerordentlicher;;;;;
-890;Professor des Codex;Professor;;;;;
-891;Professor des Lehnrechts;Professor;;;;;
-892;Professor des Lehnrechts, ordentlicher;Professor, ordentlicher;;;;;
-893;Professor des Staatsrechts und der Geschichte;Professor;;;;;
-894;Professor des Staatsrechts und der Historie;Professor;;;;;
-895;Professor des Staatsrechts und Historie;Professor;;;;;
-896;Professor für deutsches Staatsrecht;Professor;;;;;
-897;Professor für kanonisches Recht;Professor;;;;;
-898;Professor Historiarium & Philosophiae Practicae, ordentlicher;Professor, ordentlicher;;;;;
-899;Professor Institut.;Professor;;;;;
-900;Professor Institutionum;Professor;;;;;
-901;Professor Institutionum, ordentlicher;Professor, ordentlicher;;;;;
-902;Professor iur.;Professor;;;;;
-903;Professor iuris;Professor;;;;;
-904;Professor Iuris Extraordinarius;Professor, außerordentlicher;;;;;
-905;Professor Iuris feudalis;Professor;;;;;
-906;Professor iuris für Zivilrecht;Professor;;;;;
-907;Professor iuris naturae, gentium & publici, außerordentlicher;Professor, außerordentlicher;;;;;
-908;Professor Iuris Publ. et Hist.;Professor;;;;;
-909;Professor Iuris Publici;Professor;;;;;
-910;Professor iuris publici & Historiarum;Professor;;;;;
-911;Professor Iuris Publici Ordinarius;Professor, ordentlicher;;;;;
-912;Professor iuris, außerordentlicher;Professor, außerordentlicher;;;;;
-913;Professor iuris, ordentlicher;Professor, ordentlicher;;;;;
-914;Professor iurs publicus ordinarius et salriata;Professor, ordentlicher;;;;;
-915;Professor Juris;Professor;;;;;
-916;Professor juris publici;Professor;;;;;
-917;Professor Juris Publici & Histor.;Professor;;;;;
-918;Professor Juris Publici und Hist.;Professor;;;;;
-919;Professor Juris, außerordentlicher;Professor, außerordentlicher;;;;;
-920;Professor Juris, ordentlicher;Professor, ordentlicher;;;;;
-921;Professor med.;Professor;;;;;
-922;Professor ordinarius des Staatsrechts und der Historie;Professor, ordentlicher;;;;;
-923;Professor Pandectarum;Professor;;;;;
-924;Professor Pandectarum, ordentlicher;Professor, ordentlicher;;;;;
-925;Professor Publicus;Professor;;;;;
-926;Professor Publicus Ordinarius Codicis;Professor, ordentlicher;;;;;
-927;Professor Publicus Ordinarius Decretalium;Professor, ordentlicher;;;;;
-928;Professor Publicus Ordinarius Iuris;Professor, ordentlicher;;;;;
-929;Professor, des Lehnrechts, ordentlicher;Professor, ordentlicher;;;;;
-930;Professor,  Theol.;Professor;;;;;
-931;außerordentlicher Professor;Professor, außerordentlicher;;;;;
-932;Professor, außerordentlicher;Professor, außerordentlicher;;;;;
-933;außerordentlicher Professor der Rechte;Professor, außerordentlicher;;;;;
-934;außerordentlicher Professor der Rechtswissenschaften;Professor, außerordentlicher;;;;;
-935;außerordentlicher Professor iur.;Professor, außerordentlicher;;;;;
-936;außerordentlicher Professor iuris;Professor, außerordentlicher;;;;;
-937;außerordentlicher Professor iurs;Professor, außerordentlicher;;;;;
-938;außerordentlicher Professor, iur.;Professor, außerordentlicher;;;;;
-939;außerordentlicher Professor, iuris;Professor, außerordentlicher;;;;;
-940;außerordentlicher Professor, iurs;Professor, außerordentlicher;;;;;
-941;außerordentlicher Professor für Staatsrecht (ius publicum);Professor, außerordentlicher;;;;;
-942;außerordentlicher Professor, für Staatsrecht (ius publicum);Professor, außerordentlicher;;;;;
-943;Professor, beider Wissenschaften, ordentlicher;Professor, ordentlicher;;;;;
-944;Professor, Decretalium;Professor;;;;;
-945;Professor, der Institutionen, ordentlicher;Professor, ordentlicher;;;;;
-946;Professor, der Institutionum Juris [sic!];Professor;;;;;
-947;Professor, der Mathematik;Professor;;;;;
-948;Professor, der Mathematik, ordentlicher;Professor, ordentlicher;;;;;
-949;Professor, der Mathematik und Philosophie, außerordenterlicher;Professor, außerordentlicher;;;;;
-950;Professor, der Pandekten;Professor;;;;;
-951;Professor, der Pandekten, ordentlicher;Professor, ordentlicher;;;;;
-952;Professor, der Philosophie und der Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-953;Professor, der Politik, ordentlicher;Professor, ordentlicher;;;;;
-954;Professor, der Rechte und Philosophie, außerordenterlicher;Professor, außerordentlicher;;;;;
-955;Professor, der Weltweisheit;Professor;;;;;
-956;Professor, der Weltweisheit, außerordenterlicher;Professor, außerordentlicher;;;;;
-957;Professor, für deutsches Staatsrecht;Professor;;;;;
-958;Professor, Institutionum;Professor;;;;;
-959;Professor, Institutionum, ordentlicher;Professor, ordentlicher;;;;;
-960;Professor, der Rechte;Professor;;;;;
-961;Professor, der Rechtswissenschaft;Professor;;;;;
-962;Professor, iur.;Professor;;;;;
-963;Professor, iuris;Professor;;;;;
-964;Professor, Juris;Professor;;;;;
-965;ordentlicher Professor, des Staatsrechts und der praktischen Philosophie;Professor, ordentlicher;;;;;
-966;Professor, Codicis;Professor;;;;;
-967;Professor, für kanonisches Recht;Professor;;;;;
-968;Professor, des Codex;Professor;;;;;
-969;Professor, Iuris Extraordinarius;Professor;;;;;
-970;ordentlicher Professor des Staatsrechts;Professor, ordentlicher;;;;;
-971;ordentlicher Professor für Staatsrecht (ius publicum);Professor, ordentlicher;;;;;
-972;Professor, beider Rechte;Professor;;;;;
-973;Professor, beider Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-974;Professor, der Rechte, außerordenterlicher;Professor, außerordentlicher;;;;;
-975;außerordentlicher Professor, der Rechte;Professor, außerordentlicher;;;;;
-976;außerordentlicher Professor, der Rechtswissenschaften;Professor, außerordentlicher;;;;;
-977;Professor, der Rechte, außerordentlicher;Professor, außerordentlicher;;;;;
-978;Professor, der Rechtswissenschaften, außerordentlicher;Professor, außerordentlicher;;;;;
-979;Professor, der Rechte, ordentlicher;Professor, ordentlicher;;;;;
-980;Professor, der Rechte un der Geschichte;Professor;;;;;
-981;Professor, der Rechte und Geschichte;Professor;;;;;
-982;Professor, Iuris feudalis;Professor;;;;;
-983;Professor, iuris für Zivilrecht;Professor;;;;;
-984;Professor, Iuris Publ. et Hist.;Professor;;;;;
-985;Professor, Iuris Publici;Professor;;;;;
-986;Professor, iuris publici & Historiarum;Professor;;;;;
-987;Professor, Iuris Publici Ordinarius;Professor, ordentlicher;;;;;
-988;Professor, iuris, außerordentlicher;Professor, außerordentlicher;;;;;
-989;Professor, iurs publicus ordinarius et salriata;Professor, ordentlicher;;;;;
-990;Professor, des Lehnrechts;Professor;;;;;
-991;Professor, med.;Professor;;;;;
-992;ordentlicher Professor;Professor, ordentlicher;;;;;
-993;Professor, ordentlicher;Professor, ordentlicher;;;;;
-994;Professor, ordinarius des Staatsrechts und der Historie;Professor, ordentlicher;;;;;
-995;Professor, Pandectarum;Professor;;;;;
-996;Professor, Pandectarum, ordentlicher;Professor, ordentlicher;;;;;
-997;Professor, Publicus;Professor;;;;;
-998;Professor, Publicus Ordinarius Cod.;Professor, ordentlicher;;;;;
-999;Professor, Publicus Ordinarius Codicis;Professor, ordentlicher;;;;;
-1000;Professor, Publicus Ordinarius Decretalium;Professor, ordentlicher;;;;;
-1001;Professor, Publicus Ordinarius Historiar. et Philosophiae Pract;Professor, ordentlicher;;;;;
-1002;Professor, Publicus Ordinarius Iuris;Professor, ordentlicher;;;;;
-1003;Professor, des Staatsrechts und der Geschichte;Professor;;;;;
-1004;Professor, des Staatsrechts und der Historie;Professor;;;;;
-1005;Professor, des Staatsrechts und Historie;Professor;;;;;
-1006;Prokanzler;Prokanzler;;;;;
-1007;Prokurator;Prokurator;;;;;
-1008;Prorektor;Prorektor;;;;;
-1009;Protephor;Protephor;;;;;
-1010;Publizist;Publizist;;;;;
-1011;Rat;Rat;;;;;
-1012;sächsischer Rat;Rat;;;;;
-1013;Rat, fürstlich sächsischer;Rat;;;;;
-1014;Rat, fürstlich-sächsischer;Rat;;;;;
-1015;Rat, schwarzburgischer;Rat;;;;;
-1016;Rat, kaiserlicher;Rat;;;;;
-1017;Rat, kurkölnischer;Rat;;;;;
-1018;Rat, kurfürstlich mainzischer;Rat;;;;;
-1019;Rat, kurmainzischer;Rat;;;;;
-1020;Rat, sächsischer;Rat;;;;;
-1021;Vizedomamts]Rat;Rat;;;;;
-1022;Räte und Assessoren;;;;;;
-1023;Ratsbedienter;Bedienter;;;;;
-1024;Ratsherr;Rat;;;;;
-1025;Ratskämmerer;Kämmerer;;;;;
-1026;Ratsmeister;Ratsmeister;;;;;
-1027;Ratsoberster;Ratsmeister, oberster;;;;;
-1028;Ratssyndikus;Syndikus;;;;;
-1029;Ratsverwandter;Rat;;;;;
-1030;Rechtsanwalt;Advokat;;;;;
-1031;Rechtskonsulent;Konsulent;;;;;
-1032;Rechtspraktikant;Praktikant;;;;;
-1033;Rechtswissenschaftler;Jurist;;;;;
-1034;Rector Magificus;Rector Magnificus;;;;;
-1035;Rector Magnificentissimus;Rector Magnificus;;;;;
-1036;Rector Magnificus;Rector Magnificus;;;;;
-1037;Referendarius;Referendar;;;;;
-1038;Referent;Referent;;;;;
-1039;Regierungsassessor;Assessor;;;;;
-1040;Regierungsdirektor;Direktor;;;;;
-1041;Regierungs- und Kanzleidirektor;Direktor;;;;;
-1042;Regierungskanzlist;Kanzlist;;;;;
-1043;Regierungspräsident;Präsident;;;;;
-1044;Regierungsrat;Rat;;;;;
-1045;Regierungsrat, außerordentlicher;Rat, außerordentlicher;;;;;
-1046;Regierungsrat, exspektierter;Rat, exspektierter;;;;;
-1047;kurbayerischer Regierungsrat;Rat;;;;;
-1048;kurfürstlich-mainzischer Regierungsrat;Rat;;;;;
-1049;Regierungsrat, kurfürstlich mainzischer;Rat;;;;;
-1050;Regierungsrat, kurmainzischer;Rat;;;;;
-1051;landgräflich hessen-darmstädtischer Regierungsrat;Rat;;;;;
-1052;Regierungsrat, Supernumerarius;Rat, Supernumerar;;;;;
-1053;vorderösterreichischer Regierungsrat;Rat;;;;;
-1054;Regierungsrat, wirklicher;Rat;;;;;
-1055;Regierungsrat, wirklicher kurmainzischer;Rat;;;;;
-1056;Regierungssekretär;Sekretär;;;;;
-1057;Regimentsquartiermeister, königlich polnischer;Offizier;;;;;
-1058;Regimentsquartiermeister, kursächsischer;Offizier;;;;;
-1059;niederösterreichischer Regimentsrat;Rat;;;;;
-1060;kurmainzischer] Reichsdirektorialgesandter;Gesandter, Kurfürstentum Mainz] ;;;;;
-1061;Reichshofrat;Rat;;;;;
-1062;Reichshofrat auf der Ritter- und Gelehrtenbank;Rat;;;;;
-1063;Reichshofrat, wirklicher;Rat;;;;;
-1064;Reichshofratspraktikant;Praktikant;;;;;
-1065;Reichskammergerichtsassessor des Bayerischen Kreises;Assessor;;;;;
-1066;Reichskammergerichtsassessor des Burgundischen Kreises;Assessor;;;;;
-1067;Reichskammergerichtsassessor des katholischen niederheinisch-westfälischen Kreises;Assessor;;;;;
-1068;Reichskammergerichtsassessor des katholischen Oberrheinischen Kreises;Assessor;;;;;
-1069;Reichskammergerichtsassessor des katholischen Schwäbischen Kreises;Assessor;;;;;
-1070;Reichskammergerichtsassessor des katholischen Fränkischen Kreises;Assessor;;;;;
-1071;Reichskammergerichtsassessor des österreichischen Kreises;Assessor;;;;;
-1072;Reichskammergerichtsassessor, kurkölnischer;Assessor;;;;;
-1073;Reichskammergerichtspraktikant;Praktikant;;;;;
-1074;Reichskammerherr;Kammerherr;;;;;
-1075;Reichsrat der Krone Bayern;Rat;;;;;
-1076;Reichsreferendar;Referendar;;;;;
-1077;Reichstagsgesandter des Fürstbistums Hildesheim;Gesandter, Fürstbistum Hildesheim;;;;;
-1078;Reichstagsgesandter des Fürstbistums Paderborn;Gesandter, Fürstbistum Paderborn;;;;;
-1079;Reichstagsgesandter des Fürstbistums Speyer;Gesandter, Fürstbistum Speyer;;;;;
-1080;Reichstagsgesandter des Fürstbistums Worms;Gesandter, Fürstbistum Worms;;;;;
-1081;Reichstagsgesandter des Fürstentums Hohenzollern-Hechingen;Gesandter, Fürstentum Hohenzollern-Hechingen;;;;;
-1082;Reichstagsgesandter des Fürstentums Hohenzollern-Sigmaringen;Gesandter, Fürstentum Hohenzollern-Sigmaringen;;;;;
-1083;Reichstagsgesandter des Fürstentums Schwarzenberg;Gesandter, Fürstentum Schwarzenberg;;;;;
-1084;Reichstagsgesandter des Kurerzkanzlers für das Fürstentum Regensburg;Gesandter, Reichserzkanzler / Gesandter, Fürstentum Regensburg;;;;;
-1085;Reichstagsgesandter der Schwäbischen Prälatenbank;Gesandter, Schwäbische Prälatenbank;;;;;
-1086;Reichsvizehofkanzler;Reichsvizekanzler;;;;;
-1087;Reichsvizekanzler;Reichsvizekanzler;;;;;
-1088;Rektor;Rektor;;;;;
-1089;Religionshistoriker;Historiker;;;;;
-1090;Rente;;;;;;
-1091;Rentendirektor;Direktor;;;;;
-1092;Rentmeister;Rentmeister;;;;;
-1093;Rent- und Zahlmeister;Rentmeister / Zahlmeister;;;;;
-1094;kurfürstlich-mainzischer Resident;Resident, Kurfürstentum Mainz;;;;;
-1095;Resident, kurmainzischer;Resident, Kurfürstentum Mainz;;;;;
-1096;Revisionsrat;Rat;;;;;
-1097;Revistionsrat;Rat;;;;;
-1098;RHR-Praktikant;Praktikant;;;;;
-1099;Richtere und Assessores;Assessor;;;;;
-1100;Ritterhauptmann;Hauptmann;;;;;
-1101;Rittmeister;Offizier;;;;;
-1102;Rittmeister, lüneburgischer;Offizier;;;;;
-1103;RKG-Advokat;Advokat;;;;;
-1104;RKG-Asessor des Burgundischen Kreises;Assessor;;;;;
-1105;RKG-Assessor;Assessor;;;;;
-1106;RKG-Assessor des Bayerischen Kreises;Assessor;;;;;
-1107;RKG-Assessor des Burgundischen Kreises;Assessor;;;;;
-1108;RKG-Assessor des katholischen Fränkischen Kreises;Assessor;;;;;
-1109;RKG-Assessor des Katholischen Niederrheinisch-Westfälischen Kreises;Assessor;;;;;
-1110;RKG-Assessor des katholischen Oberrheinischen Kreises;Assessor;;;;;
-1111;RKG-Assessor des katholischen Schwäbischen Kreises;Assessor;;;;;
-1112;RKG-Assessor des Niedersächsischen Kreises;Assessor;;;;;
-1113;RKG-Assessor des Österreichischen Kreises;Assessor;;;;;
-1114;ehemaliger RKG-Assessor;Assessor;;;;;
-1115;RKG-Fiskaladvokat;Fiskaladvokat;;;;;
-1116;RKG-Praktikant;Praktikant;;;;;
-1117;RKG-Präsentatus;;;;;;
-1118;RKG-Präsentatus des katholischen Fränkischen Kreises;;;;;;
-1119;RKG-Präsentatus des katholischen Niederrheinisch-Westfälischen Kreises;;;;;;
-1120;RKG-Präsentatus des katholischen Oberrheinischen Kreises;;;;;;
-1121;RKG-Präsentatus des katholischen Schwäbischen Kreises;;;;;;
-1122;RKG-Präsentatus des Bayerischen Kreises;;;;;;
-1123;RKG-Präsentatus des Burgundischen Kreises;;;;;;
-1124;RKG-Präsentatus des Fränkischen Kreises;;;;;;
-1125;RKG-Präsentatus, kurmainzischer;;;;;;
-1126;RKG-Präsentatus des österreichischen Kreises;;;;;;
-1127;evangelischer RKG-Präsident;Präsident;;;;;
-1128;RKG-Prokurator;Prokurator;;;;;
-1129;Saflorkäufer;Händler;;;;;
-1130;Salineninspektor;Inspektor;;;;;
-1131;Sänger;Sänger;;;;;
-1132;Schlosshauptmann;;;;;;
-1133;Schlossratsmeister;Ratsmeister;;;;;
-1134;Schlossvierher;Vierherr;;;;;
-1135;Schloßvierherr;Vierherr;;;;;
-1136;Schöffe;Schöffe;;;;;
-1137;Scholaster;Scholaster;;;;;
-1138;Schriftsteller;Schriftsteller;;;;;
-1139;Schüler;Schüler;;;;;
-1140;Schüler [?];Schüler #;;;;;
-1141;Schüler];Schüler];;;;;
-1142;Schülerin;Schülerin;;;;;
-1143;Schultheiß;Schultheiß;;;;;
-1144;Secretarius;Sekretär;;;;;
-1145;Sekretär;Sekretär;;;;;
-1146;"Sekretär des ""alten Grafen von Stadion""";Sekretär;;;;;
-1147;Sekretär des Kammerrichters Franz Graf von Spaur;Sekretär;;;;;
-1148;Sekretär, Sachsen-Eisenachischer;Sekretär;;;;;
-1149;Sekretär, Sachsen-Jenaischer;Sekretär;;;;;
-1150;Senior;Ältester;;;;;
-1151;Senior Ministerii (Superintendent);Superintendent;;;;;
-1152;Siegler, erzbischöflich mainzischer;Siegler;;;;;
-1153;Sigiliffer;Siegler;;;;;
-1154;Soldat;Soldat;;;;;
-1155;Spezialprotektor;#;;;;;
-1156;Staatsbeamter, höherer badischer;Staatsbeamter, höherer;;;;;
-1157;Staatsminister;Staatsminister;;;;;
-1158;Staatsminister ohne Portefeuille;Staatsminister;;;;;
-1159;Staatsrat;Rat;;;;;
-1160;erzherzoglich österreichischer Staatsrat;Rat;;;;;
-1161;Staatsrat, kurerzkanzlerischer;Rat;;;;;
-1162;Staatsrat, kurmainzischer;Rat;;;;;
-1163;Staatsrat, kurfürstlich erzkanzlerischer;Rat;;;;;
-1164;Staatsrat im ordentlichen Dienst;Rat;;;;;
-1165;Staatsreferendar der Reichs- und auswärtigen Geschäfte;Referendar;;;;;
-1166;Stadtgerichtsschultheiß;Stadtgerichtsschultheiß;;;;;
-1167;Stadtgerichtsschultheiß, königlich schwedischer;Stadtgerichtsschultheiß;;;;;
-1168;Stadthauptmann;Stadthauptmann;;;;;
-1169;Stadtkämmerer;Kämmerer;;;;;
-1170;Stadtkapitän;Stadtkapitän;;;;;
-1171;Stadtmajor;Stadtmajor;;;;;
-1172;Stadtphysikus;Physikus;;;;;
-1173;Stadtrat;Rat;;;;;
-1174;Stadtratssyndikus;Syndikus;;;;;
-1175;Praefectus advocatiae Urbis;Praefectus advocatiae Urbis;;;;;
-1176;Stadtschreiber;Stadtschreiber;;;;;
-1177;Stadt-]Schultheiß;Stadtschultheiß;;;;;
-1178;Stadtschultheiß;Stadtschultheiß;;;;;
-1179;Stadtsyndicus;Syndikus;;;;;
-1180;Stadtsyndikus;Syndikus;;;;;
-1181;Stadtvogt;Stadtvogt;;;;;
-1182;Statthalter;Statthalter;;;;;
-1183;Statthalter von Erfurt;Statthalter;;;;;
-1184;Statthalter zu Erfurt;Statthalter;;;;;
-1185;Statthaltereirat;Rat;;;;;
-1186;Statthaltereirat, Honorarius;#;;;;;
-1187;Statthaltereiverweser;Verweser;;;;;
-1188;stellv. Reichstagsgesandter des Deutschen Ordens;Gesandter, stellvertretender, Deutscher Orden;;;;;
-1189;stellv. Reichstagsgesandter des Fürstabtei Stablo;Gesandter, stellvertretender, Deutscher Orden;;;;;
-1190;stellv. Reichstagsgesandter des Fürstbistums Münster;Gesandter, stellvertretender, Deutscher Orden;;;;;
-1191;stellv. Reichstagsgesandter des Fürstbistums Straßburg;Gesandter, stellvertretender, Deutscher Orden;;;;;
-1192;stellv. Reichstagsgesandter des Kurfürstentums Köln;Gesandter, stellvertretender, Deutscher Orden;;;;;
-1193;Steueraktuar;Aktuar;;;;;
-1194;Stiftsrat;Rat;;;;;
-1195;stud. med.;Student;;;;;
-1196;Stud.];Student];;;;;
-1197;stud.;Student;;;;;
-1198;Student;Student;;;;;
-1199;Student [?];Student #;;;;;
-1200;stud. iur;Student;;;;;
-1201;stud. iur.;Student;;;;;
-1202;stud. iur. ;Student;;;;;
-1203;stud. phil;Student;;;;;
-1204;stud. phil.;Student;;;;;
-1205;stud. phill.;Student;;;;;
-1206;stud. phil. / physicus;Student;;;;;
-1207;stud. theol.;Student;;;;;
-1208;stud. [theol.];Student;;;;;
-1209;Subconcretor;Subkonkretor;;;;;
-1210;landgräflich hessen-darmstädtischer Subdelegierter;Subdelegierter;;;;;
-1211;Subdiakon;Subdiakon;;;;;
-1212;Subedelgierter bei der RKG-Visitation in der 2. Klasse;Subdelegierter;;;;;
-1213;Subedelgierter bei der RKG-Visitation in der 3. Klasse;Subdelegierter;;;;;
-1214;Subedelgierter bei der RKG-Visitation in der 4. Klasse;Subdelegierter;;;;;
-1215;Subkonkretor;Subkonkretor;;;;;
-1216;Superintendent;Superintendent;;;;;
-1217;Superintendent ;Superintendent ;;;;;
-1218;Supernumerar-Assessor;Assessor, Supernumerar;;;;;
-1219;Supernumerar-Regierungsrat;Rat, Supernumerar;;;;;
-1220;Syndicus;Syndikus;;;;;
-1221;Syndikus;Syndikus;;;;;
-1222;Domstifts-Syndikus und -sekretär;Sekretär #;;;;;
-1223;Marschallamts-Syndikus;Syndikus;;;;;
-1224;Syndici/Officiati;;;;;;
-1225;Täufling;Täufling;;;;;
-1226;evangelisch-lutherischer Täufling;Täufling, evangelisch-lutherisch;;;;;
-1227;Täufling, evangelisch-reformiert;Täufling, evangelisch-reformiert;;;;;
-1228;Täufling, kalvinistisch;Täufling, evangelisch-kalvinistisch;;;;;
-1229;Täufling, katholisch;Täufling, katholisch;;;;;
-1230;Titular-?]Regierungsrat;#;;;;;
-1231;Titular-?]Regierungsrat, kurmainzischer;#;;;;;
-1232;Titular-]Regierungsrat, kurmainzischer;#;;;;;
-1233;Titularbischof von Anemurium;#;;;;;
-1234;Titular-Hof- und Regierungsrat;#;;;;;
-1235;Titularregierungsrat;#;;;;;
-1236;Titular-Regierungsrat, kurmainzischer;#;;;;;
-1237;Tryßler;Tryßler;;;;;
-1238;Tuchhändler;Händler;;;;;
-1239;unbekannt;;;;;;
-1240;Ungelder;Ungelder;;;;;
-1241;Universitätsactuarius;Aktuar;;;;;
-1242;Universitätsaktuar;Aktuar;;;;;
-1243;Universitätsprofessor;Professor;;;;;
-1244;unklar;;;;;;
-1245;Unterbauherr;Unterbauherr;;;;;
-1246;Unterkämmerer;Kämmerer;;;;;
-1247;Unterstadtvogt;Unterstadtvogt;;;;;
-1248;Vater;Vater;;;;;
-1249;Vater der Braut;Vater, Braut;;;;;
-1250;Vater des Bräutigams;Vater, Bräutigams;;;;;
-1251;Vertreter Österreichs;Diplomat, Österreich;;;;;
-1252;Verwalter der Familiengüter;Verwalter;;;;;
-1253;Verwalter des Privatvermögens;Verwalter;;;;;
-1254;Verweser;Verweser;;;;;
-;Domstifts-Syndikus und -sekretär;Syndikus #;;;;;
-1255;Vicedom ;Vizedom;;;;;
-1256;Viehfernhändler;Händler;;;;;
-1257;Vierherr;Vierherr;;;;;
-1258;Vizedom;Vizedom;;;;;
-1259;Vizedomamtsadministrator;Administrator;;;;;
-1260;Vizedomamtspräsident;Präsident;;;;;
-1261;Vizedomamtsrat;Rat;;;;;
-1262;Vizedomamtsrat [?];Rat #;;;;;
-1263;Vizedomamtsverweser;Verweser;;;;;
-1264;Vizegroßhofmeister;Vizegroßhofmeister;;;;;
-1265;Vizekanzler;Vizekanzler;;;;;
-1266;Vizepräsident;Vizepräsident;;;;;
-1267;Vizepräsident];Vizepräsident];;;;;
-1268;Vizeregierungsdirektor;Vizedirektor;;;;;
-1269;Vizestadtschultheiß;Vizestadtschultheiß;;;;;
-1270;Vogelschütze;Vogelschütze;;;;;
-1271;Vogt;Vogt;;;;;
-1272;Vogteikonsulent;Konsulent;;;;;
-1273;Von Seiten der Kurfürstlichen Hofkammer;;;;;;
-1274;Von Seiten der Kurfürstlichen Regierung und Vicedomamt;;;;;;
-1275;Von Seiten des Revivsionsgericht;;;;;;
-1276;Vormund;Vorsteher;;;;;
-1277;Vormundschaftlicher Konsulent;Konsulent;;;;;
-1278;Vormundschaftsbeamter;Konsulent;;;;;
-1279;Vormundschaftskonsulent;Konsulent;;;;;
-1280;Vorsitzender;Vorsitzender;;;;;
-1281;Vorsitzender der Kommission zur Einführung des Code Napoléon;Vorsitzender;;;;;
-1282;Prossessores;;;;;;
-1283;Vorsteher;Vorsteher;;;;;
-1284;Vorsteher der Vormundschaftssachen;Vorsteher;;;;;
-1285;Vorstizender;Vorstizender;;;;;
-1286;Waid- und Saflorkäufer;Händler;;;;;
-1287;Waidhändler;Händler;;;;;
-1288;Waidkäufer;Händler;;;;;
-1289;Weihbischof;Weihbischof;;;;;
-1290;Weihbischof für den thüringischen Teil der Erzdiözese Mainz;Weihbischof;;;;;
-1291;wirklicher geheimer Rat;Rat;;;;;
-1292;wirlicher Geheimer Rat;Rat;;;;;
-1293;kurfürstlich mainzischer wirklicher Geheimer Rat;Rat;;;;;
-1294;erzbischöflich salzburgischer wirklicher Hofrat;Rat;;;;;
-1295;kurpfalzbayerischer wirklicher Hofrat;Rat;;;;;
-1296;wirklicher kaiserlicher Reichshofrat auf der Ritter- und Gelehrtenbank;Rat;;;;;
-1297;wirklicher kurmainzischer Regierungsrat;Rat;;;;;
-1298;wirklicher Rat;Rat;;;;;
-1299;wirklicher Regierungsrat;Rat;;;;;
-1300;wirklicher kurfürstlich mainzischer Regierungsrat;Rat;;;;;
-1301;Regierungsrat, kurfürstlich mainzischer wirklicher;Rat;;;;;
-1302;wirklicher Reichshofrat auf der Ritter- und Gelehrtenbank;Rat;;;;;
-1303;wirklicher Staats- und Konferenzminister;Konferenzminister / Staatsminister / #;;;;;
-1304;Wollhändler;Händler;;;;;
-1305;Zahlmeister;Zahlmeister;;;;;
-1306;Zahlmeisteradjunkt;Zahlmeister-Adjunkt;;;;;
-1307;Zinseinnehmeradjunkt;Zinseinnehmer-Adjunkt;;;;;
-1308;Zinsmeister;Zinsmeister;;;;;
-1309;Zivilzahlmeister;Zahlmeister;;;;;
-1310;Zollschreiber;Zollschreiber;;;;;
-1311;Zuchthauskommissar, kurmainzischer;Kommissar;;;;;
-1312;Zuckermacher;Zuckermacher;;;;;
-1313;Zuhörer im erzbischöflich salzburgischen Hofrat;Praktikant;;;;;
-1314;Zweierleute;Zweiermann;;;;;
-1315;Zweiermann;Zweiermann;;;;;
-1316;zweiter kurmainzischer Direktorialwahlbotschafter;Diplomat;;;;;
-1317;Zweiter Kammerdirektor;Vizedirektor;;;;;
-1318;2. Präsident;Vizepräsident;;;;;
-1319;zweiter kurmainzischer Wahlbotschafter;Wahlbotschafter, zweiter, Kurfürstentum Mainz ;;;;;
-1320;zweiter kurkölnischer Wahlbotschafter;Wahlbotschafter, zweiter, Kurköln;;;;;
+function_old,function_new
+(Titular-) Geheimer Rat,
+(Titular-)Geheimer Rat,
+(Titular-)Regierungsrat,
+?,
+@,@
+[?],
+Ab seiten der churfürstlichen Regierung,
+Abgeordneter,Abgeordneter
+Abt,Abt
+Actuarius,Aktuar
+kurpfalzbayerischer adeliger Hofrat,Rat
+kurpfalzbayerischer adeliger Oberlandesregierungsrat,Rat
+Adjudant,Adjutant
+Adjunkt,Adjunkt
+adliger Hof- und Regierungsrat,Rat
+Administrator,Administrator
+"Administrator, apostolischer",Administrator
+Advocat,Advokat
+Advocatus ordinarius,Advokat
+Advokat,Advokat
+"Advokat, ordentlicher",Advokat
+Aktuar,Aktuar
+"Akzisekommissar, kurmainzischer",Kommissar
+Altbürgermeister,"Bürgermeister, älterer"
+Älterer Bürgermeister,"Bürgermeister, älterer"
+Ältester,Ältester
+Ältester Beisitzer der Juristenfakultät,"Assessor, ältester"
+Ältester Bürgermeister,"Bürgermeister, älterer"
+Alumnus,Alumnus
+Amanuensis,Schreibgehilfe
+Amtmann,Amtmann
+"Amtmann, kurmainzischer",Amtmann
+kurmainzischer Amtmann,Amtmann
+"Amtmann, städtischer",Amtmann
+"Amtmann, stellvertretender","Amtmann, stellvertretender"
+Amtsadministrator,Administrator
+Amtsrichter,Amtsrichter
+Amtsschösser,Amtsschösser
+Amtsschultheiß,Amtsschultheiß
+Amtsvogt,Amtsvogt
+Anderer Ratsmeister,"Ratsmeister, anderer"
+Anwalt,Advokat
+Archivar,Archivar
+Archivrat,Archivrat
+Arzt,Arzt
+Asessor,Assessor
+Assessor,Assessor
+"Assessor (""Steuerdeputierter"")",Assessor
+Assessores,Assessor
+Assessor (Supernumerar),"Assessor, Supernumerar"
+Assessor Primarius,"Assessor, erster"
+Assessor Senior,"Assessor, ältester"
+"Assessor, außerordentlicher","Assessor, außerordentlicher"
+Assessor honorarius,#
+Assessores Honorarii.,#
+"Assessor, kurmainzischer",Assessor
+Assessor im Landgericht,Assessor
+"Assessor, ordentlicher","Assessor, ordentlicher"
+"Assessor, Senior","Assessor, ältester"
+Assessor beim Stadtgericht,Assessor
+Assessores und Professores,
+Assessor],Assessor]
+Assessor-Adjunkt,Assessor-Adjunkt
+Assessores Referendarii. Ordinarii.,
+Assesssor,Assesssor
+Auditor,Auditor
+Aufnahme,
+außerordentlicher bevollmächtigter Gesandter am königlich sächsischen Hof in Dresden,"Gesandter, außerordentlicher, bevollmächtigter"
+außerordentlicher Gesandter und bevollmächtigter Minister Österreichs,"Gesandter, außerordentlicher, bevollmächtigter, Erzherzogtum Österreich"
+Auszubildender,Auszubildender
+Bacc. phil.,
+Bankier,Bankier
+Beisitzer,Assessor
+"Beisitzer, außerordentlicher","Assessor, außerordentlicher"
+"Beisitzer, erster","Assessor, erster"
+erster und ältester Beisitzer,"Assessor, ältester"
+Beisitzer bei den erzbischöflichen geistlichen Gerichten,Assessor
+Beisitzer der erzbischöflichen Gerichte,Assessor
+Beisitzer bei den kurfürstlichen weltlichen Gerichten,Assessor
+Beisitzer Senior,"Assessor, ältester"
+Beisitzer der weltlichen Gerichte,Assessor
+Bergdirektor,Direktor
+"Bergdirektor, gewerkschaftlicher",Direktor
+Bergkommissar,Kommissar
+Bergwerkskommissar für Erfurt und Blankenhain,Kommissar
+bevollmächtigter Gesandter Bayerns,"Gesandter, Königriech Bayern"
+kurmainzischer bevollmächtigter Minister am kaiserlichen Hof in Wien,"Gesandter, Kurfürstentum Mainz"
+österreichischer bevollmächtigter Minister,"Bevollmächtigter Minister, Erzherzogtum Österreich"
+Bibliothekar,Bibliothekar
+Biereige,Biereige
+Bischof,Bischof
+Brautvater,
+Brückenherr,Brückenherr
+Buchhalter,Buchhalter
+Bürger,Bürger
+Bürgermeister,Bürgermeister
+jüngster Bürgermeister,"Bürgermeister, jüngerer"
+Burgmann,Burgmann
+cand. iur,Student
+Canonicum a latere,"Gesandter, Papst"
+Chorbischof,Bischof
+Chorherr,Kapitularherr
+consiliarius intimus,
+Dechant,Dekan
+Decanus,Dekan
+Dekan,Dekan
+Deputirter,Deputierter
+Deutschordensritter,Mitglied
+Diaconus,Diakon
+Diakon,Diakon
+Diplomat,Diplomat
+"Diplomat, hessen-darmstädtischer",Diplomat
+"Diplomat, hessen-kasselischer",Diplomat
+"Diplomat, kaiserlicher",Diplomat
+Direktor,Direktor
+Direktor des Marschwesens,Direktor
+kurüfrstlich salzburgischer Direktor,Direktor
+Direktorialgesandter,Gesandter
+schwäbischer Direktorial-Kreisgesandter,Gesandter
+Doktorand,Doktorand
+Domdechant,Dekan
+Domherr,Kapitularherr
+Domicellarherren,Domizellar
+Domizellar,Domizellar
+Domizellar / Kapitularherr,Kapitularherr #
+Domizellar / Kapitularherr,Domizellar #
+Domizellarkanoniker,Domizellar
+Domkantor,Kantor
+Domkapitular (nicht spezifiziert),Kapitularherr
+Domkapitular],Kapitularherr]
+Domprobst,Probst
+Domprobsteiamtmann,Amtmann
+Domprobsteikonsulent,Konsulent
+Domscholaster,Scholaster
+Domstiftssyndikus,Syndikus
+Domstifts-Syndikus und -konsekretär,Syndikus
+Domstifts-Syndikus und -konsekretär,Konsekretär #
+Domstiftssyndikus und Konsekretär,Syndikus #
+Übrige Universitätsdoctores,Konsekretär
+Dragoneroffizier,Offizier
+Dritter Ratsmeister,"Ratsmeister, dritter"
+dritter kurböhmischer Wahlbotschafter,"Wahlbotschafter, dritter"
+Edelknabe,Edelknabe
+Ehefrau,Ehefrau
+Ehemann,Ehemann
+Ehren-)Bürger,Ehrenbürger
+Ehrenmitglied,Ehrenmitglied
+Ephorus,Ephorus
+ernannter außerordentlicher bevollmächtigter Gesandter am königlich preußischen Hof in Berlin,"Gesandter, außerordentlicher, bevollmächtigter"
+Erster Assessor,"Assessor, erster"
+erster dirigierender Staatsminister im kurerzkanzlerischen Staat,"Staatsminister, erster"
+"erster Minister, kurmainzischer","Minister, erster"
+Erster Syndikus,"Syndikus, erster"
+Erzbischof,Erzbischof
+Erzieher,Erzieher
+Erzkanzler,Reichserzkanzler
+Exdekan,Dekan #
+Expektant auf Reichskammergerichtspräsentation des österreichischen Kreises,
+Exspektant auf habsburgische Reichskammergerichtspräsentation,
+Exspektant auf nächstvakante habsburgische Reichskammergerichtspräsentation,
+Fabrikant,Fabrikant
+Fähnrich,Offizier
+Feldbuchhalter,Feldbuchhalter
+Feldkriegskommissar,Kommissar
+Finanzminister,Minister
+"Finanzrat, kurmainzischer",Rat
+Fleischermeister,Fleischermeister
+Förster,Förster
+"Forstkommissar, kurmainzischer",Kommissar
+Fürst,Fürst
+Fürstbischof,Fürstbischof
+fürstbischöflich augsburgischer Hofrat,Rat
+Fürstbistum Bamberg [Geheimer?] Referendar,"Referendar, geheimer"
+Fürstbistum Bamberg Geheimer Rat,Rat
+Fürstbistum Bamberg Hofgerichtsassessor,Assessor
+Fürstbistum Bamberg Hofrat,Rat
+Fürstbistum Bamberg Konsulent,Konsulent
+Fürstbistum Bamberg Prokurator Fisci,Prokurator Fisci
+Fürstbistum Bamberg Resident am päpstlichen Hof in Rom mit dem Charakter eines Hofrats,"Resident, Fürstbistum Bamberg"
+Fürstbistum Bamberg wirklicher gelehrter Hof- und Regierungsrat,Rat
+Fürstbistum Bamberg wirklicher Hofkriegsrat,Rat
+fürstbischöflich eichstättischer Kammerherr,Kammerherr
+fürstbischöflich freisingischer bevollmächtigter Minister,"Bevollmächtigter Minister, Fürstbistum Freising"
+fürstbischöflich konstanzischer Geheimer Rt,Rat
+fürstbischöflich konstanzischer Kanzler,Kanzler
+Fürstbistum Paderborn Geheimer Referendar,"Referendar, geheimer"
+Fürstbistum Paderborn Kanzler,Kanzler
+Fürstbistum Paderborn Lehedirektor,Lehendirektor
+Fürstbistum Paderborn Vizekanzler,Vizekanzler
+Fürstbistum Paderborn wirklicher Geheimer Rat,Rat
+Fürstbistum Paderborn wirklicher Hofrat,Rat
+Fürstbistum Salzburg Kämmerer,Kämmerer
+Fürstbistum Salzburg Pfleger,Pfleger
+Fürstbistum Salzburg wirklicher adliger Hofrat,Rat
+Fürstbistum Salzburg wirklicher Geheimer Rat,Rat
+Fürstbistum Speyer Geheimer Rat,Rat
+Fürstbistum Speyer Geheimer Sekretär,Sekretär
+Fürstbistum Speyer Hof- und Regierungsrat,Rat
+Fürstbistum Speyer Hofkammerdirektor,Direktor
+Fürstbistum Speyer Hofrat,Rat
+Fürstbistum Worms Direktorialgesandter,"Gesandter, Fürstbistum Worms"
+Fürstbistum Worms wirklicher Geheimer Rat,Rat
+Fürstbistum Worms wirklicher Geheimer Referendar,"Referendar, geheimer"
+Fürstbistum Würzburg adliger Hofrat,Rat
+Fürstbistum Würzburg Assessor,Assessor
+Fürstbistum Würzburg Fähnrich,Offizier
+Fürstbistum Würzburg Geheimer Referendar,"Referendar, geheimer"
+Fürstbistum Würzburg gelehrter Hof- und Regierungsrat,Rat
+Fürstbistum Würzburg Hochstiftssyndikus,Syndikus
+Fürstbistum Würzburg Hof- und Regierungsrat,Rat
+Fürstbistum Würzburg Hofkammerfiskal,Fiskal
+Fürstbistum Würzburg Hofkavalier,Kavalier
+Fürstbistum Würzburg Hofrat auf der gelehrten Bank,Rat
+Fürstbistum Würzburg Hofrat mit Sitz und Stimme,Rat
+Fürstbistum Würzburg Kämmerer,Kämmer
+Fürstbistum Würzburg Kammerherr,Kammerherr
+Fürstbistum Würzburg Leutnant,Offizier
+Fürstbistum Augsburg Geheimer Rat,Rat
+Fürstbistum Augsburg Gesandter beim schwäbischen Reichskreis,"Gesandter, Fürstbistum Augsburg"
+Fürstbistum Augsburg Hofrat,Rat
+Fürstbistum Augsburg Referendar in Spiritualibus,"Referendar, geistlicher"
+fürstbischöflich-hildesheimischer Assessor,Assessor
+fürstbischöflich-hildesheimischer Geheimer Hof- und Regierungsrat,Rat
+fürstbischöflich-hildesheimischer Hof- und Regierungsrat,Rat
+fürstbischöflich-hildesheimischer Lehenprobst,Lehenpropst
+fürstbischöflich-hildesheimischer Referendar,Referendar
+fürstbischöflich-hildesheimischer wirklicher Hof- und Regierungsrat,Rat
+fürstbischöflich-wormsischer Hof- und Regierungsrat,Rat
+fürstbischöflich-wormsischer Reichstagsgesandter,"Gesandter, Fürstbistum Worms"
+fürstbischöflich-würzburgischer Konsulent,Konsulent
+fürstbischöflich-würzburgischer Regierungs- und Hofratssekretär,Sekretär
+fürstbischöflich-würzburgischer Registrator,Registrator
+fürstbischöflich-würzburgischer wirklicher gelehrter Geheimer Rat,Rat
+fürstbischöflich-würzburgischer wirklicher gelehrter Hofrat,Rat
+erzherzoglich österreichischer Fürstenratsdirektorialgesandter,"Gesandter, Erzherzogtum Österreich"
+österreichischer Fürstenratsdirektorialgesandter,"Gesandter, Erzherzogtum Österreich"
+Fürstentratsdirektorialgesandter,Gesandter
+fürstlich schwarzburgischer Leibarzt,Leibarzt
+Fürstentum Hohenlohe-Waldeburg Gesandter,"Gesandter, Fürstentum Hohenlohe-Waldeburg"
+Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Amtmann,Amtmann
+Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Geheimer Rat,Rat
+Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Hofrat,Rat
+Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Kanzleidirektor,Direktor
+Fürstentum Hohenlohe-Waldeburg-Schillingsfürst Oberamtmann,Oberamtmann
+Fürstentum Hohenzollern-Hechingen Gesandter beim Schwäbischen Reichskreis,"Gesandter, Fürstentum Hohenzollern-Hechingen"
+fürstlich hohenzollern-hechingischer Geheimer Rat,Rat
+fürstlich hohenzollern-hechingischer Hofrat,Rat
+fürstlich hohenzollern-hechingischer Kanzler,Kanzler
+fürstlich hohenzollern-sigmaringenischer Gesandter beim Schwäbischen Reichskreis,"Gesandter, Fürstentum Hohenzollern-Sigmaringen"
+fürstlich hohenzollern-sigmaringischer erster Geheimer Rat,Rat
+fürstlich hohenzollern-sigmaringischer Kanzler,Kanzler
+fürstlich löwenstein-wertheimischer Hofrat,Rat
+fürstlich nassau-weilburgischer Regierungsrat,Rat
+fürstlich Thurn- und Taxisscher Reichspostmeister in Worms,Postmeister
+fürstlich-nassauischer Geheimer Rat,Rat
+Fürstprimas,Fürstprimas
+Fürstprimas von Deutschland,Fürstprimas
+fürstprimatialischer erster dirigierender Staatsminister,"Staatsminister, erster"
+fürstprimatialischer Gouverneur,Gouverneur
+fürstprimatialischer Minister,Minister
+fürstprimatialischer Präsidialgesandter,Gesandter
+fürstprimatialischer wirklciher Geheimer Staatsrat,Rat
+fürstprimatialischer wirklicher Geheimer Staatsrat,Rat
+fürtlich isenburg-birsteinischer Regierungsrat,Rat
+fürtlich isenburg-birsteinischer Regierungsvizedirektor,Vizedirektor
+Futterherr,Futterherr
+Gastwirt,Gastwirt
+Gastwirt zur Tanne,Gastwirt
+Geburt,Kind
+Gegenkämmerer,Kämmerer
+Geheimer Rat,Rat
+"Geheimer Rat, großherzoglich badischer",Rat
+"Geheimer Rat, hessischer",Rat
+kaiserlicher Geheimer Rat,Rat
+"Geheimer Rat, kaiserlicher",Rat
+"Geheimer Rat, kurmainzischer",Rat
+"Geheimer Rat, supplirender",Rat
+"Geheimer Rat, wirklicher",Rat
+"Geheimer Rat, wirklicher kaiserlicher",Rat
+Geheimer und Regierungsrat,Rat
+Geheimer Reichsreferendar,"Referendar, geheimer"
+Geheimer Sekretär,Sekretär
+"Geheimer Secretarius, fürstlich Sachsen-Eisenachischer",Sekretär
+"Geheimer Sekretär, sachsen-eisenachischer",Sekretär
+Geheimer Staatsrat,Rat
+"Geheimer Staatsrat, kurerzkanzlerischer",Rat
+Geheimrat,Rat
+"Geheimrat, sachsen eisenachischer",Rat
+Geistlicher Rat,Rat
+"Geistlicher Rat, erzbischöflich mainzischer",Rat
+Geleits-Amtsverweser,Verweser
+Geleitschreiber,Geleitschreiber
+Geleits- und Postschreiber,#
+gemeinschaftlicher Geheimer Rat des gesamten Hauses Hohenlohe-Waldenburg,Rat
+Generaldirektor,Generaldirektor
+Generalfeldzeugmeister,Offizier
+"Generalkommissar und bevollmächtigter Minister, kaiserlicher","Generalkommissar, Kaiser / Bevollmächtigter Minister, Kaiser / #"
+Generalvikar,Generalvikar
+Gerichtsassessor,Assessor
+Gerichts-Assessor,Assessor
+kurfürstlicher Gerichtsassessor,Assessor
+Gerichtsperson [Assessor?],
+Gerichtsschreiber,Gerichtsschreiber
+Gerichtsschultheiß,Gerichtsschultheiß
+Gesandter,Gesandter
+"Gesandter, Hessen-Kasselischer","Gesandter, Hessen-Kassel"
+"Gesandter, hessischer","Gesandter, Hessen"
+"Gesandter, kaiserlicher","Gesandter, Kaiser"
+"Gesandter, kurmainzischer","Gesandter, Kurfürstentum Mainz"
+"Geschäftsträger, hessischer","Geschäftsträger, Hessen"
+Gewaltbote,Gewaltbote
+Gewürzhändler,Gewürzhändler
+Gouverneur des Kurerzkanzlers,Gouverneur
+Graf,Graf
+gräflich metternich-winneburgischer Kanzleidirektor,Direktor
+gräflich osteinischer Rat,Rat
+gräflich waldbott-bassenheimischer Oberamtmann,Oberamtmann
+Großherzog,Großherzog
+großherzoglich badischer Kämmerer,Kämmerer
+großherzoglich frankfurtischer außerordentlicher Gesandter und bevollmächtigter Minister,"Gesandter, außerordentlicher, Großherzogtum Frankfurt / Bevollmächtigter Minister, Großherzogtum Frankfurt / #"
+großherzoglich frankfurtischer wirklicher Geheimer Staatsrat,Rat
+"großherzoglich frrankfurtischer Staatsminister der Justiz, des Innern und der Polizei",Staatsminister
+großherzoglich hessischer Geheimer Rat,Rat
+großherzoglich hessischer Hofgerichtsdirektor,Direktor
+großherzoglich hessischer Interimsdirektor,Direktor
+großherzoglich hessischer Kammerherr,Kammerherr
+großherzoglich hessischer Regierungsdirektor,Direktor
+großherzoglich hessischer Regierungspräsident,Präsident
+großherzoglich hessischer wirklicher Geheimer Rat,Rat
+großherzoglich-frankfurtischer Staatskommissar,Kommissar
+Großhofmeister,Großhofmeister
+"Großhofmeister, kurmainzischer",Großhofmeister
+Großvater,Großvater
+Gubernator,Gubernator
+habsburgische RKG-Präsentation,
+Häftling,Häftling
+Handelsmann,Händler
+Handelsreisender,Händler
+Händler,Händler
+Hauptmann,Offizier
+Hauptmann der Miliz,Offizier
+österreichischer Hauptmann,Offizier
+Hauslehrer,Privatlehrer
+Heringer,Heringer
+herzoglich pfalz-zweibrückenischer bevollmächtigter Minister,"Bevollmächtigter Minister, Herzogtum Pfalz-Zweibrücken"
+herzoglich-nassauischer Geheimer Rat,Rat
+Historiker,Historiker
+Historiker und Quelleneditor,Historiker
+hoch- und deutschmeisterischer wirklicher Geheimer Rat,Rat
+"hochstiftisch, dann Fürstbistum Würzburg Geheimer Rat",Rat
+"Hof- und Kammergerichtsprotokollist, königlich preußischer",Protokollist
+"Hof- und Kammergerichtssekretär, königlich preußischer",Sekretär
+Hof- und Kammerrat,Rat
+"Hof- und Regierungsrat, fürstlich Sachsen-Eisenachischer",Rat
+Hof- und Regierungsrat,Rat
+Hof- und Regierungsrat auf der gelehrten Bank,Rat
+"Hof- und Regierungsrat, kurmainzischer",Rat
+"Hofgerichtsadvokat, hochfürstlich gemeinschaftlicher",Advokat
+Hofgerichtsassessor,Assessor
+Hofgerichtspräsident,Präsident
+Hofgerichtsrat,Rat
+Hofjunker,Junker
+Hofkammerdirektor,Direktor
+Hofkammerrat,Rat
+"Hofkammerrat, kurmainzischer",Rat
+Hofkammervizepräsident,Vizepräsident
+Hofkanzler,Hofkanzler
+"Hofkanzler, kurmainzischer",Hofkanzler
+Hofkavalier,Hofkavalier
+Hofmarschall,Hofmarschall
+"Hofmarschall, fürstlicher",Hofmarschall
+Hofmeister,Hofmeister
+Hofrat,Rat
+Hofrat des Fürstabts von Corvey,Rat
+"Hofrat,  herzoglich weimarischer und eisenachischer",Rat
+Hofrat des Landgrafen Christian von Hessen-Rheinfels-Eschwege-Wanfried,Rat
+erzbischöflich salzburgischer Hofrat,Rat
+"Hofrat, Sachsen-Jenaischer",Rat
+"Hofrat, fürstlich sächsischer",Rat
+"Hofrat, Sachsen-Eisenachischer",Rat
+kurbayerischer Hofrat,Rat
+Hofratspräsident,Präsident
+Hofrichter,Hofrichter
+Hospitalarzt,Arzt
+Hospitalschreiber,Hospitalschreiber
+Hospitalverweser,Verweser
+Hospitalvorsteher,Vorsteher
+Humanista,Professor
+Illuminat,Mitglied
+Insepktor,Inspektor
+Inspektor,Inspektor
+Inspektor über die Renten und Gefälle,Inspektor
+"Inspektor über die Renten und Gefälle, interimsweise",Inspektor
+Intendant,Intendant
+Jüngerer Bürgermeister,"Bürgermeister, jüngerer"
+Juris Consulatus,Konsulent
+Juris Consultus,Konsulent
+Juris Utriusque Licentiati,#
+Jurist,Jurist
+k.k. bevollmächtigter Minister,"Bevollmächtigter Minister, Kaiser"
+k.k. Kämmerer,Kämmerer
+k.k. vorderösterreichischer Regiments- und Kammerrat,Rat
+Kadett in der österreichischen Armee,Kadett
+kaiserlich königlich vorderösterreichischer Kammerrat,Rat
+kaiserlich königlich vorderösterreichischer Regierungsrat,Rat
+kaiserlich königlicher Appellationsrat,Rat
+kaiserlich königlicher Fähnrich,Offizier
+kaiserlich königlicher Kämmerer,Kämmerer
+kaiserlich königlicher Kreisdirektor,Direktor
+kaiserlich königlicher Leutnant,Offizier
+kaiserlich königlicher Stadthauptmann,Stadthauptmann
+kaiserlicher Geschäftsträger am kurfürstlichen bzw. großherzoglich badischen Hof,"Geschäftsträger, Kaiser / #"
+kaiserlicher Hofpfalzgraf,Hofpfalzgraf
+kaiserlicher Konkommissar,Konkommissar
+kaiserlicher öffentlicher Notar,Notar
+Comes Palatinus Caesareus,Hofpfalzgraf
+kaiserlicher Postmeister,Postmeister
+Kaiserlicher Rat,Rat
+kaiserlicher Reichshofrat,Rat
+Kaiserlicher Reichskammergerichtsassessor,Assessor
+kaiserlicher Resident beim Niedersächsischen Kreis,"Resident, Kaiser"
+kaiserlicher RKG-Assessor,Assessor
+Kaiserlicher RKG-Präsentatus,
+kaiserlicher wirklicher Geheimer Rat,Rat
+kaiserlicher wirklicher Reichshofrat auf der Ritter- und Gelehrtenbank,Rat
+kaiserlicher und kaiserlich königlicher (Titular-)wirklicher Geheimer Rat,#
+kaiserlich-königlicher oberösterreichischer Oberamtsdirektor der Landgrafschaft Nellenburg in Stockach,Direktor
+kaiserlich-königlicher oberösterreichischer Regimentsrat in Innsbruck,Rat
+kaiserlich-königlicher Offizier,Offizier
+Kammerassessor,Assessor
+Kammerdirektor,Direktor
+Kammerdirektor],Direktor]
+Kämmereiaktuar,Aktuar
+Kämmerer,Kämmerer
+erzbischöflich salzburgischer Kämmerer,Kämmerer
+"Kämmerer, kaiserlicher",Kämmerer
+kurüfrstlich salzburgischer Kämmerer,Kämmerer
+Kammerherr,Kammerherr
+erzbischöflich salzburgischer Kammerherr,Kammerherr
+"Kammerherr, kaiserlicher",Kammerherr
+Kammerkanzlist,Kanzlist
+Kammerkanzlist-Adjunkt cum spe successionis,Kanzlist-Adjunkt
+Kammerkonsulent,Konsulent
+Kammer- und Zahlmeister,Zahlmeister
+Kammerpräsident,Präsident
+Kammerrat,Rat
+"Kammerrat, [Titular-?]",#
+"Kammerrat, außerordentlicher [?]","Rat, außerordentlicher #"
+"Kammerrat, gräflich schwarzburgischer",Rat
+"Kammerrat, kurmainzischer",Rat
+vorderösterreichischer Kammerrat,Rat
+"Kammerrat, wirklicher",Rat
+"Kammerrat, wirklicher kurmainzischer",Rat
+Kammerrechnungsrevisor,Rechnungsrevisor
+Kammerregistrator,Registrator
+Kammerrichter,Richter
+Kammerrichter-Amtsverweser,Verweser
+Kammersekretär,Sekretär
+"Kammersekretär, kurfürstlicher",Sekretär
+Kammerzahlmeister,Zahlmeister
+Kanoniker,Kapitularherr
+Kanonikus,Kapitularherr
+Kantor,Kantor
+Kanzleiassessor,Assessor
+Kanzleidirektor,Direktor
+Kanzleidriektor,Direktor
+Kanzleirat,Rat
+Kanzler,Kanzler
+"Kanzler, kurmainzischer",Kanzler
+Kanzlist,Kanzlist
+Kapitän,Kapitän
+Kapitular,Kapitularherr
+Kapitularherr,Kapitularherr
+,Konsekretär #
+Capitularherren/Domicellaren,Domizellar #
+katholischer RKG-Präsident,Präsident
+katholischer Täufling,"Täufling, katholisch"
+Kauf- und Handelsherr,Händler
+Kaufmann,Händler
+Kauf- und Handelsmann,Händler
+Kaufmannslehrling,Auszubildender
+Kellerey Prodselten,#
+Kind,Kind
+Kirchenvorsteher,Vorsteher
+Kirch- und Schulinspektor,Inspektor
+Kirchvater,Kirchvater
+Koadjutor,Koadjutor
+Kommandant,Kommandant
+Kommissar für das kurkölnische Schulwesen,Kommissar
+Konferenzminister,Konferenzminister
+Konfirmant,Konfirmant
+königlich bayerischer 2. Direktor,Vizedirektor
+königlich bayerischer 2. Direktor der Obersten Justizstelle,Vizedirektor
+königlich bayerischer 2. Direktor des Oberappellationsgerichts,Vizedirektor
+königlich bayerischer 2. Präsident,Vizepräsident
+königlich bayerischer Direktor,Direktor
+königlich bayerischer Generalkommissar,"Generalkommissar, Königreich Bayern"
+königlich bayerischer Kämmerer,Kämmerer
+königlich bayerischer Präsident,Präsident
+königlich bayerischer Staatsrat im ordentlichen Dienst,Rat
+königlich bayerischer Verweser,Verweser
+königlich bayerischer Vizepräsident,Vizepräsident
+königlich bayerischer wirklicher Staatsrat im außerordentlichen Dienst,"Rat, außerordentlicher"
+königlich böhmischer Appellationsgerichtsrat,Rat
+königlich großbritannische-kurbraunschweigischer Hof- und Kanzleirat,Rat
+königlich württembergischer Staatssekretär der auswärtigen Angelegenheiten,Staatssekretär
+königlich-bayerischer Gesandter,"Gesandter, Königreich Bayern"
+königlich-bayerischer Kämmerer,Kämmerer
+königlich-bayerischer Minister,Minister
+königlich-bayerischer Präsident,Präsident
+königlich-bayerischer wirklicher Staatsrat im ordentlichen Dienst,Rat
+königlich-württembergischer außerordentlicher Gesandter,"Gesandter, außerordentlicher, Königreich Württemberg"
+königlich-württembergischer außerordentlicher Gesandter und bevollmächtigter Minister am königlich hannoveranischen Hof,"Gesandter, außerordentlicher, Königreich Württemberg / Bevollmächtigter Minister, Königreich Württemberg / #"
+königlich-württembergischer außerordentlicher Gesandter und bevollmächtigter Minister am königlich niederländischen Hof,"Gesandter, außerordentlicher, Königreich Württemberg / Bevollmächtigter Minister, Königreich Württemberg / #"
+königlich-württembergischer Gesandter,"Gesandter, Königreich Württemberg"
+königlich-württembergischer Kammerherr,Kammerherr
+königlich-württembergischer Regierungspräsident,Präsident
+königlich-württembergischer Staatsrat,Rat
+königlich-württembergischer wirklicher adliger Geheimer Rat,Rat
+Konsistorialrat,Rat
+Konsulent,Konsulent
+"Täufling, katholischer (Konvertit)","Täufling, katholisch"
+"Täufling (Konvertit), protestantischer","Täufling, evangelisch"
+Kornhändler,Händler
+Kramer,Händler
+Kreisdirektor,Direktor
+Capitularherren/Domicellaren,Kapitularherr #
+Kriegs- und Domänenrat,Rat
+"Kriegs- und Domänenrat, königlich preußischer",Rat
+Kriegsauditor,Kriegsauditor
+Kriegskasserier,Kriegskasserier
+Kriegskommissar,Kriegskommissar
+Kriegszahlmeister,Kriegszahlmeister
+"Kriegszahlmeister, kurmainzischer",Kriegszahlmeister
+Kriminalreferendar,Referendar
+"Küchenmeister, kurfürstlich mainzischer",Küchenmeister
+Kurator,Kurator
+Kurator],Kurator]
+kurbayerischer RKG-Assessor,Assessor
+kurbayerischer RKG-Präsentatus,
+kurbayerischer wirklicher Geheimer Rat,Rat
+kurbayerischer wirklicher Hofrat,Rat
+kurböhmischer Reichskammergerichtsassessor,Assessor
+kurböhmischer RKG-Assessor,Assessor
+kurbrandenburgischer Reichskammergeirchtsassessor,Assessor
+Kurerzkanzler,Reichserzkanzler
+Kurfürst,Kurfürst
+Kurfürst],Kurfürst]
+kurkölnischer Appellationskommissar,Kommissar
+kurkölnischer Direktor,Direktor
+kurkölnischer Geheimer Legationsrat,Diplomat
+kurkölnischer Geheimer Rat,Rat
+kurkölnischer gelehrter Hof- und Regierungsrat,Rat
+kurkölnischer Hofkammeradvokat,Advokat
+kurkölnischer Hofkammerrat,Rat
+kurkölnischer Hofrat,Rat
+kurkölnischer Hofratsreferendar,Referendar
+kurkölnischer Kanzleidirektor,Direktor
+kurkölnischer Kommissar,Kommissar
+kurkölnischer Kon-Lehendirektor,Vizelehendirektor
+kurkölnischer Landtagskommissar,"Kommissar, Kurfürstentum Köln"
+kurkölnischer Lehendirektor,Lehendirektor
+kurkölnischer Oberappellationsgerichtsrat,Rat
+kurkölnischer Page,Page
+kurkölnischer Rat,Rat
+kurkölnischer RKG-Assessor,Assessor
+kurkölnischer Staats- und Konferenzminister,Staatsminister / Konferenzminister / #
+kurkölnischer Vizekanzleidirektor,Vizedirektor
+kurkölnischer wirklicher Geheimer Rat,Rat
+kurkölnischer wirklicher Geheimer Staats- und Konferenzrat,Rat
+kurkölnischer wirklicher gelehrter Hof- und Regierungsrat,Rat
+kurkölnischer wirklicher Kämmerer,Kämmerer
+kurmainzischer (Titular-)Rat,#
+kurmainzischer adliger Hof- und Regierungsrat,Rat
+kurmainzischer Direktorialgesandter,"Gesandter, Kurfürstentum Mainz"
+kurmainzischer erster Geheimer Referendar,"Referendar, geheimer"
+kurmainzischer erster Staatsminister,"Staatsminister, erster"
+kurmainzischer Geheimer Kabinettssekretär,Sekretär
+kurmainzischer Geheimer Rat,Rat
+kurmainzischer gelehrter Hof- und Regierungsrat,Rat
+kurmainzischer Hauptmann,Offizier
+kurmainzischer Hof- und Regierungsrat,Rat
+kurmainzischer Hofgerichtsassessor,Assessor
+kurmainzischer Hofgerichtsrat,Rat
+kurmainzischer Hofkanzler,Hofkanzler
+kurmainzischer Kammerherr,Kammerherr
+kurmainzischer Konferenzminister,"Konferenzminister, erster"
+kurmainzischer Kriegskonferenzrat,Rat
+kurmainzischer Oberlandesgerichtsassessor,Assessor
+kurmainzischer Prinzipalgesandter,"Gesandter, Kurfürstentum Mainz"
+kurmainzischer Regierungsrat,Rat
+kurmainzischer Reichsdirektorialgesandter,"Gesandter, Kurfürstentum Mainz"
+Kurmainzischer Reichskammergerichtsassessor,Assessor
+kurmainzischer Revisionsrat,Rat
+kurmainzischer RKG-Assessor,Assessor
+kurmainzischer RKG-Präsentatus,
+kurmainzischer Stadtgerichtsassessor,Assessor
+kurmainzischer subdelegierter kaiserlicher Kommissar,"Kommissar, subdelegierter"
+kurmainzischer Titular-Hofgerichtsrat,#
+kurmainzischer Titular-Hofrat,#
+kurmainzischer wirklicher Geheimer Staatsrat,Rat
+kurmainzischer wirklicher Hof- und Regierungsrat,Rat
+kurmainzischer wirklicher Hof- und Regierungsrat auf der Gelehrtenbank,Rat
+kurmainzischer wirklicher Staats- und Konferenzminister,Konferenzminister / Staatsminister / #
+kurmainzischer Zentrgrafadjunkt,Zentrgraf-Adjunkt
+kurmainzischer zweiter Geheimer Referendar,"Referendar, geheimer, zweiter"
+kurmainzischer und kaiserlicher Diplomat,"Diplomat, Kurfürstentum Mainz / Diplomat, Kaiser"
+kursächsischer Geheimer Rat,Rat
+kurtrierischer adliger Geheimer Rat,Rat
+kurtrierischer adliger Hof- und Regierungsrat,Rat
+kurtrierischer adliger Hofrat auf der Ritterbank,Rat
+kurtrierischer Advocatus patriae ordinarius,Jurist
+kurtrierischer Assessor,Assessor
+kurtrierischer erster Revisionsrat,Rat
+kurtrierischer erster Stadtschultheiß,"Stadtschultheiß, erster"
+kurtrierischer Geheimer Rat,Rat
+kurtrierischer Geheimer Sekretär,Sekretär
+kurtrierischer gelehrter Hof- und Regierungsrat,Rat
+kurtrierischer Gesandter,"Gesandter, Kurfürstentum Trier"
+kurtrierischer Hochgerichtsschöffe,Schöffe
+kurtrierischer Hof- und Regierungsrat,Rat
+kurtrierischer Hof- und Revisionsrat,Rat
+kurtrierischer Hofgerichtsdirektor,Direktor
+kurtrierischer Hofgerichtsrat,Rat
+kurtrierischer Hofkanzler,Hofkanzler
+kurtrierischer Höfling,Höfling
+kurtrierischer Hofrat,Rat
+kurtrierischer Hofratssekretär,Sekretär
+kurtrierischer Kämmerer,Kämmerer
+kurtrierischer Kanzleidirektor,Direktor
+kurtrierischer Lehendirektor,Lehendirektor
+kurtrierischer Lehenprobst,Lehenprobst
+kurtrierischer Offizialats-Assessor,Assessor
+kurtrierischer Rat,Rat
+kurtrierischer Revisionsrat,Rat
+kurtrierischer RKG-Assessor,Assessor
+kurtrierischer RKG-Präsentatus,
+kurtrierischer Stadtschultheiß,Stadtschultheiß
+kurtrierischer Syndikus,Syndikus
+kurtrierischer Vizekanzler,Vizekanzler
+kurtrierischer wirklicher Geheimer Rat,Rat
+kurtrierischer wirklicher gelehrter Hof- und Regierungsrat,Rat
+kurtrierischer wirklicher Hofrat,Rat
+Kurfürst-Erzbischof,Kurfürst / Erzbischof
+kurhessischer Kämmerer,Kämmerer
+kurkölnisch-Fürstbistum Paderborn Hofrat,Rat
+kurmainzische Dienste,
+kurpfälzischer Abgesandter,"Gesandter, Kurfürstentum Pfalz"
+kurpfälzischer adliger Hofgerichtsrat,Rat
+kurpfälzischer Assessor,Assessor
+kurpfälzischer bevollmächtigter Minister,"Bevollmächtigter Minister, Kurfürstentum Pfalz"
+kurpfälzischer Geheimer Rat,Rat
+kurpfälzischer Hofgerichtsadvokat,Advokat
+kurpfälzischer Hofgerichtsrat,Rat
+kurpfälzischer Hofrat,Rat
+kurpfälzischer Kriegsauditor,Kriegsauditor
+kurpfälzischer Landesregierungsrat,Rat
+kurpfälzischer Oberappelationsgerichtsrat,Rat
+kurpfälzischer Regierungsadvokat,Advokat
+kurpfälzischer Regierungsrat,Rat
+kurpfälzischer Regierungsreferendar in Kriminal- und Zivilsachen,Referendar
+kurpfälzischer Revisionsrat,Rat
+kurpfälzischer RKG-Assessor,Assessor
+kurpfälzischer Subdelegierter,"Subdelegierter, Kurfürstentum Pfalz"
+kurpfälzischer wirklicher gelehrter Regierungsrat,Rat
+kurpfälzischer wirklicher Landvisitationskommissar,Kommissar
+kurpfälzich-herzoglich jülich-bergischer Rat,Rat
+kurpfälzich-herzoglich jülich-bergischer Referendar,Referendar
+kurpfälzisch-herzoglich-pfalz-neuburgischer adliger Geheimer Rat,Rat
+kurpfälzisch-herzoglich-pfalz-neuburgischer Geheimer Rat,Rat
+kurpfälzisch-herzoglich-pfalz-neuburgischer Hof- und Regierungsrat,Rat
+kurpfälzisch-herzoglich-pfalz-neuburgischer Regierungspräsident,Präsident
+kurpfälzisch-herzoglich-pfalz-neuburgischer Vizekanzler,Vizekanzler
+kurpfälzisch-pfalz-neuburgischer adliger Regierungsrat,Rat
+kurpfälzisch-pfalz-neuburgischer Oberpolizeikommissar,Kommissar
+kurpfälzisch-pfalz-neuburgischer Regierungsvizepräsident,Vizepräsident
+kurpfälzisch-pfalz-neuburgischer wirklicher adliger Geheimer Rat,Rat
+Landeinnehmer,Landeinnehmer
+landgräflich hessen-Kasselscher Burggraf,Burggraf
+landgräflich hessen-rotenburg-rheinfelsischer Hofrat,Rat
+landgräflich-hessen-rheinfels-rotenburgischer Kanzleidirektor,Direktor
+landgräflich-hessen-rheinfels-rotenburgischer Kanzleirat,Rat
+landgräflich-hessischer Hofgerichtsrat,Rat
+landgräflich-hessischer Konsistorialrat,Rat
+landgräflich-hessischer Regierungsrat,Rat
+Landkommissar,Kommissar
+Landphysicus,Physikus
+Landphysikus,Physikus
+"Landrat, königlich preußischer",Landrat
+Landrentmeister,Landrentmeister
+Landschreiber,Landschreiber
+Landschreiber im Eichsfeld,Landschreiber
+Landsyndikus,Syndikus
+Landvogt der Landgrafschaft Nellenburg,Landvogt
+Landwirt,Landwirt
+lebenslängliches Mitglied,Mitglied
+"Legationsrat bei den kurfürstlichen Wahldenunziations-Botschaften an die Höfe München, Wien und Prag",Diplomat
+"Legationssekretär, kaiserlicher",Sekretär
+"Legationssekretär, schwedischer",Sekretär
+Lehenprobst,Lehenprobst
+Lehnssekretär,Lehensekretär
+Lehrer,Lehrer
+Lehrer der Mathematik,Lehrer
+Lehrling,Lehrling
+"Leibarzt, kurfürstlicher",Leibarzt
+"leitender Staatsminister, kurmainzischer","Staatsminister, leitender"
+Leiter,Leiter
+Leiter des Archivs,Leiter
+Leutnant,Offizier
+Lic. examiniatus,Lic. examinatus
+logicae studiosus,Student
+logices candidatus,Kandidat
+Logicus,Student
+Lokaloberer,Lokaloberer
+Mag. phil.,#
+Magnificus Dn. [?] Rector,Rector Magnificus
+"markgräflich baden-badenischer Hof- und Regierungsrat, später Geheimer Rat und Lehenprobst, auch Gesandter beim Schwäbischen Reichskreis",Rat / Rat / Lehenprobst / #
+markgräflich baden-badenischer Hofrat,Rat
+markgräflich baden-badensche Dienste,
+markgräflich baden-badischer Hofrat,Rat
+markgräflich baden-badischer Oberamtmann,Oberamtmann
+markgräflich baden-badischer Titular-Geheimer Rat,#
+"markgräflich brandenburg-ansbachischer Hof-, Regierungs- und Justizrat",Rat / Rat / #
+markgräflich brandenburg-ansbachischer Kammerjunker,Kammerjunker
+markgräflich brandenburg-ansbachischer Vizepräsident,Vizepräsident
+Materialist,Händler
+Mediziner,Arzt
+Meister,Meister
+Miinisterialdirektor,Ministerialdirektor
+Minister,Minister
+"Minister der Finanzen, fürstlich primatialischer",Minister
+Minister des Kurerzkanzlers,Minister
+Ministerialdirektor,Ministerialdirektor
+"Ministerialdirektor, großherzoglich badischer",Ministerialdirektor
+"Ministerresident, kurmainzischer","Ministerresident, Kurfürstentum Mainz"
+Mitglied,Mitglied
+"Mitglied, ordentliches","Mitglied, ordentliches"
+Mitinspektor,Inspektor
+Mutter,Mutter
+Not. Caes. Publ,Notar
+Notar,Notar
+"Notar, Supernumerar","Notar, Supernumerar"
+Notarius,Notar
+Notarius Publicus Caesareus,Notar
+Ober-)Amtmann,Oberamtmann
+Oberamtmann,Oberamtmann
+sächsischer Oberamtmann,Oberamtmann
+"Oberamtmann, sächsischer",Oberamtmann
+Oberappelationsrat,Rat
+landgräflich hessen-darmstädtischer Oberappellationsrat,Rat
+Oberaufseher,Oberaufseher
+Oberbauherr,Oberbauherr
+Oberbauherr (3. Vierherr),Oberbauherr
+Oberbaumeister,Oberbaumeister
+Ober-Bürgermeister,"Bürgermeister, älterer"
+Oberchorbischof,Oberchorbischof
+Oberdirektor,Direktor
+Oberer Ratsmeister,"Ratsmeister, oberster"
+Oberfutterherr,Oberfutterherr
+Obergeleitschreiber,Obergeleitschreiber
+Obergeleitsschreiber,Obergeleitschreiber
+Oberhofmarschall,Oberhofmarschall
+"Oberhofmarschall, herzoglich sächsischer",Oberhofmarschall
+"Oberhofmarschall, kurmainzischer",Oberhofmarschall
+kurüfrstlich salzburgischer Oberhofrichter,Oberhofrichter
+Oberinspektor,Oberinspektor
+Oberkammerdirektor,Oberdirektor
+Oberkämmerer,Kämmerer
+Oberkammerrat,Rat
+Obermarktherr,Obermarktherr
+Obermarschall,Obermarschall
+"Obermarschall, kurmainzischer",Obermarschall
+Obermeister,Obermeister
+oberösterreichischer Gubernialrat,Rat
+Oberratsherr,"Ratsmeister, oberster"
+Oberratsmeister,"Ratsmeister, oberster"
+Oberschatzungsherr,Oberschatzungsherr
+Oberschlossherr,Oberschlossherr
+Oberstadtvogt,Oberstadtvogt
+oberster Bürgermeister,"Bürgermeister, älterer"
+oberster Gerichtsassessor,"Assessor, oberster"
+oberster Leiter der Departements,Leiter
+oberster Leiter der Staatsgeschäfte,Leiter
+Oberster Ratsmeister,"Ratsmeister, oberster"
+Oberster Vierherr,"Vierherr, oberster"
+Oberstratsmeister,"Ratsmeister, oberster"
+Obervierherr,"Vierherr, oberster"
+Oberzweiermann,Oberzweiermann
+Ober-Zweiermann,Oberzweiermann
+Obrist,Offizier
+Obristleutnant,Offizier
+Obristratsmeister,"Ratsmeister, oberster"
+Obrist-Ratsmeister,"Ratsmeister, oberster"
+Obristratsmeister,"Ratsmeister, oberster"
+Obriststallmeister,Oberststallmeister
+Obristwachtmeister,Offizier
+Offizier,Offizier
+ordentlicher Professor des Staatsrechts und der praktischen Philosophie,"Professor, ordentlicher"
+ordentlicher Professor iur.,"Professor, ordentlicher"
+ordentlicher Professor iuris,"Professor, ordentlicher"
+ordentlicher Professor iuris für Institutionen,"Professor, ordentlicher"
+ordentlicher Professor iuris für Ius publicum,"Professor, ordentlicher"
+ordentlicher Professor iuris für Pandekten,"Professor, ordentlicher"
+"ordentlicher Professor, für Staatsrecht (ius publicum)","Professor, ordentlicher"
+"ordentlicher Professor, iur.","Professor, ordentlicher"
+"ordentlicher Professor, iuris","Professor, ordentlicher"
+"ordentlicher Professor, iuris für Institutionen","Professor, ordentlicher"
+"ordentlicher Professor, iuris für Ius publicum","Professor, ordentlicher"
+"ordentlicher Professor, iuris für Pandekten","Professor, ordentlicher"
+"ordentlicher Professor, des Staatsrechts","Professor, ordentlicher"
+Organisationskommissar zur Wiederherstellung der alten Ordnung in der rückeroberten Residenzstadt,Kommissar
+Page,Page
+Pastor,Pastor
+Pate,
+Patin,
+Patricius,#
+Pensionär,Pensionär
+Persönlicher Sekretär,Sekretär
+Persönlicher Sekretär des Johann Ernst Grafen Herberstein,Sekretär
+Comes palatinus,Hofpfalzgraf
+Pfannenherr,Pfannenherr
+Pfarrer,Pfarrer
+Pfarreradjunkt,Pfarrer-Adjunkt
+Physicus,Physikus
+"Plenipotentarius, kaiserlicher",Bevollmächtigter Minister
+Poeta,Poeta
+"Polizeykommissar, kurmainzischer",Kommissar
+Posamentiermeister,Posamentiermeister
+Postkommissar,Kommissar
+Postmeister,Postmeister
+Postschreiber,Postschreiber
+Präfekt,Präfekt
+Praktikant,Praktikant
+Praktikum,Praktikant
+Präseident,Präsident
+Präses,Präsident
+Präsident,Präsident
+österreichischer Präsidialgesandter,"Gesandter, Erzherzogtum Österreich"
+Prätor,Prätor
+Präzeptor,Lehrer
+Präzeptor Classicus,Lehrer
+Prediger,Prediger
+Priester,Priester
+Primas der Stände des Eichsfeldes,Primas
+kurmainzischer?] Prinzipalgesandter,"Gesandter, Kurfürstentum Mainz] #"
+Priorin,Priorin
+Privatdozent,Privatlehrer
+Privatier,Privatier
+Privatlehrer,Privatlehrer
+Privatsekretär,Sekretär
+Probst,Probst
+Prodekan,Prodekan
+Prof. Theol.,Professor
+Professoer,Professor
+Professor,Professor
+Professor  Juris,Professor
+Professor beider Rechte,Professor
+"Professor beider Rechte, außerordentlicher","Professor, außerordentlicher"
+"Professor beider Wissenschaften, ordentlicher","Professor, ordentlicher"
+Professor Codicis,Professor
+Professor Decretalium,Professor
+"Professor der Anatomie, Chirurgie und Botanik, ordentlicher","Professor, ordentlicher"
+"Professor der Arzneigelehrsamkeit, außerordentlicher","Professor, außerordentlicher"
+"Professor der Arzneigelehrsamkeit, ordentlicher","Professor, ordentlicher"
+"Professor der Institutionen, ordentlicher","Professor, ordentlicher"
+Professor der Institutionum Juris [sic!],Professor
+"Professor der Jurisprudenz, außerordentlicher","Professor, außerordentlicher"
+"Professor der Kammeralwissenschaften, ordentlicher","Professor, ordentlicher"
+Professor der Logik und Ethik,Professor
+Professor der Mathematik,Professor
+"Professor der Mathematik und Philosophie, außerordenterlicher","Professor, außerordentlicher"
+"Professor der Mathematik, ordentlicher","Professor, ordentlicher"
+"Professor der Medizin, ordentlicher","Professor, ordentlicher"
+Professor der Pandekten,Professor
+"Professor der Pandekten, ordentlicher","Professor, ordentlicher"
+"Professor der Philosophie und der Rechte, außerordentlicher","Professor, außerordentlicher"
+Professor der Philosophie und Kammeralwissenschaften,Professor
+"Professor der Philosophie und Kammeralwissenschaften, ordentlicher","Professor, ordentlicher"
+Professor der Physik und der Sprachen,Professor
+"Professor der Politik, ordentlicher","Professor, ordentlicher"
+Professor der Rechte,Professor
+Professor der Rechte un der Geschichte,Professor
+Professor der Rechte und Geschichte,Professor
+"Professor der Rechte und Philosophie, außerordenterlicher","Professor, außerordentlicher"
+"Professor der Rechte, außerordenterlicher","Professor, außerordentlicher"
+"Professor der Rechte, außerordentlicher","Professor, außerordentlicher"
+"Professor der Rechte, Geschichte und Philosophie, ordentlicher","Professor, ordentlicher"
+"Professor der Rechte, Geschichte und praktischen Philosophie, ordentlicher","Professor, ordentlicher"
+"Professor der Rechte, ordentlicher","Professor, ordentlicher"
+Professor der Rechtswissenschaft,Professor
+"Professor der Rechtswissenschaften, außerordentlicher","Professor, außerordentlicher"
+Professor der Weltweisheit,Professor
+"Professor der Weltweisheit, außerordenterlicher","Professor, außerordentlicher"
+Professor des Codex,Professor
+Professor des Lehnrechts,Professor
+"Professor des Lehnrechts, ordentlicher","Professor, ordentlicher"
+Professor des Staatsrechts und der Geschichte,Professor
+Professor des Staatsrechts und der Historie,Professor
+Professor des Staatsrechts und Historie,Professor
+Professor für deutsches Staatsrecht,Professor
+Professor für kanonisches Recht,Professor
+"Professor Historiarium & Philosophiae Practicae, ordentlicher","Professor, ordentlicher"
+Professor Institut.,Professor
+Professor Institutionum,Professor
+"Professor Institutionum, ordentlicher","Professor, ordentlicher"
+Professor iur.,Professor
+Professor iuris,Professor
+Professor Iuris Extraordinarius,"Professor, außerordentlicher"
+Professor Iuris feudalis,Professor
+Professor iuris für Zivilrecht,Professor
+"Professor iuris naturae, gentium & publici, außerordentlicher","Professor, außerordentlicher"
+Professor Iuris Publ. et Hist.,Professor
+Professor Iuris Publici,Professor
+Professor iuris publici & Historiarum,Professor
+Professor Iuris Publici Ordinarius,"Professor, ordentlicher"
+"Professor iuris, außerordentlicher","Professor, außerordentlicher"
+"Professor iuris, ordentlicher","Professor, ordentlicher"
+Professor iurs publicus ordinarius et salriata,"Professor, ordentlicher"
+Professor Juris,Professor
+Professor juris publici,Professor
+Professor Juris Publici & Histor.,Professor
+Professor Juris Publici und Hist.,Professor
+"Professor Juris, außerordentlicher","Professor, außerordentlicher"
+"Professor Juris, ordentlicher","Professor, ordentlicher"
+Professor med.,Professor
+Professor ordinarius des Staatsrechts und der Historie,"Professor, ordentlicher"
+Professor Pandectarum,Professor
+"Professor Pandectarum, ordentlicher","Professor, ordentlicher"
+Professor Publicus,Professor
+Professor Publicus Ordinarius Codicis,"Professor, ordentlicher"
+Professor Publicus Ordinarius Decretalium,"Professor, ordentlicher"
+Professor Publicus Ordinarius Iuris,"Professor, ordentlicher"
+"Professor, des Lehnrechts, ordentlicher","Professor, ordentlicher"
+"Professor,  Theol.",Professor
+außerordentlicher Professor,"Professor, außerordentlicher"
+"Professor, außerordentlicher","Professor, außerordentlicher"
+außerordentlicher Professor der Rechte,"Professor, außerordentlicher"
+außerordentlicher Professor der Rechtswissenschaften,"Professor, außerordentlicher"
+außerordentlicher Professor iur.,"Professor, außerordentlicher"
+außerordentlicher Professor iuris,"Professor, außerordentlicher"
+außerordentlicher Professor iurs,"Professor, außerordentlicher"
+"außerordentlicher Professor, iur.","Professor, außerordentlicher"
+"außerordentlicher Professor, iuris","Professor, außerordentlicher"
+"außerordentlicher Professor, iurs","Professor, außerordentlicher"
+außerordentlicher Professor für Staatsrecht (ius publicum),"Professor, außerordentlicher"
+"außerordentlicher Professor, für Staatsrecht (ius publicum)","Professor, außerordentlicher"
+"Professor, beider Wissenschaften, ordentlicher","Professor, ordentlicher"
+"Professor, Decretalium",Professor
+"Professor, der Institutionen, ordentlicher","Professor, ordentlicher"
+"Professor, der Institutionum Juris [sic!]",Professor
+"Professor, der Mathematik",Professor
+"Professor, der Mathematik, ordentlicher","Professor, ordentlicher"
+"Professor, der Mathematik und Philosophie, außerordenterlicher","Professor, außerordentlicher"
+"Professor, der Pandekten",Professor
+"Professor, der Pandekten, ordentlicher","Professor, ordentlicher"
+"Professor, der Philosophie und der Rechte, außerordentlicher","Professor, außerordentlicher"
+"Professor, der Politik, ordentlicher","Professor, ordentlicher"
+"Professor, der Rechte und Philosophie, außerordenterlicher","Professor, außerordentlicher"
+"Professor, der Weltweisheit",Professor
+"Professor, der Weltweisheit, außerordenterlicher","Professor, außerordentlicher"
+"Professor, für deutsches Staatsrecht",Professor
+"Professor, Institutionum",Professor
+"Professor, Institutionum, ordentlicher","Professor, ordentlicher"
+"Professor, der Rechte",Professor
+"Professor, der Rechtswissenschaft",Professor
+"Professor, iur.",Professor
+"Professor, iuris",Professor
+"Professor, Juris",Professor
+"ordentlicher Professor, des Staatsrechts und der praktischen Philosophie","Professor, ordentlicher"
+"Professor, Codicis",Professor
+"Professor, für kanonisches Recht",Professor
+"Professor, des Codex",Professor
+"Professor, Iuris Extraordinarius",Professor
+ordentlicher Professor des Staatsrechts,"Professor, ordentlicher"
+ordentlicher Professor für Staatsrecht (ius publicum),"Professor, ordentlicher"
+"Professor, beider Rechte",Professor
+"Professor, beider Rechte, außerordentlicher","Professor, außerordentlicher"
+"Professor, der Rechte, außerordenterlicher","Professor, außerordentlicher"
+"außerordentlicher Professor, der Rechte","Professor, außerordentlicher"
+"außerordentlicher Professor, der Rechtswissenschaften","Professor, außerordentlicher"
+"Professor, der Rechte, außerordentlicher","Professor, außerordentlicher"
+"Professor, der Rechtswissenschaften, außerordentlicher","Professor, außerordentlicher"
+"Professor, der Rechte, ordentlicher","Professor, ordentlicher"
+"Professor, der Rechte un der Geschichte",Professor
+"Professor, der Rechte und Geschichte",Professor
+"Professor, Iuris feudalis",Professor
+"Professor, iuris für Zivilrecht",Professor
+"Professor, Iuris Publ. et Hist.",Professor
+"Professor, Iuris Publici",Professor
+"Professor, iuris publici & Historiarum",Professor
+"Professor, Iuris Publici Ordinarius","Professor, ordentlicher"
+"Professor, iuris, außerordentlicher","Professor, außerordentlicher"
+"Professor, iurs publicus ordinarius et salriata","Professor, ordentlicher"
+"Professor, des Lehnrechts",Professor
+"Professor, med.",Professor
+ordentlicher Professor,"Professor, ordentlicher"
+"Professor, ordentlicher","Professor, ordentlicher"
+"Professor, ordinarius des Staatsrechts und der Historie","Professor, ordentlicher"
+"Professor, Pandectarum",Professor
+"Professor, Pandectarum, ordentlicher","Professor, ordentlicher"
+"Professor, Publicus",Professor
+"Professor, Publicus Ordinarius Cod.","Professor, ordentlicher"
+"Professor, Publicus Ordinarius Codicis","Professor, ordentlicher"
+"Professor, Publicus Ordinarius Decretalium","Professor, ordentlicher"
+"Professor, Publicus Ordinarius Historiar. et Philosophiae Pract","Professor, ordentlicher"
+"Professor, Publicus Ordinarius Iuris","Professor, ordentlicher"
+"Professor, des Staatsrechts und der Geschichte",Professor
+"Professor, des Staatsrechts und der Historie",Professor
+"Professor, des Staatsrechts und Historie",Professor
+Prokanzler,Prokanzler
+Prokurator,Prokurator
+Prorektor,Prorektor
+Protephor,Protephor
+Publizist,Publizist
+Rat,Rat
+sächsischer Rat,Rat
+"Rat, fürstlich sächsischer",Rat
+"Rat, fürstlich-sächsischer",Rat
+"Rat, schwarzburgischer",Rat
+"Rat, kaiserlicher",Rat
+"Rat, kurkölnischer",Rat
+"Rat, kurfürstlich mainzischer",Rat
+"Rat, kurmainzischer",Rat
+"Rat, sächsischer",Rat
+Vizedomamts]Rat,Rat
+Räte und Assessoren,
+Ratsbedienter,Bedienter
+Ratsherr,Rat
+Ratskämmerer,Kämmerer
+Ratsmeister,Ratsmeister
+Ratsoberster,"Ratsmeister, oberster"
+Ratssyndikus,Syndikus
+Ratsverwandter,Rat
+Rechtsanwalt,Advokat
+Rechtskonsulent,Konsulent
+Rechtspraktikant,Praktikant
+Rechtswissenschaftler,Jurist
+Rector Magificus,Rector Magnificus
+Rector Magnificentissimus,Rector Magnificus
+Rector Magnificus,Rector Magnificus
+Referendarius,Referendar
+Referent,Referent
+Regierungsassessor,Assessor
+Regierungsdirektor,Direktor
+Regierungs- und Kanzleidirektor,Direktor
+Regierungskanzlist,Kanzlist
+Regierungspräsident,Präsident
+Regierungsrat,Rat
+"Regierungsrat, außerordentlicher","Rat, außerordentlicher"
+"Regierungsrat, exspektierter","Rat, exspektierter"
+kurbayerischer Regierungsrat,Rat
+kurfürstlich-mainzischer Regierungsrat,Rat
+"Regierungsrat, kurfürstlich mainzischer",Rat
+"Regierungsrat, kurmainzischer",Rat
+landgräflich hessen-darmstädtischer Regierungsrat,Rat
+"Regierungsrat, Supernumerarius","Rat, Supernumerar"
+vorderösterreichischer Regierungsrat,Rat
+"Regierungsrat, wirklicher",Rat
+"Regierungsrat, wirklicher kurmainzischer",Rat
+Regierungssekretär,Sekretär
+"Regimentsquartiermeister, königlich polnischer",Offizier
+"Regimentsquartiermeister, kursächsischer",Offizier
+niederösterreichischer Regimentsrat,Rat
+kurmainzischer] Reichsdirektorialgesandter,"Gesandter, Kurfürstentum Mainz]"
+Reichshofrat,Rat
+Reichshofrat auf der Ritter- und Gelehrtenbank,Rat
+"Reichshofrat, wirklicher",Rat
+Reichshofratspraktikant,Praktikant
+Reichskammergerichtsassessor des Bayerischen Kreises,Assessor
+Reichskammergerichtsassessor des Burgundischen Kreises,Assessor
+Reichskammergerichtsassessor des katholischen niederheinisch-westfälischen Kreises,Assessor
+Reichskammergerichtsassessor des katholischen Oberrheinischen Kreises,Assessor
+Reichskammergerichtsassessor des katholischen Schwäbischen Kreises,Assessor
+Reichskammergerichtsassessor des katholischen Fränkischen Kreises,Assessor
+Reichskammergerichtsassessor des österreichischen Kreises,Assessor
+"Reichskammergerichtsassessor, kurkölnischer",Assessor
+Reichskammergerichtspraktikant,Praktikant
+Reichskammerherr,Kammerherr
+Reichsrat der Krone Bayern,Rat
+Reichsreferendar,Referendar
+Reichstagsgesandter des Fürstbistums Hildesheim,"Gesandter, Fürstbistum Hildesheim"
+Reichstagsgesandter des Fürstbistums Paderborn,"Gesandter, Fürstbistum Paderborn"
+Reichstagsgesandter des Fürstbistums Speyer,"Gesandter, Fürstbistum Speyer"
+Reichstagsgesandter des Fürstbistums Worms,"Gesandter, Fürstbistum Worms"
+Reichstagsgesandter des Fürstentums Hohenzollern-Hechingen,"Gesandter, Fürstentum Hohenzollern-Hechingen"
+Reichstagsgesandter des Fürstentums Hohenzollern-Sigmaringen,"Gesandter, Fürstentum Hohenzollern-Sigmaringen"
+Reichstagsgesandter des Fürstentums Schwarzenberg,"Gesandter, Fürstentum Schwarzenberg"
+Reichstagsgesandter des Kurerzkanzlers für das Fürstentum Regensburg,"Gesandter, Reichserzkanzler / Gesandter, Fürstentum Regensburg"
+Reichstagsgesandter der Schwäbischen Prälatenbank,"Gesandter, Schwäbische Prälatenbank"
+Reichsvizehofkanzler,Reichsvizekanzler
+Reichsvizekanzler,Reichsvizekanzler
+Rektor,Rektor
+Religionshistoriker,Historiker
+Rente,
+Rentendirektor,Direktor
+Rentmeister,Rentmeister
+Rent- und Zahlmeister,Rentmeister / Zahlmeister
+kurfürstlich-mainzischer Resident,"Resident, Kurfürstentum Mainz"
+"Resident, kurmainzischer","Resident, Kurfürstentum Mainz"
+Revisionsrat,Rat
+Revistionsrat,Rat
+RHR-Praktikant,Praktikant
+Richtere und Assessores,Assessor
+Ritterhauptmann,Hauptmann
+Rittmeister,Offizier
+"Rittmeister, lüneburgischer",Offizier
+RKG-Advokat,Advokat
+RKG-Asessor des Burgundischen Kreises,Assessor
+RKG-Assessor,Assessor
+RKG-Assessor des Bayerischen Kreises,Assessor
+RKG-Assessor des Burgundischen Kreises,Assessor
+RKG-Assessor des katholischen Fränkischen Kreises,Assessor
+RKG-Assessor des Katholischen Niederrheinisch-Westfälischen Kreises,Assessor
+RKG-Assessor des katholischen Oberrheinischen Kreises,Assessor
+RKG-Assessor des katholischen Schwäbischen Kreises,Assessor
+RKG-Assessor des Niedersächsischen Kreises,Assessor
+RKG-Assessor des Österreichischen Kreises,Assessor
+ehemaliger RKG-Assessor,Assessor
+RKG-Fiskaladvokat,Fiskaladvokat
+RKG-Praktikant,Praktikant
+RKG-Präsentatus,
+RKG-Präsentatus des katholischen Fränkischen Kreises,
+RKG-Präsentatus des katholischen Niederrheinisch-Westfälischen Kreises,
+RKG-Präsentatus des katholischen Oberrheinischen Kreises,
+RKG-Präsentatus des katholischen Schwäbischen Kreises,
+RKG-Präsentatus des Bayerischen Kreises,
+RKG-Präsentatus des Burgundischen Kreises,
+RKG-Präsentatus des Fränkischen Kreises,
+"RKG-Präsentatus, kurmainzischer",
+RKG-Präsentatus des österreichischen Kreises,
+evangelischer RKG-Präsident,Präsident
+RKG-Prokurator,Prokurator
+Saflorkäufer,Händler
+Salineninspektor,Inspektor
+Sänger,Sänger
+Schlosshauptmann,
+Schlossratsmeister,Ratsmeister
+Schlossvierher,Vierherr
+Schloßvierherr,Vierherr
+Schöffe,Schöffe
+Scholaster,Scholaster
+Schriftsteller,Schriftsteller
+Schüler,Schüler
+Schüler [?],Schüler #
+Schüler],Schüler]
+Schülerin,Schülerin
+Schultheiß,Schultheiß
+Secretarius,Sekretär
+Sekretär,Sekretär
+"Sekretär des ""alten Grafen von Stadion""",Sekretär
+Sekretär des Kammerrichters Franz Graf von Spaur,Sekretär
+"Sekretär, Sachsen-Eisenachischer",Sekretär
+"Sekretär, Sachsen-Jenaischer",Sekretär
+Senior,Ältester
+Senior Ministerii (Superintendent),Superintendent
+"Siegler, erzbischöflich mainzischer",Siegler
+Sigiliffer,Siegler
+Soldat,Soldat
+Spezialprotektor,#
+"Staatsbeamter, höherer badischer","Staatsbeamter, höherer"
+Staatsminister,Staatsminister
+Staatsminister ohne Portefeuille,Staatsminister
+Staatsrat,Rat
+erzherzoglich österreichischer Staatsrat,Rat
+"Staatsrat, kurerzkanzlerischer",Rat
+"Staatsrat, kurmainzischer",Rat
+"Staatsrat, kurfürstlich erzkanzlerischer",Rat
+Staatsrat im ordentlichen Dienst,Rat
+Staatsreferendar der Reichs- und auswärtigen Geschäfte,Referendar
+Stadtgerichtsschultheiß,Stadtgerichtsschultheiß
+"Stadtgerichtsschultheiß, königlich schwedischer",Stadtgerichtsschultheiß
+Stadthauptmann,Stadthauptmann
+Stadtkämmerer,Kämmerer
+Stadtkapitän,Stadtkapitän
+Stadtmajor,Stadtmajor
+Stadtphysikus,Physikus
+Stadtrat,Rat
+Stadtratssyndikus,Syndikus
+Praefectus advocatiae Urbis,Praefectus advocatiae Urbis
+Stadtschreiber,Stadtschreiber
+Stadt-]Schultheiß,Stadtschultheiß
+Stadtschultheiß,Stadtschultheiß
+Stadtsyndicus,Syndikus
+Stadtsyndikus,Syndikus
+Stadtvogt,Stadtvogt
+Statthalter,Statthalter
+Statthalter von Erfurt,Statthalter
+Statthalter zu Erfurt,Statthalter
+Statthaltereirat,Rat
+"Statthaltereirat, Honorarius",#
+Statthaltereiverweser,Verweser
+stellv. Reichstagsgesandter des Deutschen Ordens,"Gesandter, stellvertretender, Deutscher Orden"
+stellv. Reichstagsgesandter des Fürstabtei Stablo,"Gesandter, stellvertretender, Deutscher Orden"
+stellv. Reichstagsgesandter des Fürstbistums Münster,"Gesandter, stellvertretender, Deutscher Orden"
+stellv. Reichstagsgesandter des Fürstbistums Straßburg,"Gesandter, stellvertretender, Deutscher Orden"
+stellv. Reichstagsgesandter des Kurfürstentums Köln,"Gesandter, stellvertretender, Deutscher Orden"
+Steueraktuar,Aktuar
+Stiftsrat,Rat
+stud. med.,Student
+Stud.],Student]
+stud.,Student
+Student,Student
+Student [?],Student #
+stud. iur,Student
+stud. iur.,Student
+stud. iur.,Student
+stud. phil,Student
+stud. phil.,Student
+stud. phill.,Student
+stud. phil. / physicus,Student
+stud. theol.,Student
+stud. [theol.],Student
+Subconcretor,Subkonkretor
+landgräflich hessen-darmstädtischer Subdelegierter,Subdelegierter
+Subdiakon,Subdiakon
+Subedelgierter bei der RKG-Visitation in der 2. Klasse,Subdelegierter
+Subedelgierter bei der RKG-Visitation in der 3. Klasse,Subdelegierter
+Subedelgierter bei der RKG-Visitation in der 4. Klasse,Subdelegierter
+Subkonkretor,Subkonkretor
+Superintendent,Superintendent
+Superintendent,Superintendent
+Supernumerar-Assessor,"Assessor, Supernumerar"
+Supernumerar-Regierungsrat,"Rat, Supernumerar"
+Syndicus,Syndikus
+Syndikus,Syndikus
+Domstifts-Syndikus und -sekretär,Sekretär #
+Marschallamts-Syndikus,Syndikus
+Syndici/Officiati,
+Täufling,Täufling
+evangelisch-lutherischer Täufling,"Täufling, evangelisch-lutherisch"
+"Täufling, evangelisch-reformiert","Täufling, evangelisch-reformiert"
+"Täufling, kalvinistisch","Täufling, evangelisch-kalvinistisch"
+"Täufling, katholisch","Täufling, katholisch"
+Titular-?]Regierungsrat,#
+"Titular-?]Regierungsrat, kurmainzischer",#
+"Titular-]Regierungsrat, kurmainzischer",#
+Titularbischof von Anemurium,#
+Titular-Hof- und Regierungsrat,#
+Titularregierungsrat,#
+"Titular-Regierungsrat, kurmainzischer",#
+Tryßler,Tryßler
+Tuchhändler,Händler
+unbekannt,
+Ungelder,Ungelder
+Universitätsactuarius,Aktuar
+Universitätsaktuar,Aktuar
+Universitätsprofessor,Professor
+unklar,
+Unterbauherr,Unterbauherr
+Unterkämmerer,Kämmerer
+Unterstadtvogt,Unterstadtvogt
+Vater,Vater
+Vater der Braut,"Vater, Braut"
+Vater des Bräutigams,"Vater, Bräutigams"
+Vertreter Österreichs,"Diplomat, Österreich"
+Verwalter der Familiengüter,Verwalter
+Verwalter des Privatvermögens,Verwalter
+Verweser,Verweser
+Domstifts-Syndikus und -sekretär,Syndikus #
+Vicedom,Vizedom
+Viehfernhändler,Händler
+Vierherr,Vierherr
+Vizedom,Vizedom
+Vizedomamtsadministrator,Administrator
+Vizedomamtspräsident,Präsident
+Vizedomamtsrat,Rat
+Vizedomamtsrat [?],Rat #
+Vizedomamtsverweser,Verweser
+Vizegroßhofmeister,Vizegroßhofmeister
+Vizekanzler,Vizekanzler
+Vizepräsident,Vizepräsident
+Vizepräsident],Vizepräsident]
+Vizeregierungsdirektor,Vizedirektor
+Vizestadtschultheiß,Vizestadtschultheiß
+Vogelschütze,Vogelschütze
+Vogt,Vogt
+Vogteikonsulent,Konsulent
+Von Seiten der Kurfürstlichen Hofkammer,
+Von Seiten der Kurfürstlichen Regierung und Vicedomamt,
+Von Seiten des Revivsionsgericht,
+Vormund,Vorsteher
+Vormundschaftlicher Konsulent,Konsulent
+Vormundschaftsbeamter,Konsulent
+Vormundschaftskonsulent,Konsulent
+Vorsitzender,Vorsitzender
+Vorsitzender der Kommission zur Einführung des Code Napoléon,Vorsitzender
+Prossessores,
+Vorsteher,Vorsteher
+Vorsteher der Vormundschaftssachen,Vorsteher
+Vorstizender,Vorstizender
+Waid- und Saflorkäufer,Händler
+Waidhändler,Händler
+Waidkäufer,Händler
+Weihbischof,Weihbischof
+Weihbischof für den thüringischen Teil der Erzdiözese Mainz,Weihbischof
+wirklicher geheimer Rat,Rat
+wirlicher Geheimer Rat,Rat
+kurfürstlich mainzischer wirklicher Geheimer Rat,Rat
+erzbischöflich salzburgischer wirklicher Hofrat,Rat
+kurpfalzbayerischer wirklicher Hofrat,Rat
+wirklicher kaiserlicher Reichshofrat auf der Ritter- und Gelehrtenbank,Rat
+wirklicher kurmainzischer Regierungsrat,Rat
+wirklicher Rat,Rat
+wirklicher Regierungsrat,Rat
+wirklicher kurfürstlich mainzischer Regierungsrat,Rat
+"Regierungsrat, kurfürstlich mainzischer wirklicher",Rat
+wirklicher Reichshofrat auf der Ritter- und Gelehrtenbank,Rat
+wirklicher Staats- und Konferenzminister,Konferenzminister / Staatsminister / #
+Wollhändler,Händler
+Zahlmeister,Zahlmeister
+Zahlmeisteradjunkt,Zahlmeister-Adjunkt
+Zinseinnehmeradjunkt,Zinseinnehmer-Adjunkt
+Zinsmeister,Zinsmeister
+Zivilzahlmeister,Zahlmeister
+Zollschreiber,Zollschreiber
+"Zuchthauskommissar, kurmainzischer",Kommissar
+Zuckermacher,Zuckermacher
+Zuhörer im erzbischöflich salzburgischen Hofrat,Praktikant
+Zweierleute,Zweiermann
+Zweiermann,Zweiermann
+zweiter kurmainzischer Direktorialwahlbotschafter,Diplomat
+Zweiter Kammerdirektor,Vizedirektor
+2. Präsident,Vizepräsident
+zweiter kurmainzischer Wahlbotschafter,"Wahlbotschafter, zweiter, Kurfürstentum Mainz"
+zweiter kurkölnischer Wahlbotschafter,"Wahlbotschafter, zweiter, Kurköln"
