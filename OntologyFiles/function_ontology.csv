@@ -62,14 +62,14 @@ Assessor beim Stadtgericht,Assessor
 Assessores und Professores,
 Assessor],Assessor]
 Assessor-Adjunkt,Assessor-Adjunkt
-Assessores Referendarii. Ordinarii.,
+Assessores Referendarii. Ordinarii.,""
 Assesssor,Assesssor
 Auditor,Auditor
-Aufnahme,
+Aufnahme,""
 außerordentlicher bevollmächtigter Gesandter am königlich sächsischen Hof in Dresden,"Gesandter, außerordentlicher, bevollmächtigter"
 außerordentlicher Gesandter und bevollmächtigter Minister Österreichs,"Gesandter, außerordentlicher, bevollmächtigter, Erzherzogtum Österreich"
 Auszubildender,Auszubildender
-Bacc. phil.,
+Bacc. phil.,""
 Bankier,Bankier
 Beisitzer,Assessor
 "Beisitzer, außerordentlicher","Assessor, außerordentlicher"
@@ -90,7 +90,7 @@ kurmainzischer bevollmächtigter Minister am kaiserlichen Hof in Wien,"Gesandter
 Bibliothekar,Bibliothekar
 Biereige,Biereige
 Bischof,Bischof
-Brautvater,
+Brautvater,""
 Brückenherr,Brückenherr
 Buchhalter,Buchhalter
 Bürger,Bürger
@@ -812,8 +812,8 @@ ordentlicher Professor iuris für Pandekten,"Professor, ordentlicher"
 Organisationskommissar zur Wiederherstellung der alten Ordnung in der rückeroberten Residenzstadt,Kommissar
 Page,Page
 Pastor,Pastor
-Pate,
-Patin,
+Pate,""
+Patin,""
 Patricius,#
 Pensionär,Pensionär
 Persönlicher Sekretär,Sekretär
@@ -1092,7 +1092,7 @@ Reichsvizehofkanzler,Reichsvizekanzler
 Reichsvizekanzler,Reichsvizekanzler
 Rektor,Rektor
 Religionshistoriker,Historiker
-Rente,
+Rente,""
 Rentendirektor,Direktor
 Rentmeister,Rentmeister
 Rent- und Zahlmeister,Rentmeister / Zahlmeister
@@ -1119,7 +1119,7 @@ RKG-Assessor des Österreichischen Kreises,Assessor
 ehemaliger RKG-Assessor,Assessor
 RKG-Fiskaladvokat,Fiskaladvokat
 RKG-Praktikant,Praktikant
-RKG-Präsentatus,
+RKG-Präsentatus,""
 RKG-Präsentatus des katholischen Fränkischen Kreises,
 RKG-Präsentatus des katholischen Niederrheinisch-Westfälischen Kreises,
 RKG-Präsentatus des katholischen Oberrheinischen Kreises,
@@ -1226,7 +1226,7 @@ Syndicus,Syndikus
 Syndikus,Syndikus
 Domstifts-Syndikus und -sekretär,Sekretär #
 Marschallamts-Syndikus,Syndikus
-Syndici/Officiati,
+Syndici/Officiati,""
 Täufling,Täufling
 evangelisch-lutherischer Täufling,"Täufling, evangelisch-lutherisch"
 "Täufling, evangelisch-reformiert","Täufling, evangelisch-reformiert"
@@ -1241,12 +1241,12 @@ Titularregierungsrat,#
 "Titular-Regierungsrat, kurmainzischer",#
 Tryßler,Tryßler
 Tuchhändler,Händler
-unbekannt,
+unbekannt,""
 Ungelder,Ungelder
 Universitätsactuarius,Aktuar
 Universitätsaktuar,Aktuar
 Universitätsprofessor,Professor
-unklar,
+unklar,""
 Unterbauherr,Unterbauherr
 Unterkämmerer,Kämmerer
 Unterstadtvogt,Unterstadtvogt
