@@ -1,11 +1,11 @@
 function_old,function_new
-(Titular-) Geheimer Rat,""
-(Titular-)Geheimer Rat,""
-(Titular-)Regierungsrat,""
-?,""
-@,""
-[?],""
-Ab seiten der churfürstlichen Regierung,""
+(Titular-) Geheimer Rat,"n/a"
+(Titular-)Geheimer Rat,"n/a"
+(Titular-)Regierungsrat,"n/a"
+?,"n/a"
+@,"n/a"
+[?],"n/a"
+Ab seiten der churfürstlichen Regierung,"n/a"
 Abgeordneter,Abgeordneter
 Abt,Abt
 Actuarius,Aktuar
@@ -46,7 +46,7 @@ Archivrat,Archivrat
 Arzt,Arzt
 Asessor,Assessor
 Assessor,Assessor
-"Assessor (""Steuerdeputierter"")",Assessor
+"Assessor ("n/a"Steuerdeputierter"n/a")",Assessor
 Assessores,Assessor
 Assessor (Supernumerar),"Assessor, Supernumerar"
 Assessor Primarius,"Assessor, erster"
@@ -62,14 +62,14 @@ Assessor beim Stadtgericht,Assessor
 Assessores und Professores,
 Assessor],Assessor]
 Assessor-Adjunkt,Assessor-Adjunkt
-Assessores Referendarii. Ordinarii.,""
+Assessores Referendarii. Ordinarii.,"n/a"
 Assesssor,Assesssor
 Auditor,Auditor
-Aufnahme,""
+Aufnahme,"n/a"
 außerordentlicher bevollmächtigter Gesandter am königlich sächsischen Hof in Dresden,"Gesandter, außerordentlicher, bevollmächtigter"
 außerordentlicher Gesandter und bevollmächtigter Minister Österreichs,"Gesandter, außerordentlicher, bevollmächtigter, Erzherzogtum Österreich"
 Auszubildender,Auszubildender
-Bacc. phil.,""
+Bacc. phil.,"n/a"
 Bankier,Bankier
 Beisitzer,Assessor
 "Beisitzer, außerordentlicher","Assessor, außerordentlicher"
@@ -90,7 +90,7 @@ kurmainzischer bevollmächtigter Minister am kaiserlichen Hof in Wien,"Gesandter
 Bibliothekar,Bibliothekar
 Biereige,Biereige
 Bischof,Bischof
-Brautvater,""
+Brautvater,"n/a"
 Brückenherr,Brückenherr
 Buchhalter,Buchhalter
 Bürger,Bürger
@@ -101,7 +101,7 @@ cand. iur,Student
 Canonicum a latere,"Gesandter, Papst"
 Chorbischof,Bischof
 Chorherr,Kapitularherr
-consiliarius intimus,""
+consiliarius intimus,"n/a"
 Dechant,Dekan
 Decanus,Dekan
 Dekan,Dekan
@@ -156,9 +156,9 @@ Erzbischof,Erzbischof
 Erzieher,Erzieher
 Erzkanzler,Reichserzkanzler
 Exdekan,Dekan #
-Expektant auf Reichskammergerichtspräsentation des österreichischen Kreises,""
-Exspektant auf habsburgische Reichskammergerichtspräsentation,""
-Exspektant auf nächstvakante habsburgische Reichskammergerichtspräsentation,""
+Expektant auf Reichskammergerichtspräsentation des österreichischen Kreises,"n/a"
+Exspektant auf habsburgische Reichskammergerichtspräsentation,"n/a"
+Exspektant auf nächstvakante habsburgische Reichskammergerichtspräsentation,"n/a"
 Fabrikant,Fabrikant
 Fähnrich,Offizier
 Feldbuchhalter,Feldbuchhalter
@@ -300,7 +300,7 @@ Generalvikar,Generalvikar
 Gerichtsassessor,Assessor
 Gerichts-Assessor,Assessor
 kurfürstlicher Gerichtsassessor,Assessor
-Gerichtsperson [Assessor?],""
+Gerichtsperson [Assessor?],"n/a"
 Gerichtsschreiber,Gerichtsschreiber
 Gerichtsschultheiß,Gerichtsschultheiß
 Gesandter,Gesandter
@@ -333,7 +333,7 @@ Großhofmeister,Großhofmeister
 "Großhofmeister, kurmainzischer",Großhofmeister
 Großvater,Großvater
 Gubernator,Gubernator
-habsburgische RKG-Präsentation,""
+habsburgische RKG-Präsentation,"n/a"
 Häftling,Häftling
 Handelsmann,Händler
 Handelsreisender,Händler
@@ -421,7 +421,7 @@ kaiserlicher Reichshofrat,Rat
 Kaiserlicher Reichskammergerichtsassessor,Assessor
 kaiserlicher Resident beim Niedersächsischen Kreis,"Resident, Kaiser"
 kaiserlicher RKG-Assessor,Assessor
-Kaiserlicher RKG-Präsentatus,""
+Kaiserlicher RKG-Präsentatus,"n/a"
 kaiserlicher wirklicher Geheimer Rat,Rat
 kaiserlicher wirklicher Reichshofrat auf der Ritter- und Gelehrtenbank,Rat
 kaiserlicher und kaiserlich königlicher (Titular-)wirklicher Geheimer Rat,#
@@ -594,7 +594,7 @@ kurmainzischer Reichsdirektorialgesandter,"Gesandter, Kurfürstentum Mainz"
 Kurmainzischer Reichskammergerichtsassessor,Assessor
 kurmainzischer Revisionsrat,Rat
 kurmainzischer RKG-Assessor,Assessor
-kurmainzischer RKG-Präsentatus,""
+kurmainzischer RKG-Präsentatus,"n/a"
 kurmainzischer Stadtgerichtsassessor,Assessor
 kurmainzischer subdelegierter kaiserlicher Kommissar,"Kommissar, subdelegierter"
 kurmainzischer Titular-Hofgerichtsrat,#
@@ -645,7 +645,7 @@ kurtrierischer wirklicher Hofrat,Rat
 Kurfürst-Erzbischof,Kurfürst / Erzbischof
 kurhessischer Kämmerer,Kämmerer
 kurkölnisch-Fürstbistum Paderborn Hofrat,Rat
-kurmainzische Dienste,""
+kurmainzische Dienste,"n/a"
 kurpfälzischer Abgesandter,"Gesandter, Kurfürstentum Pfalz"
 kurpfälzischer adliger Hofgerichtsrat,Rat
 kurpfälzischer Assessor,Assessor
@@ -717,7 +717,7 @@ Mag. phil.,#
 Magnificus Dn. [?] Rector,Rector Magnificus
 "markgräflich baden-badenischer Hof- und Regierungsrat, später Geheimer Rat und Lehenprobst, auch Gesandter beim Schwäbischen Reichskreis",Rat / Rat / Lehenprobst / #
 markgräflich baden-badenischer Hofrat,Rat
-markgräflich baden-badensche Dienste,""
+markgräflich baden-badensche Dienste,"n/a"
 markgräflich baden-badischer Hofrat,Rat
 markgräflich baden-badischer Oberamtmann,Oberamtmann
 markgräflich baden-badischer Titular-Geheimer Rat,#
@@ -812,8 +812,8 @@ ordentlicher Professor iuris für Pandekten,"Professor, ordentlicher"
 Organisationskommissar zur Wiederherstellung der alten Ordnung in der rückeroberten Residenzstadt,Kommissar
 Page,Page
 Pastor,Pastor
-Pate,""
-Patin,""
+Pate,"n/a"
+Patin,"n/a"
 Patricius,#
 Pensionär,Pensionär
 Persönlicher Sekretär,Sekretär
@@ -1092,7 +1092,7 @@ Reichsvizehofkanzler,Reichsvizekanzler
 Reichsvizekanzler,Reichsvizekanzler
 Rektor,Rektor
 Religionshistoriker,Historiker
-Rente,""
+Rente,"n/a"
 Rentendirektor,Direktor
 Rentmeister,Rentmeister
 Rent- und Zahlmeister,Rentmeister / Zahlmeister
@@ -1119,7 +1119,7 @@ RKG-Assessor des Österreichischen Kreises,Assessor
 ehemaliger RKG-Assessor,Assessor
 RKG-Fiskaladvokat,Fiskaladvokat
 RKG-Praktikant,Praktikant
-RKG-Präsentatus,""
+RKG-Präsentatus,"n/a"
 RKG-Präsentatus des katholischen Fränkischen Kreises,
 RKG-Präsentatus des katholischen Niederrheinisch-Westfälischen Kreises,
 RKG-Präsentatus des katholischen Oberrheinischen Kreises,
@@ -1134,7 +1134,7 @@ RKG-Prokurator,Prokurator
 Saflorkäufer,Händler
 Salineninspektor,Inspektor
 Sänger,Sänger
-Schlosshauptmann,""
+Schlosshauptmann,"n/a"
 Schlossratsmeister,Ratsmeister
 Schlossvierher,Vierherr
 Schloßvierherr,Vierherr
@@ -1148,7 +1148,7 @@ Schülerin,Schülerin
 Schultheiß,Schultheiß
 Secretarius,Sekretär
 Sekretär,Sekretär
-"Sekretär des ""alten Grafen von Stadion""",Sekretär
+"Sekretär des "n/a"alten Grafen von Stadion"n/a"",Sekretär
 Sekretär des Kammerrichters Franz Graf von Spaur,Sekretär
 "Sekretär, Sachsen-Eisenachischer",Sekretär
 "Sekretär, Sachsen-Jenaischer",Sekretär
@@ -1226,7 +1226,7 @@ Syndicus,Syndikus
 Syndikus,Syndikus
 Domstifts-Syndikus und -sekretär,Sekretär #
 Marschallamts-Syndikus,Syndikus
-Syndici/Officiati,""
+Syndici/Officiati,"n/a"
 Täufling,Täufling
 evangelisch-lutherischer Täufling,"Täufling, evangelisch-lutherisch"
 "Täufling, evangelisch-reformiert","Täufling, evangelisch-reformiert"
@@ -1241,12 +1241,12 @@ Titularregierungsrat,#
 "Titular-Regierungsrat, kurmainzischer",#
 Tryßler,Tryßler
 Tuchhändler,Händler
-unbekannt,""
+unbekannt,"n/a"
 Ungelder,Ungelder
 Universitätsactuarius,Aktuar
 Universitätsaktuar,Aktuar
 Universitätsprofessor,Professor
-unklar,""
+unklar,"n/a"
 Unterbauherr,Unterbauherr
 Unterkämmerer,Kämmerer
 Unterstadtvogt,Unterstadtvogt
