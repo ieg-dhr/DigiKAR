@@ -16,15 +16,15 @@ Zentraldepartement,Zentraldepartement
 böhmisch-österreichische Hofkanzlei,"Königreich Böhmen, Hofkanzlei / Erzherzogtum Österreich, Hofkanzlei"
 "Erfurter Staat, Kommerziendeputation","Kurfürstentum Mainz, Kommerziendeputation Erfurt"
 "Erzbistum Mainz, Stift B.M.V. zu Erfurt",Kollegiatstift St. Maria Erfurt
-evangelisch,
+evangelisch,@
 Fürstbischof von Augsburg,Fürstbischof von Augsburg
 Philipp Wilhelm von Boineburg #233,"Person, Philipp Wilhelm von Boineburg #233"
 Vereinigte K.K. Hofkanzlei,"Kaiserreich Österreich, Vereinigte K.K. Hofkanzlei"
 Akademie Bamberg,Akademie Bamberg
 """Freimaurerloge ""Joseph zu den drei Helmen""","Freimaurer, Loge ""Joseph zu den drei Helmen"" [+ Ort?]"
-?],
+?],@
 @,###
-[?],
+[?],@
 "[Kurfürstentum Mainz, Kammer zu Erfurt]","Kurfürstentum Mainz, Kammer Erfurt]"
 "[Kurfürstentum Mainz, Kammer zu Erfurt]","Kurfürstentum Mainz, Kammer Erfurt]"
 "[Kurfürstentum Mainz, Regierung zu Erfurt]","Kurfürstentum Mainz, Regierung Erfurt]"
@@ -145,8 +145,8 @@ Evangelisches Ministerium,Evangelisches Ministerium Erfurt
 Evangelisches Ministerium],Evangelisches Ministerium Erfurt]
 Evangelisches Ratsgymnasium,Evangelisches Ratsgymnasium
 Evangelisches Weisenhaus,Evangelisches Weisenhaus Erfurt
-evangelisch-lutherisch,
-evangelisch-reformiert,
+evangelisch-lutherisch,@
+evangelisch-reformiert,@
 Flößholzamt,Kurfürstentum Mainz
 Franckesches Pädagogium,Franckesches Pädagogium Halle
 Fränkische Kreistage,"Reichskreis, Franken, Kreistag"
@@ -298,7 +298,7 @@ Katholische Westfälische Reichsgrafen,"Reichskammergerichtsvisitation, 2. Klass
 Kaufmannsgemeinde,Kaufmannsgemeinde Erfurt
 Kaufmannskirche,Kaufmannsgemeinde Erfurt
 Kaufmannsschule,Kaufmannsschule Erfurt
-Kirche,
+Kirche,@
 Kleines Hospital,Kleines Hospital Erfurt
 Kloser Reiffenstein,Kloster Reiffenstein
 Kollegiatstift St. Alban,Ritterstift St. Alban Mainz
@@ -494,7 +494,7 @@ sächsischer Hof,"Kurfürstentum Sachsen, Hof"
 Salpeterwerk Halberstadt,"Fürstentum Halberstadt, Salpeterwerke"
 Salpeterwerk Magdeburg,"Herzogtum Magdeburg, Salpeterwerke"
 Schreib- und Rechenschule,Barfüßerschule Erfurt
-Schule,
+Schule,@
 Schule zu den Predigern,Predigerschule
 Schwäbische Reichsgrafen,"Reichskammergerichtsvisitation, 3. Klasse / Reichskammergerichtsvisitation, 4. Klasse ###"
 "Schwäbische Reichsritterschaft, Bezirk Ortenau","Reichsritterschaft, Schwaben, Bezirk Ortenau"
