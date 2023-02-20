@@ -4,7 +4,7 @@
 
 <h3>Sinn und Zweck der Datenmodellierung in historischen Projekten</h3>
 
-<p align="justify">Idealerweise beginnt Datenmodellierung bereits mit der ersten Erfassung von Metadaten und setzt sich dann im gesamten Projekt fort. Im DigiKAR Projekt, das interdisziplinär angelegt ist und Forschende an verschiedenen Standorten verbindet, ist kontinuierliche und kollaborative Datenmodellierung auch Teil der Verständigung im Projekt. Damit verbunden ist auch die Zielsetzung, die Daten klar beschreiben und anderen Projekten zur Nachnutzung zur Verfügung stellen zu können.</p>
+<p align="justify">Idealerweise beginnt Datenmodellierung bereits mit der ersten Erfassung von Metadaten und setzt sich dann im gesamten Projekt fort. Im DigiKAR Projekt, das interdisziplinär angelegt ist und Forschende an verschiedenen Standorten verbindet, ist kontinuierliche und kollaborative Datenmodellierung auch Teil der Verständigung im Projekt. Damit verbunden ist auch die Zielsetzung, die Daten klar zu beschreiben und anderen Projekten zur Nachnutzung zur Verfügung zu stellen.</p>
 
 <p align="justify">Außerdem ist Datenmodellierung nicht nur dann notwendig, wenn im Projekt eine Datenbank mit graphischem Interface (d.h. Benutzeroberfläche) gebaut werden soll. Auch für Datenabfragen allein mit Excel-Filtern oder Skripten (z.B. in Python) ist die Strukturierung und (teilweise) Normalisierung von Daten notwendig. In historischen Projekten ist dies oft eine besondere Herausforderungen, da nur wenige Daten bereits seriell vorliegen und viele Quellen nicht digitalisiert wurden.</p>
 
