@@ -45,7 +45,7 @@ Das Problem, Unsicherheiten hier nicht explizit erfassen zu können, wurde durch
 
 Die Auswertung folge dann einem No DB Modell:
 
-<img alt="img no DB" src="../gh-pages/assets/NoDB.png" width="50%">
+<img alt="img no DB" src="../assets/NoDB.png" width="50%">
 
 Auf ein graphisches Interface wurde verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.
 
@@ -61,7 +61,7 @@ Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in Digi
 
 Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...
 
-<img alt="img DB review" src="./gh-pages/assets/DBReview.png" width="50%">
+<img alt="img DB review" src="../assets/DBReview.png" width="50%">
 
 
 
