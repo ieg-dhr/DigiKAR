@@ -32,6 +32,7 @@ Akademie Bamberg,Akademie Bamberg
 "[Kurfürstentum Mainz, Vizedomamt Erfurt]","Kurfürstentum Mainz, Vizedomamt Erfurt]"
 "[Kurfürstentum Mainz, Vizedomamt zu Erfurt]","Kurfürstentum Mainz, Vizedomamt Erfurt]"
 [Kurfürstentum Mainz],Kurfürstentum Mainz]
+Kurfürst, Kurfürstentum Mainz
 [Regierung zu Erfurt?],"Kurfürstentum Mainz, Regierung Erfurt?]"
 [Regierung zu Erfurt],"Kurfürstentum Mainz, Regierung Erfurt]"
 [Stadtgericht],"Kurfürstentum Mainz, Weltliches Gericht Erfurt]"
@@ -134,6 +135,7 @@ Erfurter Staat,Erfurter Staat
 Erfurter Staat],"Kurfürstentum, Mainz, Erfurter Staat]"
 "erzbischöfliche Pagerie ""Gregorianum""",Pagerie Gregorianum Salzburg
 Erzbistum Mainz,Erzbistum Mainz
+Erzbischof, Erzbistum Mainz
 "Erzbistum Mainz, Geistliches Gericht zu Erfurt","Erzbistum Mainz, Geistliches Gericht Erfurt"
 "Erzbistum Mainz, Stift St. Severi zu Erfurt",Kollegiatstift St. Severus Erfurt
 Erzbistum Regensburg,Erzbistum Regensburg
@@ -347,6 +349,7 @@ Kurerzkanzlerstaat],Fürstentum Regensburg]
 Kurfürst Friedrich August III.,Kurfürstentum Sachsen
 Kurfürst Maximilian III.,Kurfürst Maximilian III.
 Kurfürst von Mainz,Kurfürstentum Mainz
+des Kurfüsten,Kurfürstentum Mainz
 Kurfürst von Trier,"Kurfürstentum Trier, ###"
 "Kurfürstemtum Mainz, Amt Treffurt","Kurfürstemtum Mainz, Amt Treffurt"
 Kurfürstentum Köln,Kurfürstentum Köln
@@ -513,6 +516,12 @@ St. Alban,Ritterstift St. Alban Mainz
 St. Andreas-Schule,Andreanum Hildesheim
 St. Maria zu Erfurt,"Kollegiatstift St. Maria, Erfurt"
 St. Severus-Stift,Kollegiatstift St. Severus Erfurt
+Liebfrauen, Kollegiatstift Liebfrauen Mainz
+St. Mauritius, St. Mauritius Mainz
+St. Christoph, St. Christoph Mainz
+St. Peter, St. Peter Mainz
+St. Quintin und Blasius, St. Quintin und Blasius Mainz
+Heiligkreuz, Heiligkreuz Mainz
 Staatsrat,"Königreich Bayern, Staatsrat"
 Stadt Erfurt,Stadt Erfurt
 Stadt Köln,Stadt Köln
@@ -616,6 +625,10 @@ Universität Leipzig],Universität Leipzig]
 Universität Mainz,Universität Mainz
 "Universität Mainz, juristische Fakultät","Universität Mainz, Juristische Fakultät"
 Universität Mainz],Universität Mainz]
+Mainzer Universität,Universität Mainz
+der Theologischen Fakultät,"Universität Mainz, Theologische Fakultät"
+Theologische Fakultät,"Universität Mainz, Theologische Fakultät"
+Artistenfakultät,"Universität Mainz, Artistenfakultät"
 Universität Marburg,Universität Marburg
 Universität Marburg],Universität Marburg]
 Universität Marburg],Universität Marburg]
