@@ -42,7 +42,7 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 |------------|---------|------------|------------------|-------------------|-------------|-----------|------------|-----------|------------|---------------|------------|-----------|----------|-------------------|-------------------|-----------------|---------|--------|-------------|-----------|
 
 
-<p align="justify">Dieses Tabellenmodell folgt dem <a href="https://digikar.eu/wp-content/uploads/2021/09/Poster-Factoid-approach-e1634564760183.png">Factoid-Ansatz</a> und hat folgende Eigenschaften:</p>
+<p align="justify">Dieses Tabellenmodell folgt dem sog. <a href="https://www.kcl.ac.uk/factoid-prosopography/ontology">Factoid-Ansatz</a> und hat folgende Eigenschaften:</p>
 
 <ul>
 <li>hohe Quellennähe</li>
