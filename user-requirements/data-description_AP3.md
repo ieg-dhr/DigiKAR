@@ -61,11 +61,11 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 <li>Datenkonflikte werden durch bewusste Mehrfachnennung von Ereignissen abgebildet</li>
 </ul>
 
-Die Aufbereitung der Daten erfolgte ausschließlich via Excel und Python, um nicht von (kommerzieller) Datenbanksoftware abhängig zu sein und in allen Phasen des Projekts Roh-Daten zu generieren, die andere Projekte ebenfalls ohne Datenbanken nachnützen können (sog. No DB Modell):
+<p align="justify">Die Aufbereitung der Daten erfolgte ausschließlich via Excel und Python, um nicht von (kommerzieller) Datenbanksoftware abhängig zu sein und in allen Phasen des Projekts Roh-Daten zu generieren, die andere Projekte ebenfalls ohne Datenbanken nachnützen können (sog. <em>No DB Modell</em>):</p>
 
 <img alt="img no DB" src="../assets/NoDB.png" width="30%" style="float:left; padding:10px" target="_blank">
 
-<p align="justify">Auf ein graphisches Interface wurde in AP3 Kurmainz verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.<p>
+<p align="justify">Herausforderungen der Datenorganisation besonders in geisteswissenschaftlichen Projekten, die sich oft den Aufbau und Erhalt einer Datenbank nicht leisten können, hat Monika Barget in einem <a href="https://fasos-research.nl/mosahistoria/blog/">Beitrag für den Mosa Historia Blog der Geschichtsfakultät Maastricht</a> in englischer Sprache näher erklärt. Auf ein graphisches Interface wurde in AP3 Kurmainz verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.<p>
   
 <h3>Konkrete Schritte der Ontologie-Entwicklung (Best Practices)</h3>
 
