@@ -1,17 +1,7 @@
 ﻿place_old;place_new;comment_fs;suffix;community;region_1;region_2;continent;variant_1;variant_2;variant_3;Source
-"
-Bamberg
-";Bamberg;;;;;;Europe;;;;ProfAPI
-"
-Großherzogtum Hessen
-";"
-Großherzogtum Hessen
-";;;;;;Europe;;;;ProfAPI
-"
-Wien
-Reichsritterschaft
-rittermäßiger Reichsadelsstand
-";Wien;;;;;;Europe;;;;ProfAPI
+"Bamberg";Bamberg;;;;;;Europe;;;;ProfAPI
+"Großherzogtum Hessen";"Großherzogtum Hessen";;;;;;Europe;;;;ProfAPI
+"WienReichsritterschaftrittermäßiger Reichsadelsstand";Wien;;;;;;Europe;;;;ProfAPI
 ?;n/a;;;;;;Europe;;;;ProfAPI
 @;n/a;;;;;;Europe;;;;ProfAPI
 ‚berlingen;Überlingen;;;;;;Europe;;;;Universitätsmatrikeln
