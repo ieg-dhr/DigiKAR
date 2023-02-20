@@ -45,7 +45,7 @@ Das Problem, Unsicherheiten hier nicht explizit erfassen zu können, wurde durch
 
 Die Auswertung folge dann einem No DB Modell:
 
-<img scr="./gh-pages/assets/NoDB.png" width="50%">
+<img scr="../gh-pages/assets/NoDB.png" width="50%">
 
 Auf ein graphisches Interface wurde verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.
 
