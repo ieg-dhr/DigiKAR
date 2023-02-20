@@ -8,7 +8,7 @@ Zur Analyse (biographischer) Mobilität in Kurmainz haben wir die folgenden Quel
 - in XML strukturierte biographische Daten (Professoren-API der JGU)
 - gedruckte Quellen (Staatskalender)
 
-<img alt="img data overview" src="../assets/DataOverview.png" width="50%">
+<img alt="img data overview" src="../assets/DataOverview.png" width="50%" target="_blank">
 
 Für die Extraktion relevanter Daten aus diesen Quellen sind verschiedene Strategien erforderlich, die wir u.a. in den folgenden Beiträgen beschrieben haben:
 
@@ -45,7 +45,7 @@ Das Problem, Unsicherheiten hier nicht explizit erfassen zu können, wurde durch
 
 Die Auswertung folge dann einem No DB Modell:
 
-<img alt="img no DB" src="../assets/NoDB.png" width="30%" style="float:left; padding:10px">
+<img alt="img no DB" src="../assets/NoDB.png" width="30%" style="float:left; padding:10px" target="_blank">
 
 Auf ein graphisches Interface wurde verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.
 
@@ -57,8 +57,8 @@ Das Anlegen von Ontologie-Listen dieser Art ist einerseits eine wichtige Dokumen
 
 Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in DigiKAR wurde hier auch GITHUB geteilt:
 
-<a href="../main/OntologyFiles">Ontology Files</a>
+<a href="../main/OntologyFiles" target="_blank">Ontology Files</a>
 
 Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...
 
-<img alt="img DB review" src="../assets/DBReview.png" width="50%">
+<img alt="img DB review" src="../assets/DBReview.png" width="50%" target="_blank">
