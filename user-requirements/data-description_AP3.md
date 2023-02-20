@@ -2,7 +2,7 @@
 
 <p align="justify">Die Fallstudie Kurmainz zeigt beispielhaft, wie Mobilität und multiple Zugehörigkeiten von Personen (in diesem Fall: Funktionsträgern) aus diversen Daten modelliert werden können. Datenmodellierung ist eine strukturierte Aufbereitung von Daten in maschinenlesbare Form, die eine automatisierte Abfrage und Visualisierung der Daten (z.B. über Datenbankabfragen mit <a href="https://en.wikipedia.org/wiki/SQL">SQL</a> oder <a href="https://en.wikipedia.org/wiki/SPARQL">SPARQL</a>) erlaubt.</p>
 
-<h3>Zielsetzungen der Datenmodellierung in historischen Projekten</h3>
+<h3>Sinn und Zweck der Datenmodellierung in historischen Projekten</h3>
 
 <p align="justify">Idealerweise beginnt Datenmodellierung bereits mit der ersten Erfassung von Metadaten und setzt sich dann im gesammten Projekt fort. Im DigiKAR Projekt, das interdisziplinär angelegt ist und Forschende an verschiedenen Standorten verbindet, ist kontinuierliche und kollaborative Datenmodellierung auch Teil der Verständigung im Projekt. Damit verbunden ist auch die Zielsetzung, die Daten klar beschreiben und anderen Projekten zur Nachnutzung zur Verfügung stellen zu können.</p>
 
@@ -49,7 +49,7 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 <li>Redundanz (dieselben Ereignisse können abhängig von der Quellenlage mehrmals erfasst werden)</li>
 <li>vergleichweise wenige Tabellenspalten, dafür aber viele Zeilen (sh. Redundanz der Ereignisse)</li>
 <li>Ereignisorientierung</li>
-<li>Datenunsicherheit wird für alle Factoide angenommen und nur in wenigen Fällen zusätzlich ausgewiesen</li>
+<li>Datenunsicherheit wird für alle Factoide als hoch angenommen und nur in wenigen Fällen zusätzlich ausgewiesen</li>
 </ul>
 
 <p>Das Problem, Unsicherheiten nicht vollständig erfassen zu können, wurde durch die folgenden Ansätze gelöst:</p>
@@ -61,15 +61,15 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 <li>Datenkonflikte werden durch bewusste Mehrfachnennung von Ereignissen abgebildet</li>
 </ul>
 
-<p align="justify">Die Aufbereitung der Daten erfolgte ausschließlich via Excel und Python, um nicht von (kommerzieller) Datenbanksoftware abhängig zu sein und in allen Phasen des Projekts Roh-Daten zu generieren, die andere Projekte ebenfalls ohne Datenbanken nachnützen können (sog. <em>No DB Modell</em>):</p>
+<p align="justify">Die Aufbereitung der Daten erfolgte in AP3 ausschließlich via Excel und Python, um nicht von (kommerzieller) Datenbanksoftware abhängig zu sein und in allen Phasen des Projekts Roh-Daten zu generieren, die andere Projekte ebenfalls ohne Datenbanken nachnützen können (sog. <em>No DB Modell</em>):</p>
 
 <img alt="img no DB" src="../assets/NoDB.png" width="30%" style="float:left; padding:10px" target="_blank">
 
-<p align="justify">Herausforderungen der Datenorganisation besonders in geisteswissenschaftlichen Projekten, die sich oft den Aufbau und Erhalt einer Datenbank nicht leisten können, hat Monika Barget in einem <a href="https://fasos-research.nl/mosahistoria/blog/">Beitrag für den Mosa Historia Blog der Geschichtsfakultät Maastricht</a> in englischer Sprache näher erklärt. Auf ein graphisches Interface wurde in AP3 Kurmainz verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.<p>
+<p align="justify">Herausforderungen der Datenorganisation besonders in geisteswissenschaftlichen Projekten, die sich oft den Aufbau und Erhalt einer Datenbank nicht leisten können, hat Monika Barget in einem <a href="https://fasos-research.nl/mosahistoria/blog/">Beitrag für den Mosa Historia Blog der Geschichtsfakultät Maastricht</a> in englischer Sprache näher erklärt. In AP3 Kurmainz haben die erfassenden Historiker*innen vor allem Filter in Excel genutzt, um während der Erfassung Daten sortieren und selektieren zu können. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht und zeitweilig mit den Datentabellen in QGIS gearbeitet.<p>
   
 <h3>Konkrete Schritte der Ontologie-Entwicklung (Best Practices)</h3>
 
-<p align="justify">Um die in EXCEL grundständig geordneten Daten komplex (d.h. über mehrere Spalten hinweg) abfragen zu können, war allerdings über die Entwicklung eines Eingabeformats hinaus auch die Entwicklung eines kontrollierten Vokabulars und eine Hierarchisierung bzw. logische Zuordnung von Begriffen zueinander notwendig. Diese Zuordnung von Begriffen übernehmen sogenannte Ontologien, von denen CIDOC-CRM eine der in den Geisteswissenschaften geläufigste ist. Viele Begriffe, die für die Arbeit mit historischen Ortsdaten wichtig sind, sind bereits in CIDOC-CRM angelegt, weshalb diese Ontologie eine Basis bildet, die projektbezogen erweitert werden kann. Die Ontologie legt z.B. bereits fest, wie sich akademische Titel aufeinander beziehen: bevor man Professor wird, muss man promovieren etc.</p>
+<p align="justify">Um die in EXCEL grundständig geordneten Daten komplex (d.h. über mehrere Spalten hinweg) abfragen zu können, ist über die Entwicklung eines Eingabeformats hinaus auch die Entwicklung eines kontrollierten Vokabulars und eine Hierarchisierung bzw. logische Zuordnung von Begriffen zueinander notwendig. Diese Zuordnung von Begriffen übernehmen sogenannte Ontologien, von denen CIDOC-CRM eine der in den Geisteswissenschaften geläufigsten ist. Viele Begriffe, die für die Arbeit mit historischen Ortsdaten wichtig sind, sind bereits in CIDOC-CRM angelegt, weshalb diese Ontologie eine Basis bildet, die projektbezogen erweitert werden kann. Die Ontologie legt z.B. bereits fest, wie sich akademische Titel aufeinander beziehen: bevor man Professor wird, muss man promovieren etc.</p>
 
 <p align="justify">In der speziellen Arbeit in AP3 haben wir uns sowohl an CIDOC-CRM orientiert, als auch einige eigene Entscheidungen getroffen, um die Daten möglichst schlank und flexibel zu beschreiben. Entscheidungen haben wir in den sog. Ontologie-Listen des AP3 festgehalten. Dies sind Tabellen, die alle in den QUellen vorhandenen Originalbegriffe zunächst einer Kategorie Person, Ort, Institution, FUnktion oder Titel zuordnen und dann festlegen, auf welche normalisierte Bezeichnung diese Begriffe "gemappt" werden sollen. Es wurde auch in einer separaten Spalte dokumentiert, weshalb diese Entscheidungen getroffen wurden.</p>
 
@@ -84,11 +84,17 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
                                                                                  
 <h3>Empfehlungen für die Arbeitsteilung zwischen Historiker*innen und Informationswissenschaftler*innen bzw. DB-Entwickler*innen</h3>
 <strong>Tipps dazu, welche Modellierung auf der Erfassungsseite passieren sollte, und was aber die Abfrage geregelt werden kann, wenn es eine relationale DB und / oder eine Graph DB gibt.</strong>   
+                                               
+<ul>
+<li>"activity" Unterklassen für Ereignisse nur seitens der Abfragen?</li>  
+<li>Hierarchien von Institutionen nicht in den eigenen Daten modellieren, sondern über sekundäre Daten bei den Abfragen einbeziehen?</li>
+<li>Personen-Daten sekundär über GND und andere Normdaten "anreichern", ohne dies in den eigenen Daten zu modellieren?</li>
+<li>Zugehörigkeiten von Orten zu Pfarreien z.B. nicht explizit modellieren, sondern u.a. aber geographische Nähe abfragen?</li>
+<li>???</li>
+</ul>                                               
                                          
 <h3>Kritik verschiedener Datenbankmodelle für das Arbeiten mit historischen Ortsdaten</h3>
 <p>Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...</p>
 
 <img alt="img DB review" src="../assets/DBReview.png" width="50%" target="_blank"> 
-                                                                                 
-                                                                                 
-                                                                                 
+                                                                                                                                               
