@@ -62,8 +62,3 @@ Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in Digi
 Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...
 
 <img alt="img DB review" src="../assets/DBReview.png" width="50%">
-
-
-
-
-
