@@ -73,7 +73,7 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 
 <p align="justify">In der speziellen Arbeit in AP3 haben wir uns sowohl an CIDOC-CRM orientiert, als auch einige eigene Entscheidungen getroffen, um die Daten möglichst schlank und flexibel zu beschreiben. Entscheidungen haben wir in den sog. Ontologie-Listen des AP3 festgehalten. Dies sind Tabellen, die alle in den QUellen vorhandenen Originalbegriffe zunächst einer Kategorie Person, Ort, Institution, FUnktion oder Titel zuordnen und dann festlegen, auf welche normalisierte Bezeichnung diese Begriffe "gemappt" werden sollen. Es wurde auch in einer separaten Spalte dokumentiert, weshalb diese Entscheidungen getroffen wurden.</p>
 
-<p algin="justify>Das Anlegen von Ontologie-Listen dieser Art ist einerseits eine wichtige Dokumentation für die Transparenz des Forschungsprojekts, anderseits können diese Listen auch konkret zur Datenbereinigung von neu erfassten Daten dienen (vgl. dazu auch Video XXXXX).</p>
+<p algin="justify">Das Anlegen von Ontologie-Listen dieser Art ist einerseits eine wichtige Dokumentation für die Transparenz des Forschungsprojekts, anderseits können diese Listen auch konkret zur Datenbereinigung von neu erfassten Daten dienen (vgl. dazu auch Video XXXXX).</p>
 
 <p>Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in DigiKAR wurde hier auch GITHUB geteilt:</p>
 
