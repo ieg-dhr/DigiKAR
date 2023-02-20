@@ -55,7 +55,7 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 <p>Das Problem, Unsicherheiten nicht vollständig erfassen zu können, wurde durch die folgenden Ansätze gelöst:</p>
 
 <ul>
-<li>Teils Klammern und Fragezeichen als bewusste Ergänzung hinter Orten (zur Dokumentation der Konventionen sh. <a href="../main/OntologyFiles" target="_blank">Ontologie Master Datei mit ausführlichen Kommentaren von Florian Stabel</a>)</li>
+<li>Teils Klammern und Fragezeichen als bewusste Ergänzung hinter Orten (zur Dokumentation der Konventionen sh. <a href="https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles" target="_blank">Ontologie Master Datei mit ausführlichen Kommentaren von Florian Stabel</a>)</li>
 <li>viele Quellentypen (z.B. die Universitätsmatrikeln, die selbst eine sekundäre Quelle sind) werden generell als unsicher behandelt</li>
 <li>Hierarchie der Vertrauenswürdigkeit: höchste Qualität wird eigener Erfassung aus Primärquellen zugeschrieben</li>
 <li>Datenkonflikte werden durch bewusste Mehrfachnennung von Ereignissen abgebildet</li>
@@ -77,7 +77,7 @@ Für die Extraktion und Aufbereitung relevanter Daten aus diesen Quellen sind ve
 
 <p>Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in DigiKAR wurde hier auch GITHUB geteilt:</p>
 
-<a href="../main/OntologyFiles" target="_blank">Ontology Files</a>
+<a href="https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles" target="_blank">Ontology Files</a>
                                                                                  
 <h3>Empfehlungen für Historiker*innen für die grundlegende Datenerfassung ohne Datenbank</h3>
 <strong>TEXT</strong>   
