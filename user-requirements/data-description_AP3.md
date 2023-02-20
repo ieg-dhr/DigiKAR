@@ -8,7 +8,7 @@ Zur Analyse (biographischer) Mobilität in Kurmainz haben wir die folgenden Quel
 - in XML strukturierte biographische Daten (Professoren-API der JGU)
 - gedruckte Quellen (Staatskalender)
 
-<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/DataOverview.png" width="50%">
+<img scr="../assets/DataOverview.png" width="50%">
 
 Für die Extraktion relevanter Daten aus diesen Quellen sind verschiedene Strategien erforderlich, die wir u.a. in den folgenden Beiträgen beschrieben haben:
 
@@ -45,7 +45,7 @@ Das Problem, Unsicherheiten hier nicht explizit erfassen zu können, wurde durch
 
 Die Auswertung folge dann einem No DB Modell:
 
-<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/NoDB.png" width="50%">
+<img scr="./gh-pages/assets/NoDB.png" width="50%">
 
 Auf ein graphisches Interface wurde verzichtet, da die erfassenden Historiker vor allem Filter in Excel genutzt haben. In AP2 wurde hingegen stärker über die Erstellung einer Eingabemaske nachgedacht.
 
@@ -57,11 +57,11 @@ Das Anlegen von Ontologie-Listen dieser Art ist einerseits eine wichtige Dokumen
 
 Der aktuellste Stand der Ontologie-Listen für das Arbeitspaket Kurmainz in DigiKAR wurde hier auch GITHUB geteilt:
 
-<a href="https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles">Ontology Files</a>
+<a href="../main/OntologyFiles">Ontology Files</a>
 
 Insgesamt haben wir uns kritisch mit Datenbankmodellen befasst...
 
-<img scr="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/assets/DBReview.png" width="50%">
+<img scr="./gh-pages/assets/DBReview.png" width="50%">
 
 
 
