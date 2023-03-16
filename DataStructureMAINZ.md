@@ -88,13 +88,6 @@ The columns in this spreadsheet are:
 - Recherchehinweise	(not in original data model!)
 - ID_Factoid-List (not in original data model!)
 
-d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR):
-
-The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**.
-After the reconstruction of additional events, 2412 rows were added. This combined dataframe has **11428 entries**.
-
-The merging of duplicate events reduces that number to **9323**.
-
 *Overview of the individual tabs in the Staatskalender spreadsheet:*
 
 - FS0 = 4457 entries
@@ -104,6 +97,22 @@ The merging of duplicate events reduces that number to **9323**.
 - FS4 = 6540 entries
 
 Due to the large number of data rows per sheet and the redundant nature of the entries (functions enumerated per year), a vertical consolidation should be performed prior to a horizontal mapping of entities.
+
+*Important information to add to consolidated Staatskalender files:*
+
+- add exact name of data source
+- add missing person IDs (based on all existing person data)
+- carefully analyse cases where middle names might be missing (issue of person disambiguation)
+- watch out for entities that are currently NOT captured in the ontology lists (links below)
+
+![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
+
+d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR):
+
+The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**.
+After the reconstruction of additional events, 2412 rows were added. This combined dataframe has **11428 entries**.
+
+The merging of duplicate events reduces that number to **9323**.
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
