@@ -36,6 +36,8 @@ a) "Erfurt" data (2022-11-11, last updated on February 2nd, 2023):
 
 **5987 rows of data!**
 
+**Not all persons in this data set have been documented!**
+
 ![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
 
 b) "Jahns" data (2023-02-22, last updated February 22nd, 2023):
@@ -60,7 +62,7 @@ b) "Jahns" data (2023-02-22, last updated February 22nd, 2023):
 
 **2081 rows of data!**
 
-This spreadsheet has an additional tab with REL_PERS information to be included in final person list!
+This spreadsheet has an additional tab with REL_PERS information to be included in final person list. However, this list is not yet complete.
 
 c) **1756er Staatskalender META FINAL** (last updated January 27th, 2023):
 
@@ -119,3 +121,14 @@ The merging of duplicate events reduces that number to **9323**.
 3) **Ontology tables**
 
 For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles).
+
+4) **Data queries**
+
+- Which offices were often held in succession?
+- What are typical careers of people from place X or educated in place Y?
+
+
+5) **Challenges and limitations**
+
+- A more thorough analysis of the Staatskalender would require a full digital edition with annotations.
+- 
