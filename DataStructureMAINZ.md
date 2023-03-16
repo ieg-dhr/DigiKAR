@@ -132,6 +132,7 @@ For an overview of named entities in the Mainz work package and our data mapping
 - Which persons where involved in research, teaching, political activities etc.?
 - What are spatial hotspots of activity?
 - Can we already say something about institutional or familial networks?
+- In how far do our findings contradict or confirm existing qualitative research?
 
 5) **Challenges and limitations**
 
