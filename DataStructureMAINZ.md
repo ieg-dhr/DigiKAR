@@ -107,6 +107,8 @@ Due to the large number of data rows per sheet and the redundant nature of the e
 - carefully analyse cases where middle names might be missing (issue of person disambiguation)
 - watch out for entities that are currently NOT captured in the ontology lists (links below)
 
+The 1755 Staatskalender data will not be used in the current project phased.
+
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
 d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR):
@@ -126,9 +128,11 @@ For an overview of named entities in the Mainz work package and our data mapping
 
 - Which offices were often held in succession?
 - What are typical careers of people from place X or educated in place Y?
-
+- What is the ratio / distribution of clerical and temporal offices?
+- Which persons where involved in research, teaching, political activities etc.?
+- What are spatial hotspots of activity?
+- Can we already say something about institutional or familial networks?
 
 5) **Challenges and limitations**
 
 - A more thorough analysis of the Staatskalender would require a full digital edition with annotations.
-- 
