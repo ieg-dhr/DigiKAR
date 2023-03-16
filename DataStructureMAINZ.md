@@ -62,9 +62,9 @@ b) "Jahns" data (2023-02-22, last updated February 22nd, 2023):
 
 This spreadsheet has an additional tab with REL_PERS information to be included in final person list!
 
-c) **1756er Staatskalender** (last updated January 27th, 2023):
+c) **1756er Staatskalender META FINAL** (last updated January 27th, 2023):
 
-This spreadsheet contains 5 tabs with data. In some of the tabs, the "inst_name" column is named "H".
+This spreadsheet contains 5 tabs of biographic data. In some of the tabs, the "inst_name" column is named "H".
 This has been changed in the copy for data consolidation.
 
 The columns in this spreadsheet are:
@@ -88,12 +88,17 @@ The columns in this spreadsheet are:
 - Recherchehinweise	(not in original data model!)
 - ID_Factoid-List (not in original data model!)
 
+*Overview of the individual tabs in the Staatskalender spreadsheet:*
+
+FS0 = 4457 entries
+FS1 = 4910 entries
+FS2 = 5051 entries
+FS3 = 6602 entries
+FS4 = 6540 entries
+
+Due to the large number of data rows per sheet and the redundant nature of the entries (functions enumerated per year), a vertical consolidation should be performed prior to a horizontal mapping of entities.
+
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
-
-
-
-
-
 
 3) **Ontology tables**
 
