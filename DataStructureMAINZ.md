@@ -88,6 +88,13 @@ The columns in this spreadsheet are:
 - Recherchehinweise	(not in original data model!)
 - ID_Factoid-List (not in original data model!)
 
+d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR):
+
+The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**.
+After the reconstruction of additional events, 2412 rows were added. This combined dataframe has **11428 entries**.
+
+The merging of duplicate events reduces that number to **9323**.
+
 *Overview of the individual tabs in the Staatskalender spreadsheet:*
 
 - FS0 = 4457 entries
@@ -103,4 +110,3 @@ Due to the large number of data rows per sheet and the redundant nature of the e
 3) **Ontology tables**
 
 For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles).
-
