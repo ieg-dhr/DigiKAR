@@ -90,11 +90,11 @@ The columns in this spreadsheet are:
 
 *Overview of the individual tabs in the Staatskalender spreadsheet:*
 
-FS0 = 4457 entries
-FS1 = 4910 entries
-FS2 = 5051 entries
-FS3 = 6602 entries
-FS4 = 6540 entries
+- FS0 = 4457 entries
+- FS1 = 4910 entries
+- FS2 = 5051 entries
+- FS3 = 6602 entries
+- FS4 = 6540 entries
 
 Due to the large number of data rows per sheet and the redundant nature of the entries (functions enumerated per year), a vertical consolidation should be performed prior to a horizontal mapping of entities.
 
