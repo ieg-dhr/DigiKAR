@@ -140,7 +140,7 @@ For an overview of named entities in the Mainz work package and our data mapping
 
 6) **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
-So far, we have collected **48497 rows of events** (excluding reconstructed information). These events relate to **2567 unique person names** (prior to normalisation and ID-assignment).
+So far, we have collected **48497 rows of events** (excluding reconstructed information). These events relate to **2566 unique person names** (prior to normalisation and ID-assignment). The majority of persons have less than 10 recorded biographic events. For some individuals, we have more than 100 entries.
 
 |index|pers\_name|frequency|
 |---|---|---|
