@@ -1,74 +1,73 @@
-﻿event_old;event_type;pers_function;notes
-*;Geburt;Kind;
-+;Tod;Toter;
-Absetzung;Absetzung;;
-Amtsantritt;Amtsantritt;;
-Aufnahme;Aufnahme;;
-Aufschwörung;Aufschwörung;;
-begr.;Beisetzung;;
-berufen;Amtsantritt;;
-berufen;Amtsantritt;;
-Eheschließung;Eheschließung;Ehemann;
-heiratete;Eheschließung;Ehemann;
-oo;Eheschließung;Ehemann;
-Tochter des;Eheschließung;Ehemann;
-Eintritt;Eintritt;;
-Entlassung;Entlassung;;
-er war;Funktionsausübung;;
-erfolglose Bewerbung;erfolglose Bewerbung;;
-erhielt;Amtsantritt;;
-Ernennung;Ernennung;;
-Funktionsausübung;Funktionsausübung;;
-Geburt;Geburt;;
-Gesandtschaft;Gesandtschaft;;
-gewählt;Wahl;;
-ging er;Amtsantritt;;
-Graduation;Graduation;;
-Haft;Haft;Häftling;
-immatr.;Immatrikulation;Student;
-Immatrikulation;Immatrikulation;;
-immatrikuliert;Immatrikulation;;
-inne;Funktionsausübung;;
-inscribiert;Mitgliedschaft;;
-Introduktion;Introduktion;;
-kam;Amtsantritt;;
-Konversion;Konversion;;
-lehrte;Funktionsausübung;;
-Mitgliedschaft;Mitgliedschaft;;
-mittelbare Nobilitierung;mittelbare Nobilitierung;;
-Nobilitierung;Nobilitierung;;
-Ordination;Ordination;;
-Priesterweihe;Ordination;Priester;
-Pension;Pension;;
-Praktikum;Praktikum;;
-Präsentation;Präsentation;;
-Primäre Bildungsstation;Primäre Bildungsstation;;
-Privatunterricht;Privatunterricht;;
-Privilegierung;Privilegierung;;
-Promotion;Promotion;;
-promoviert;Promotion;;
-Prüfungsverfahren;Prüfungsverfahren;;
-Reise;Reise;;
-Rejektion;Rejektion;;
-Resignation;Resignation;;
-resignierte;Resignation;;
-Rezeption;Rezeption;;
-Rücktritt;Rücktritt;;
-Sonstiges;Sonstiges;;
-studiert;Studium;;
-Studium;Studium;;
-Suspendierung;Suspendierung;;
-Taufe;Taufe;;
-Tod;Tod;;
-übernahm;Amtsantritt;;
-Vereidigung;Vereidigung;;
-verweigerte;Widerstand;;
-Vokation;Vokation;;
-Wappenbesserung;Wappenbesserung;;
-war er;Funktionsausübung;;
-Wohnsitznahme;Wohnsitznahme;;
-zog er nach;Wohnsitznahme;;
-zugelassen;Zulassung;;
-Zulassung;Zulassung;;
-starb;Tod;Toter;
-verstarb;Tod;Toter;
+﻿event_old,event_type,pers_function,notes
+*,Geburt,Kind,
++,Tod,Toter,
+Absetzung,Absetzung,,
+Amtsantritt,Amtsantritt,,
+Aufnahme,Aufnahme,,
+Aufschwörung,Aufschwörung,,
+begr.,Beisetzung,,
+berufen,Amtsantritt,,
+berufen,Amtsantritt,,
+Eheschließung,Eheschließung,Ehemann,
+heiratete,Eheschließung,Ehemann,
+oo,Eheschließung,Ehemann,
+Tochter des,Eheschließung,Ehemann,
+Eintritt,Eintritt,,
+Entlassung,Entlassung,,
+er war,Funktionsausübung,,
+erfolglose Bewerbung,erfolglose Bewerbung,,
+erhielt,Amtsantritt,,
+Ernennung,Ernennung,,
+Funktionsausübung,Funktionsausübung,,
+Geburt,Geburt,,
+Gesandtschaft,Gesandtschaft,,
+gewählt,Wahl,,
+ging er,Amtsantritt,,
+Graduation,Graduation,Absolvent,
+Haft,Haft,Häftling,
+immatr.,Immatrikulation,[Student],
+Immatrikulation,Immatrikulation,[Student],
+immatrikuliert,Immatrikulation,[Student],
+inscribiert,Mitgliedschaft,Mitglied,
+Introduktion,Introduktion,Mitglied,
+Konversion,Konversion,Konvertit,
+lehrte,Funktionsausübung,Lehrer,
+Mitgliedschaft,Mitgliedschaft,Mitglied,
+mittelbare Nobilitierung,mittelbare Nobilitierung,Adeliger,
+Nobilitierung,Nobilitierung,Adeliger,
+Ordination,Ordination,Geistlicher,
+Priesterweihe,Ordination,Priester,
+Pension,Pension,Pensionist,
+Praktikum,Praktikum,Praktikant,
+Präsentation,Präsentation,Sonstiges,
+Primäre Bildungsstation,Primäre Bildungsstation,Schüler,
+Privatunterricht,Privatunterricht,Schüler,
+Privilegierung,Privilegierung,Privilegierter,
+Promotion,Promotion,Promovend,
+promoviert,Promotion,Promovend,
+Prüfungsverfahren,Prüfungsverfahren,Prüfling,
+Prüfung,Prüfung,Prüfling
+Reise,Reise,Reisender,
+Rejektion,Rejektion,Bewerber,
+Resignation,Resignation,Sonstiges,
+resignierte,Resignation,Sonstiges,
+Rezeption,Rezeption,Mitglied,
+Rücktritt,Rücktritt,Sonstiges,
+Sonstiges,Sonstiges,Sonstiges,
+studiert,Studium,Student,
+Studium,Studium,Student,
+Suspendierung,Suspendierung,Sonstiges,
+Taufe,Taufe,[Täufling],
+Tod,Tod,Toter,
+übernahm,Amtsantritt,,
+Vereidigung,Vereidigung,,
+verweigerte,Widerstand,,
+Vokation,Vokation,,
+Wappenbesserung,Wappenbesserung,,
+war er,Funktionsausübung,,
+Wohnsitznahme,Wohnsitznahme,Einwohner,
+zog er nach,Wohnsitznahme,Einwohner,
+zugelassen,Zulassung,[Student oder Lehrer],
+Zulassung,Zulassung,[Student oder Lehrer],
+starb,Tod,Toter,
+verstarb,Tod,Toter,
