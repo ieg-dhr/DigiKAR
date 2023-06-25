@@ -124,19 +124,6 @@ The merging of duplicate events reduces that number to **9323**.
 
 For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles).
 
-4) **Data queries**
-
-- Which offices were often held in succession?
-- What are typical careers of people from place X or educated in place Y?
-- What is the ratio / distribution of clerical and temporal offices?
-- Which persons where involved in research, teaching, political activities etc.?
-- What are spatial hotspots of activity?
-- Can we already say something about institutional or familial networks?
-- In how far do our findings contradict or confirm existing qualitative research?
-
-5) **Challenges and limitations**
-
-- A more thorough analysis of the Staatskalender would require a full digital edition with annotations.
 
 6) **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
