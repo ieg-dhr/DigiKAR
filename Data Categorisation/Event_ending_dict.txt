@@ -1,9 +1,11 @@
-{"Entlassung":"Funktionsausübung",
-                  "Suspendierung":"Funktionsausübung",
-                  "Absetzung":"Funktionsausübung",
-                  "Resignation":"Funktionsausübung",
-                  "Rücktritt":"Funktionsausübung",
-                  "Pensionierung":"Funktionsausübung",
-                  "Prüfungsverfahren":"Studium",
-                  "Absetzung":"Funktionsausübung",
-                  "Graduation":"Studium"}  
+{
+"Absetzung":"Funktionsausübung",
+"Absetzung":"Funktionsausübung",
+"Entlassung":"Funktionsausübung",
+"Graduation":"Studium",
+"Pensionierung":"Funktionsausübung",
+"Prüfungsverfahren":"Studium",
+"Resignation":"Funktionsausübung",
+"Rücktritt":"Funktionsausübung",
+"Suspendierung":"Funktionsausübung"
+}  
