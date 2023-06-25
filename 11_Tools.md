@@ -20,17 +20,15 @@ of Python programing language for geospatial data analysis."
 
 6) [Building elaborate visualisations with Vega-Lite](https://vega.github.io/vega-lite/examples/)
 
-"Vega-Lite - a high-level grammar for statistical graphics. Vega-Lite provides a higher-level grammar for visual analysis, comparable to ggplot or Tableau, that generates complete Vega specifications."
+"Vega-Lite is a high-level grammar for statistical graphics. Vega-Lite provides a higher-level grammar for visual analysis, comparable to ggplot or Tableau, that generates complete Vega specifications."
 
-This tool can support the most common visualisation types including interactive visualisations for data exploration:
+This tool can support the most common visualisation types, including interactive visualisations for data exploration.
 
-https://vega.github.io/vega-lite/examples/geo_rule.html
+**Examples:**
 
-"Rules (line segments) Connecting SEA to every Airport Reachable via Direct Flights
-Vega-Lite - a high-level grammar for statistical graphics. 
-Vega-Lite provides a higher-level grammar for visual analysis, comparable to ggplot or Tableau, that generates complete Vega specifications."
-
-Quantity aggregation: https://vega.github.io/vega-lite/tutorials/getting_started.html#data-transformation-aggregation
+- **Rules (line segments)**: [Connecting SEA to every Airport Reachable via Direct Flights](https://vega.github.io/vega-lite/examples/geo_rule.html)
+- **Quantity aggregation**: https://vega.github.io/vega-lite/tutorials/getting_started.html#data-transformation-aggregation
+- **Streamgraphs** might be a visualisation option for displaying the number of events per place and period.
 
 7) [SPARQLing Unicorn for explorative visualisations in QGIS](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
 
@@ -41,6 +39,3 @@ Quantity aggregation: https://vega.github.io/vega-lite/tutorials/getting_started
 
 8) 
 
-9) 
-
-Streamgraphs might be a visualisation option for displaying the number of events per place and period.
