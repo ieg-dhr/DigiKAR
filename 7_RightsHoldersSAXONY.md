@@ -24,8 +24,8 @@ Deshalb steht in den vorhandenen Datenbanken manchmal eine individuelle Person (
 
 Bsp. im RepSax: "von Taupaddel" vs. "Heinrich von Taupaddel" -- ersteres ist eine Instanz der Klasse 'Geschlecht', letzteres eine Instanz der Klasse 'Person'
 
-Ganz grundlegend gibt es halt unabhängig von einer genauen Klassifikation etc. einfach das Problem, dass die Angaben nicht einheitlich sind.
-(Problem bei Datenaufbereitung und -integration/-normalisierung)
+Ganz grundlegend gibt es unabhängig von einer genauen Klassifikation das Problem, dass die Angaben nicht einheitlich sind.
+**(Problem bei Datenaufbereitung und -integration/-normalisierung)**
 
 In Sachen Projektmanagement wäre es wohl gut, wenn diese Dinge als Issues im GitLab bearbeitet werden. 
 Auch wenn wir die einzigen sind, die das nutzen bzw. da reinschauen.
