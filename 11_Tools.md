@@ -32,4 +32,15 @@ Vega-Lite provides a higher-level grammar for visual analysis, comparable to ggp
 
 Quantity aggregation: https://vega.github.io/vega-lite/tutorials/getting_started.html#data-transformation-aggregation
 
+7) [SPARQLing Unicorn for explorative visualisations in QGIS](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
+
+"This plugin adds a GeoJSON layer from SPARQL enpoint queries. The necessary python libs are bundled with the plugin. qgisMinimumVersion = 3.0"
+
+- [Doxygen Documentation](https://sparqlunicorn.github.io/sparqlunicornGoesGIS/)
+- [Download plug-in](https://plugins.qgis.org/plugins/sparqlunicorn/)
+
+8) 
+
+9) 
+
 Streamgraphs might be a visualisation option for displaying the number of events per place and period.
