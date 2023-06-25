@@ -7,6 +7,15 @@
 <p><strong>FR: </strong>Scripts pour la gestion des données spatiales et biographiques dans le projet DigiKAR</p>
 
 <hr>
+<a href="https://ieg-dhr.github.io/DigiKAR/1_DataStructureMAINZ.html">Explanation of data structure in WP3 Mainz</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/3_PersonsMAINZ.html">Persons in Mainz data</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/4_DataQueriesMAINZ.html">Data queries in WP3 Mainz</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/5_DataStructureSAXONY.html">Explanation of data structure in WP2 Saxony</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/7_RightsHoldersSAXONY.html">Rights holders in Saxony</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/8_DataQueriesSAXONY.html">Data queries in WP2 Saxony</a><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/10_Links.html">Links to DigiKAR blogposts</a><br>
+
+<hr>
 
  <table width="100%">
   <tr>
