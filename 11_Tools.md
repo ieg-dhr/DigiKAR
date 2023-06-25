@@ -7,7 +7,7 @@ built on top of sparqlwrapper - GitHub - hassanhajj910/practicalsparql: package 
 
 Die Abfragen liegen dann praktischerweise in einzelnen Dateien in einem Ordner 'queries'. -- Kommt aufs GitLab.
 
-2) Workshop Link: https://chpollin.github.io/GM-DH/
+2) ChatGPT for the Digital Humanities: see workshop series on [prompt engineering](https://chpollin.github.io/GM-DH/)
 
 3) [Gicait for geospatial analysis with Python](https://github.com/gicait/python-for-geospatial-data-analysis)
 
