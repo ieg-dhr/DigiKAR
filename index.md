@@ -9,6 +9,7 @@
 
 <hr>
 <a href="https://ieg-dhr.github.io/DigiKAR/1_DataStructureMAINZ.html">Explanation of data structure in WP3 Mainz</a><br><br>
+<a href="https://ieg-dhr.github.io/DigiKAR/2_DataCategorisationMAINZ.html">Persons in Mainz data</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/3_PersonsMAINZ.html">Persons in Mainz data</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/4_DataQueriesMAINZ.html">Data queries in WP3 Mainz</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/5_DataStructureSAXONY.html">Explanation of data structure in WP2 Saxony</a><br><br>
