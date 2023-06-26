@@ -1,4 +1,3 @@
-{
 "Absetzung":50,
 "Amtsantritt":42,
 "Amtseinführung":41,
@@ -45,4 +44,3 @@
 "Wappenbesserung":20,
 "Wohnsitznahme": 10,
 "Zulassung":10
-}
