@@ -1,0 +1,172 @@
+[
+{
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/ef3b9664c36b7cc276df209286e7ba85",
+    "activity_concept_label": "Aufenthalt"
+  },
+  {
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/1889b0f9ab8b9dcce3edfa6dedaf34ab",
+    "activity_concept_label": "Flucht"
+  },
+  {
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/a63a2b4f3f66391b6e22b4d1e67c48d2",
+    "activity_concept_label": "Haft"
+  },
+  {
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/71d658aee6602a3c194bcd710b59adc2",
+    "activity_concept_label": "Konflikt"
+  },
+  {
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/37f3ba68cc51f8ac0146b1b4b021c0e5",
+    "activity_concept_label": "Konversion"
+  },
+  {
+    "activitly_level": "M",
+    "activity_concept": "http://digikar.eu/vocabulary/event/bf2129aece92fe202715f8914e9d9e95",
+    "activity_concept_label": "Sonstiges"
+  },
+  {
+    "activitly_level": "A",
+    "activity_concept": "http://digikar.eu/vocabulary/event/3c93775041afbd729312f200f96c4781",
+    "activity_concept_label": "Geburt"
+  },
+  {
+    "activitly_level": "A",
+    "activity_concept": "http://digikar.eu/vocabulary/event/f3ec39396e39185da3054827b0e0ec98",
+    "activity_concept_label": "Taufe"
+  },
+  {
+    "activitly_level": "B",
+    "activity_concept": "http://digikar.eu/vocabulary/event/4987e3c2a12154263677fb4f6eb0afc9",
+    "activity_concept_label": "PrimÃ¤re Bildungsstation"
+  },
+  {
+    "activitly_level": "C",
+    "activity_concept": "http://digikar.eu/vocabulary/event/fa9d9cbe9223d1ae3c0d8586443fd1f7",
+    "activity_concept_label": "Immatrikulation"
+  },
+  {
+    "activitly_level": "D",
+    "activity_concept": "http://digikar.eu/vocabulary/event/f6cd33b827fad9d8ab47d1b02e47a64e",
+    "activity_concept_label": "Studium"
+  },
+  {
+    "activitly_level": "E",
+    "activity_concept": "http://digikar.eu/vocabulary/event/ae63cef6a237f8f07fe3b5c420002f4b",
+    "activity_concept_label": "Zulassung"
+  },
+  {
+    "activitly_level": "F",
+    "activity_concept": "http://digikar.eu/vocabulary/event/99ee12eacf65225cf63c61d59c04cd95",
+    "activity_concept_label": "PrÃ¼fung"
+  },
+  {
+    "activitly_level": "G",
+    "activity_concept": "http://digikar.eu/vocabulary/event/d0a3b9ddaeddd7476aebcd52a83a4da8",
+    "activity_concept_label": "Graduation"
+  },
+  {
+    "activitly_level": "H",
+    "activity_concept": "http://digikar.eu/vocabulary/event/626a54d37d402d449d6d7541911e0952",
+    "activity_concept_label": "Promotion"
+  },
+  {
+    "activitly_level": "I",
+    "activity_concept": "http://digikar.eu/vocabulary/event/41dba178431bfa44c2c0adc86e6ea9b9",
+    "activity_concept_label": "Bewerbung"
+  },
+  {
+    "activitly_level": "I",
+    "activity_concept": "http://digikar.eu/vocabulary/event/4dc4dd21adbe6f95bf43f10d99e6ca86",
+    "activity_concept_label": "Erfolglose Bewerbung"
+  },
+  {
+    "activitly_level": "L",
+    "activity_concept": "http://digikar.eu/vocabulary/event/20bd6549127848132a47812fa0c37a46",
+    "activity_concept_label": "Mitgliedschaft"
+  },
+  {
+    "activitly_level": "J",
+    "activity_concept": "http://digikar.eu/vocabulary/event/aa71574355ff701dcc2b8b321789b044",
+    "activity_concept_label": "Ordination"
+  },
+  {
+    "activitly_level": "J",
+    "activity_concept": "http://digikar.eu/vocabulary/event/4586d5f1e55f2a469bf090a953f8a812",
+    "activity_concept_label": "Weihe"
+  },
+  {
+    "activitly_level": "K",
+    "activity_concept": "http://digikar.eu/vocabulary/event/50082d0fa8d25e715d4cc93252e84d93",
+    "activity_concept_label": "Eintritt"
+  },
+  {
+    "activitly_level": "K",
+    "activity_concept": "http://digikar.eu/vocabulary/event/246742071fd539d2e30bc1d5482329e3",
+    "activity_concept_label": "Rezeption"
+  },
+  {
+    "activitly_level": "N",
+    "activity_concept": "http://digikar.eu/vocabulary/event/b10362bb32b231ca569441831cbefd55",
+    "activity_concept_label": "Nicht-AusÃ¼bung"
+  },
+  {
+    "activitly_level": "O",
+    "activity_concept": "http://digikar.eu/vocabulary/event/889f4acd68e581454440a53a2c77100a",
+    "activity_concept_label": "Wohnsitznahme"
+  },
+  {
+    "activitly_level": "P",
+    "activity_concept": "http://digikar.eu/vocabulary/event/f9a2764690c3719cee747524e57b940d",
+    "activity_concept_label": "EheschlieÃŸung"
+  },
+  {
+    "activitly_level": "K",
+    "activity_concept": "http://digikar.eu/vocabulary/event/4d26c3e8f600a5fbd16aac91c5eed51f",
+    "activity_concept_label": "Amtsantritt"
+  },
+  {
+    "activitly_level": "Q",
+    "activity_concept": "http://digikar.eu/vocabulary/event/ea566a986e8278ccaaa0ed21c6f6b307",
+    "activity_concept_label": "FunktionsausÃ¼bung"
+  },
+  {
+    "activitly_level": "K",
+    "activity_concept": "http://digikar.eu/vocabulary/event/527258f117a88b1bc7e05b1957f571ef",
+    "activity_concept_label": "Wahl"
+  },
+  {
+    "activitly_level": "R",
+    "activity_concept": "http://digikar.eu/vocabulary/event/342b79c80ac36423c39f9db5ec26e426",
+    "activity_concept_label": "Entlassung"
+  },
+  {
+    "activitly_level": "S",
+    "activity_concept": "http://digikar.eu/vocabulary/event/0f2cb62948fc5e5515e5cf94224708c9",
+    "activity_concept_label": "Nobilitierung"
+  },
+  {
+    "activitly_level": "S",
+    "activity_concept": "http://digikar.eu/vocabulary/event/812cd87b5678666c74de2736cbe416d7",
+    "activity_concept_label": "Verleihung eines Ehrentitels"
+  },
+  {
+    "activitly_level": "T",
+    "activity_concept": "http://digikar.eu/vocabulary/event/d6a0be15cbf0231917aecc53407d7cf2",
+    "activity_concept_label": "Resignation"
+  },
+  {
+    "activitly_level": "Y",
+    "activity_concept": "http://digikar.eu/vocabulary/event/d5cf0db546ff63f90be78fbbd35b1a59",
+    "activity_concept_label": "Tod"
+  },
+  {
+    "activitly_level": "Z",
+    "activity_concept": "http://digikar.eu/vocabulary/event/ebaf88e8aeb9c1c57b7f77b41258e64f",
+    "activity_concept_label": "Beisetzung"
+  }
+]
