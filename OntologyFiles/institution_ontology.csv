@@ -16,7 +16,7 @@ Zentraldepartement,Zentraldepartement
 böhmisch-österreichische Hofkanzlei,"Königreich Böhmen, Hofkanzlei / Erzherzogtum Österreich, Hofkanzlei"
 "Erfurter Staat, Kommerziendeputation","Kurfürstentum Mainz, Kommerziendeputation Erfurt"
 "Erzbistum Mainz, Stift B.M.V. zu Erfurt",Kollegiatstift St. Maria Erfurt
-evangelisch,*
+evangelisch,"Kirche"
 Fürstbischof von Augsburg,Fürstbischof von Augsburg
 Philipp Wilhelm von Boineburg #233,"Person, Philipp Wilhelm von Boineburg #233"
 Vereinigte K.K. Hofkanzlei,"Kaiserreich Österreich, Vereinigte K.K. Hofkanzlei"
@@ -141,14 +141,14 @@ Erzbischof, Erzbistum Mainz
 Erzbistum Regensburg,Erzbistum Regensburg
 Erzbistum Regensburg?],Erzbistum Regensburg?]
 Erzbistum Regensburg],Erzbistum Regensburg]
-evangelische Kirche,evangelische Kirche
+evangelische Kirche,Evangelische Kirche
 Evangelischer Rat,Evangelisches Ministerium Erfurt
 Evangelisches Ministerium,Evangelisches Ministerium Erfurt
 Evangelisches Ministerium],Evangelisches Ministerium Erfurt]
 Evangelisches Ratsgymnasium,Evangelisches Ratsgymnasium
 Evangelisches Weisenhaus,Evangelisches Weisenhaus Erfurt
-evangelisch-lutherisch,@
-evangelisch-reformiert,@
+evangelisch-lutherisch,Evangelische Kirche
+evangelisch-reformiert,Evangelische Kirche
 Flößholzamt,Kurfürstentum Mainz
 Franckesches Pädagogium,Franckesches Pädagogium Halle
 Fränkische Kreistage,"Reichskreis, Franken, Kreistag"
