@@ -1,0 +1,13 @@
+SELECT ?item ?itemLabel ?GeoNamesID ?country ?terrain ?date ?named
+
+  WHERE {
+  ?item wdt:P17 wd:Q12548.
+ 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  
+  OPTIONAL {?item wdt:P1566 ?GeoNamesID.
+  ?item wdt:P17 ?country.          
+  ?item wdt:P706 ?terrain.
+  ?item wdt:P571 ?date.
+  ?item wdt:P138 ?named.}
+}
