@@ -4,7 +4,7 @@ The challenges of working with (German and Latinised) person names in DigiKAR ha
 In the process, we first experimented with a Python script that did the following:
 
 1) Read all names from PersonList into memory
-2) Ask user to enter a name
+2) Ask the user to enter a name
 3) Search for the name in PersonList
 4) Ask for confirmation
 5) On confirmation, match all variants of the name with EventList persons
