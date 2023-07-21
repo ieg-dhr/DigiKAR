@@ -230,7 +230,33 @@ Das mache ich heute Abend noch!
 
 Außerdem schaue ich mir bis morgen die aktuelle 1756er Sonde von Florian an und schaue, was ich da per Skript machen kann. Mittlerweile geht das Coden immer schneller, weil ich alle Mainz-typischen Ausnahmen nun schon einmal abgefrühstückt habe...
 
+Guten Morgen zusammen,
+ich hoffe, ihr hattet gestern noch eine produktive Sitzung und seid voran gekommen?
 
+Ich komme nun dazu, deine (Monika) Listen durchzusehen, und habe folgendes Feedback:
+1.)  Ja, die Rohdaten geben es her, dass diese Personen Brüder waren. Ich wundere mich allerdings etwas, da diese Beziehungen auch Bei den Streckers bin ich mir da aufgrund der Forschungsliteratur sehr sicher. Die beiden Meyers machen mich aber misstrauisch. Das ist so ein Fall, wo die Identifizierung der Person nicht ganz klar ist. Es gibt davon in den Erfurter Daten noch weit schlimmere Fälle. Definitiv stimmen auch nicht alle per ID vorgenommenen Zuordnungen. Hier wäre es notwendig, die Daten in der Gesamtsicht zu betrachten. Im Zweifelsfall muss man von zwei unterschiedlichen Personen ausgehen. Und wahrscheinlich ist die Errechnung von Verwandtschaften erst nach so einer Bereinigung sinnvoll? Umgekehrt wäre es für den Überblick hilfreich, die Beziehungen explizit zu haben...(Btw.: Geschwister explizit zu haben ist für unsere Fragestellung (s.u.) gar nicht so entscheidend.)
+2.) https://mattermost.gitlab.rlp.net/digikar/pl/tew65cssu7ysbrzqk5f93id1oh Auch bei den Schwestern passt das von den Rohdaten her.
+Zwischenfazit: Das Skript scheint mir zu funktionieren.
+3.) https://mattermost.gitlab.rlp.net/digikar/pl/ac9iq7z17iri9n1nmqc8ap48qr Großelternbeziehungen gecheckt und kommentiert, siehe "GRANDPARENTS_GRANDCHILDREN_FS.xlsx" a.a.O. (Hier sind mir Fälle vor Augen getreten, bei denen wir namensgleiche Personen haben, die ich aber schon jetzt disambiuieren kann und verschiedene IDs vergeben habe. Das erscheint mir relevant, weil es problematisch sein könnte, wenn das Skript v.a. über die Namensstrings arbeitet (?).) Wäre es auch möglich, dass das Skript ausgibt, über welche Schiene (mütterlicher- oder väterlicherseits) die Beziehung hergestellt wurde?
+
+Soweit ich das sehe, sind in der aktuellen Liste die Zeilen etwas verrutscht (jedenfalls stimmen die Nummern der Liste nicht mit denen von dir oben geposteten überein). Und es wurden die von mir vergebenen IDs nur sporadisch ausgegeben? IDs wären aber zur Orientierung hilfreich!
+
+Bei einem kursorischen Check ist mir außerdem aufgefallen, dass nicht alle (?) Beziehungen auch invertiert wurden. Exemplarische habe ich dir mal Jost Brochhausen markiert. Die Inversen, die vorliegen, sind auch in den Rohdaten explizit. 
+Ich habe in der ersten Liste außerdem Fälle mit leerer Beziehungsspalte oder sinnlosen Angaben entdeckt. Du findest sie in der Liste "Parents-and-siblings_fs.xlsx" in deinem Output-Ordner gelb markiert. Ich nehme an, dass sich dahinter Tippfehler verbergen. Für sowas wäre es generell hilfreich, immer die ID des Quellenfactoids mit reinzuschreiben (ggf. mehrere, bei gelöschten doppelten Informationen?). Weitere Fälle mit nur sporadisch verwendeten (wahrscheinlich künftig irrelevanten relations-types sowie Tippefehler habe ich ebenfalls (orange) markiert.
+
+Bzgl. Geschlecht kann ich jederzeit mit rel. kleinem Aufwand auch eine extra-Spalte mit expliziter Info einfügen, falls wir das brauchen. Für manche Abfragen könnte das durchaus hilfreich sein (s.u.).
+
+Allgemein stellt sich mir hinsichtlich der Personenbeziehungen auch die Frage, wann und wie wir den "Datenmüll" wieder rauswerfen/nicht abfragen (?). In der Liste sind ja durchaus Personen, die uns nicht (mehr) interessieren oder die nur als Bindeglied (insb. die Frauen) von Interesse sind. Die Kernidee war ja, grundsätzlich einen kleinen Personenkreis von Regierungs- und Kammerräten (im Erfurter Fall) in den Mittelpunkt zu stellen und für diese zusätzlich zu gucken, welche Lebensstationen die Väter, Schwieger- und Großväter sowie Schwiegersöhne und Söhne aufwiesen, um generationenübergreifende Muster zu explorieren. Ich sehe aber zunehmend, dass das aufgrund des exponentiell wachsenden Recherchebedarfs so nicht zu leisten sein wird und wir uns mit dieser Fragestellung evtl. auf Jahns beschränken (wo wir die Daten quasi "fertig recherchiert") vorliegen haben und "nur noch" erfassen müssen. So oder so, bedarf es einer Möglichkeit, die "pois" herauszufiltern und automatische Berechnungen auf bestimmte Personen zu beschränken, um den Kontrollbedarf zu minimieren!? Und auch das Datenmodell sollte nicht nur dir Großväter, Väter und Söhne, sondern auch die Schwiegersöhne und Schiwegerväter abdecken!
+
+Die Profdaten Version 10 habe ich auch überflogen. Das sieht mir auf den ersten Blick mal ganz gut aus, jedenfalls so, dass man den Feinschliff ganz gut in der Liste erarbeiten kann. Voraussetzung ist aber, wenn ich das noch richtig im Kopf habe, die initiale Erstellung der Ontologielisten!?
+Bzgl. Ortsdaten: Ich halte, wie gesagt, die Differenzierung von Orten unterhalb der Siedlungsgemeinde für unsere Fragestellung nicht für notwendig - eher für abträglich. Die Differenzierung von geistlich/weltlich sehe ich weniger im geographischen Bezugsort als in den Funktionen/Institutionen (bzw. deren Klassifizierung).
+
+Eine andere Baustelle, die ich im Hinblick auf die ontologische Bereinigung schon länger im Hinterkopf habe und deren Wichtigkeit sich gestern im Projekt noch einmal gezeigt hat, ist die Vereinheitlichung der Events und die Explikation von deren Beziehungen. Aktuell ist es so, dass bspw. ein Studium als solches mit oder ohne bekannte Anfangs- und Enddaten erfasst sein kann (andauerndes Ereignis), aber auch als Immatrikulation (punktuelles Ereignis = Studium bei dem nur Anfangsdatum bekannt). Da habe ich mich bisher weitgehend an die Vorlagen gehalten, bisweilen aber auch nach Möglichkeit in Richtung von andauernden Ereignissen interpretiert, weil dies a) die Lebensstationen sind, die mich interessieren (punktuelle Ereignisse definieren diese ja erst), b) ich damit mehr Einheitlichkeit und damit wiederum schon jetzt c) einen besseren Überblick habe (denn damit ist das Hantieren mit Excel-Filtern leichter). Solche Beziehungen müssen wir m.E. explizit definieren und später entsprechend auch Events aus den Rohdaten per Skript erstellen, um auf einer Abfrageebene dieselben Dinge miteinander zu vergleichen. (Den Studis waren Lebensstationen "verloren gegangen", weil sie teils nur "Aufschwörung", teils mit "Wahl" operierten...). 
+
+Show less
+mobarget
+July 23, 2022
+1089	Maria
 
 **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
