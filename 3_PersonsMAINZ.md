@@ -1,3 +1,20 @@
+**Process of person identification and disambiguation**
+
+The challenges of working with (German and Latinised) person names in DigiKAR has been described in one of my blog post.
+In the process, we first experimented with a Python script that did the following:
+
+1) Read all names from PersonList into memory
+2) Ask user to enter a name
+3) Search for the name in PersonList
+4) Ask for confirmation
+5) On confirmation, match all variants of the name with EventList persons
+6) Show complete matches with all event info
+7) Search for similar names on user request
+
+To search for similarities, we calculated the name strings' Cosine Similarity, and specified, for example, that they must be at least 80% to consider a match. But if only 1st name and surname and once 10 first names of the person are given, the Similarity is far below that. If we assume that at least one last name is always present, and that it must be the last word in an n-gram, then one could match only the last names and introduce a spelling tolerance of 0.8?  Based on this, one can make a person ambiguation script that can put life events into relation.
+
+If father and son have the same name and the year of birth is known for both, then we can assess whether a study period in the year YYYY concerns the father or the son. But here I still have the question of whether we can assign unique norm names or whether we can only work with the IDs. In the latter case, they must also be included in the factoid list..... In the first case, we could simply normalise the factoid list regularly and work only with the names.
+
 **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
 So far, we have collected **48497 rows of events** (excluding reconstructed information). These events relate to **2566 person names** (prior to normalisation, disambiguation and ID-assignment). The majority of persons have less than 10 recorded biographic events. For some individuals, we have more than 100 entries (resulting from repeated mentions in annual lists of office holders).
