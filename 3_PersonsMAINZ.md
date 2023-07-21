@@ -15,6 +15,223 @@ To search for similarities, we calculated the name strings' Cosine Similarity, a
 
 If father and son have the same name and the year of birth is known for both, then we can assess whether a study period in the year YYYY concerns the father or the son. But here I still have the question of whether we can assign unique norm names or whether we can only work with the IDs. In the latter case, they must also be included in the factoid list..... In the first case, we could simply normalise the factoid list regularly and work only with the names.
 
+**Working with related persons**
+
+Kurzes Update, dass das Skript "Relationship Tracer" nun fast fertig ist. Ich habe noch ein Format-Problem mit Tuples an einer Stelle im Code, habe das aber schon bei Stackoverflow eingestellt.
+
+Ich arbeite zwischenzeitlich an den Prof-Daten weiter.
+
+
+mobarget
+5:58 PM
+@fstabel 
+
+Wenn du Zeit hast, könntest du mal gucken, ob diese Herren hier wirklich Brüder sind:
+
+1048	Karl Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
+1049	Alexander Bernhard Strecker	sibling	Karl Strecker	unknown	no info
+1050	Karl Strecker	sibling	Karl Friedrich Strecker	unknown	no info
+1051	Karl Friedrich Strecker	sibling	Karl Strecker	unknown	no info
+1052	Karl Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
+1053	Ernst Wilhelm Strecker	sibling	Karl Strecker	unknown	no info
+1054	Alexander Bernhard Strecker	sibling	Karl Friedrich Strecker	unknown	no info
+1055	Karl Friedrich Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
+1056	Alexander Bernhard Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
+1057	Ernst Wilhelm Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
+1058	Karl Friedrich Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
+1059	Ernst Wilhelm Strecker	sibling	Karl Friedrich Strecker	unknown	no info
+1060	Joachim Andreas Meyer	sibling	Johann Andreas Meyer	unknown	no info
+1061	Johann Andreas Meyer	sibling	Joachim Andreas Meyer	unknown	no info
+Show more
+Zeile 1061 muss natürlich noch raus...
+
+Was ich gemacht habe:
+
+Skript sucht nach allen Elternbeziehungen und konstruiert daraus die Gruppe der Geschwister.
+
+Dann erstellt das Skript aus der Liste der Kinder alle möglichen Geschwisterpaare (im Moment auch mit der Person selbst), die dann entsprechend in EXCEL geschrieben werden.
+
+Analog rekonsturiere ich Beziehungen zu den Großeltern.
+
+Ich glaube, diese beiden Ebenen reichen als EXPLIZITE Ebenen aus.
+
+Cousins etc. könnte man einfacher über Ingos DB abfragen.
+
+Hier noch ein paar Schwestern zum Test:
+
+1089	Maria Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
+1090	Theresia Rotermund	sibling	Maria Josepha Rotermund	unknown	no info
+1091	Maria Josepha Rotermund	sibling	Sophia Josepha Rotermund	unknown	no info
+1092	Sophia Josepha Rotermund	sibling	Maria Josepha Rotermund	unknown	no info
+1093	Theresia Rotermund	sibling	Sophia Josepha Rotermund	unknown	no info
+1094	Sophia Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
+1095	Susanna Christina Weltz	sibling	Friederike Eleonore Weltz	unknown	no info
+1096	Friederike Eleonore Weltz	sibling	Susanna Christina Weltz	unknown	no info
+Show more
+Leider kann ich Schwestern und Brüder nicht ohne massiven Mehraufwand unterscheiden, aber das Geschlecht sollte dann eh für jede Person individuell erfasst sein.
+
+
+mobarget
+6:53 PM
+Die derzeitige Verwandschaftsrekonstruktion zur Erfurt-Sonde (Testdatei mit Stand April!) liegt in \Seafile\DigiKAR_DATEN\Python\Results und heißt "Parents-and-siblings":  hier sind sowohl Rel_Pers Beziehungen explizit gemacht, als auch neue Verwandtschaften (Eltern und Geschwister!) errechnet. Die Großeltern integriere ich, wenn ich Stackoverflow Feedback habe. Wenn Eltern und Geschwister RICHTIG erfasst sind, dann können wir das Skript später über beliebig viele Factoid Listen gleichzeitig laufen lassen, um darauf Angaben für die Personen-Listen in der Datenbank zu generieren.
+
+
+if
+7:13 PM
+Ui, super -- die Verwandschaftsrekonstruktion schaue ich mir gleich mal an, um die in die RDF-Datenbank zu bringen.
+
+
+mobarget
+7:59 PM
+Also, die würden wir vorher umschreiben, in eine flache Personenliste.
+
+Pro Person dann folgende Infos:
+
+Name
+GND ID
+ggf. andere IDs?
+interne Projekt ID von @fstabel
+Vater
+Mutter
+Großvater via Mutter
+Großmutter via Mutter
+Großvater via Vater
+Großmutter via Vater
+alle bekannten Geschwister
+
+if
+8:01 PM
+Die Einträge/Zeilen mit 'parent' oder 'sibling' in der Spalte 'Rel_type' sind berechnet -- die anderen ('Ehefrau' oder auch sowas wie 'Ausbilder', 'Pate', usw.) sind vorgebenen Beziehungstypen.
+
+
+mobarget
+8:02 PM
+Die dt. Spalten habe ich aus "Rel_Pers" rausgefischt und invertiert.
+
+Also um jeweils auch die andere Seite der Beziehung zu haben.
+
+Die englischen Spalten sind rein errechnet, ja.
+
+
+if
+8:04 PM
+Schreibst Du in die Excel-Datei Parents-and-siblings.xlsx ggf. noch die ID der Person (Name in Spalte 'Person')?
+
+
+mobarget
+8:05 PM
+Das würde ich dann in der finalen Person-Datei machen.
+
+Macht in der Beziehungstabelle nicht so viel Sinn.
+
+Zumal Florian da teils auch noch korrigieren muss, so weit ich weiß.
+
+
+if
+8:10 PM
+Hm, die Personen (die Erfurter) können anscheinend auch an den eindeutigen Namen identifiziert werden!?
+
+
+mobarget
+8:40 PM
+Ja, weitgehend.
+
+Wir brauchen natürlich ein ID-Mapping.
+
+Aber das sollten wir machen, wenn wir alle Sonden gleichzeitig eingelesen haben und dann ggf. doppelte Namen finden können. Florian hatte da schon mal eine ID-Liste begonnen, die würde ich damit noch kombinieren...
+
+Das Tuple Problem habe ich gelöst.
+
+BITTE AN @fstabel : in \Seafile\DigiKAR_DATEN\Python\Results liegt nun auch eine Datei "GRANDPARENTS_GRANDCHILDREN", wo man Ende nun verschiedene Großelternbeziehungen aus der Erfurt-Sonde erfasst sind. Da wo direkt "grandchild" steht, gab es eine bekannte Großelternbeziehung. Da wo "grandparent-gandchild" steht, habe ich errechnet, aber etwas den Faden verloren, weshalb ich nicht sicher bin, ob das nun Großeltern, Enkel oder sogar beide Arten von Beziehungen sind.
+
+Da brauche ich bitte Rückmeldung, was passiert ist, damit ich das im Skript deutlich machen oder verbessern kann!!
+
+Den aktuellen Code zum Relationship Tracer gibt es hier: 
+
+https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py
+
+GitHub
+DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
+scripts for managing spatial and biographic data in the DigiKAR project - DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
+
+DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
+
+mobarget
+8:58 PM
+Meine Input-Datei war diese
+
+FactoidList_Erfassung_Erfurt_Master_2022-04-18.xlsx
+XLSX302KB
+Aktuellere Dateien dürfen gerne in \Seafile\DigiKAR_DATEN\Python\InputLists abgelegt werden, dann kann ich weitere Testläufe machen! :slightly_smiling_face:
+
+July 24, 2022
+
+fstabel
+11:58 AM
+Moinmoin und danke. Ich werds mir bei Gelegenheit mal anschauen, wird aber frühestens Donnerstag was.
+
+
+mobarget
+12:45 PM
+Was wir aber in Leipzig anschauen sollten:
+
+Auswirkungen der Personendaten auf Ingos Modelle.
+
+Weiter oben hatte Ingo mal vorgesehen, Rollen etc. an die Person anzubinden. Die ändern sich ja aber ständig.
+
+Also sollten wir streng im Personen-Modell NUR Überzeitliches erfassen, der Rest ist Factoid.
+
+
+if
+12:49 PM
+Die zeitabhängigen Rollen bzw. Tätigkeiten (ggf. mit Information über Rollen) sollten aber auch mit dem Datenmodell modelliert werden können -- also quasi als Faktoid: https://gitlab.rlp.net/digikar/ap-4-datenmodellierung/-/blob/main/OntologyDesignPatterns/dmlo-bio_shacl.pdf
+
+GitLab
+Sign in · GitLab
+Welcome to gitlab.rlp.net
+Sign in · GitLab
+Hier gibt's übrigens eine Auswahl der wichtigsten bzw. grundlegenden Competency Questions: https://gitlab.rlp.net/digikar/ap-4-datenmodellierung/-/blob/main/CompetencyQuestions/cqs.md
+
+GitLab
+Sign in · GitLab
+Welcome to gitlab.rlp.net
+Sign in · GitLab
+Die kommen dann teilweise auch in http://65.21.245.157:10214/resource/:EntwurfsmusterAP3 und http://65.21.245.157:10214/resource/:EntwurfsmusterAP2 [Login: 'admin' , Passwort 'admin'} vor ...
+
+
+mobarget
+12:52 PM
+Ja, klar, am Ende soll man das natürlich mit der Person "verlinken" können. Ich schaue da, wie gesagt, heute rein. Nur die Organisation der Spreadsheets muss die Trennung klar sein.
+
+
+mobarget
+1:51 PM
+@if and @fstabel :
+
+Das Neuauslesen der Prof API ist auch fertig und liegt im "Results" Ordner.
+
+Version 9!
+
+ProfEvents_v9.xlsx
+XLSX415KB
+Änderungen gegenüber früheren Versionen:
+
+1) Daten sind an unser Format angepasst: also bei vagen Jahresangaben nur YYYY statt YYYY-MM-DD.
+
+2) Ich habe die Orte aus dem Entity-Counter genutzt, um bei fehlenden Orten im XML Orte indirekt aus den Institutionen zu erstellen.
+
+Bitte mal Rückmeldung geben, ob es Sinn macht, bei Mainzer Hofämtern das kurfürstliche Schloss anzugeben.
+
+Das habe ich jetzt analog zu den Erfahrungen im Projektseminar so gemacht.
+
+Eine verbesserte Ortserkennung kann noch dadurch erreicht werden, dass ich die bereits in der API vorhandenen Geburts- und Sterbeorte mit den Entity Counter Orten verbinde.
+
+Das mache ich heute Abend noch!
+
+Außerdem schaue ich mir bis morgen die aktuelle 1756er Sonde von Florian an und schaue, was ich da per Skript machen kann. Mittlerweile geht das Coden immer schneller, weil ich alle Mainz-typischen Ausnahmen nun schon einmal abgefrühstückt habe...
+
+
+
 **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
 So far, we have collected **48497 rows of events** (excluding reconstructed information). These events relate to **2566 person names** (prior to normalisation, disambiguation and ID-assignment). The majority of persons have less than 10 recorded biographic events. For some individuals, we have more than 100 entries (resulting from repeated mentions in annual lists of office holders).
