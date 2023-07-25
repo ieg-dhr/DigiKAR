@@ -1,9 +1,9 @@
 SELECT DISTINCT ?item ?itemLabel ?country ?countryLabel ?territory ?territoryLabel
 WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
-  ?item ?prop wd:Q2766547.
+  BIND ( wd:Q2766547 AS ?item )
   OPTIONAL {
-    ?item wdt:P17 ?countryLabel.   
-    ?item wdt:P131 ?territoryLabel.
+    wd:Q2766547 wdt:P17 ?country .
+    wd:Q2766547 wdt:P131 ?territory .
   }
 }
