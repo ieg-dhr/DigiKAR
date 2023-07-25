@@ -1,9 +1,4 @@
 SELECT DISTINCT ?item ?itemLabel WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "de". }
-  {
-    SELECT DISTINCT ?item WHERE {
-      ?item p:P1566 ?statement0.
-      ?statement0 (ps:P1566) "2874225".
-    }
-  }
+  ?item p:P1566/ps:P1566 "%s".
 }
