@@ -489,7 +489,7 @@
 495,Venrath,2817624
 496,Venningen,2817627
 497,Vendersheim,2817659
-498,Velmede, Bestwig,2817684
+498,Velmede / Bestwig,2817684
 499,Veitshöchheim,2817733
 500,Vechta,2817812
 501,Valwig,2817894
@@ -534,11 +534,11 @@
 541,Torgau,2821807
 542,Tonndorf,2821892
 543,Tonndorf,2821892
-544,Töngeshof, Mainz,2821905
-545,Töngeshof, Mainz,2821905
-546,Töngeshof, Mainz,2821905
-547,Töngeshof, Mainz,2821905
-548,Töngeshof, Mainz,2821905
+544,Töngeshof/ Mainz,2821905
+545,Töngeshof/ Mainz,2821905
+546,Töngeshof/ Mainz,2821905
+547,Töngeshof/ Mainz,2821905
+548,Töngeshof/ Mainz,2821905
 549,Todtnau,2821975
 550,Thulendorf,2822599
 551,Teuschnitz,2823245
@@ -560,10 +560,10 @@
 567,Tauberbischofsheim,2823854
 568,Tauberbischofsheim,2823854
 569,Tauberbischofsheim,2823854
-570,Tambach, Thüringer Wald,2824285
+570,Tambach/ Thüringer Wald,2824285
 571,Tambach-Dietharz,2824285
-572,Sulzheim, Rheinland-Pfalz,2824730
-573,Sulzheim, Rheinland-Pfalz,2824730
+572,Sulzheim/ Rheinland-Pfalz,2824730
+573,Sulzheim/ Rheinland-Pfalz,2824730
 574,Saar,2824841
 575,Stuttgart,2825297
 576,Stuttgart,2825297
@@ -680,8 +680,8 @@
 690,Seligenstadt,2833242
 691,Seligenstadt,2833242
 692,Seligenstadt,2833242
-693,Seibelsdorf, Antrifttal,2833462
-694,Seibelsdorf, Antrifttal,2833462
+693,Seibelsdorf/ Antrifttal,2833462
+694,Seibelsdorf/ Antrifttal,2833462
 695,Seelenberg,2833680
 696,Schwobfeld,2834146
 697,Schweppenhausen,2834293
@@ -810,7 +810,7 @@
 822,Rothenbuch,2844072
 823,Rothenberg,2844089
 824,Rothenbach (Gerbershausen),2844150
-825,Roth, Franken,2844265
+825,Roth/ Franken,2844265
 826,Rothenburg ob der Tauber,2844056
 827,Roßdorf,2844756
 828,Roßdorf,2844756
@@ -859,7 +859,7 @@
 871,Rheinberg,2847662
 872,Rheinberg,2847662
 873,Rheinbach,2847666
-874,Wiedenbrück, Westfalen,2847690
+874,Wiedenbrück/ Westfalen,2847690
 875,Wiedenbrück,2847690
 876,Reutlingen,2847736
 877,Retzbach (Zellingen),2847959
@@ -916,9 +916,9 @@
 928,Ransel,2850430
 929,Randersacker,2850523
 930,Ralingen,2850740
-931,Bodensee, Niedersachsen,6552335
-932,Bodensee, Niedersachsen,6552336
-933,Bodensee, Niedersachsen,6552337
+931,Bodensee/ Niedersachsen,6552335
+932,Bodensee/ Niedersachsen,6552336
+933,Bodensee/ Niedersachsen,6552337
 934,Radheim,2850981
 935,Radheim,2850981
 936,Püttlingen,2851584
@@ -1090,8 +1090,8 @@
 1104,Nörten-Hardenberg,2861817
 1105,Nörten-Hardenberg,2861817
 1106,Nörten-Hardenberg,2861817
-1107,Nordstemmen, Hildesheim,2861866
-1108,Nordstemmen, Hildesheim,2861866
+1107,Nordstemmen/ Hildesheim,2861866
+1108,Nordstemmen/ Hildesheim,2861866
 1109,Nördlingen,2861914
 1110,Nördlingen,2861914
 1111,Nordheim vor der Rhön,2861969
@@ -1169,12 +1169,12 @@
 1191,Neustadt (Eichsfeld),2864088
 1192,Neustadt (Eichsfeld),2864088
 1193,Neustadt (Hessen),2864091
-1194,Neustadt, Hessen,2864091
+1194,Neustadt/ Hessen,2864091
 1195,Neuss,2864118
 1196,Neuss,2864118
 1197,Neuss,2864118
 1198,Neumarkt in der Oberpfalz,2864549
-1199,Neuhausen, auf den Fildern,2865086
+1199,Neuhausen/ auf den Fildern,2865086
 1200,Worms-Neuhausen,2865089
 1201,Neuenhain (Taunus),2865709
 1202,Neuenhain (Taunus),2865709
@@ -1248,12 +1248,12 @@
 1273,Mühlheim am Main,2867985
 1274,Mühlheim am Main,2867985
 1275,Thüringen,2867996
-1276,Mühlhausen, Thüringen,2867996
-1277,Mühlhausen, Thüringen,2867996
-1278,Mühlhausen, Thüringen,2867996
-1279,Mühlhausen, Thüringen,2867996
-1280,Mühlhausen, Thüringen,2867996
-1281,Mühlhausen, Thüringen,2867996
+1276,Mühlhausen/ Thüringen,2867996
+1277,Mühlhausen/ Thüringen,2867996
+1278,Mühlhausen/ Thüringen,2867996
+1279,Mühlhausen/ Thüringen,2867996
+1280,Mühlhausen/ Thüringen,2867996
+1281,Mühlhausen/ Thüringen,2867996
 1282,Mühldorf am Inn,2868506
 1283,Mühlberg,2868531
 1284,Mosbach,2869120
@@ -1354,7 +1354,7 @@
 1381,Maudach,2872828
 1382,Maudach,2872828
 1383,Maudach,2872828
-1384,Maubach,  Herzogenrath,2872840
+1384,Maubach/  Herzogenrath,2872840
 1385,Mastholte,2872954
 1386,Mastholte,2872954
 1387,Masburg,2873049
@@ -1588,7 +1588,7 @@
 1622,Königstein im Taunus,2885760
 1623,Königstein im Taunus,2885760
 1624,Königstein im Taunus,2885760
-1625,Königshofen, Unterfranken,2885829
+1625,Königshofen/ Unterfranken,2885829
 1626,Bad Königshofen im Grabfeld,2885829
 1627,Königsheim,2885850
 1628,Königsheim,2885850
@@ -1718,14 +1718,14 @@
 1752,Mainz-Kastel,2892488
 1753,Kassel,2892518
 1754,Kassel,2892518
-1755,Kasel, Trier,2892571
+1755,Kasel/ Trier,2892571
 1756,Karlsruhe,2892794
 1757,Karlsruhe,2892794
 1758,Karlsruhe,2892794
 1759,Karlsruhe,2892794
 1760,Karbach (Unterfranken),2892988
 1761,Kappel (Hunsrück),2893054
-1762,Canstein,  Marsberg,2893195
+1762,Canstein/  Marsberg,2893195
 1763,Kandel,2893244
 1764,Bornhofen,2893307
 1765,Kalteneber,2893585
@@ -1773,7 +1773,7 @@
 1807,Impfingen,2896210
 1808,Impfingen,2896210
 1809,Immingerode,2896230
-1810,Immenstadt, Allgäu,2896261
+1810,Immenstadt/ Allgäu,2896261
 1811,Ilbesheim,2896599
 1812,Ilbenstadt,2896607
 1813,Ilbenstadt,2896607
@@ -1792,8 +1792,8 @@
 1826,Hundheim (Külsheim),2897568
 1827,Hülsen (Dörverden),2897791
 1828,Hoya,2898316
-1829,Hoya, Weser,2898316
-1830,Hoya, Weser,2898316
+1829,Hoya/ Weser,2898316
+1830,Hoya/ Weser,2898316
 1831,Höxter,2898321
 1832,Hörstein,2898605
 1833,Hörstein,2898605
@@ -1844,15 +1844,15 @@
 1878,Höchst,2903020
 1879,Höchst,2903021
 1880,Höchst,2903022
-1881,Höchstädt, Donau,2903012
-1882,Hochstadt, Maintal,2903014
-1883,Hochstadt, Maintal,2903014
+1881,Höchstädt/ Donau,2903012
+1882,Hochstadt/ Maintal,2903014
+1883,Hochstadt/ Maintal,2903014
 1884,Frankfurt-Höchst,2903019
 1885,Hochheim am Main,2903175
 1886,Hochheim am Main,2903175
 1887,Hochheim am Main,2903175
 1888,Worms-Hochheim,2903176
-1889,Hochdorf, Rhein-Pfalz-Kreis,2903284
+1889,Hochdorf/ Rhein-Pfalz-Kreis,2903284
 1890,Hirzenach,2903507
 1891,Hirstein,2903545
 1892,Hörstein,2898605
@@ -1965,7 +1965,7 @@
 2001,Hechingen,2908495
 2002,Hechingen,2908495
 2003,Hausen (Niederorschel),2908863
-2004,Hausen, Niederorschel,2908863
+2004,Hausen/ Niederorschel,2908863
 2005,Hausen Miltenberg,2908886
 2006,Hausen Miltenberg,2908886
 2007,Hausen Miltenberg,2908886
@@ -2001,7 +2001,7 @@
 2037,Hangenmeilingen,2910902
 2038,Hanau,2911007
 2039,Hanau,2911007
-2040,Hammerstein, Rheinland-Pfalz,2911073
+2040,Hammerstein/ Rheinland-Pfalz,2911073
 2041,Hammelburg,2911214
 2042,Hammelburg,2911214
 2043,Hamm,2911240
@@ -2139,7 +2139,7 @@
 2175,Goch,2919625
 2176,Gleichenstein,2919995
 2177,Glatten,2920041
-2178,Glashütten, Hessen,2920085
+2178,Glashütten/ Hessen,2920085
 2179,Glashofen,2920124
 2180,Glan-Münchweiler,2920197
 2181,Gissigheim,2920273
@@ -2162,8 +2162,8 @@
 2198,Geseke,2920834
 2199,Geschwenda,2920837
 2200,Gerresheim,2920958
-2201,Gerolzhofen, Unterfranken,2920959
-2202,Gerolzhofen, Unterfranken,2920959
+2201,Gerolzhofen/ Unterfranken,2920959
+2202,Gerolzhofen/ Unterfranken,2920959
 2203,Gernsheim,2920994
 2204,Gernsheim,2920994
 2205,Gernsbach,2920997
@@ -2181,7 +2181,7 @@
 2217,Georgenthal,2921261
 2218,Gemünden am Main,2921379
 2219,Gemünden am Main,2921379
-2220,Gemünd,  Schleiden,2921383
+2220,Gemünd/  Schleiden,2921383
 2221,Gelsenkirchen,2921466
 2222,Geldern,2921528
 2223,Geldern,2921528
@@ -2234,7 +2234,7 @@
 2270,Fürth,2923544
 2271,Fürth,2923544
 2272,Fürstenwalde (Altenberg),2923589
-2273,Fürstenberg, Westfalen,2923640
+2273,Fürstenberg/ Westfalen,2923640
 2274,Fulda,2923822
 2275,Fulda,2923822
 2276,Fulda,2923822
@@ -2243,7 +2243,7 @@
 2279,Fritzlar,2924326
 2280,Fritzlar,2924326
 2281,Fritzlar,2924326
-2282,Edingen, Mannheim,2924606
+2282,Edingen/ Mannheim,2924606
 2283,Friedelshausen,2924775
 2284,Friedberg (Hessen),2924802
 2285,Friedberg (Hessen),2924802
@@ -2312,11 +2312,11 @@
 2349,Flinsberg,2926180
 2350,Flinsberg,2926180
 2351,Flerzheim,2926256
-2352,Fleckenberg, Westfalen,2926337
+2352,Fleckenberg/ Westfalen,2926337
 2353,Flammersbach (Wilnsdorf),2926386
-2354,Fladungen, Franken,2926402
+2354,Fladungen/ Franken,2926402
 2355,Fischerdorf (Deggendorf),2926548
-2356,Fischen, Allgäu,2926564
+2356,Fischen/ Allgäu,2926564
 2357,Fischbach (Taunus),2926626
 2358,Fischbach (Taunus),2926626
 2359,Fischbach (Bad Schwalbach),2926628
@@ -2327,8 +2327,8 @@
 2364,Finthen,2926666
 2365,Mainz-Finthen,2926666
 2366,Feldkahl,2927359
-2367,Fechenbach,  Collenberg,2927647
-2368,Fechenbach,  Collenberg,2927647
+2367,Fechenbach/  Collenberg,2927647
+2368,Fechenbach/  Collenberg,2927647
 2369,Eversberg,2928340
 2370,Ettlingen,2928615
 2371,Ettlingen,2928615
@@ -2398,7 +2398,7 @@
 2435,Erfurt,2929670
 2436,Erftstadt,2929671
 2437,Erfeld,2929681
-2438,Erding, Bayern,2929715
+2438,Erding/ Bayern,2929715
 2440,Erbach,2929801
 2441,Erbach,2929801
 2442,Eppstein,2929817
@@ -2443,7 +2443,7 @@
 2481,Eiterfeld,2931372
 2482,Eisfeld,2931433
 2483,Eisfeld,2931433
-2484,Eiserfey, Köln,2931448
+2484,Eiserfey/ Köln,2931448
 2485,Eisenbach (Unterfranken),2931566
 2486,Eisenbach,2931569
 2487,Eisenbach,2931569
@@ -2567,8 +2567,8 @@
 2607,Damm (Aschaffenburg),2939191
 2608,Dahlheim,2939405
 2609,Dahlen,2939434
-2610,Dackscheid, Bitburg,2939505
-2611,Erfurt, Cyriaxburg,2939655
+2610,Dackscheid/ Bitburg,2939505
+2611,Erfurt/ Cyriaxburg,2939655
 2612,Crailsheim,2939797
 2615,Coesfeld,2939945
 2616,Coesfeld,2939945
@@ -2958,7 +2958,7 @@
 3010,Albstadt,2958595
 3011,Albaxen,2958745
 3012,Alach,2958774
-3013,Alach, Kapelle Klostergut,2958775
+3013,Alach/ Kapelle Klostergut,2958775
 3014,Ailringen,2958844
 3015,Ailringen,2958844
 3016,Ahrbergen,2959113
@@ -2966,7 +2966,7 @@
 3018,Ahlen,2959223
 3019,Warendorf,2959223
 3020,Ahaus,2959279
-3021,Ahaus, Westfalen,2959279
+3021,Ahaus/ Westfalen,2959279
 3022,Abterode,2959782
 3023,Abterode,2959782
 3024,Abterode,2959782
@@ -3036,7 +3036,7 @@
 3090,Saarburg,2975967
 3091,Salmbach,2976352
 3092,Sainte-Marie-aux-Mines,2980438
-3093,St-Dié, Vosges,2980827
+3093,St-Dié/ Vosges,2980827
 3094,Saint-Amarin,2981815
 3095,Rouffach,2982636
 3096,Rouen,2982652
@@ -3105,7 +3105,7 @@
 3163,Feldkirch (Haut-Rhin),3018760
 3164,Dun-sur-Meuse,3020676
 3165,Birlenbach,3020860
-3166,Dossenheim, Neckar,2935453
+3166,Dossenheim/ Neckar,2935453
 3167,Dieuze ,3021392
 3168,Dieuze ,3021392
 3169,Dettwiller,3021518
@@ -3125,7 +3125,7 @@
 3185,Bennwihr,3033471
 3186,Bennwihr,3033471
 3187,Belley,3033625
-3188,Belfort, Frankreich,3033791
+3188,Belfort/ Frankreich,3033791
 3189,Arles,3036938
 3190,Arles,3036938
 3191,Altorf,3038008
@@ -3211,7 +3211,7 @@
 3279,Fankel,3207690
 3280,Bruttig-Fankel,3207690
 3283,Kobern,3207786
-3284,Gondorf, Mosel,2919119
+3284,Gondorf/ Mosel,2919119
 3285,Mülheim-Kärlich,3207806
 3286,Scheuren (Unkel),3207902
 3287,Sailauf,3208010
@@ -3236,8 +3236,8 @@
 3306,Elsheim,3272454
 3307,St. Leon-Rot,3272456
 3308,Dittelsheim-Heßloch,3272935
-3309,Lauda,  Lauda-Königshofen,3274966
-3310,Lauda,  Lauda-Königshofen,3274966
+3309,Lauda/  Lauda-Königshofen,3274966
+3310,Lauda/  Lauda-Königshofen,3274966
 3311,Neunkirchen (Unterfranken),3274976
 3312,Neunkirchen (Unterfranken),3274976
 3313,Altenbuch,3274987
@@ -3245,7 +3245,7 @@
 3315,Aigen bei Salzburg,3323071
 3316,Rohrberg,3323924
 3317,Fricken (Tirol),3333846
-3319,Seeheim, Hessen,3337504
+3319,Seeheim/ Hessen,3337504
 3320,Legen,3339118
 3321,Baldern,6290616
 3322,Stephansdom,6324757
@@ -3265,13 +3265,13 @@
 3336,Wittenberg,7303020
 3337,Bonau,7669466
 3338,Siat,8299584
-3339,Kassel, Altstadt,8629513
+3339,Kassel/ Altstadt,8629513
 3340,Erfurt,11203841
 3341,Erfurt,11203842
 3342,Erfurt,11203843
 3343,Erfurt,11203844
-3344,Leipzig, Nikolaikirche,11395551
-3345,Aubach, Redleiten,11609507
+3344,Leipzig/ Nikolaikirche,11395551
+3345,Aubach/ Redleiten,11609507
 3346,Zellhausen,11609528
 3347,Zellhausen,11609528
 3348,Moselweiß,11777806
@@ -3282,78 +3282,78 @@
 3353,Hüttenberg (Hessen),12358897
 3381,Mainz-Bretzenheim,2944180
 3382,Mainz-Bretzenheim,2944180
-3384,Bürgel, Offenbach,2941400
-3385,Bürgel, Offenbach,2941400
+3384,Bürgel/ Offenbach,2941400
+3385,Bürgel/ Offenbach,2941400
 3386,Karlstadt am Main,2892786
-3387,Celle, Niedersachsen,2940213
-3388,Celle, Niedersachsen,2940213
-3389,Chiny, Wallonia,2800320
-3392,Dietkirchen, Limburg,2937092
+3387,Celle/ Niedersachsen,2940213
+3388,Celle/ Niedersachsen,2940213
+3389,Chiny/ Wallonia,2800320
+3392,Dietkirchen/ Limburg,2937092
 3395,Mainz-Drais,2935350
 3396,Mainz-Drais,2935350
-3399,Helmsdorf, Dingelstädt,2906693
+3399,Helmsdorf/ Dingelstädt,2906693
 3408,Eindhoven,2756253
-3409,Falkenstein, Pfalz,2927916
-3410,Gmünd, Österreich,2778438
-3411,Gmünd, Österreich,2778438
-3412,Götzingen, Buchen,2918518
-3413,Götzingen, Buchen,2918518
-3414,Götzingen, Buchen,2918518
-3415,Götzingen, Buchen,2918518
-3416,Grünberg, Hessen,2914432
-3417,Hallenberg, Westfalen,2911514
-3418,Hallenberg, Westfalen,2911514
-3419,Herblingen, Schweiz,11836291
-3422,Höchst, Frankfurt,2903019
-3423,Höchst, Frankfurt,2903019
-3424,Höchst, Frankfurt,2903019
-3425,Höchst, Frankfurt,2903019
-3426,Hohenlohe, Neresheim,2901619
-3427,Holzweiler, Erkelenz,2899541
-3428,Holzweiler, Erkelenz,2899541
+3409,Falkenstein/ Pfalz,2927916
+3410,Gmünd/ Österreich,2778438
+3411,Gmünd/ Österreich,2778438
+3412,Götzingen/ Buchen,2918518
+3413,Götzingen/ Buchen,2918518
+3414,Götzingen/ Buchen,2918518
+3415,Götzingen/ Buchen,2918518
+3416,Grünberg/ Hessen,2914432
+3417,Hallenberg/ Westfalen,2911514
+3418,Hallenberg/ Westfalen,2911514
+3419,Herblingen/ Schweiz,11836291
+3422,Höchst/ Frankfurt,2903019
+3423,Höchst/ Frankfurt,2903019
+3424,Höchst/ Frankfurt,2903019
+3425,Höchst/ Frankfurt,2903019
+3426,Hohenlohe/ Neresheim,2901619
+3427,Holzweiler/ Erkelenz,2899541
+3428,Holzweiler/ Erkelenz,2899541
 3429,Karlstadt am Main,2892786
-3430,Kirberg, Hessen,2890777
-3433,Lengfeld, Würzburg,2878831
-3440,Mayen, Rheinland-Pfalz,2872649
-3441,Mayen, Rheinland-Pfalz,2872649
-3442,Mayen, Rheinland-Pfalz,2872649
+3430,Kirberg/ Hessen,2890777
+3433,Lengfeld/ Würzburg,2878831
+3440,Mayen/ Rheinland-Pfalz,2872649
+3441,Mayen/ Rheinland-Pfalz,2872649
+3442,Mayen/ Rheinland-Pfalz,2872649
 3443,Mayen,2872649
-3447,Mayen, Rheinland,2872649
-3448,Mayen, Rheinland,2872649
-3452,Nauheim, Groß-Gerau,2866917
-3464,Niederkirchen, Deidesheim,2863213
-3465,Niederkirchen, Deidesheim,2863213
-3470,Offenheim, Alzey,6554870
-3478,Saarburg, Rheinland-Pfalz,2842644
+3447,Mayen/ Rheinland,2872649
+3448,Mayen/ Rheinland,2872649
+3452,Nauheim/ Groß-Gerau,2866917
+3464,Niederkirchen/ Deidesheim,2863213
+3465,Niederkirchen/ Deidesheim,2863213
+3470,Offenheim/ Alzey,6554870
+3478,Saarburg/ Rheinland-Pfalz,2842644
 3480,Sachsenberg (Lichtenfels),2842556
-3481,Sayn, Bendorf,2951108
-3483,Seeburg, Göttingen,3207076
-3490,Tannheim, Biberach,6556029
-3495,Diez, Deutschland,2937018
-3498,Sprendlingen, Rheinland,2830080
-3499,Verny, Moselle,2969736
-3503,Waldkirch, Baden,2814883
-3508,Winkel, Rheingau,2911482
-3509,Winkel, Rheingau,2911482
+3481,Sayn/ Bendorf,2951108
+3483,Seeburg/ Göttingen,3207076
+3490,Tannheim/ Biberach,6556029
+3495,Diez/ Deutschland,2937018
+3498,Sprendlingen/ Rheinland,2830080
+3499,Verny/ Moselle,2969736
+3503,Waldkirch/ Baden,2814883
+3508,Winkel/ Rheingau,2911482
+3509,Winkel/ Rheingau,2911482
 3510,Zeltingen,3207549
-3511,Laudenbach, Main-Tauber,2880205
+3511,Laudenbach/ Main-Tauber,2880205
 3512,Niederhöchstadt,2863321
-3513,Osov, Tschechien,3068815
-3515,Wattenheim, Pfalz,2813638
-3516,Werda, Sachsen,6548547
+3513,Osov/ Tschechien,3068815
+3515,Wattenheim/ Pfalz,2813638
+3516,Werda/ Sachsen,6548547
 3520,Savoie,2975518
 3521,Frankfurt-Höchst,2903019
 11,Mlynica ,724126
-160,Spa, Belgien,2786318
-197,Herve, Belgien,2795912
-198,Herve, Belgien,2795912
+160,Spa/ Belgien,2786318
+197,Herve/ Belgien,2795912
+198,Herve/ Belgien,2795912
 342,Werne,2810833
-428,Wambach, Rheingau,2814345
-431,Wallmichrath, Velbert,2814550
-540,Traisdorf, Mittelfranken,2821623
-602,Steinbach, Thüringen,2828788
-603,Steinbach, Thüringen,2828737
-604,Steinbach, Thüringen,2828737
+428,Wambach/ Rheingau,2814345
+431,Wallmichrath/ Velbert,2814550
+540,Traisdorf/ Mittelfranken,2821623
+602,Steinbach/ Thüringen,2828788
+603,Steinbach/ Thüringen,2828737
+604,Steinbach/ Thüringen,2828737
 712,Schwäbisch-Gmünd,2835482
 735,Kloster Schmerlenbach,2837920
 1065,Obermörlen ,2859739
@@ -3364,55 +3364,55 @@
 1126,Walluf,2862762
 1127,Walluf,2862762
 1128,Walluf,2862762
-1168,Hochstadt, Pfalz,2863322
-1182,Niederbergheim, Warstein,2863605
-1218,Netra, Ringgau,2866374
+1168,Hochstadt/ Pfalz,2863322
+1182,Niederbergheim/ Warstein,2863605
+1218,Netra/ Ringgau,2866374
 1244,Münster-Sarmsheim,2867511
 1245,Münster-Sarmsheim,2867511
-1309,Momberg, Neustadt,2869938
+1309,Momberg/ Neustadt,2869938
 1373,Beeck Duisburg,2872347
-1393,Märschendorf, Lohne,2873195
-1452,Lutzerath, Cochem,2874728
-1453,Lutzerath, Cochem,2874728
-1463,Lübisrath, Grevenbroich,2875592
-1464,Lübisrath, Grevenbroich,2875592
-1480,Lohrwardt, Rees,2876118
-1538,Lautern, Bergstraße,2879884
-1945,Herbern, Ascheberg,2906229
+1393,Märschendorf/ Lohne,2873195
+1452,Lutzerath/ Cochem,2874728
+1453,Lutzerath/ Cochem,2874728
+1463,Lübisrath/ Grevenbroich,2875592
+1464,Lübisrath/ Grevenbroich,2875592
+1480,Lohrwardt/ Rees,2876118
+1538,Lautern/ Bergstraße,2879884
+1945,Herbern/ Ascheberg,2906229
 1964,Heinzenbach,2907181
 2294,Frickenhausen am Main,2924836
-2439,Erda, Hessen,2929737
-2578,Diedesheim, Mosbach,2937558
-2591,Denzen, Kirchberg,2938196
+2439,Erda/ Hessen,2929737
+2578,Diedesheim/ Mosbach,2937558
+2591,Denzen/ Kirchberg,2938196
 2613,Großcomburg,2939892
 2614,Großcomburg,2939892
-2665,Buchen, Odenwald,2942634
-2666,Buchen, Odenwald,2942634
-2667,Bubenheim, Mainz,2942938
-2735,Bodenstein, Leinefelde,2947106
+2665,Buchen/ Odenwald,2942634
+2666,Buchen/ Odenwald,2942634
+2667,Bubenheim/ Mainz,2942938
+2735,Bodenstein/ Leinefelde,2947106
 2841,Baierbach,2953217
 2885,Baden-Baden,2953504
 2886,Baden-Baden,2953504
 2888,Baden-Baden,2953504
 2889,Baden-Baden,2953504
 2890,Baden-Baden,2953504
-3052,Lenningen, Luxemburg,2960699
+3052,Lenningen/ Luxemburg,2960699
 3065,Amance Meurthe,2970222
-3126,Nancy, France,2990999
-3127,Nancy, France,2990999
-3128,Nancy, France,2990999
-3129,Nancy, France,2990999
-3152,Hoffen, Frankreich,3013221
-3171,Dalem, Grand Est,3021907
+3126,Nancy/ France,2990999
+3127,Nancy/ France,2990999
+3128,Nancy/ France,2990999
+3129,Nancy/ France,2990999
+3152,Hoffen/ Frankreich,3013221
+3171,Dalem/ Grand Est,3021907
 3175,Condé-Northen,3023964
 3206,Bohemia,3077916
 3207,Bohemia,3077916
 3220,Mini?ta ,3091733
-3242,Rom, Italien,3169070
+3242,Rom/ Italien,3169070
 3252,Campi Bisenzio,3181018
 3266,Neumagen-Dhron,3207532
 3267,Neumagen-Dhron,3207532
-3270,Dahlhaus, Rösrath,3207593
+3270,Dahlhaus/ Rösrath,3207593
 3281,Ediger-Eller,3207699
 3282,Ediger-Eller,3207699
 3318,Jettingen-Scheppach,3336896
@@ -3431,23 +3431,23 @@
 3366,Beilstein Cochem,2951345
 3367,Beilstein Cochem,2951345
 3368,Beilstein Cochem,2951345
-3369,Bellingen, Rheinland-Pfalz,6554192
+3369,Bellingen/ Rheinland-Pfalz,6554192
 3370,Altenberg,2957834
-3371,Bettendorf, Rheinland-Pfalz,6553999
+3371,Bettendorf/ Rheinland-Pfalz,6553999
 3372,Beuren Leinefelde,2949561
 3373,Beuren Leinefelde,2949561
 3374,Offenbach-Bieber,11974845
 3375,Offenbach-Bieber,11974845
 3376,Offenbach-Bieber,11974845
-3377,Bürgel, Offenbach,2941400
+3377,Bürgel/ Offenbach,2941400
 3378,Blankenheim Euskirchen,2948056
 3379,Blankenberg Hennef,12200272
 3380,Le Bois,3036145
-3383,Buchen, Odenwald,2942634
-3390,Krombach, Unterfranken,6556952
-3391,Dalberg, Kreuznach,2939338
-3393,Dornau, Sulzbach,2935785
-3394,Dornberg, Hardheim,2935751
+3383,Buchen/ Odenwald,2942634
+3390,Krombach/ Unterfranken,6556952
+3391,Dalberg/ Kreuznach,2939338
+3393,Dornau/ Sulzbach,2935785
+3394,Dornberg/ Hardheim,2935751
 3397,Kloster Eberbach,3208037
 3398,Kloster Eberbach,3208037
 3400,Olpe,2857306
@@ -3456,54 +3456,54 @@
 3403,Elz,2930628
 3404,Elz,2930628
 3405,Elz,2930628
-3406,Burg Enn, Tirol,3173113
-3407,Essingen, Pfalz,6555179
-3420,Herborn, Dill,2906199
-3421,Hirschberg, Westfalen,2916325
-3431,Krautscheid, Buchholz,2884610
+3406,Burg Enn/ Tirol,3173113
+3407,Essingen/ Pfalz,6555179
+3420,Herborn/ Dill,2906199
+3421,Hirschberg/ Westfalen,2916325
+3431,Krautscheid/ Buchholz,2884610
 3432,Lehnstedt,6550258
 3434,Altleiningen,2957040
-3435,Lichtenau, Rothenbuch,2878137
-3436,Limbach, Baden,6555647
-3437,Lorch, Rheingau,2875906
-3438,Lorch, Rheingau,2875906
-3439,Lorch, Rheingau,2875906
-3444,Mandel, kreuznach,2873989
-3445,Mandel, kreuznach,2873989
-3446,Marlach, Schöntal,2873261
-3449,Molsberg, Rheinland-Pfalz,2869968
-3450,Molsberg, Rheinland-Pfalz,2869968
-3451,Molsberg, Rheinland-Pfalz,2869968
-3453,Neuendorf, Teistungen,2865792
-3454,Neuendorf, Teistungen,2865792
-3455,Neuendorf, Teistungen,2865792
-3456,Neuendorf, Teistungen,2865792
-3457,Neuendorf, Teistungen,2865792
-3458,Neuendorf, Teistungen,2865792
-3459,Neuendorf, Teistungen,2865792
-3460,Neuhäusel, Rheinland-Pfalz,2865123
-3461,Neuhäusel, Rheinland-Pfalz,2865123
-3462,Neulingen, Enzkreis,3209429
-3463,Neunkirchen, Franken,2864420
-3466,Obertiefenbach, Beselich,2858783
-3467,Obertiefenbach, Beselich,2858783
-3468,Obertiefenbach, Beselich,2858783
-3469,Oberheimbach, Bingen,6555293
+3435,Lichtenau/ Rothenbuch,2878137
+3436,Limbach/ Baden,6555647
+3437,Lorch/ Rheingau,2875906
+3438,Lorch/ Rheingau,2875906
+3439,Lorch/ Rheingau,2875906
+3444,Mandel/ kreuznach,2873989
+3445,Mandel/ kreuznach,2873989
+3446,Marlach/ Schöntal,2873261
+3449,Molsberg/ Rheinland-Pfalz,2869968
+3450,Molsberg/ Rheinland-Pfalz,2869968
+3451,Molsberg/ Rheinland-Pfalz,2869968
+3453,Neuendorf/ Teistungen,2865792
+3454,Neuendorf/ Teistungen,2865792
+3455,Neuendorf/ Teistungen,2865792
+3456,Neuendorf/ Teistungen,2865792
+3457,Neuendorf/ Teistungen,2865792
+3458,Neuendorf/ Teistungen,2865792
+3459,Neuendorf/ Teistungen,2865792
+3460,Neuhäusel/ Rheinland-Pfalz,2865123
+3461,Neuhäusel/ Rheinland-Pfalz,2865123
+3462,Neulingen/ Enzkreis,3209429
+3463,Neunkirchen/ Franken,2864420
+3466,Obertiefenbach/ Beselich,2858783
+3467,Obertiefenbach/ Beselich,2858783
+3468,Obertiefenbach/ Beselich,2858783
+3469,Oberheimbach/ Bingen,6555293
 3471,Nieder-Olm,2863014
 3472,Nieder-Olm,2863014
-3473,Poritsch, Tschechien,3067785
+3473,Poritsch/ Tschechien,3067785
 3474,Ransbach-Baumbach,3225108
-3475,Reisberg, Kärnten,2767687
+3475,Reisberg/ Kärnten,2767687
 3476,Rosbach vor der Höhe,2845160
-3477,Roth, Bad Kreuznach,6553533
-3479,Sanddorf, Saarland,2841899
+3477,Roth/ Bad Kreuznach,6553533
+3479,Sanddorf/ Saarland,2841899
 3482,Niederselters,2862873
-3484,Steinfeld, Unterfranken,2828140
+3484,Steinfeld/ Unterfranken,2828140
 3485,Sulzbach am Main,2824806
 3486,Sulzbach am Main,2824806
 3487,Sulzbach am Main,2824806
 3488,Sulzbach am Main,2824806
-3489,Soest, Nordrhein-Westfalen,2831708
+3489,Soest/ Nordrhein-Westfalen,2831708
 3491,Toru?,3083271
 3492,Traidendorf / Kallmünz,2821643
 3493,Weinsheim / Bad Kreuznach,6553557
