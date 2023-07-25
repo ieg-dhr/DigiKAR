@@ -14,8 +14,8 @@
 13,Konstantinopel,745044
 14,Bartenstein,776337
 15,Malta,2562258
-16,Sachsengang, Groß-Enzersdorf,2598945
-17,Sachsengang, Groß-Enzersdorf,2598945
+16,Sachsengang / Groß-Enzersdorf,2598945
+17,Sachsengang / Groß-Enzersdorf,2598945
 18,Dänemark,2610613
 19,Kopenhagen,2618425
 20,Horsens,2619771
@@ -1465,11 +1465,11 @@
 1498,Lindau,2877550
 1499,Lindau,2877550
 1500,Limburg a.d. Lahn,2877648
-1501,Limburg, Lahn,2877648
-1502,Limburg, Lahn,2877648
-1503,Limburg, Lahn,2877648
-1504,Limburg, Lahn,2877648
-1505,Limburg, Lahn,2877648
+1501,Limburg / Lahn,2877648
+1502,Limburg / Lahn,2877648
+1503,Limburg / Lahn,2877648
+1504,Limburg / Lahn,2877648
+1505,Limburg / Lahn,2877648
 1506,Limburg an der Lahn,2877648
 1507,Lichtenfels,2878074
 1508,Lettgenbrunn,2878431
@@ -3505,19 +3505,19 @@
 3488,Sulzbach am Main,2824806
 3489,Soest, Nordrhein-Westfalen,2831708
 3491,Toru?,3083271
-3492,Traidendorf, Kallmünz,2821643
-3493,Weinsheim, Bad Kreuznach,6553557
-3494,Weinsheim, Bad Kreuznach,6553557
-3496,Somborn, Freigericht,2831461
-3497,Somborn, Freigericht,2831461
-3500,Winkel, Rheingau,2911482
-3501,Winkel, Rheingau,2911482
-3502,Winkel, Rheingau,2911482
-3504,Weitersweiler, Pfalz,6554995
-3505,Weitersweiler, Pfalz,6554995
-3506,Westhofen, Pfalz ,2810110
-3507,Westhofen, Pfalz ,2810110
-3514,Thorn, Polen,3083271
+3492,Traidendorf / Kallmünz,2821643
+3493,Weinsheim / Bad Kreuznach,6553557
+3494,Weinsheim / Bad Kreuznach,6553557
+3496,Somborn / Freigericht,2831461
+3497,Somborn / Freigericht,2831461
+3500,Winkel / Rheingau,2911482
+3501,Winkel / Rheingau,2911482
+3502,Winkel / Rheingau,2911482
+3504,Weitersweiler / Pfalz,6554995
+3505,Weitersweiler / Pfalz,6554995
+3506,Westhofen / Pfalz ,2810110
+3507,Westhofen / Pfalz ,2810110
+3514,Thorn / Polen,3083271
 3517,Aschaffenburg,2955272
 3518,Maifeld,3207796
 3519,Maifeld,3207796
