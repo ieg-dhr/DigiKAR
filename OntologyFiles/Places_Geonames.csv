@@ -1,0 +1,3527 @@
+;place_name;id
+0;Griechenland;255683
+1;Preußen;554234
+2;Königsberg (Preußen);554234
+3;Tallinn;588409
+4;Tallinn;588409
+5;Tallinn;588409
+6;Temeswar;665087
+7;Temeswar;665087
+8;Eger;3077835
+9;Eger;3077836
+10;Eger;3077837
+12;Traben-Trabach;2821690
+13;Konstantinopel;745044
+14;Bartenstein;776337
+15;Malta;2562258
+16;Sachsengang, Groß-Enzersdorf;2598945
+17;Sachsengang, Groß-Enzersdorf;2598945
+18;Dänemark;2610613
+19;Kopenhagen;2618425
+20;Horsens;2619771
+21;Horsens;2619771
+22;Horsens;2619771
+23;Oxford;2640729
+24;England;2643743
+25;England;2643743
+26;London;2643743
+27;Schweiz;2657896
+28;Zürich;2657896
+29;Zell (ZH);2657390
+30;Zell, Mosel;2804880
+31;Zell, Mosel;2804881
+32;Zell, Mosel;2804882
+33;Wengen;2658020
+34;Wäldi;2658068
+35;Vendlincourt;2658171
+36;Steinhausen;2658483
+37;Unterwalden;2658504
+38;Pruntrut;2659171
+39;Pruntrut;2659171
+40;Pruntrut;2659171
+41;Pruntrut;2659171
+42;Porrentruy;2659171
+43;Neuchatel;2659496
+44;Meiringen;2659700
+45;Meiringen;2659700
+46;Luzern;2659811
+47;Hornussen AG;2660299
+48;Freiburg im Üechtland;2660718
+49;Erlenbach, Zürich;2660872
+50;Erlenbach, Zürich;2660872
+51;Erlenbach ZH;2660872
+52;Erlenbach ZH;2660872
+53;Erlenbach ZH;2660872
+54;Diessenhofen;2661016
+55;Delsberg;2661035
+56;Delsberg;2661035
+57;Breitenbach;2661412
+58;Bonvillars;2661445
+59;Basel;2661604
+60;Altdorf;2661780
+61;Uppsala;2666199
+62;Schweden;2673730
+63;Stockholm;2673730
+64;Zwolle, Niederlande;2743477
+65;Zelhem ;2743963
+66;Wommels;2744191
+67;Wittem;2744287
+68;Veere;2745739
+69;Valkenburg;2745874
+70;Utrecht;2745912
+71;Utrecht;2745912
+72;Utrecht;2745912
+73;Tiel;2746331
+74;Someren;2747021
+75;Someren;2747021
+76;Someren;2747021
+77;Sittard;2747203
+78;Sittard;2747203
+79;Hertogenbosch;2747351
+80;Den Haag;2747373
+81;Den Haag;2747373
+82;Holland;2747891
+83;Niederlande;2747891
+84;Niederlande;2747891
+85;Roermond;2748000
+86;Roermond;2748000
+87;Rheden;2748201
+88;Ootmarsum;2749317
+89;Nymwegen;2750053
+90;Limburg;2792348
+91;Maastricht;2751283
+92;Leiderdorp;2751771
+93;Leiden;2751773
+94;Friesland;2751792
+95;Friesland;2751792
+96;Kamperland;2753097
+97;Kampen;2753106
+98;Horsten;2753583
+99;Hilvarenbeek, Brabant;2754066
+100;Groningen;2755251
+101;Groningen;2755251
+102;Gouda;2755420
+103;Franeker;2755845
+104;Franeker;2755845
+105;Franeker;2755845
+106;Elburg;2756232
+107;Brabant;2756253
+108;Brabant;2756253
+109;Delft;2757345
+110;Brielle;2758326
+111;Brielle;2758326
+112;Beegden;2759353
+113;Arnhem;2759661
+114;Amsterdam;2759794
+115;Amsterdam;2759794
+116;Amersfoort;2759821
+117;Amersfoort;2759821
+118;Aduard;2759961
+119;Wien;2761369
+120;Wien;2761369
+121;Wien;2761369
+122;Wien;2761369
+123;Wien;2761369
+124;Wien;2761369
+125;Wien;2761369
+126;Wien;2761369
+127;Wien;2761369
+128;Wenns;2761488
+129;Villach;2762372
+130;Stainach-Pürgg;2764708
+131;Sommerein;2764937
+132;Hall (Tirol);2764958
+133;St. Pölten;2766429
+134;Salzburg;2766824
+135;Rudmanns;2766996
+136;Dachstein;6450620
+137;Dachstein;6450620
+138;Mostbach;2771158
+139;Österreich;2772400
+140;Österreich;2772400
+141;Innsbruck;2775220
+142;Innsbruck;2775220
+143;Graz;2778067
+144;Bregenz;2781503
+145;Brumov;3078550
+146;Braunau;3078550
+148;Bad Deutsch-Altenburg;2782068
+149;Altheim (Walldürn);2957140
+150;Altheim (Walldürn);2957141
+151;Weismes;2784199
+152;Visé;2784548
+153;Visé;2784548
+154;Virton;2784555
+155;Verviers;2784821
+156;Verviers;2784821
+157;Ursel;2785094
+158;Thimister;2785562
+159;Stablo;2786185
+161;Soumagne;2786344
+162;Soumagne;2786344
+163;Sint-Lievens-Houtem;2786616
+164;Sart-lez-Spa;2787254
+165;Saint-Hubert;2787407
+166;Saint-Hubert;2787407
+167;Ronse;2787769
+168;Plombières;2788849
+169;Namur;2790471
+170;Mons ;2790869
+171;Mechelen;2791537
+172;Mechelen;2791537
+173;Malmedy;2791834
+174;Malmedy;2791834
+175;Malmedy;2791834
+176;Malmedy;2791834
+177;Malmedy;2791834
+178;Malmedy;2791834
+179;Lottert;2792087
+180;Lischert;2792273
+181;Limbourg, Verviers;2792348
+182;Lüttich;2792413
+183;Lüttich;2792413
+184;Lüttich;2792413
+185;Lüttich;2792413
+186;Lüttich;2792413
+187;Lüttich;2792413
+188;Lüttich;2792413
+189;Leuven;2792482
+190;Leuven;2792482
+191;Jupille-sur-Meuse;2794856
+192;Jupille;2794856
+193;Jalhay;2794989
+194;Ypern;2795100
+195;Huy;2795113
+196;Houffalize;2795322
+199;Hasselt;2796491
+200;Hamont;2796625
+201;Halanzy;2796722
+202;Habay-la-Vieille;2796807
+203;Eupen;2798573
+204;Ensival;2798730
+205;Dinant;2799357
+206;Cheneux;2800386
+207;Brüssel;2800866
+208;Brüssel;2800866
+209;Brüssel;2800866
+210;Boutersem;2801215
+211;Bouillon;2801283
+212;Bouillon;2801283
+213;Aubel;2802985
+214;Aubel;2802985
+215;Aubel;2802985
+216;Andrimont;2803187
+217;Alken;2803285
+218;Zweibrücken;2803620
+219;Zweibrücken;2803620
+220;Zülpich;2803723
+221;Zülpich;2803723
+222;Zornheim;2803882
+223;Zitz (Rosenau);2803992
+224;Zeutern;2804647
+225;Zeitz;2804922
+226;Zeiskam;2804951
+227;Frankfurt-Zeilsheim;2804979
+228;Zeil am Main;2805008
+229;Zaisenhausen;2805283
+230;Zahlbach (Mainz);2805319
+231;Wüstfeld;2805468
+232;Würzburg;2805615
+233;Würzburg;2805615
+234;Würzburg;2805615
+235;Würzburg;2805615
+236;Würzburg;2805615
+237;Würzburg;2805615
+238;Würzburg;2805615
+239;Würges;2805708
+240;Würges;2805708
+241;Wörth am Rhein;2806081
+242;Wörrstadt;2806105
+243;Wörrstadt;2806105
+244;Worms;2806142
+245;Worms;2806142
+246;Worms;2806142
+247;Worms;2806142
+248;Worms;2806142
+249;Worms;2806142
+250;Worms;2806142
+251;Worbis;2806192
+252;Worbis;2806192
+253;Worbis;2806192
+254;Worbis;2806192
+255;Worbis;2806192
+256;Worbis;2806192
+257;Worbis;2806192
+258;Worbis;2806192
+259;Worbis;2806192
+260;Worbis;2806192
+261;Worbis;2806192
+262;Worbis;2806192
+263;Worbis;2806192
+264;Worbis;2806192
+265;Wöllstein;2806353
+266;Wöllstein;2806353
+267;Wollmerath;2806380
+268;Wollbrandshausen;2806439
+269;Wollbrandshausen;2806439
+270;Wolfsheim;2806596
+271;Wolframs-Eschenbach;2806770
+272;Wolframs-Eschenbach;2806770
+273;Wölfersheim;2806852
+274;Wolfersdorf;2806870
+275;Wolbeck;2806979
+276;Burg Wohldenberg;2807072
+277;Wohlau, Schlesien;3081430
+278;Wohlau, Schlesien;3081430
+279;Wohlau, Schlesien;3081430
+280;Witzenhausen;2807184
+281;Wittlich;2807240
+282;Wittlich;2807240
+283;Wittlich;2807240
+284;Wittlich;2807240
+285;Wittlage;2807244
+286;Witterda;2807300
+287;Wissen;2807440
+288;Wismar;2807465
+289;Wirtheim;2807521
+290;Wirtheim;2807521
+291;Wirges;2807549
+292;Wirges;2807549
+293;Wirges;2807549
+294;Wipperfürth;2807594
+295;Wipperfürth;2807594
+296;Wipperfeld;2807595
+297;Winterburg;2807778
+298;Winterberg;2807788
+299;Winnweiler;2807852
+300;Winnweiler;2807852
+301;Winnweiler;2807852
+302;Windischbuchen;2808155
+303;Wiesthal;2809123
+304;Wiesentheid;2809191
+305;Wiesentheid;2809191
+306;Wiesen (Unterfranken);2809291
+307;Wiesbaden;2809346
+308;Wiesbaden;2809346
+309;Wiesbaden;2809346
+310;Wiesbaden;2809346
+311;Wickstadt;2809728
+312;Wickstadt;2809728
+313;Wicker (Flörsheim am Main);2809757
+314;Wicker (Flörsheim am Main);2809757
+315;Wicker (Flörsheim am Main);2809757
+316;Wicker (Flörsheim am Main);2809757
+317;Wicker (Flörsheim am Main);2809757
+318;Wetzlar;2809889
+319;Wetzlar;2809889
+320;Wetzlar;2809889
+321;Westhausen;2810132
+322;Westhausen;2810132
+323;Westhausen;2810132
+324;Westerode (Duderstadt);2810221
+325;Westerhausen (Thale);2810345
+326;Westerburg;2810413
+327;Wesel;2810678
+328;Wesel;2810678
+329;Wesel;2810678
+330;Wesel;2810678
+331;Wesel;2810678
+332;Wesel;2810678
+333;Wertheim;2810716
+334;Wertheim;2810716
+335;Wersen;2810734
+336;Werschau;2810748
+337;Werschau;2810748
+338;Werschau;2810748
+339;Werschau;2810748
+340;Wernsbach (Neuendettelsau);2810791
+341;Wernigerode;2810808
+343;Wernborn;2810838
+344;Werl;2810878
+345;Werl;2810878
+346;Werkhausen;2810883
+347;Werdum;2810917
+348;Werden, Essen;2810961
+349;Werchau;2810972
+350;Werbach;2811000
+351;Werbach;2811000
+352;Werbach;2811000
+353;Wennigloh;2811074
+354;Wennigloh;2811074
+355;Wennigloh;2811074
+356;Wendehausen;2811311
+357;Wendehausen;2811311
+358;Welzheim;2811354
+359;Welshofen;2811392
+360;Ennest;2811412
+361;Ennest;2811412
+362;Wellmich;2811455
+363;Wellmich;2811455
+364;Wellmich;2811455
+365;Weißkirchen (Oberursel);2811712
+366;Weißkirchen (Oberursel);2811712
+367;Weißkirchen (Oberursel);2811712
+368;Weißensee (Thüringen);2811860
+369;Weißensee (Thüringen);2811860
+370;Weißenburg;2811909
+371;Weißenburg;2811909
+372;Weißenburg in Bayern;2811909
+373;Weißenburg in Bayern;2811909
+374;Weißenburg in Bayern;2811909
+375;Weißenbrunn;2811918
+376;Lüderode;2811927
+377;Weißenborn-Lüderode;2811927
+378;Weißenborn (Hessen);2811936
+379;Weiskirchen (Rodgau);2812070
+380;Weiskirchen (Rodgau);2812070
+381;Weisenbach;2812092
+382;Weisenbach;2812092
+383;Mainz-Weisenau;2812094
+384;Mainz-Weisenau;2812094
+385;Mainz-Weisenau;2812094
+386;Mainz-Weisenau;2812094
+387;Mainz-Weisenau;2812094
+388;Mainz-Weisenau;2812094
+389;Mainz-Weisenau;2812094
+390;Mainz-Weisenau;2812094
+391;Weinheim;2812174
+392;Weinheim;2812174
+393;Weimar;2812482
+394;Weimar;2812482
+395;Weimar;2812482
+396;Weimar;2812482
+397;Weiler (Boppard);2812581
+398;Weiler bei Bingen;2812584
+399;Weiler bei Bingen;2812584
+400;Weil der Stadt;2812625
+401;Weil der Stadt;2812625
+402;Weilburg;2812626
+403;Weilbach (Flörsheim);2812632
+404;Weil am Rhein;2812636
+405;Weil am Rhein;2812636
+406;Weidenhahn;2812994
+407;Weidenhahn;2812994
+408;Weiberhof (Sailauf);2813182
+409;Wehrheim;2813216
+410;Wehr;2813262
+411;Wegberg;2813390
+412;Wegberg;2813390
+413;Wechterswinkel;2813519
+414;Warthausen;2813914
+415;Schloss Wartenstein;2813927
+416;Warstein;2814005
+417;Warstein;2814005
+418;Warstein;2814005
+419;Warburg;2814153
+420;Warburg;2814153
+421;Warburg;2814153
+422;Warburg;2814153
+423;Warburg;2814153
+424;Warburg;2814153
+425;Warberg;2814157
+426;Wanfried;2814297
+427;Wandersleben;2814313
+429;Wallstadt;2814519
+430;Wallstadt;2814519
+432;Wallmerod;2814553
+433;Wallersheim;2814596
+434;Wallersheim;2814596
+435;Wallenfels;2814637
+436;Walldürn;2814667
+437;Walldürn;2814667
+438;Walldürn;2814667
+439;Walldürn;2814667
+440;Walldürn;2814667
+441;Walldürn;2814667
+442;Walldürn;2814667
+443;Walldürn;2814667
+444;Walldürn;2814667
+445;Walldürn;2814667
+446;Walhausen;2814749
+447;Waldshut;2814791
+448;Waldorf (Rheinland-Pfalz);2814840
+449;Waldorf (Rheinland-Pfalz);2814840
+450;Waldhilbersheim (Guldental);2814951
+451;Waldhilbersheim (Guldental);2814951
+452;Waldhilbersheim (Guldental);2814951
+453;Waldheim;2814956
+454;Waldernbach;2815052
+455;Waldenburg (Württemberg);2815075
+456;Waldeck;2815101
+457;Waldeck;2815101
+458;Waldböckelheim;2815139
+459;Waldaschaff;2815180
+460;Waldaschaff;2815180
+461;Waldalgesheim;2815186
+462;Waischenfeld;2815297
+463;Waigolshausen;2815303
+464;Waigolshausen;2815303
+465;Waidachshof (Seckach);2815320
+466;Waibstadt;2815328
+467;Waibstadt;2815328
+468;Waiblingen;2815330
+469;Waghäusel;2815487
+470;Waghäusel;2815487
+471;Wachstedt;2815689
+472;Wachstedt;2815689
+473;Schloss Vollrads;2816550
+474;Vollrads;2816550
+475;Vollrads;2816550
+476;Vollrads;2816550
+477;Vollmersdorf (Hardheim);2816561
+478;Volkmarsen;2816616
+479;Volkmarsen;2816616
+480;Volkach;2816702
+481;Volbach (Bergisch Gladbach);2816713
+482;Vockenhausen;2817088
+483;Vockenhausen;2817088
+484;Vlotho;2817105
+485;Virneburg;2817146
+486;Vippachedelhausen;2817149
+487;Vilseck;2817207
+488;Vilseck;2817207
+489;Villmar;2817217
+490;Villmar;2817217
+491;Villmar;2817217
+492;Villmar;2817217
+493;Viernheim;2817324
+494;Viernheim;2817324
+495;Venrath;2817624
+496;Venningen;2817627
+497;Vendersheim;2817659
+498;Velmede, Bestwig;2817684
+499;Veitshöchheim;2817733
+500;Vechta;2817812
+501;Valwig;2817894
+502;Vallendar;2817909
+503;Usingen;2818097
+504;Usingen;2818097
+505;Uersfeld;2818152
+506;Werschen (Hohenmölsen);2818410
+507;Abtsteinach;2820058
+508;Abtsteinach;2820058
+509;Unkel;2820101
+510;Undenheim;2820150
+511;Undenheim;2820150
+512;Ulm;2820256
+513;Ulm;2820256
+514;Uder;2820498
+515;Uder;2820498
+516;Udenheim;2820499
+517;Überlingen;2820577
+518;Tussenhausen;2820716
+519;Tübingen;2820860
+520;Tübingen;2820860
+521;Tübingen;2820860
+522;Trosdorf;2820982
+523;Trockau;2821062
+524;Trier;2821164
+525;Trier;2821164
+526;Trier;2821164
+527;Trier;2821164
+528;Trier;2821164
+529;Trier;2821164
+530;Trennfurt;2821324
+531;Trennfurt;2821324
+532;Trennfurt;2821324
+533;Treffurt;2821395
+534;Treffurt;2821395
+535;Trechtingshausen;2821408
+536;Trechtingshausen;2821408
+537;Trechtingshausen;2821408
+538;Trebitz;2821437
+539;Trautheim;2821495
+541;Torgau;2821807
+542;Tonndorf;2821892
+543;Tonndorf;2821892
+544;Töngeshof, Mainz;2821905
+545;Töngeshof, Mainz;2821905
+546;Töngeshof, Mainz;2821905
+547;Töngeshof, Mainz;2821905
+548;Töngeshof, Mainz;2821905
+549;Todtnau;2821975
+550;Thulendorf;2822599
+551;Teuschnitz;2823245
+552;Teuschnitz;2823245
+553;Templin;2823533
+554;Teistungen;2823603
+555;Teistungen;2823603
+556;Rheingau;2823799
+557;Rheingau;2823799
+558;Rheingau;2823799
+559;Tauberbischofsheim;2823854
+560;Tauberbischofsheim;2823854
+561;Tauberbischofsheim;2823854
+562;Tauberbischofsheim;2823854
+563;Tauberbischofsheim;2823854
+564;Tauberbischofsheim;2823854
+565;Tauberbischofsheim;2823854
+566;Tauberbischofsheim;2823854
+567;Tauberbischofsheim;2823854
+568;Tauberbischofsheim;2823854
+569;Tauberbischofsheim;2823854
+570;Tambach, Thüringer Wald;2824285
+571;Tambach-Dietharz;2824285
+572;Sulzheim, Rheinland-Pfalz;2824730
+573;Sulzheim, Rheinland-Pfalz;2824730
+574;Saar;2824841
+575;Stuttgart;2825297
+576;Stuttgart;2825297
+577;Württemberg;2825297
+578;Strümpfelbrunn;2825629
+579;Strinz;2825809
+580;Straubing;2826099
+581;Straelen;2826304
+582;Stolberg;2826595
+583;Stockstadt am Main;2826670
+584;Stockstadt am Main;2826670
+585;Stockheim (Kreuzau);2826740
+586;Stockach;2826909
+587;Stierstadt;2827060
+588;Stierstadt;2827060
+589;Stettfeld;2827197
+590;Stephanshausen;2827409
+591;Steinwiesen;2827610
+592;Steinheuterode;2827983
+593;Steinheim am Main;2827987
+594;Hanau-Steinheim;2827987
+595;Steinheim am Main;2827987
+596;Steinheim am Main;2827987
+597;Steinheim am Main;2827987
+598;Steinheim am Main;2827987
+599;Steinefrenz;2828241
+600;Stein (Mittelfranken);2828685
+601;Stein (Mittelfranken);2828685
+605;Steckenroth;2829240
+606;Starkenburg;2829480
+607;Bad Staffelstein;2829701
+608;Staffelstein;2829701
+609;Staffelstein;2829701
+610;Staffelstein;2829701
+611;Stadtprozelten;2829751
+612;Stadtprozelten;2829751
+613;Stadtprozelten;2829751
+614;Stadtprozelten;2829751
+615;Stadtprozelten;2829751
+616;Stadtprozelten;2829751
+617;Stadtprozelten;2829751
+618;Stadtprozelten;2829751
+619;Stadtprozelten;2829751
+620;Stadtprozelten;2829751
+621;Stadtprozelten;2829751
+622;Stadtprozelten;2829751
+623;Stadtprozelten;2829751
+624;Stadtlohn;2829758
+625;Stadtlengsfeld;2829759
+626;Stadtlengsfeld;2829759
+627;Stadtlengsfeld;2829759
+628;Stadtilm;2829765
+629;Stadtilm;2829765
+630;Stadtilm;2829765
+631;Stadtamhof;2829802
+632;Spreth;2830057
+633;Spiesheim;2830449
+634;Speyer;2830582
+635;Speyer;2830582
+636;Speyer;2830582
+637;Speyer;2830582
+638;Spalt;2830849
+639;Spachbrücken;2830868
+640;Spachbrücken;2830868
+641;Spachbrücken;2830868
+642;Spachbrücken;2830868
+643;Frankfurt-Sossenheim;2830898
+644;Frankfurt-Sossenheim;2830898
+645;Sörgenloch;2830959
+646;Sontra;2831083
+647;Sontra;2831083
+648;Sontra;2831083
+649;Sondershausen;2831276
+650;Sommerloch;2831366
+651;Sommerloch;2831366
+652;Sommeringen;2831379
+653;Sömmerda;2831403
+654;Sömmerda;2831403
+655;Sömmerda;2831403
+656;Sömmerda;2831403
+657;Södel;2831727
+658;Bad Sobernheim;2831736
+659;Bad Sobernheim;2831736
+660;Sinsheim;2831872
+661;Sindolsheim;2831933
+662;Simmershausen (Hilders);2832001
+663;Simmersfeld;2832003
+664;Simmern;2832013
+665;Simmern;2832013
+666;Simmern;2832013
+667;Silberhausen;2832144
+668;Sigmaringen;2832232
+669;Siegen;2832495
+670;Siegen;2832495
+671;Siegen;2832495
+672;Siegen;2832495
+673;Siegen;2832495
+674;Siegen;2832495
+675;Siegelsbach;2832506
+676;Siegburg;2832521
+677;Siegburg;2832521
+678;Siefersheim;2832529
+679;Sickingen;2832762
+680;Sevenich (Münstermaifeld);2832855
+681;Seulingen;2832867
+682;Seulingen;2832867
+683;Seulingen;2832867
+684;Seulingen;2832867
+685;Seulberg;2832870
+686;Seßlach;2832921
+687;Seßlach;2832921
+688;Serkenrode;2832957
+689;Seligenstadt;2833242
+690;Seligenstadt;2833242
+691;Seligenstadt;2833242
+692;Seligenstadt;2833242
+693;Seibelsdorf, Antrifttal;2833462
+694;Seibelsdorf, Antrifttal;2833462
+695;Seelenberg;2833680
+696;Schwobfeld;2834146
+697;Schweppenhausen;2834293
+698;Schwenningen am Neckar;2834310
+699;Schweinheim (Aschaffenburg);2834492
+700;Schweinfurt;2834498
+701;Schwarzenberg;2834978
+702;Schwarzach am Main;2835057
+703;Schwarzach am Main;2835057
+704;Frankfurt-Schwanheim;2835245
+705;Schwandorf;2835297
+706;Schwalmstadt;2835345
+707;Schwalbach am Taunus;2835381
+708;Schwalbach am Taunus;2835381
+709;Schwalbach am Taunus;2835381
+710;Schwalbach am Taunus;2835381
+711;Schwabsdorf (Wiegendorf);2835472
+713;Schwäbisch-Gmund;2835482
+714;Schwäbisch-Gmünd;2835482
+715;Schwäbisch-Gmünd;2835482
+716;Schwabenheim an der Selz;2835512
+717;Schwabenheim an der Selz;2835512
+718;Schwabenheim an der Selz;2835512
+719;Schwabenheim an der Selz;2835512
+720;Schröck (Marburg);2836082
+721;Schröck (Marburg);2836082
+722;Schröck (Marburg);2836082
+723;Schröck (Marburg);2836082
+724;Schornsheim;2836306
+725;Schonungen;2836455
+726;Schönthal (Oberpfalz);2836460
+727;Schönstein (Wissen);2836471
+728;Schönholthausen;2836559
+729;Waldstedt;2814782
+730;Schönberg (Kronberg);2836957
+731;Schönberg (Kronberg);2836957
+732;Schneeberg;2837470
+733;Schneeberg;2837470
+734;Schnaittach;2837572
+736;Schlüchtern;2838201
+737;Schloßvippach;2838250
+738;Schloßvippach;2838250
+739;Schloßvippach;2838250
+740;Schloßvippach;2838250
+741;Schloßvippach;2838250
+742;Schloßborn;2838315
+743;Schloßborn;2838315
+744;Schlitz;2838459
+745;Schlitz;2838459
+746;Schliprüthen;2838469
+747;Schleusingen;2838600
+748;Schleiz;2838673
+749;Schlagstein;2838952
+750;Schimborn;2839186
+751;Wiesbaden- Schierstein;2839380
+752;Wiesbaden- Schierstein;2839380
+753;Scheßlitz;2839613
+754;Scherzheim;2839618
+755;Scheringen (Limbach);2839683
+756;Scheeren (Tangerhütte);2840083
+757;Schallodenbach;2840529
+758;Schallodenbach;2840529
+759;Schallodenbach;2840529
+760;Schallodenbach;2840529
+761;Saulbach (Feldkirchen);2841130
+762;Sauerthal;2841166
+763;Sauerheim;2841183
+764;Sargenzell;2841416
+765;St. Goar;2841611
+766;St. Goar;2841611
+767;Aldegund;2841673
+768;Salzkotten;2842131
+769;Salzkotten;2842131
+770;Frankfurt-Sachsenhausen;2842516
+771;Frankfurt-Sachsenhausen;2842516
+772;Saarlouis;2842632
+773;Saarlouis;2842632
+774;Saarlouis;2842632
+775;Saarlouis;2842632
+776;Saarlouis;2842632
+777;Saarlouis;2842632
+778;Saarbrücken;2842647
+779;Saarbrücken;2842647
+780;Saalfeld;2842688
+781;Saalburg;2842706
+782;Rüthen;2842816
+783;Rutesheim;2842824
+784;Rüstungen;2842842
+785;Rustenfelde ;2842854
+786;Rustenfelde ;2842854
+787;Ruppertshütten;2842970
+788;Ruppertsberg;2842981
+789;Ruhlkirchen;2843238
+790;Ruhlkirchen;2843238
+791;Rüdigheim (Amöneburg);2843385
+792;Rüdigheim (Amöneburg);2843385
+793;Rüdigheim (Amöneburg);2843385
+794;Rüdesheim;2843395
+795;Rüdesheim;2843395
+796;Rüdesheim;2843395
+797;Rüdesheim;2843395
+798;Rüdesheim;2843395
+799;Rüdesheim;2843395
+800;Rüdesheim;2843395
+801;Rüdesheim;2843395
+802;Rüdesheim;2843395
+803;Rüdershausen;2843404
+804;Rüdershausen;2843404
+805;Rüdershausen;2843404
+806;Rüdershausen;2843404
+807;Rüdershausen;2843404
+808;Rück (Elsenfeld);2843516
+809;Ruchheim;2843521
+810;Rottweil;2843636
+811;Rottweil;2843636
+812;Rottweil;2843636
+813;Rottweil;2843636
+814;Rottweil;2843636
+815;Rottweil;2843636
+816;Rottendorf;2843724
+817;Rottendorf;2843724
+818;Rottenbuch;2843731
+819;Rothenkirchen (Pressig);2844013
+820;Rothenfels;2844042
+821;Rothenburg ob der Tauber;2844056
+822;Rothenbuch;2844072
+823;Rothenberg;2844089
+824;Rothenbach (Gerbershausen);2844150
+825;Roth, Franken;2844265
+826;Rothenburg ob der Tauber;2844056
+827;Roßdorf;2844756
+828;Roßdorf;2844756
+829;Roßbach (Biebergemünd);2844839
+830;Rosdorf;2845131
+831;Rosdorf;2845131
+832;Rosdorf;2845131
+833;Rollshausen;2845391
+834;Rollshausen;2845391
+835;Röllfeld;2845412
+836;Röllfeld;2845412
+837;Röllfeld;2845412
+838;Röllfeld;2845412
+839;Röllbach;2845433
+840;Röllbach;2845433
+841;Röllbach;2845433
+842;Rolandswerth;2845455
+843;Frankfurt-Rödelheim;2846092
+844;Rockenhausen;2846229
+845;Rockenberg;2846235
+846;Rockenberg;2846235
+847;Rockenberg;2846235
+848;Rockenberg;2846235
+849;Rockenberg;2846235
+850;Rivenich;2846308
+851;Rinteln;2846523
+852;Rinteln;2846523
+853;Rinteln;2846523
+854;Rinteln;2846523
+855;Rinschheim;2846528
+856;Rinschheim;2846528
+857;Rieneck;2846979
+858;Rieneck;2846979
+859;Rieneck;2846979
+860;Riedlingen;2847080
+861;Rhumspringe;2847547
+862;Rhumspringe;2847547
+863;Rhonard;2847556
+864;Rhens;2847588
+865;Rheinzabern;2847595
+866;Rheinzabern;2847595
+867;Rheinsheim;2847605
+868;Rheine;2847645
+869;Rheinböllen;2847658
+870;Rheinberg;2847662
+871;Rheinberg;2847662
+872;Rheinberg;2847662
+873;Rheinbach;2847666
+874;Wiedenbrück, Westfalen;2847690
+875;Wiedenbrück;2847690
+876;Reutlingen;2847736
+877;Retzbach (Zellingen);2847959
+878;Rentweinsdorf;2848143
+879;Rennerod;2848187
+880;Rengelrode;2848236
+881;Remlingen;2848309
+882;Reipoltskirchen;2848665
+883;Reinholterode;2848757
+884;Reinholterode;2848757
+885;Reinholterode;2848757
+886;Reinholterode;2848757
+887;Reinholterode;2848757
+888;Reinhardsachsen;2848797
+889;Reinhardsachsen;2848797
+890;Reinhardsachsen;2848797
+891;Reinhardsachsen;2848797
+892;Reimlingen;2848851
+893;Reil;2848872
+894;Reifenstein (Niederorschel);2848929
+895;Reichartshausen;2849209
+896;Reichartshausen;2849209
+897;Regensburg;2849483
+898;Regensburg;2849483
+899;Regensburg;2849483
+900;Regensburg;2849483
+901;Regensburg;2849483
+902;Recklinghausen;2849647
+903;Recklinghausen;2849647
+904;Reckendorf;2849674
+905;Rechtenbach (Unterfranken);2849710
+906;Ravensburg;2849802
+907;Ravensburg;2849802
+908;Rauenthal;2850038
+909;Rauenthal;2850038
+910;Rauenthal;2850038
+911;Rauenthal;2850038
+912;Rauenthal;2850038
+913;Rauenthal;2850038
+914;Rauenthal;2850038
+915;Rauenthal;2850038
+916;Rauen;2850058
+917;Ratzeburg;2850132
+918;Rattenberg (Niederbayern);2850153
+919;Ratingen;2850174
+920;Ratingen;2850174
+921;Rastatt;2850257
+922;Rastatt;2850257
+923;Rastatt;2850257
+924;Rastatt;2850257
+925;Rasdorf;2850293
+926;Ransel;2850430
+927;Ransel;2850430
+928;Ransel;2850430
+929;Randersacker;2850523
+930;Ralingen;2850740
+931;Bodensee, Niedersachsen;6552335
+932;Bodensee, Niedersachsen;6552336
+933;Bodensee, Niedersachsen;6552337
+934;Radheim;2850981
+935;Radheim;2850981
+936;Püttlingen;2851584
+937;Pütschbach (Dreikirchen);2851606
+938;Prüm;2851826
+939;Prüm;2851826
+940;Prüm;2851826
+941;Prosselsheim;2851863
+942;Prölsdorf;2851906
+943;Presberg;2852209
+944;Presberg;2852209
+945;Presberg;2852209
+946;Pottenstein;2852440
+947;Pottenstein;2852440
+948;Poltersdorf;2852800
+949;Plettenberg;2853209
+950;Planig;2853456
+951;Plaidt;2853471
+952;Pirna;2853572
+953;Piesport;2853779
+954;Philippsthal (Werra);2853900
+955;Philippsburg;2853907
+956;Philippsburg;2853907
+957;Philippsburg;2853907
+958;Philippsburg;2853907
+959;Philippsburg;2853907
+960;Philippsburg;2853907
+961;Philippsburg;2853907
+962;Pforzheim;2853969
+963;Pflaumheim;2854004
+964;Worms-Pfeddersheim;2854153
+965;Pfarrweisach;2854167
+966;Pfalzel;2854262
+967;Trier-Pfalzel;2854262
+968;Pfaffenwiesbach;2854322
+969;Pfaffenheck;2854405
+970;Pfaffenheck;2854405
+971;Peine;2855047
+972;Pattensen;2855243
+973;Papenburg;2855525
+974;Panrod;2855582
+975;Palzem;2855632
+976;Paderborn;2855745
+977;Paderborn;2855745
+978;Paderborn;2855745
+979;Paderborn;2855745
+980;Padberg;2855759
+981;Ottersheim;2856000
+982;Oestrich;2856211
+983;Oestrich;2856211
+984;Oestrich;2856211
+985;Osthofen;2856278
+986;Osthofen;2856278
+987;Ostheim;2856284
+988;Osterburken;2856637
+989;Osterburken;2856637
+990;Osterburken;2856637
+991;Osterburken;2856637
+992;Osterburken;2856637
+993;Osterburken;2856637
+994;Osterburken;2856637
+995;Osnabrück;2856883
+996;Osnabrück;2856883
+997;Osnabrück;2856883
+998;Ormesheim;2857067
+999;Oppenheim;2857167
+1000;Oppenheim;2857167
+1001;Olsbrücken;2857289
+1002;Olpe;2857306
+1003;Olpe;2857306
+1004;Ohrdruf;2857592
+1005;Ohrdruf;2857592
+1006;Ohmes;2857632
+1007;Ohmes;2857632
+1008;Offheim;2857772
+1009;Offenburg;2857798
+1010;Offenburg;2857798
+1011;Offenburg;2857798
+1012;Offenbach;2857807
+1013;Offenbach;2857807
+1014;Odenheim;2858124
+1015;Ockstadt;2858226
+1016;Ockstadt;2858226
+1017;Ockstadt;2858226
+1018;Ockstadt;2858226
+1019;Ockenheim;2858239
+1020;Ockenheim;2858239
+1021;Ockenheim;2858239
+1022;Ochtendung;2858253
+1023;Ochsenfurt;2858333
+1024;Ochsenfurt;2858333
+1025;Ochsenfurt;2858333
+1026;Ochsenfurt;2858333
+1027;Oberwittstadt;2858492
+1028;Oberweyer;2858556
+1029;Oberwesel;2858562
+1030;Oberwesel;2858562
+1031;Oberwesel;2858562
+1032;Oberwalluf;2858663
+1033;Oberwalluf;2858663
+1034;Oberwalluf;2858663
+1035;Oberursel;2858738
+1036;Oberursel;2858738
+1037;Oberursel;2858738
+1038;Oberursel;2858738
+1039;Oberursel;2858738
+1040;Oberursel;2858738
+1041;Oberursel;2858738
+1042;Oberursel;2858738
+1043;Oberursel;2858738
+1044;Obertiefenbach (Beselich);2858783
+1045;Obertiefenbach (Beselich);2858783
+1046;Oberstdorf;2858964
+1047;Oberselters;2859032
+1048;Oberselters;2859032
+1049;Schönmattenwag;2859101
+1050;Saulheim;2859199
+1051;Oberröslau;2859245
+1052;Oberrode;2859270
+1053;Oberrode;2859270
+1054;Oberorschel;2859470
+1055;Oberorschel;2859470
+1056;Ober-Olm;2859481
+1057;Ober-Olm;2859481
+1058;Ober-Olm;2859481
+1059;Obernheim;2859547
+1060;Oberndorf (Pfalz);2859615
+1061;Oberndorf (Pfalz);2859615
+1062;Obernburg am Main;2859675
+1063;Obernburg;2859675
+1064;Obernau (Aschaffenburg);2859692
+1066;Ober-Mörlen;2859739
+1067;Obermennig;2859783
+1068;Obermendig;2859785
+1069;Obermehler;2859800
+1070;Oberleichtersbach;2859938
+1071;Oberkalbach;2860116
+1072;Oberjosbach;2860131
+1073;Ober-Hilbersheim;2860335
+1074;Ober-Hilbersheim;2860335
+1075;Oberheimbach;2860372
+1076;Oberginsbach;2860616
+1077;Oberginsbach;2860616
+1078;Ober-Flörsheim;2860694
+1079;Oberfelden;2860718
+1080;Oberfelden;2860718
+1081;Ober-Erlenbach;2860845
+1082;Ober-Erlenbach;2860845
+1083;Brechen;2861218
+1084;Oberbrechen;2861219
+1085;Oberbrechen;2861219
+1086;Oberbrechen;2861219
+1087;Oberbessenbach;2861274
+1088;Oberaudorf;2861374
+1089;Nusplingen;2861628
+1090;Nusbaum;2861631
+1091;Nürtingen;2861632
+1092;Nürnberg;2861650
+1093;Nürnberg;2861650
+1094;Nürnberg;2861650
+1095;Nürnberg;2861650
+1096;Nürnberg;2861650
+1097;Nürnberg;2861650
+1098;Nürnberg;2861650
+1100;Nümmen;2861675
+1101;Northeim;2861814
+1102;Nörten-Hardenberg;2861817
+1103;Nörten-Hardenberg;2861817
+1104;Nörten-Hardenberg;2861817
+1105;Nörten-Hardenberg;2861817
+1106;Nörten-Hardenberg;2861817
+1107;Nordstemmen, Hildesheim;2861866
+1108;Nordstemmen, Hildesheim;2861866
+1109;Nördlingen;2861914
+1110;Nördlingen;2861914
+1111;Nordheim vor der Rhön;2861969
+1112;Nievern;2862440
+1113;Nierstein;2862485
+1114;Nierstein;2862485
+1115;Nierstein;2862485
+1116;Nierentrop;2862507
+1117;Niederzissen;2862696
+1118;Niederzeuzheim;2862700
+1119;Niederzeuzheim;2862700
+1120;Niederwiera ;2862726
+1121;Nieder-Weisel;2862739
+1122;Nieder-Weisel;2862739
+1129;Niederursel;2862791
+1130;Niederstetten;2862831
+1131;Niederselters;2862873
+1132;Niederselters;2862873
+1133;Niederselters;2862873
+1134;Niederselters;2862873
+1135;Niederselters;2862873
+1136;Niederselters;2862873
+1137;Niederselters;2862873
+1138;Nieder-Saulheim;2862916
+1139;Nieder-Saulheim;2862916
+1140;Niederorschel;2863012
+1141;Niederorschel;2863012
+1142;Niederorschel;2863012
+1143;Nieder-Olm;2863014
+1144;Nieder-Olm;2863014
+1145;Nieder-Olm;2863014
+1146;Nieder-Olm;2863014
+1147;Nieder-Olm;2863014
+1148;Nieder-Olm;2863014
+1149;Nieder-Olm;2863014
+1150;Niedernhausen;2863046
+1151;Niedernhausen;2863046
+1152;Niedernberg;2863088
+1153;Niedernberg;2863088
+1154;Niedernberg;2863088
+1155;Nieder-Mörlen;2863106
+1156;Nieder-Mörlen;2863106
+1157;Nieder-Mörlen;2863106
+1158;Nieder-Mockstadt;2863113
+1159;Niederlahnstein;2863193
+1160;Niederklein;2863210
+1161;Niederklein;2863210
+1162;Niederklein;2863210
+1163;Niederklein;2863210
+1164;Nieder-Ingelheim;2863240
+1165;Nieder-Ingelheim;2863240
+1166;Niederhöchstadt;2863321
+1167;Niederhöchstadt;2863321
+1169;Niederheimbach;2863341
+1170;Niederheimbach;2863341
+1171;Niederheimbach;2863341
+1172;Niederhadamar;2863383
+1173;Frankfurt-Nieder-Eschbach;2863456
+1174;Niederburg;2863555
+1175;Niederbuchenau;2863560
+1176;Niederbrechen;2863578
+1177;Niederbrechen;2863578
+1178;Niederbrechen;2863578
+1179;Niederbrechen;2863578
+1180;Niederbrechen;2863578
+1181;Niederbrechen;2863578
+1183;Koblenz-Niederberg;2863608
+1184;Niederalben;2863672
+1185;Nickenich;2863732
+1186;Neutrauchburg;2863952
+1187;Neutrauchburg;2863952
+1188;Neustadt an der Weinstraße;2864054
+1189;Neustadt (Eichsfeld);2864088
+1190;Neustadt (Eichsfeld);2864088
+1191;Neustadt (Eichsfeld);2864088
+1192;Neustadt (Eichsfeld);2864088
+1193;Neustadt (Hessen);2864091
+1194;Neustadt, Hessen;2864091
+1195;Neuss;2864118
+1196;Neuss;2864118
+1197;Neuss;2864118
+1198;Neumarkt in der Oberpfalz;2864549
+1199;Neuhausen, auf den Fildern;2865086
+1200;Worms-Neuhausen;2865089
+1201;Neuenhain (Taunus);2865709
+1202;Neuenhain (Taunus);2865709
+1203;Neuenhain (Bad Soden am Taunus);2865709
+1204;Neudenau;2866022
+1205;Neudenau;2866022
+1206;Neudenau;2866022
+1207;Neudenau;2866022
+1208;Neudenau;2866022
+1209;Neudenau;2866022
+1210;Neuburg an der Donau;2866070
+1211;Neuburg an der Donau;2866070
+1212;Neuburg an der Donau;2866070
+1213;Neuburg an der Donau;2866070
+1214;Neuburg an der Donau;2866070
+1215;Neuburg am Rhein;2866074
+1216;Neu-Bamberg;2866264
+1217;Neu-Bamberg;2866264
+1219;Nesselröden;2866418
+1220;Nesselröden;2866419
+1221;Nesselröden;2866420
+1222;Nesselröden;2866421
+1223;Nemmenich;2866549
+1224;Neiden (Elsnig);2866612
+1225;Neheim;2866650
+1226;Neheim;2866650
+1227;Neckarsteinach;2866759
+1228;Nauroth;2866851
+1229;Naumburg;2866906
+1230;Naumburg;2866906
+1231;Naumburg;2866906
+1232;Naumburg;2866906
+1233;Nastätten;2866990
+1234;Nastätten;2866990
+1235;Nagold;2867164
+1236;Nagelsberg (Künzelsau);2867180
+1237;Nackenheim;2867229
+1238;Nackenheim;2867229
+1239;Nackenheim;2867229
+1240;Münzenberg;2867492
+1241;Münzenberg;2867492
+1242;Münzenberg;2867492
+1243;Münsterschwarzach;2867510
+1246;Münstermaifeld;2867514
+1247;Münstermaifeld;2867514
+1248;Münstermaifeld;2867514
+1249;Münstermaifeld;2867514
+1250;Münstermaifeld;2867514
+1251;Münstermaifeld;2867514
+1252;Münstermaifeld;2867514
+1253;Münstermaifeld;2867514
+1254;Münster;2867543
+1255;Münster;2867543
+1256;Münster;2867543
+1257;Münster;2867543
+1258;Münster;2867543
+1259;Münster;2867543
+1260;Münster;2867543
+1261;Münster;2867543
+1262;Münster;2867543
+1263;Münster;2867543
+1264;Münster;2867543
+1265;Münster;2867543
+1266;Münster;2867543
+1267;Münnerstadt;2867571
+1268;Bayern;2867714
+1269;München;2867714
+1270;München;2867714
+1271;München;2867714
+1272;Mühlheim am Main;2867985
+1273;Mühlheim am Main;2867985
+1274;Mühlheim am Main;2867985
+1275;Thüringen;2867996
+1276;Mühlhausen, Thüringen;2867996
+1277;Mühlhausen, Thüringen;2867996
+1278;Mühlhausen, Thüringen;2867996
+1279;Mühlhausen, Thüringen;2867996
+1280;Mühlhausen, Thüringen;2867996
+1281;Mühlhausen, Thüringen;2867996
+1282;Mühldorf am Inn;2868506
+1283;Mühlberg;2868531
+1284;Mosbach;2869120
+1285;Mörsfeld;2869159
+1286;Mörsdorf (Hunsrück);2869168
+1287;Mörlenbach;2869221
+1288;Mörlenbach;2869221
+1289;Morbach;2869306
+1290;Monzingen;2869732
+1291;Montabaur;2869746
+1292;Montabaur;2869746
+1293;Montabaur;2869746
+1294;Montabaur;2869746
+1295;Montabaur;2869746
+1296;Montabaur;2869746
+1297;Montabaur;2869746
+1298;Monschau;2869756
+1299;Monschau;2869756
+1300;Monschau;2869756
+1301;Monschau;2869756
+1302;Mönchberg;2869908
+1303;Mönchberg;2869908
+1304;Mönchberg;2869908
+1305;Mönchberg;2869908
+1306;Mönchberg;2869908
+1307;Mönchberg;2869908
+1308;Mömlingen;2869934
+1310;Mainz-Mombach;2869940
+1311;Mainz-Mombach;2869940
+1312;Mainz-Mombach;2869940
+1313;Molschleben;2869964
+1314;Mittweide;2870317
+1315;Mittweida;2870318
+1316;Mittelstreu;2870536
+1317;Mittelheim;2870690
+1318;Mittelheim;2870690
+1319;Mingerode;2871018
+1320;Minden;2871039
+1321;Minden;2871039
+1322;Minden;2871039
+1323;Miltenberg;2871079
+1324;Miltenberg;2871079
+1325;Miltenberg;2871079
+1326;Miltenberg;2871079
+1327;Miltenberg;2871079
+1328;Michelbach (Westerwald);2871353
+1329;Schmelz (Saar);2871361
+1330;Meudt;2871460
+1331;Meudt;2871460
+1332;Meudt;2871460
+1333;Metten;2871573
+1334;Metten;2871573
+1335;Metebach;2871593
+1336;Meßkirch;2871609
+1337;Meßkirch;2871609
+1338;Mesenich;2871649
+1339;Meschede;2871668
+1340;Meschede;2871668
+1341;Meschede;2871668
+1342;Meschede;2871668
+1343;Merzbach (Rheinbach);2871701
+1344;Mertloch;2871713
+1345;Mertloch;2871713
+1346;Mertloch;2871713
+1347;Mertesheim;2871718
+1348;Mernes;2871761
+1349;Mermuth;2871762
+1350;Merl (Zell);2871778
+1351;Merkershausen;2871794
+1352;Merkelbach;2871807
+1353;Mengerskirchen;2871953
+1354;Mengerskirchen;2871953
+1355;Mengerskirchen;2871953
+1356;Mengerskirchen;2871953
+1357;Mengerskirchen;2871953
+1358;Mengen;2871964
+1359;Mengelrode;2871968
+1360;Menden (Sauerland);2871983
+1361;Menden (Sauerland);2871983
+1362;Menden (Sauerland);2871983
+1363;Memmingen;2871992
+1364;Melsungen;2872028
+1365;Mellrichstadt;2872047
+1366;Mellrichstadt;2872047
+1367;Mellrichstadt;2872047
+1368;Melchendorf;2872111
+1369;Meisenheim;2872173
+1370;Meiningen (Thüringen);2872225
+1371;Meiningen (Thüringen);2872225
+1372;Meiningen (Thüringen);2872225
+1374;Meersburg;2872486
+1375;Wiesbaden-Medenbach;2872546
+1376;Wiesbaden-Medenbach;2872546
+1377;Medelon;2872551
+1378;Medebach;2872557
+1379;Mecklinghausen (Attendorn);2872563
+1380;Mechenhard;2872614
+1381;Maudach;2872828
+1382;Maudach;2872828
+1383;Maudach;2872828
+1384;Maubach,  Herzogenrath;2872840
+1385;Mastholte;2872954
+1386;Mastholte;2872954
+1387;Masburg;2873049
+1388;Masburg;2873049
+1389;Marxheim (Taunus);2873079
+1390;Martinsthal;2873106
+1391;Martinfeld;2873146
+1392;Marten (Dortmund);2873172
+1394;Marsberg;2873211
+1395;Marktsteft;2873283
+1396;Marktredwitz;2873289
+1397;Marktleugast;2873296
+1398;Marktheidenfeld;2873301
+1399;Marktheidenfeld;2873301
+1400;Marienstein (Eichstätt);2873501
+1401;Marienfeld (Harsewinkel);2873597
+1402;Mainz-Marienborn;2873622
+1403;Mardorf (Amöneburg);2873739
+1404;Mardorf (Amöneburg);2873739
+1405;Mardorf (Amöneburg);2873739
+1406;Mardorf (Amöneburg);2873739
+1407;Marburg;2873759
+1408;Marburg;2873759
+1409;Marburg;2873759
+1410;Marburg;2873759
+1411;Marburg;2873759
+1412;Marbach am Neckar;2873776
+1413;Marbach am Neckar;2873776
+1414;Mannheim;2873891
+1415;Mannheim;2873891
+1416;Mannheim;2873891
+1417;Mannheim;2873891
+1418;Mannheim;2873891
+1419;Mannheim;2873891
+1420;Manderscheid;2873970
+1421;Malsch;2874047
+1422;Mainz;2874225
+1423;Mainz;2874225
+1424;Mainz;2874225
+1425;Mainz;2874225
+1426;Mainz;2874225
+1427;Mainz;2874225
+1428;Mainz;2874225
+1429;Mainz;2874225
+1430;Mainz;2874225
+1431;Mainz;2874225
+1432;Mainz;2874225
+1433;Mainz;2874225
+1434;Mainz;2874225
+1435;Mainz;2874225
+1436;Mainz;2874225
+1437;Mainz;2874225
+1438;Mainz;2874225
+1439;Mainz;2874225
+1440;Pfalz;2907911
+1441;Mainz;2874225
+1442;Mainz;2874225
+1443;Mainz;2874225
+1444;Mainz;2874225
+1445;Mainbernheim;2874254
+1446;Maikammer;2874282
+1447;Maikammer;2874282
+1448;Magdeburg;2874545
+1449;Magdeburg;2874545
+1450;Magdeburg;2874545
+1451;Lychen;2874695
+1454;Lützen;2874747
+1455;Lützen;2874747
+1456;Lützen;2874747
+1457;Lutter (Eichsfeld);2874842
+1458;Lutter (Eichsfeld);2874842
+1459;Lutter (Eichsfeld);2874842
+1460;Oppau;2875374
+1461;Oggersheim;2875375
+1462;Ludersheim;2875423
+1465;Lottstetten;2875738
+1466;Lottstetten;2875738
+1467;Lossen (Göhren);2875810
+1468;Lörzweiler;2875868
+1469;Lörzweiler;2875868
+1470;Lorsch;2875877
+1471;Lorsch;2875877
+1472;Lorsch;2875877
+1473;Lorsch;2875877
+1474;Lorsch;2875877
+1475;Lorchhausen;2875907
+1476;Lorchhausen;2875907
+1477;Lorchhausen;2875907
+1478;Lorchhausen;2875907
+1479;Lorchhausen;2875907
+1481;Lohr am Main;2876147
+1482;Lohr am Main;2876147
+1483;Lohr am Main;2876147
+1484;Lohr;2876147
+1485;Lohr am Main;2876147
+1486;Lohndorf (Litzendorf);2876191
+1487;Lipprechterode;2876870
+1488;Linz am Rhein;2876952
+1489;Lingen (Ems);2877088
+1490;Linderbach;2877233
+1491;Linderbach;2877233
+1492;Limburg-Lindenholzhausen;2877264
+1493;Limburg-Lindenholzhausen;2877264
+1494;Limburg-Lindenholzhausen;2877264
+1495;Lindau;2877550
+1496;Lindau;2877550
+1497;Lindau;2877550
+1498;Lindau;2877550
+1499;Lindau;2877550
+1500;Limburg a.d. Lahn;2877648
+1501;Limburg, Lahn;2877648
+1502;Limburg, Lahn;2877648
+1503;Limburg, Lahn;2877648
+1504;Limburg, Lahn;2877648
+1505;Limburg, Lahn;2877648
+1506;Limburg an der Lahn;2877648
+1507;Lichtenfels;2878074
+1508;Lettgenbrunn;2878431
+1509;Lenterode;2878760
+1510;Lenterode;2878760
+1511;Lenterode;2878760
+1512;Lenterode;2878760
+1513;Lenterode;2878760
+1514;Lenterode;2878760
+1515;Lenhausen;2878810
+1516;Lenhausen;2878810
+1517;Lengfurt;2878825
+1518;Lengfurt;2878825
+1519;Lemgo;2878943
+1520;Lippe;2878943
+1521;Lembeck;2878959
+1522;Leipzig;2879139
+1523;Leipzig;2879139
+1524;Sachsen;2879139
+1525;Leinefelde;2879193
+1526;Leinefelde;2879193
+1527;Leinefelde;2879193
+1528;Leinefelde;2879193
+1529;Leinefelde;2879193
+1530;Leinefelde;2879193
+1531;Leinefelde;2879193
+1532;Leinefelde;2879193
+1533;Lehmen;2879498
+1534;Augsburg-Lechhausen;2879779
+1535;Lechenich;2879782
+1536;Lechenich;2879782
+1537;Koblenz Lay;2879837
+1539;Lauterecken;2879895
+1540;Lauterecken;2879895
+1541;Lauterbach (Hessen);2879929
+1542;Lauterbach (Hessen);2879929
+1543;Laupertshausen;2880078
+1544;Lauffen am Neckar;2880111
+1545;Laufenburg (Baden);2880121
+1546;Laufenburg (Baden);2880121
+1547;Laufach;2880146
+1548;Laudenberg (Limbach);2880197
+1549;Laubuseschbach;2880231
+1550;Mainz-Laubenheim;2880270
+1551;Mainz-Laubenheim;2880270
+1552;Langenprozelten;2880956
+1553;Langenprozelten;2880956
+1554;Langenenslingen;2881094
+1555;Langenborn;2881149
+1556;Langenborn;2881149
+1557;Kirburg;2881227
+1558;Langenau;2881259
+1559;Langenau;2881259
+1560;Landstuhl;2881477
+1561;Landshut;2881485
+1562;Landshausen (Kraichtal);2881488
+1563;Landau in der Pfalz;2881646
+1564;Lahr (Westerwald);2881881
+1565;Lahr/Schwarzwald;2881885
+1566;Lahr/Schwarzwald;2881885
+1567;Lahnstein;2881889
+1568;Lahnstein;2881889
+1569;Lahnstein;2881889
+1570;Ladenburg;2881980
+1571;Ladenburg;2881980
+1572;Ladenburg;2881980
+1573;Kuppenheim;2882375
+1574;Kupferzell;2882399
+1575;Kupferberg;2882417
+1576;Külsheim;2882575
+1577;Külsheim;2882575
+1578;Külsheim;2882575
+1579;Külsheim;2882575
+1580;Külsheim;2882575
+1581;Külsheim;2882575
+1582;Külsheim;2882575
+1583;Külsheim;2882575
+1584;Külsheim;2882575
+1585;Küllstedt;2882597
+1586;Küllstedt;2882597
+1587;Kronberg;2883754
+1588;Kronberg;2883754
+1589;Kronberg;2883754
+1590;Kronberg;2883754
+1591;Kronberg;2883754
+1592;Kronach;2883784
+1593;Kronach;2883784
+1594;Kriftel;2883920
+1595;Kriftel;2883920
+1596;Kriftel;2883920
+1597;Kriftel;2883920
+1598;Kriftel;2883920
+1599;Kriftel;2883920
+1600;Kriftel;2883920
+1601;Kriftel;2883920
+1602;Kreuzebra;2884141
+1603;Kreuzebra;2884141
+1604;Krautheim;2884625
+1605;Krautheim;2884625
+1606;Krautheim;2884625
+1607;Kransberg;2884748
+1608;Mainz-Kostheim;2885273
+1609;Mainz-Kostheim;2885273
+1610;Kostheim;2885273
+1611;Kostheim;2885273
+1612;Mainz-Kostheim;2885273
+1613;Kornelimünster ;2885438
+1614;Kornelimünster ;2885438
+1615;Konstanz;2885679
+1616;Konstanz;2885679
+1617;Konstanz;2885679
+1618;Konstanz;2885679
+1619;Konstanz;2885679
+1620;Königstein im Taunus;2885760
+1621;Königstein im Taunus;2885760
+1622;Königstein im Taunus;2885760
+1623;Königstein im Taunus;2885760
+1624;Königstein im Taunus;2885760
+1625;Königshofen, Unterfranken;2885829
+1626;Bad Königshofen im Grabfeld;2885829
+1627;Königsheim;2885850
+1628;Königsheim;2885850
+1629;Königsheim;2885850
+1630;Königheim;2885991
+1631;Königheim;2885991
+1632;Königheim;2885991
+1633;Königheim;2885991
+1634;Königheim;2885991
+1635;Konigheim;2885991
+1636;Königheim;2885991
+1637;Köln;2886242
+1638;Köln;2886242
+1639;Köln;2886242
+1640;Köln;2886242
+1641;Köln;2886242
+1642;Köln;2886242
+1643;Köln;2886242
+1644;Köln;2886242
+1645;Köln;2886242
+1646;Koblenz;2886946
+1647;Koblenz;2886946
+1648;Koblenz;2886946
+1649;Koblenz;2886946
+1650;Koblenz;2886946
+1651;Klotzenhof;2887374
+1652;Klotten;2887385
+1653;Kloppenheim;2887585
+1654;Klingenmünster;2887718
+1655;Klingenberg am Main;2887736
+1656;Klingenberg am Main;2887736
+1657;Klingenberg am Main;2887736
+1658;Klingenberg am Main;2887736
+1659;Klingenberg am Main;2887736
+1660;Klingenberg am Main;2887736
+1661;Klein-Winternheim;2887987
+1662;Klein-Winternheim;2887987
+1663;Klein-Winternheim;2887987
+1664;Kleinwallstadt;2888053
+1665;Kleinwallstadt;2888053
+1666;Kleinwallstadt;2888053
+1667;Kleinwallstadt;2888053
+1668;Kleinwallstadt;2888053
+1669;Kleinwallstadt;2888053
+1670;Kleinwallstadt;2888053
+1671;Klein-Umstadt;2888099
+1672;Kleinsassen;2888281
+1673;Kleinsassen;2888281
+1674;Klein-Rohrheim;2888314
+1675;Klein-Rohrheim;2888314
+1676;Kleinrinderfeld;2888323
+1677;Kleinostheim;2888411
+1678;Kleinmaischeid;2888520
+1679;Kleinenberg;2889463
+1680;Kitzingen;2890158
+1681;Kitzingen;2890158
+1682;Kitzingen;2890158
+1683;Kißlegg  ;2890199
+1684;Kißlegg  ;2890199
+1685;Kirtorf;2890222
+1686;Kirschhausen;2890239
+1687;Kirrweiler;2890278
+1688;Kirrweiler (Pfalz);2890278
+1689;Kirrweiler (Pfalz);2890278
+1690;Kirn;2890314
+1691;Kirn;2890314
+1692;Kirdorf;2890326
+1693;Kirchzell;2890327
+1694;Kirchzell;2890327
+1695;Kirchworbis;2890329
+1696;Kirchworbis;2890329
+1697;Kirchworbis;2890329
+1698;Kirchworbis;2890329
+1699;Kirchworbis;2890329
+1700;Kirchworbis;2890329
+1701;Kirchveischede;2890350
+1702;Kirchhundem;2890442
+1703;Kirchhundem;2890442
+1704;Kirchhundem;2890442
+1705;Kirchhundem;2890442
+1706;Kirchheim (Heidelberg);2890483
+1707;Kirchheim (Heidelberg);2890483
+1708;Kirchgandern;2890513
+1709;Kirchgandern;2890513
+1710;Kirchen (Sieg);2890586
+1711;Kirchberg (Hunsrück);2890660
+1712;Kirchberg (Hunsrück);2890660
+1713;Kirchberg (Hunsrück);2890660
+1714;Kindenheim;2890874
+1715;Holstein;2891122
+1716;Schleswig;2891122
+1717;Kiedrich;2891205
+1718;Kiedrich;2891205
+1719;Kiedrich;2891205
+1720;Kiedrich;2891205
+1721;Kiedrich;2891205
+1722;Kiedrich;2891205
+1723;Kiedrich;2891205
+1724;Kesselstadt;2891379
+1725;Hanau-Kesselstadt;2891379
+1726;Koblenz-Kesselheim;2891408
+1727;Eifel;2891525
+1728;Kempten;2891621
+1729;Kempenich;2891640
+1730;Kempenich;2891640
+1731;Kelkheim (Taunus);2891832
+1732;Kelberg;2891846
+1733;Kefferhausen;2891968
+1734;Kaufbeuren;2892080
+1735;Kaub;2892101
+1736;Kaub;2892101
+1737;Kaub;2892101
+1738;Kaub;2892101
+1739;Katzenbühl;2892197
+1740;Mainz-Kastel;2892488
+1741;Mainz-Kastel;2892488
+1742;Mainz-Kastel;2892488
+1743;Mainz-Kastel;2892488
+1744;Mainz-Kastel;2892488
+1745;Mainz-Kastel;2892488
+1746;Mainz-Kastel;2892488
+1747;Mainz-Kastel;2892488
+1748;Mainz-Kastel;2892488
+1749;Mainz-Kastel;2892488
+1750;Mainz-Kastel;2892488
+1751;Mainz-Kastel;2892488
+1752;Mainz-Kastel;2892488
+1753;Kassel;2892518
+1754;Kassel;2892518
+1755;Kasel, Trier;2892571
+1756;Karlsruhe;2892794
+1757;Karlsruhe;2892794
+1758;Karlsruhe;2892794
+1759;Karlsruhe;2892794
+1760;Karbach (Unterfranken);2892988
+1761;Kappel (Hunsrück);2893054
+1762;Canstein,  Marsberg;2893195
+1763;Kandel;2893244
+1764;Bornhofen;2893307
+1765;Kalteneber;2893585
+1766;Kallmerode;2893723
+1767;Kallmerode;2893723
+1768;Kallmerode;2893723
+1769;Kallenhardt;2893738
+1770;Kälberau;2893926
+1771;Frankfurt-Kalbach-Riedberg;2893942
+1772;Frankfurt-Riedberg;2893942
+1773;Kaiserswerth;2893993
+1774;Kaiserswerth;2893993
+1775;Kaiserswerth;2893993
+1776;Kaiserslautern;2894003
+1777;Kaiserslautern;2894003
+1778;Kahl am Main;2894245
+1779;Kahl am Main;2894245
+1780;Jützenbach;2894390
+1781;Jülich;2894553
+1782;Jülich;2894553
+1783;Jülich;2894553
+1784;Jülich;2894553
+1785;Jügesheim;2894579
+1786;Jügesheim;2894579
+1787;Johannisberg (Geisenheim);2894791
+1788;Johannisberg (Geisenheim);2894791
+1789;Johannisberg (Geisenheim);2894791
+1790;Johannisberg (Geisenheim);2894791
+1791;Johannisberg (Geisenheim);2894791
+1792;Johannisberg (Geisenheim);2894791
+1793;Johannisberg (Geisenheim);2894791
+1794;Johannisberg (Geisenheim);2894791
+1795;Jena;2895044
+1796;Jena;2895044
+1797;Isny;2895638
+1798;Insul;2895908
+1799;Ingolstadt;2895992
+1800;Ingolstadt;2895992
+1801;Ingolstadt;2895992
+1802;Ober-Ingelheim;2896015
+1803;Ober-Ingelheim;2896015
+1804;Ober-Ingelheim;2896015
+1805;Ingelheim;2896020
+1806;Impfingen;2896210
+1807;Impfingen;2896210
+1808;Impfingen;2896210
+1809;Immingerode;2896230
+1810;Immenstadt, Allgäu;2896261
+1811;Ilbesheim;2896599
+1812;Ilbenstadt;2896607
+1813;Ilbenstadt;2896607
+1814;Ilbenstadt;2896607
+1815;Idstein;2896736
+1816;Idstein;2896736
+1817;Idstein;2896736
+1818;Oberstein (Idar-Oberstein);2896753
+1819;Ichtershausen;2896768
+1820;Hünfeld;2897436
+1821;Hünfeld;2897436
+1822;Hünfeld;2897436
+1823;Hundsangen;2897557
+1824;Hundsangen;2897557
+1825;Hundheim (Külsheim);2897568
+1826;Hundheim (Külsheim);2897568
+1827;Hülsen (Dörverden);2897791
+1828;Hoya;2898316
+1829;Hoya, Weser;2898316
+1830;Hoya, Weser;2898316
+1831;Höxter;2898321
+1832;Hörstein;2898605
+1833;Hörstein;2898605
+1834;Hörstein;2898605
+1835;Hörstein;2898605
+1836;Hörstein;2898605
+1837;Hornau (Kelkheim);2898906
+1838;Worms-Horcheim;2899073
+1839;Worms-Horcheim;2899073
+1840;Worms-Horcheim;2899073
+1841;Worms-Horcheim;2899073
+1842;Worms-Horcheim;2899073
+1843;Horben;2899093
+1844;Höpfingen;2899191
+1845;Höpfigheim;2899192
+1846;Holzhausen an der Haide;2899767
+1847;Holzhausen an der Haide;2899767
+1848;Holzhausen an der Haide;2899767
+1849;Holzhausen an der Haide;2899767
+1850;Holungen;2900066
+1851;Holsen (Bünde);2900287
+1852;Hollstein (Hessisch Lichtenau);2900370
+1853;Hollstadt;2900375
+1854;Hollfeld;2900453
+1855;Hollfeld;2900453
+1856;Hollfeld;2900453
+1857;Hollfeld;2900453
+1858;Hollerbach (Buchen);2900496
+1859;Hollerbach (Buchen);2900496
+1860;Hollerbach (Buchen);2900496
+1861;Höhr-Grenzhausen;2900825
+1862;Hohengandern;2901756
+1863;Hohengandern;2901756
+1864;Hohenberg an der Eger;2901906
+1865;Hofstadt (Herzogenrath);2902410
+1866;Höfingen (Leonberg);2902519
+1867;Hofheim in Unterfranken;2902531
+1868;Hofheim in Unterfranken;2902531
+1869;Hofheim am Taunus;2902533
+1870;Hofheim am Taunus;2902533
+1871;Hoffenheim;2902584
+1872;Hoffenheim;2902584
+1873;Hoffenheim;2902584
+1874;Hoch-Weisel;2902895
+1875;Hoch-Weisel;2902895
+1876;Hoch-Weisel;2902895
+1877;Höchst;2903019
+1878;Höchst;2903020
+1879;Höchst;2903021
+1880;Höchst;2903022
+1881;Höchstädt, Donau;2903012
+1882;Hochstadt, Maintal;2903014
+1883;Hochstadt, Maintal;2903014
+1884;Frankfurt-Höchst;2903019
+1885;Hochheim am Main;2903175
+1886;Hochheim am Main;2903175
+1887;Hochheim am Main;2903175
+1888;Worms-Hochheim;2903176
+1889;Hochdorf, Rhein-Pfalz-Kreis;2903284
+1890;Hirzenach;2903507
+1891;Hirstein;2903545
+1892;Hörstein;2898605
+1893;Hirschhorn (Neckar);2903625
+1894;Hilscheid;2904625
+1895;Hillesheim;2904691
+1896;Hillesheim;2904691
+1897;Hildesheim;2904789
+1898;Hildesheim;2904789
+1899;Hildesheim;2904789
+1900;Hildesheim;2904789
+1901;Hildesheim;2904789
+1902;Hildesheim;2904789
+1903;Hildesheim;2904789
+1904;Hildesheim;2904789
+1905;Hilders;2904791
+1906;Heuthen;2904974
+1907;Heuthen;2904974
+1908;Heuthen;2904974
+1909;Heuthen;2904974
+1910;Heuthen;2904974
+1911;Heusenstamm;2904992
+1912;Heusenstamm;2904992
+1913;Heusenstamm;2904992
+1914;Heusenstamm;2904992
+1915;Heusenstamm;2904992
+1916;Heubach (Kalbach);2905151
+1917;Heubach (Kalbach);2905151
+1918;Hettingen (Buchen);2905214
+1919;Hettenleidelheim;2905226
+1920;Hesweiler;2905251
+1921;Wiesbaden-Heßloch;2905275
+1922;Wiesbaden-Heßloch;2905275
+1923;Heßlingshof;2905277
+1924;Hessisch Oldendorf;2905290
+1925;Herzogenaurach;2905457
+1926;Herzberg am Harz;2905496
+1927;Herxheim;2905527
+1928;Herxheim;2905527
+1929;Herxheim;2905527
+1930;Herschbach;2905598
+1931;Herrstein;2905601
+1932;Worms-Herrnsheim;2905626
+1933;Worms-Herrnsheim;2905626
+1934;Worms-Herrnsheim;2905626
+1935;Worms-Herrnsheim;2905626
+1936;Worms-Herrnsheim;2905626
+1937;Herkenrath;2906069
+1938;Herford;2906121
+1939;Herdringen;2906142
+1940;Herbstein;2906175
+1941;Herbstein;2906175
+1942;Herbstein;2906175
+1943;Herbstein;2906175
+1944;Herbolzheim;2906205
+1946;Heppenheim;2906268
+1947;Heppenheim;2906268
+1948;Heppenheim;2906268
+1949;Heppendorf;2906269
+1950;Heppdiel;2906274
+1951;Heppdiel;2906274
+1952;Henningen;2906323
+1953;Hemsbach;2906514
+1954;Hemmerde;2906548
+1955;Helmstedt;2906676
+1956;Helmstedt;2906676
+1957;Helmsdorf (Dingelstädt);2906693
+1958;Helmsdorf (Dingelstädt);2906693
+1959;Helferskirchen;2906957
+1960;Heldenbergen;2907006
+1961;Helden (Attendorn);2907008
+1962;Heitersheim;2907068
+1963;Heistern;2907086
+1965;Heinrichsthal;2907211
+1966;Heiminghausen;2907369
+1967;Heimbach;2907459
+1968;Heimbach;2907459
+1969;Heiligenstadt;2907545
+1970;Heilbad Heiligenstadt;2907545
+1971;Heilbad Heiligenstadt;2907545
+1972;Heilbad Heiligenstadt;2907545
+1973;Heilbad Heiligenstadt;2907545
+1974;Heilbad Heiligenstadt;2907545
+1975;Heilbad Heiligenstadt;2907545
+1976;Heilbad Heiligenstadt;2907545
+1977;Heilbad Heiligenstadt;2907545
+1978;Heilbad Heiligenstadt;2907545
+1979;Heilbad Heiligenstadt;2907545
+1980;Heilbad Heiligenstadt;2907545
+1981;Heilbad Heiligenstadt;2907545
+1982;Heilbad Heiligenstadt;2907545
+1983;Heidingsfeld;2907755
+1984;Heidingsfeld;2907755
+1985;Heidingsfeld;2907755
+1986;Heidesheim;2907789
+1987;Heidesheim;2907789
+1988;Heidesheim;2907789
+1989;Heidesheim;2907789
+1990;Heidenfeld;2907857
+1991;Heidelberg;2907911
+1992;Heidelberg;2907911
+1993;Heidelberg;2907911
+1994;Heidelberg;2907911
+1995;Dithmarschen;2908032
+1996;Heichelheim;2908149
+1997;Heepen;2908322
+1998;Mainz-Hechtsheim;2908478
+1999;Mainz-Hechtsheim;2908478
+2000;Mainz-Hechtsheim;2908478
+2001;Hechingen;2908495
+2002;Hechingen;2908495
+2003;Hausen (Niederorschel);2908863
+2004;Hausen, Niederorschel;2908863
+2005;Hausen Miltenberg;2908886
+2006;Hausen Miltenberg;2908886
+2007;Hausen Miltenberg;2908886
+2008;Hausen Miltenberg;2908886
+2009;Hatzenbühl;2909204
+2010;Hattingen;2909230
+2011;Hattersheim;2909240
+2012;Hattersheim;2909240
+2013;Hattersheim;2909240
+2014;Hattenheim;2909258
+2015;Hattenheim;2909258
+2016;Hattenheim;2909258
+2017;Haßfurt;2909335
+2018;Haßfurt;2909335
+2019;Hassfurt;2909335
+2020;Hasselbach;2909429
+2021;Haserich;2909587
+2022;Berndroth;2909696
+2023;Hartenfels;2910181
+2024;Harheim;2910483
+2025;Frankfurt-Harheim;2910483
+2026;Frankfurt-Harheim;2910483
+2027;Haren (Ems);2910514
+2028;Hardheim;2910633
+2029;Hardheim;2910633
+2030;Hardheim;2910633
+2031;Hardheim;2910633
+2032;Hamburg-Harburg;2910685
+2033;Hamburg-Harburg;2910685
+2034;Hannover;2910831
+2035;Hannover;2910831
+2036;Hanhofen;2910881
+2037;Hangenmeilingen;2910902
+2038;Hanau;2911007
+2039;Hanau;2911007
+2040;Hammerstein, Rheinland-Pfalz;2911073
+2041;Hammelburg;2911214
+2042;Hammelburg;2911214
+2043;Hamm;2911240
+2044;Hamm;2911240
+2045;Hameln;2911271
+2046;Gamburg;2922781
+2047;Gamburg;2922782
+2048;Gamburg;2922783
+2049;Hamburg;2911298
+2050;Hamburg;2911298
+2051;Hambuch;2911306
+2052;Halver;2911384
+2053;Halsenbach;2911419
+2054;Halsenbach;2911419
+2055;Hallgarten (Rheingau);2911482
+2056;Hallgarten (Rheingau);2911482
+2057;Hallgarten (Rheingau);2911482
+2058;Hallgarten (Rheingau);2911482
+2059;Hallgarten (Rheingau);2911482
+2060;Hallgarten (Rheingau);2911482
+2061;Oestrich;2911482
+2062;Oestrich;2911482
+2063;Oestrich;2911482
+2064;Oestrich;2911482
+2065;Oestrich;2911482
+2066;Halle;2911522
+2067;Halle;2911522
+2068;Halle;2911522
+2069;Halberstadt;2911665
+2070;Halberstadt;2911665
+2071;Haintchen ;2911760
+2072;Hainstadt (Hainburg);2911764
+2073;Hainstadt (Hainburg);2911764
+2074;Hain im Spessart;2911789
+2075;Hain im Spessart;2911789
+2076;Hainhausen;2911818
+2077;Hainfeld (Pfalz);2911831
+2078;Hainchen;2911856
+2079;Hadamar;2912829
+2080;Hadamar;2912829
+2081;Hadamar;2912829
+2082;Hadamar;2912829
+2083;Hadamar;2912829
+2084;Hadamar;2912829
+2085;Hadamar;2912829
+2086;Hadamar;2912829
+2087;Hadamar;2912829
+2088;Hackenheim;2912863
+2089;Hachenburg;2912921
+2090;Hachenburg;2912921
+2091;Hachenburg;2912921
+2092;Habitzheim;2912961
+2093;Günzburg;2913555
+2094;Guntersblum;2913598
+2095;Gundheim;2913675
+2096;Gudensberg;2913890
+2097;Guben;2913922
+2098;Grünstadt;2914101
+2099;Grünsfeld;2914105
+2100;Groß-Zimmern;2914801
+2101;Groß-Winternheim;2914842
+2102;Groß-Winternheim;2914842
+2103;Groß-Winternheim;2914842
+2104;Groß-Winternheim;2914842
+2105;Großwelzheim;2914868
+2106;Großwallstadt;2914890
+2107;Großwallstadt;2914890
+2108;Großwallstadt;2914890
+2109;Großwallstadt;2914890
+2110;Großwallstadt;2914890
+2111;Großvargula;2914923
+2112;Großvargula;2914923
+2113;Groß-Umstadt;2914929
+2114;Groß-Umstadt;2914929
+2115;Groß-Umstadt;2914929
+2116;Großostheim;2915196
+2117;Großostheim;2915196
+2118;Großostheim;2915196
+2119;Großostheim;2915196
+2120;Großostheim;2915196
+2121;Großostheim;2915196
+2122;Großostheim;2915196
+2123;Großostheim;2915196
+2124;Großmölsen;2915255
+2125;Großlangheim;2915349
+2126;Großkrotzenburg;2915372
+2127;Großkrotzenburg;2915372
+2128;Großkrotzenburg;2915372
+2129;Großkrotzenburg;2915372
+2130;Großheubach;2915511
+2131;Großheubach;2915511
+2132;Großheubach;2915511
+2133;Großheubach;2915511
+2134;Großheubach;2915511
+2135;Großheubach;2915511
+2136;Großheubach;2915511
+2137;Gerau;2915613
+2138;Gerau;2915613
+2139;Großenehrich ;2916643
+2140;Großenbach (Hünfeld);2916671
+2141;Großbartloff;2917002
+2142;Großbartloff;2917002
+2143;Großbartloff;2917002
+2144;Großbartloff;2917002
+2145;Großbartloff;2917002
+2146;Großauheim;2917032
+2147;Großauheim;2917032
+2148;Groschlattengrün;2917075
+2149;Groschlattengrün;2917075
+2150;Grevenstein;2917526
+2151;Greußen;2917579
+2152;Greiz;2917737
+2153;Greiz;2917737
+2154;Gräfentonna;2918268
+2155;Gräfenthal;2918271
+2156;Gräfenthal;2918271
+2157;Gräfendorf;2918338
+2158;Göttingen;2918632
+2159;Göttingen;2918632
+2160;Göttingen;2918632
+2161;Sachsen-Gotha;2918752
+2162;Gotha;2918752
+2163;Mainz-Gonsenheim;2919095
+2164;Mainz-Gonsenheim;2919095
+2165;Mainz-Gonsenheim;2919095
+2166;Mainz-Gonsenheim;2919095
+2167;Mainz-Gonsenheim;2919095
+2168;Mainz-Gonsenheim;2919095
+2169;Mainz-Gonsenheim;2919095
+2170;Goldbach (Unterfranken);2919438
+2171;Goldbach (Unterfranken);2919438
+2172;Goldbach (Unterfranken);2919438
+2173;Göcklingen;2919610
+2174;Goch;2919625
+2175;Goch;2919625
+2176;Gleichenstein;2919995
+2177;Glatten;2920041
+2178;Glashütten, Hessen;2920085
+2179;Glashofen;2920124
+2180;Glan-Münchweiler;2920197
+2181;Gissigheim;2920273
+2182;Ginseldorf;2920332
+2183;Marienheide-Gimborn;2920378
+2184;Gießen;2920512
+2185;Giershagen;2920591
+2186;Gieboldehausen;2920645
+2187;Gieboldehausen;2920645
+2188;Gieboldehausen;2920645
+2189;Gieboldehausen;2920645
+2190;Gieboldehausen;2920645
+2191;Gieboldehausen;2920645
+2192;Gieboldehausen;2920645
+2193;Gieboldehausen;2920645
+2194;Gieboldehausen;2920645
+2195;Gibelstadt;2920652
+2196;Geseke;2920834
+2197;Geseke;2920834
+2198;Geseke;2920834
+2199;Geschwenda;2920837
+2200;Gerresheim;2920958
+2201;Gerolzhofen, Unterfranken;2920959
+2202;Gerolzhofen, Unterfranken;2920959
+2203;Gernsheim;2920994
+2204;Gernsheim;2920994
+2205;Gernsbach;2920997
+2206;Gernsbach;2920997
+2207;Gernrode;2920999
+2208;Gernrode;2920999
+2209;Gernrode;2920999
+2210;Germersheim;2921034
+2211;Germersheim;2921034
+2212;Germershausen;2921035
+2213;Gerlachsheim;2921082
+2214;Gerbershausen;2921179
+2215;Gerbershausen;2921179
+2216;Gerbershausen;2921179
+2217;Georgenthal;2921261
+2218;Gemünden am Main;2921379
+2219;Gemünden am Main;2921379
+2220;Gemünd,  Schleiden;2921383
+2221;Gelsenkirchen;2921466
+2222;Geldern;2921528
+2223;Geldern;2921528
+2224;Geldern;2921528
+2225;Geldern;2921528
+2226;Geldern;2921528
+2227;Geismar;2921642
+2228;Geisleden;2921664
+2229;Geisleden;2921664
+2230;Geisleden;2921664
+2231;Geisleden;2921664
+2232;Geisenheim;2921707
+2233;Geisenheim;2921707
+2234;Geisenheim;2921707
+2235;Geisenheim;2921707
+2236;Geisenheim;2921707
+2237;Geisa;2921816
+2238;Geisa;2921816
+2239;Geisa;2921816
+2240;Geisa;2921816
+2241;Geinsheim (Neustadt);2921819
+2242;Heinsberg;2921837
+2243;Heinsberg;2921837
+2244;Gehren;2921996
+2245;Gehrden;2922008
+2246;Gechingen;2922136
+2247;Gau-Odernheim;2922245
+2248;Gaulsheim;2922260
+2249;Gauernitz;2922283
+2250;Gau-Bickelheim;2922305
+2251;Gau-Bickelheim;2922305
+2252;Gau-Bickelheim;2922305
+2253;Gau-Bickelheim;2922305
+2254;Gau-Bickelheim;2922305
+2255;Gau-Bickelheim;2922305
+2256;Algesheim;2922309
+2257;Algesheim;2922309
+2258;Algesheim;2922309
+2259;Gau-Algesheim;2922309
+2260;Gau-Algesheim;2922309
+2261;Gau-Algesheim;2922309
+2262;Gau-Algesheim;2922309
+2263;Gau-Algesheim;2922309
+2264;Gau-Algesheim;2922309
+2265;Garbenheim;2922596
+2266;Gappenach;2922604
+2267;Gabsheim;2923428
+2268;Gabsheim;2923428
+2269;Fussingen;2923499
+2270;Fürth;2923544
+2271;Fürth;2923544
+2272;Fürstenwalde (Altenberg);2923589
+2273;Fürstenberg, Westfalen;2923640
+2274;Fulda;2923822
+2275;Fulda;2923822
+2276;Fulda;2923822
+2277;Fritzlar;2924326
+2278;Fritzlar;2924326
+2279;Fritzlar;2924326
+2280;Fritzlar;2924326
+2281;Fritzlar;2924326
+2282;Edingen, Mannheim;2924606
+2283;Friedelshausen;2924775
+2284;Friedberg (Hessen);2924802
+2285;Friedberg (Hessen);2924802
+2286;Friedberg (Hessen);2924802
+2287;Friedberg (Hessen);2924802
+2288;Friedberg (Hessen);2924802
+2289;Friedberg (Hessen);2924802
+2290;Wetterau;2924802
+2291;Wetterau;2924802
+2292;Frickhofen;2924827
+2293;Frickhofen;2924827
+2295;Freudenberg am Main;2924916
+2296;Freudenberg am Main;2924916
+2297;Freudenberg am Main;2924916
+2298;Fretterode;2924936
+2299;Fretterode;2924936
+2300;Freisbach;2925047
+2301;Laubersheim;2925079
+2302;Breisgau;2925177
+2303;Freiburg im Breisgau;2925177
+2304;Freiburg im Breisgau;2925177
+2305;Freiberg;2925192
+2306;Bad Fredeburg;2925240
+2307;Wiesbaden-Frauenstein;2925307
+2308;Wiesbaden-Frauenstein;2925307
+2309;Frankfurt am Main;2925533
+2310;Frankfurt am Main;2925533
+2311;Frankfurt am Main;2925533
+2312;Frankfurt am Main;2925533
+2313;Frankfurt am Main;2925533
+2314;Frankfurt am Main;2925533
+2315;Frankfurt am Main;2925533
+2316;Frankfurt am Main;2925533
+2317;Frankfurt am Main;2925533
+2318;Frankfurt am Main;2925533
+2319;Frankfurt am Main;2925533
+2320;Frankfurt am Main;2925533
+2321;Frankfurt am Main;2925533
+2322;Frankfurt am Main;2925533
+2323;Frankfurt am Main;2925533
+2324;Hessen;2925533
+2325;Hessen;2925533
+2326;Hessen;2925533
+2327;Frankfurt am Main;2925533
+2328;Frankfurt an der Oder;2925535
+2329;Frankenthal (Pfalz);2925550
+2330;Frankenthal (Pfalz);2925550
+2331;Frankenthal (Pfalz);2925550
+2332;Frankenthal (Pfalz);2925550
+2333;Frankenberg (Eder);2925629
+2334;Frankenberg (Eder);2925629
+2335;Frankenberg (Eder);2925629
+2336;Frammersbach;2925665
+2337;Frammersbach;2925665
+2338;Frammersbach;2925665
+2339;Forst (Baden);2925848
+2340;Forst (Baden);2925848
+2341;Forchheim;2925910
+2342;Forchheim;2925910
+2343;Forchheim;2925910
+2344;Flörsheim;2926120
+2345;Flörsheim;2926120
+2346;Flörsheim;2926120
+2347;Flörsheim;2926120
+2348;Flonheim;2926135
+2349;Flinsberg;2926180
+2350;Flinsberg;2926180
+2351;Flerzheim;2926256
+2352;Fleckenberg, Westfalen;2926337
+2353;Flammersbach (Wilnsdorf);2926386
+2354;Fladungen, Franken;2926402
+2355;Fischerdorf (Deggendorf);2926548
+2356;Fischen, Allgäu;2926564
+2357;Fischbach (Taunus);2926626
+2358;Fischbach (Taunus);2926626
+2359;Fischbach (Bad Schwalbach);2926628
+2360;Finthen;2926666
+2361;Finthen;2926666
+2362;Finthen;2926666
+2363;Finthen;2926666
+2364;Finthen;2926666
+2365;Mainz-Finthen;2926666
+2366;Feldkahl;2927359
+2367;Fechenbach,  Collenberg;2927647
+2368;Fechenbach,  Collenberg;2927647
+2369;Eversberg;2928340
+2370;Ettlingen;2928615
+2371;Ettlingen;2928615
+2372;Ettlingen;2928615
+2373;Ettlingen;2928615
+2374;Ettingshausen;2928625
+2375;Ettenheim;2928659
+2376;Borchen;2928679
+2377;Esslingen am Neckar;2928751
+2378;Esslingen am Neckar;2928751
+2379;Essen;2928810
+2380;Essen;2928810
+2381;Westfalen;2928810
+2382;Westfalen;2928810
+2383;Westfalen;2928810
+2384;Westfalen;2928810
+2385;Westfalen;2928810
+2386;Westfalen;2928810
+2387;Westfalen;2928810
+2388;Esplingerode;2928841
+2389;Esplingerode;2928841
+2390;Esens;2928911
+2391;Eschweiler;2928963
+2392;Eschwege;2928967
+2393;Eschhofen;2929000
+2394;Erzhausen;2929224
+2395;Ernstkirchen (Schöllkrippen);2929318
+2396;Ernst Cochem;2929350
+2397;Erlenbach am Main;2929484
+2398;Erlenbach am Main;2929484
+2399;Erlenbach am Main;2929484
+2400;Erlangen;2929567
+2401;Erkelenz;2929622
+2402;Erfurtshausen;2929666
+2403;Erfurtshausen;2929666
+2404;Erfurt;2929670
+2405;Erfurt;2929670
+2406;Erfurt;2929670
+2407;Erfurt;2929670
+2408;Erfurt;2929670
+2409;Erfurt;2929670
+2410;Erfurt;2929670
+2411;Erfurt;2929670
+2412;Erfurt;2929670
+2413;Erfurt;2929670
+2414;Erfurt;2929670
+2415;Erfurt;2929670
+2416;Erfurt;2929670
+2417;Erfurt;2929670
+2418;Erfurt;2929670
+2419;Erfurt;2929670
+2420;Erfurt;2929670
+2421;Erfurt;2929670
+2422;Erfurt;2929670
+2423;Erfurt;2929670
+2424;Erfurt;2929670
+2425;Erfurt;2929670
+2426;Erfurt;2929670
+2427;Erfurt;2929670
+2428;Erfurt;2929670
+2429;Erfurt;2929670
+2430;Erfurt;2929670
+2431;Erfurt;2929670
+2432;Erfurt;2929670
+2433;Erfurt;2929670
+2434;Erfurt;2929670
+2435;Erfurt;2929670
+2436;Erftstadt;2929671
+2437;Erfeld;2929681
+2438;Erding, Bayern;2929715
+2440;Erbach;2929801
+2441;Erbach;2929801
+2442;Eppstein;2929817
+2443;Eppstein;2929817
+2444;Eppertshausen;2929837
+2445;Ensheim;2930007
+2446;Ensheim;2930006
+2447;Enkirch;2930053
+2448;Enkirch;2930053
+2449;Engers;2930166
+2450;Emsdorf;2930448
+2451;Emsdorf;2930448
+2452;Emsdorf;2930448
+2453;Emmerichshofen;2930506
+2454;Emmerichshofen;2930506
+2455;Emmerichshofen;2930506
+2456;Emmerichshofen;2930506
+2457;Emmerichshofen;2930506
+2458;Emmerich ;2930509
+2459;Emmerich;2930509
+2460;Emmerich;2930509
+2461;Embsen;2930602
+2462;Elz;2930628
+2463;Elxleben (Landkreis Sömmerda);2930630
+2464;Elxleben (Landkreis Sömmerda);2930630
+2465;Elxleben (Landkreis Sömmerda);2930630
+2466;Elxleben (Landkreis Sömmerda);2930630
+2467;Elvershausen;2930635
+2468;Eltville;2930646
+2469;Eltville am Rhein;2930646
+2470;Eltville am Rhein;2930646
+2471;Eltville am Rhein;2930646
+2472;Eltville am Rhein;2930646
+2473;Elsoff;2930705
+2474;Elsenfeld;2930747
+2475;Ellwangen;2930889
+2476;Ellingen;2930934
+2477;Ellingen;2930934
+2478;Ellhausen;2930950
+2479;Elgendorf;2931172
+2480;Elchingen;2931225
+2481;Eiterfeld;2931372
+2482;Eisfeld;2931433
+2483;Eisfeld;2931433
+2484;Eiserfey, Köln;2931448
+2485;Eisenbach (Unterfranken);2931566
+2486;Eisenbach;2931569
+2487;Eisenbach;2931569
+2488;Eisenach;2931574
+2489;Eisenach;2931574
+2490;Einhausen (Hessen);2931753
+2491;Eilenburg;2931871
+2492;Eiersheim;2931925
+2493;Eichstätt;2932069
+2494;Eichstätt;2932069
+2495;Eichenbühl;2932329
+2496;Eichenbühl;2932329
+2497;Eichenbühl;2932329
+2498;Eichenbühl;2932329
+2499;Eibingen;2932727
+2500;Eibingen;2932727
+2501;Eibingen;2932727
+2502;Eibingen;2932727
+2503;Eibingen;2932727
+2504;Ehrenbreitstein;2932843
+2505;Koblenz-Ehrenbreitstein;2932843
+2506;Ehingen Donau;2932924
+2507;Ehingen Donau;2932924
+2508;Effelder;2933298
+2509;Edesheim;2933367
+2510;Edesheim;2933367
+2511;Edenkoben;2933410
+2512;Edenkoben;2933410
+2513;Edenkoben;2933410
+2514;Eddersheim;2933484
+2515;Eddersheim;2933484
+2516;Darmstadt-Eberstadt;2933895
+2517;Mainz- Ebersheim;2933907
+2518;Mainz- Ebersheim;2933907
+2519;Ebern;2933984
+2520;Ebenhausen (Oerlenbach);2934058
+2521;Düsseldorf;2934246
+2522;Düsseldorf;2934246
+2523;Düsseldorf;2934246
+2524;Düsseldorf;2934246
+2525;Düsseldorf;2934246
+2526;Düren;2934486
+2527;Düren;2934486
+2528;Düren;2934486
+2529;Düren;2934486
+2530;Duisburg;2934691
+2531;Duderstadt;2934728
+2532;Duderstadt;2934728
+2533;Duderstadt;2934728
+2534;Duderstadt;2934728
+2535;Duderstadt;2934728
+2536;Duderstadt;2934728
+2537;Dudenhofen;2934736
+2538;Dromersheim;2934884
+2539;Dromersheim;2934884
+2540;Drolshagen;2934886
+2541;Dresden;2935022
+2542;Dorsten;2935530
+2543;Dorsten;2935530
+2544;Dorn-Assenheim;2935791
+2545;Milseburg;2935821
+2546;Dorfprozelten;2936040
+2547;Donauwörth;2936253
+2548;Dittwar;2936707
+2549;Dittwar;2936707
+2550;Dirmstein;2936822
+2551;Dirmstein;2936822
+2552;Dirmstein;2936822
+2553;Dirmstein;2936822
+2554;Dirmstein;2936822
+2555;Dinkelsbühl;2936886
+2556;Dingelstädt;2936933
+2557;Dingelstädt;2936933
+2558;Dingelstädt;2936933
+2559;Dingelstädt;2936933
+2560;Dingelstädt;2936933
+2561;Dingelstädt;2936933
+2562;Eichsfeld;2936933
+2563;Eichsfeld;2936933
+2564;Eichsfeld;2936933
+2565;Eichsfeld;2936933
+2566;Eichsfeld;2936933
+2567;Eichsfeld;2936933
+2568;Eichsfeld;2936933
+2569;Eichsfeld;2936933
+2570;Eichsfeld;2936933
+2571;Dillingen an der Donau;2936974
+2572;Dietfurt;2937110
+2573;Dietersheim;2937124
+2574;Dietershausen;2937126
+2575;Dietenheim;2937164
+2576;Diefenbach Wittlich;2937532
+2577;Diedorf;2937553
+2579;Diedesfeld;2937559
+2580;Diedesfeld;2937559
+2581;Diedenbergen;2937574
+2582;Dieburg;2937591
+2583;Dieburg;2937591
+2584;Dieburg;2937591
+2585;Dieburg;2937591
+2586;Dettingen am Main;2937899
+2587;Dettelbach;2937932
+2588;Dessau;2937959
+2589;Desingerode;2937964
+2590;Dernbach;2938065
+2592;Denstorf;2938201
+2593;Denstedt;2938203
+2594;Demerath;2938301
+2595;Dellfeld;2938351
+2596;Delitzsch;2938376
+2597;Deinsen;2938432
+2598;Deidesheim;2938465
+2599;Deidesheim;2938465
+2600;Deidesheim;2938465
+2601;Deidesheim;2938465
+2602;Deidesheim;2938465
+2603;Deidesheim;2938465
+2604;Daun;2938714
+2605;Darmstadt;2938913
+2606;Darmstadt;2938913
+2607;Damm (Aschaffenburg);2939191
+2608;Dahlheim;2939405
+2609;Dahlen;2939434
+2610;Dackscheid, Bitburg;2939505
+2611;Erfurt, Cyriaxburg;2939655
+2612;Crailsheim;2939797
+2615;Coesfeld;2939945
+2616;Coesfeld;2939945
+2617;Coesfeld;2939945
+2618;Kochem;2939949
+2619;Kochem;2939949
+2620;Kochem;2939949
+2621;Kochem;2939949
+2622;Kochem;2939949
+2623;Kochem;2939949
+2624;Kochem;2939949
+2625;Kochem;2939949
+2626;Kochem;2939949
+2627;Kochem;2939949
+2628;Kochem;2939949
+2629;Coburg;2939951
+2630;Bad Camberg;2940381
+2631;Bad Camberg;2940381
+2632;Bad Camberg;2940381
+2633;Calden;2940412
+2634;Calbach;2940420
+2635;Butzbach;2940512
+2636;Buttstadt;2940518
+2637;Buttstädt ;2940518
+2638;Buttstädt;2940518
+2639;Buttlar;2940529
+2640;Büttinghausen;2940532
+2641;Bütthard;2940534
+2642;Bürstadt;2940938
+2643;Bürstadt;2940938
+2644;Burkau;2941028
+2645;Burgweiler;2941058
+2646;Bürgstadt;2941151
+2647;Bürgstadt;2941151
+2648;Burgsinn;2941159
+2649;Burgkunstadt;2941207
+2650;Burgholdinghausen;2941245
+2651;Offenbach-Bürgel;2941400
+2652;Büren;2941570
+2653;Büren;2941570
+2654;Büdingen;2942073
+2655;Büdingen;2942073
+2656;Büdesheim (Bingen am Rhein);2942079
+2657;Büdesheim (Bingen am Rhein);2942079
+2658;Büdesheim (Bingen am Rhein);2942079
+2659;Büdesheim (Bingen am Rhein);2942079
+2660;Budenheim;2942087
+2661;Büchold;2942270
+2662;Büchold;2942270
+2663;Buchholt;2942416
+2664;Buchheim (Köln);2942446
+2668;Bruchsal;2943560
+2669;Bruchsal;2943560
+2670;Bruchsal;2943560
+2671;Bruchenbrücken;2943626
+2672;Bronzell;2943753
+2673;Brilon;2944079
+2674;Brilon;2944079
+2675;Brilon;2944079
+2676;Brilon;2944079
+2677;Briedern;2944142
+2678;Brieden;2944143
+2679;Brieden;2944143
+2680;Mainz-Bretzenheim;2944180
+2681;Mainz-Bretzenheim;2944180
+2682;Brenschede (Sundern);2824655
+2683;Brenken;2944299
+2684;Bremthal;2944318
+2685;Breitenworbis;2944516
+2686;Breitenworbis;2944516
+2687;Breitenworbis;2944516
+2688;Breitenworbis;2944516
+2689;Breitenholz (Leinefelde-Worbis);2944580
+2690;Breitendiel;2944622
+2691;Breitenbrunn (Faulbach);2944632
+2692;Breitenborn (Biebergemünd);2944649
+2693;Breitenberg;2944657
+2694;Breisach;2944800
+2695;Breisach;2944800
+2696;Breisach am Rhein;2944800
+2697;Brehme;2944834
+2698;Brehme;2944834
+2699;Brehme;2944834
+2700;Brehme;2944834
+2701;Brehme;2944834
+2702;Braunschweig;2945024
+2703;Braunschweig;2945024
+2704;Braunschweig;2945024
+2705;Brandenburg;2945358
+2706;Brandenburg;2945358
+2707;Brakel;2945542
+2708;Brakel;2945542
+2709;Brachthausen;2945611
+2710;Bottrop;2945756
+2711;Böttigheim;2945764
+2712;Böseckendorf;2945909
+2713;Bornheim;2946111
+2714;Boppard;2946366
+2715;Boppard;2946366
+2716;Boppard;2946366
+2717;Boppard;2946366
+2718;Boppard;2946366
+2719;Boppard;2946366
+2720;Boppard;2946366
+2721;Boppard;2946366
+2722;Boppard;2946366
+2723;Boppard;2946366
+2724;Bonn;2946447
+2725;Bonn;2946447
+2726;Bonn;2946447
+2727;Bommersheim;2946515
+2728;Bommersheim;2946515
+2729;Bommersheim;2946515
+2730;Bommersheim;2946515
+2731;Bommersheim;2946515
+2732;Boltenhof;2946575
+2733;Bodmann;2947070
+2734;Bödigheim;2947076
+2736;Bodenrode-Westhausen;2947114
+2737;Bodenheim;2947133
+2738;Bodenheim;2947133
+2739;Bödefeld;2947175
+2740;Bödefeld;2947175
+2741;Bockenheim an der Weinstraße;2947355
+2742;Bochum;2947416
+2743;Bobenheim;2947465
+2744;Bobenhausen;2947468
+2745;Blieskastel;2947739
+2746;Blieskastel;2947739
+2747;Blieskastel;2947739
+2748;Blieskastel;2947739
+2749;Bleidenstadt;2947822
+2750;Bleidenstadt;2947822
+2751;Bleidenstadt;2947822
+2752;Bleidenstadt;2947822
+2753;Blankenhain;2948058
+2754;Bischofferode;2948305
+2755;Bischoffen;2948307
+2756;Bischmisheim;2948314
+2757;Bischhagen;2948331
+2758;Bischbrunn;2948337
+2759;Bischbrunn;2948337
+2760;Birkungen;2948404
+2761;Birkungen;2948404
+2762;Birkungen;2948404
+2763;Birkungen;2948404
+2764;Birklar;2948415
+2765;Birkenfeld;2948595
+2766;Bingen;2948825
+2767;Bingen;2948825
+2768;Bingen;2948825
+2769;Bingen;2948825
+2770;Bingen;2948825
+2771;Bingen;2948825
+2772;Bingen;2948825
+2773;Bilstein;2948884
+2774;Bilstein;2948884
+2775;Bilshausen;2948895
+2776;Bilshausen;2948895
+2777;Bierstadt;2949082
+2778;Bierstadt;2949082
+2779;Wiesbaden-Bierstadt;2949082
+2780;Bieringen;2949094
+2781;Bieringen;2949094
+2782;Bienstädt;2949130
+2783;Bielefeld;2949186
+2784;Biedesheim ;2949216
+2785;Offenbach-Bieber;2949270
+2786;Biebelnheim ;2949277
+2787;Biblis;2949367
+2788;Biblis;2949367
+2789;Biblis;2949367
+2790;Bibergau,;2949391
+2791;Bexbach;2949470
+2792;Beuren;2949561
+2793;Beukenbeul;2949602
+2794;Bernterode;2949935
+2795;Bernterode;2949935
+2796;Bernterode;2949935
+2797;Bernsfeld;2949957
+2798;Bernkastel-Kues;2949998
+2799;Bernkastel;2949998
+2800;Bernkastel;2949998
+2801;Bernkastel;2949998
+2802;Bernkastel-Kues;2949998
+2803;Bernkastel;2949998
+2804;Kues;2949998
+2805;Bernkastel;2949998
+2806;Bernhausen;2950012
+2807;Berndiel;2950070
+2808;Berlingerode;2950139
+2809;Berlin;2950159
+2810;Deutschland;2950159
+2811;Berlin;2950159
+2812;Berlichingen;2950161
+2813;Berlichingen;2950161
+2814;Beringhausen;2950219
+2815;Beringhausen;2950219
+2816;Beringhausen;2950219
+2817;Bergtheim;2950249
+2818;Bergrheinfeld;2950287
+2819;Niedergladbach;2863408
+2820;Bensheim;2950978
+2821;Bensheim;2950978
+2822;Bensheim;2950978
+2823;Bensheim;2950978
+2824;Bensheim;2950978
+2825;Bensheim;2950978
+2826;Benrath;2950994
+2827;Benediktbeuern;2951104
+2828;Belecke;2951265
+2829;Beindersheim;2951327
+2830;Beilstein Cochem;6553659
+2831;Bedburg;2951648
+2832;Beckum;2951654
+2833;Beberstedt;2951797
+2834;Bayreuth;2951825
+2835;Bassenheim;2952261
+2836;Bamberg;2952984
+2837;Bamberg;2952984
+2838;Bamberg;2952984
+2839;Bamberg;2952984
+2840;Balduinstein;2953108
+2842;Bad Wimpfen;2953315
+2843;Wimpfen;2953315
+2844;Wimpfen;2953315
+2845;Bad Vilbel;2953321
+2846;Salmünster;2953338
+2847;Bad Soden;2953339
+2848;Bad Schwalbach;2953348
+2849;Bad Schwalbach;2953348
+2850;Bad Salzig;2953360
+2851;Bad Salzig;2953360
+2852;Bad Salzig;2953360
+2853;Bad Säckingen;2953363
+2854;Bad Orb;2953384
+2855;Bad Orb;2953384
+2856;Bad Neustadt an der Saale;2953389
+2857;Bad Mergentheim;2953402
+2858;Bad Mergentheim;2953402
+2859;Mergentheim;2953402
+2860;Mergentheim;2953402
+2861;Mergentheim;2953402
+2862;Bad Lippspringe;2953405
+2863;Bad Lippspringe;2953405
+2864;Langensalza;2953413
+2865;Langensalza;2953413
+2866;Langensalza;2953413
+2867;Kreuznach;2953416
+2868;Bad Kreuznach;2953416
+2869;Bad Kreuznach;2953416
+2870;Bad Kreuznach;2953416
+2871;Bad Kreuznach;2953416
+2872;Bad Kreuznach;2953416
+2873;Bad Kreuznach;2953416
+2874;Bad Kreuznach;2953416
+2875;Bad König;2953419
+2876;Kissingen;2953424
+2877;Kissingen;2953424
+2878;Honnef;2953435
+2879;Homburg am Main;2899445
+2880;Hersfeld;2953439
+2881;Hersfeld;2953439
+2882;Bad Gandersheim;2953456
+2883;Bad Frankenhausen;2953459
+2884;Bad Frankenhausen/Kyffhäuser;2953459
+2887;Baden-Baden;2953504
+2891;Dürkheim;2953522
+2892;Duban;3076361
+2893;Bad Brückenau;2953535
+2894;Brückenau;2953535
+2895;Bad Breisig;2953536
+2896;Bad Breisig;2953536
+2897;Bibra;2953542
+2898;Bacharach;2953702
+2899;Bacharach;2953702
+2900;Bacharach;2953702
+2901;Bacharach;2953702
+2902;Bacharach;2953702
+2903;Babenhausen;2953770
+2904;Azmannsdorf;2953822
+2905;Aulhausen;2954060
+2906;Augsburg;2954172
+2907;Augsburg;2954172
+2908;Augsburg;2954172
+2909;Augsburg;2954172
+2910;Schwaben;2954172
+2911;Schwaben;2954172
+2912;Schwaben;2954172
+2913;Aufenau;2954272
+2914;Auerstedt;2954539
+2915;Auersmacher;2954542
+2916;Auerbach;2954602
+2917;Auderath;2954704
+2918;Aub;2954774
+2919;Au am Rhein;2954775
+2920;Attendorn;2954932
+2921;Attendorn;2954932
+2922;Attendorn;2954932
+2923;Attendorn;2954932
+2924;Attendorn;2954932
+2925;Attendorn;2954932
+2926;Attendorn;2954932
+2927;Attendorn;2954932
+2928;Assmannshausen;2955001
+2929;Assmannshausen;2955001
+2930;Assamstadt;2955050
+2931;Assamstadt;2955050
+2932;Aspisheim;2955053
+2933;Aspisheim;2955053
+2934;Aschaffenburg;2955272
+2935;Aschaffenburg;2955272
+2936;Aschaffenburg;2955272
+2937;Aschaffenburg;2955272
+2938;Aschaffenburg;2955272
+2939;Aschaffenburg;2955272
+2940;Aschaffenburg;2955272
+2941;Aschaffenburg;2955272
+2942;Arzfeld;2955363
+2943;Arzfeld;2955363
+2944;Arolsen;2955421
+2945;Arnstein;2955431
+2946;Arnstadt;2955439
+2947;Arnstadt;2955439
+2948;Arnstadt;2955439
+2949;Arnsberg;2955471
+2950;Arnsberg;2955471
+2951;Argenthal;2955605
+2952;Argenschwang;2955610
+2953;Argenschwang;2955610
+2954;Argenschwang;2955610
+2955;Arenshausen;2955633
+2956;Arenshausen;2955633
+2957;Arensberg;2955638
+2958;Anzhausen;2955839
+2959;Anzefahr;2955861
+2960;Anzefahr;2955861
+2961;Anzefahr;2955861
+2962;Anzefahr;2955861
+2963;Ansbach;2955936
+2964;Ansbach;2955936
+2965;Ansbach;2955936
+2966;Ansbach;2955936
+2967;Andernach;2956206
+2968;Andernach;2956206
+2969;Andernach;2956206
+2970;Amöneburg;2956404
+2971;Amöneburg;2956404
+2972;Amöneburg;2956404
+2973;Amöneburg;2956404
+2974;Amöneburg;2956404
+2975;Amöneburg;2956404
+2976;Amöneburg;2956404
+2977;Amöneburg;2956404
+2978;Amöneburg;2956404
+2979;Amorbach;2956567
+2980;Amorbach;2956567
+2981;Amorbach;2956567
+2982;Amberg;2956656
+2983;Alzey;2956710
+2984;Alzey;2956710
+2985;Alzey;2956710
+2986;Alzey;2956710
+2987;Alzey;2956710
+2988;Alzey;2956710
+2989;Alzey;2956710
+2990;Alzey;2956710
+2991;Alzey;2956710
+2992;Alzenau;2956715
+2993;Alzenau;2956715
+2994;Alzenau;2956715
+2995;Alzenau;2956715
+2996;Alzenau;2956715
+2997;Altenwenden;2957417
+2998;Altensteig;2957459
+2999;Altenbamberg;2957869
+3000;Alsheim;2958126
+3001;Alpen;2958188
+3002;Allendorf;2958438
+3003;Allendorf;2958438
+3004;Allendorf;2958438
+3005;Allendorf;2958438
+3006;Allendorf;2958438
+3007;Alfeld;2958533
+3008;Aldenhoven;2958580
+3009;Aldenhoven;2958580
+3010;Albstadt;2958595
+3011;Albaxen;2958745
+3012;Alach;2958774
+3013;Alach, Kapelle Klostergut;2958775
+3014;Ailringen;2958844
+3015;Ailringen;2958844
+3016;Ahrbergen;2959113
+3017;Ahrbergen;2959113
+3018;Ahlen;2959223
+3019;Warendorf;2959223
+3020;Ahaus;2959279
+3021;Ahaus, Westfalen;2959279
+3022;Abterode;2959782
+3023;Abterode;2959782
+3024;Abterode;2959782
+3025;Abenheim;2959847
+3026;Aalen;2959927
+3027;Wiltz;2959977
+3028;Weiswampach;2959989
+3029;Waldbredimus;2960013
+3030;Vianden;2960021
+3031;Remich;2960154
+3032;Remich;2960154
+3033;Remich;2960154
+3034;Redingen;2960160
+3035;Luxemburg;2960316
+3036;Luxemburg;2960316
+3037;Luxemburg;2960316
+3038;Luxemburg;2960316
+3039;Luxemburg;2960316
+3040;Luxemburg;2960316
+3041;Luxemburg;2960316
+3042;Luxemburg;2960316
+3043;Luxemburg;2960316
+3044;Grevenmacher;2960515
+3045;Ettelbruck;2960589
+3046;Elvingen;2960613
+3047;Ell (Luxemburg);2960616
+3048;Ell;2960616
+3049;Ell;2960616
+3050;Echternach;2960630
+3051;Diekirch;2960657
+3053;Bissen;2960759
+3054;Beckerich;2960806
+3055;Irland;2964574
+3056;Xivry-le-France;2967265
+3057;Wingersheim;2967344
+3058;Wiesweiler;2967373
+3059;Vireux-Molhain;2967956
+3060;Villers-la-Ville;2784641
+3061;Vic-sur-Seille;2969364
+3062;Verdun;2969958
+3063;Verdun;2969958
+3064;Verdun;2969958
+3066;Varize-Vaudoncourt;2970662
+3067;Varize-Vaudoncourt;2970662
+3068;Valmy;2970861
+3069;Uttenhoffen;2971280
+3070;Rhone;2972214
+3071;Toul;2972350
+3072;Diedenhofen;2972811
+3073;Thann;2973013
+3074;Thann;2973013
+3075;Elsaß;2973783
+3076;Straßburg;2973783
+3077;Straßburg;2973783
+3078;Straßburg;2973783
+3079;Straßburg;2973783
+3080;Straßburg;2973783
+3081;Straßburg;2973783
+3082;Siersthal;2974604
+3083;Schlettstadt;2975233
+3084;Sélestat;2975233
+3085;Sélestat;2975233
+3086;Sélestat;2975233
+3087;Saargemünd;2975964
+3088;Saarburg;2842644
+3089;Saarburg;2975967
+3090;Saarburg;2975967
+3091;Salmbach;2976352
+3092;Sainte-Marie-aux-Mines;2980438
+3093;St-Dié, Vosges;2980827
+3094;Saint-Amarin;2981815
+3095;Rouffach;2982636
+3096;Rouen;2982652
+3097;Rosheim;2982790
+3098;Lothringen;2983005
+3099;Lothringen;2983005
+3100;Lothringen;2983005
+3101;Lothringen;2983005
+3102;Rodemack;2983158
+3103;Rodemack;2983158
+3104;Rochefort;2983276
+3105;Robecourt;2983355
+3106;Reims;2984114
+3107;Reims;2984114
+3108;Reims;2984114
+3109;Rambervillers;2984516
+3110;Rambervillers;2984516
+3111;Rahling;2984559
+3112;Pont-à-Mousson;2986306
+3113;Pinel-Hauterive;2987105
+3114;Pierrefitte;2987271
+3115;Frankreich;2988507
+3116;Frankreich;2988507
+3117;Paris;2988507
+3118;Paris;2988507
+3119;Otterswiller;2989085
+3120;Orléans;2989317
+3121;Orléans;2989317
+3122;Oberhoffen-sur-Moder;2989802
+3123;Niedernai;2990410
+3124;Neufchâteau;2790286
+3125;Nantes;2990969
+3130;Pont-à-Mousson;2986306
+3131;Montbronn;2992885
+3132;Momerstroff;2993468
+3133;Molsheim;2993476
+3134;Molsheim;2993476
+3135;"Moirey-Flabas-Crépion
+";2993598
+3136;Metz;2994160
+3137;Métrich;2994164
+3138;Maxstadt;2994945
+3139;Masevaux;2995281
+3140;Lyon;2996944
+3141;Lyon;2996944
+3142;Lorquin;2997552
+3143;Longwy;2997638
+3144;Longwy;2997638
+3145;Lauterburg;3005948
+3146;Lauterbourg;3005948
+3147;Laon;3007477
+3148;Masmolène;3010608
+3149;Kintzheim;3011455
+3150;Kaysersberg;3011969
+3151;Hombourg-Haut;3013196
+3153;Hambach;3014026
+3154;Hambach;3014026
+3155;Hambach;3014026
+3156;Hagenau;3014078
+3157;Hagenau;3014078
+3158;Hagenau;3014078
+3159;Hagenau;3014078
+3160;Merlebach;3017059
+3161;Merlebach;3017059
+3162;Ferrette;3018659
+3163;Feldkirch (Haut-Rhin);3018760
+3164;Dun-sur-Meuse;3020676
+3165;Birlenbach;3020860
+3166;Dossenheim, Neckar;2935453
+3167;Dieuze ;3021392
+3168;Dieuze ;3021392
+3169;Dettwiller;3021518
+3170;Dambach-la-Ville;3021888
+3172;Dabo;3021933
+3173;Cutting (Moselle);3021971
+3174;Condé-Northen;3023964
+3176;Colmar;3024297
+3177;Clermont;3024635
+3178;Chalon-sur-Saône;3027484
+3179;Ober-Breidenbach;2861217
+3180;Bourgheim;3030995
+3181;Bourgheim;3030995
+3182;Blois;3032213
+3183;Blamont;3032429
+3184;Bermonville;3033332
+3185;Bennwihr;3033471
+3186;Bennwihr;3033471
+3187;Belley;3033625
+3188;Belfort, Frankreich;3033791
+3189;Arles;3036938
+3190;Arles;3036938
+3191;Altorf;3038008
+3192;Altkirch;3038012
+3193;Altkirch;3038012
+3194;Ungarn;3054643
+3195;Ungarn;3054643
+3196;Bratislava;3060972
+3197;Prag;3067696
+3198;Prag;3067696
+3199;Prag;3067696
+3200;Olmütz;3069011
+3201;Louny;3071507
+3202;Losiná;3071583
+3203;Cheb;3077835
+3204;Krumau;3077889
+3205;Böhmisch-Aicha;3077895
+3208;Böhmen;3077916
+3209;Böhmisch-Leipa;3077929
+3210;Brünn;3078610
+3211;Gottersdorf;2918695
+3212;Breslau;3081368
+3213;Breslau;3081368
+3214;Breslau;3081368
+3215;Breslau;3081368
+3216;Stettin;3083829
+3217;Schweidnitz;3084093
+3218;Schweidnitz;3084093
+3219;Posen;3088171
+3221;Marienburg;3092472
+3222;Lipinki Luzyckie;3093315
+3223;Polen;3094802
+3224;Polen;3094802
+3225;Polen;3094802
+3226;Polen;3094802
+3227;Polen;3094802
+3228;Polen;3094802
+3229;Schlesien;3096472
+3230;Dobrzyn;3098925
+3231;Glubczyce;3099174
+3232;Glogau;3099213
+3233;Pommern;3099434
+3234;Fosowskie;3099649
+3235;Fosowskie;3099649
+3236;Spanien;3117735
+3237;Ávila ;3129136
+3238;Venedig;3164603
+3239;Turin;3165524
+3240;Siena;3166548
+3241;Italien;3169070
+3243;Ravenna;3169561
+3244;Pavia;3171366
+3245;Pavia;3171366
+3246;Padua;3171728
+3247;Neapel;3172394
+3248;Mailand;3173435
+3249;Meran;3173577
+3250;Meran;3173577
+3251;Ferrara;3177090
+3253;Burgusio;3181397
+3254;Bormio;3181730
+3255;Bozen;3181913
+3256;Bozen;3181913
+3257;Bologna;3181928
+3258;Bari;3182351
+3259;Klakar;3198114
+3260;Königsbach;3206188
+3261;Königsbach;3206188
+3262;Bernshausen (Seeburg);3207076
+3263;Kleinbardorf;3207402
+3264;Aulenbach (Baumholder);3207529
+3265;Aulenbach (Baumholder);3207529
+3268;Schönenberg-Kübelberg;3207540
+3269;Zeltingen;3207549
+3271;Bruttig-Fankel;3207690
+3272;Bruttig-Fankel;3207690
+3273;Bruttig-Fankel;3207690
+3274;Bruttig-Fankel;3207690
+3275;Bruttig;3207690
+3276;Bruttig;3207690
+3277;Bruttig;3207690
+3278;Bruttig;3207690
+3279;Fankel;3207690
+3280;Bruttig-Fankel;3207690
+3283;Kobern;3207786
+3284;Gondorf, Mosel;2919119
+3285;Mülheim-Kärlich;3207806
+3286;Scheuren (Unkel);3207902
+3287;Sailauf;3208010
+3288;Florstadt;3208053
+3289;Liederbach;3208086
+3290;Nieder-Roden;3208098
+3291;Walluf;3208134
+3292;Walluf;3208134
+3293;Walluf;3208134
+3294;Walluf;3208134
+3295;Walluf;3208134
+3296;Walluf;3208134
+3297;Walluf;3208134
+3298;Brohl;3209903
+3299;Schlaiten;3217367
+3300;Papariano;3217464
+3301;Aachen;3247449
+3302;Aachen;3247449
+3303;Aachen;3247449
+3304;Aachen;3247449
+3305;Aachen;3247449
+3306;Elsheim;3272454
+3307;St. Leon-Rot;3272456
+3308;Dittelsheim-Heßloch;3272935
+3309;Lauda,  Lauda-Königshofen;3274966
+3310;Lauda,  Lauda-Königshofen;3274966
+3311;Neunkirchen (Unterfranken);3274976
+3312;Neunkirchen (Unterfranken);3274976
+3313;Altenbuch;3274987
+3314;Mespelbrunn;3274989
+3315;Aigen bei Salzburg;3323071
+3316;Rohrberg;3323924
+3317;Fricken (Tirol);3333846
+3319;Seeheim, Hessen;3337504
+3320;Legen;3339118
+3321;Baldern;6290616
+3322;Stephansdom;6324757
+3323;Kalbach;6544447
+3324;Kalbach;6544447
+3325;Kalbach;6544447
+3326;Berlin-Mitte;6545310
+3327;Berlingen;6640176
+3328;Berlingen;6640176
+3329;Frankfurt-Sindlingen;7118086
+3330;Frankfurt-Sindlingen;7118086
+3331;Spandau;7290252
+3332;Niederrad;7290401
+3333;Niederrad;7290401
+3334;Niederrad;7290401
+3335;Wittenberg;7303020
+3336;Wittenberg;7303020
+3337;Bonau;7669466
+3338;Siat;8299584
+3339;Kassel, Altstadt;8629513
+3340;Erfurt;11203841
+3341;Erfurt;11203842
+3342;Erfurt;11203843
+3343;Erfurt;11203844
+3344;Leipzig, Nikolaikirche;11395551
+3345;Aubach, Redleiten;11609507
+3346;Zellhausen;11609528
+3347;Zellhausen;11609528
+3348;Moselweiß;11777806
+3349;Schloß Neuhaus (Paderborn);11977135
+3350;Saarwerden;12047311
+3351;Bouquenom;12047312
+3352;Schloss Dieburg;2937591
+3353;Hüttenberg (Hessen);12358897
+3381;Mainz-Bretzenheim;2944180
+3382;Mainz-Bretzenheim;2944180
+3384;Bürgel, Offenbach;2941400
+3385;Bürgel, Offenbach;2941400
+3386;Karlstadt am Main;2892786
+3387;Celle, Niedersachsen;2940213
+3388;Celle, Niedersachsen;2940213
+3389;Chiny, Wallonia;2800320
+3392;Dietkirchen, Limburg;2937092
+3395;Mainz-Drais;2935350
+3396;Mainz-Drais;2935350
+3399;Helmsdorf, Dingelstädt;2906693
+3408;Eindhoven;2756253
+3409;Falkenstein, Pfalz;2927916
+3410;Gmünd, Österreich;2778438
+3411;Gmünd, Österreich;2778438
+3412;Götzingen, Buchen;2918518
+3413;Götzingen, Buchen;2918518
+3414;Götzingen, Buchen;2918518
+3415;Götzingen, Buchen;2918518
+3416;Grünberg, Hessen;2914432
+3417;Hallenberg, Westfalen;2911514
+3418;Hallenberg, Westfalen;2911514
+3419;Herblingen, Schweiz;11836291
+3422;Höchst, Frankfurt;2903019
+3423;Höchst, Frankfurt;2903019
+3424;Höchst, Frankfurt;2903019
+3425;Höchst, Frankfurt;2903019
+3426;Hohenlohe, Neresheim;2901619
+3427;Holzweiler, Erkelenz;2899541
+3428;Holzweiler, Erkelenz;2899541
+3429;Karlstadt am Main;2892786
+3430;Kirberg, Hessen;2890777
+3433;Lengfeld, Würzburg;2878831
+3440;Mayen, Rheinland-Pfalz;2872649
+3441;Mayen, Rheinland-Pfalz;2872649
+3442;Mayen, Rheinland-Pfalz;2872649
+3443;Mayen;2872649
+3447;Mayen, Rheinland;2872649
+3448;Mayen, Rheinland;2872649
+3452;Nauheim, Groß-Gerau;2866917
+3464;Niederkirchen, Deidesheim;2863213
+3465;Niederkirchen, Deidesheim;2863213
+3470;Offenheim, Alzey;6554870
+3478;Saarburg, Rheinland-Pfalz;2842644
+3480;Sachsenberg (Lichtenfels);2842556
+3481;Sayn, Bendorf;2951108
+3483;Seeburg, Göttingen;3207076
+3490;Tannheim, Biberach;6556029
+3495;Diez, Deutschland;2937018
+3498;Sprendlingen, Rheinland;2830080
+3499;Verny, Moselle;2969736
+3503;Waldkirch, Baden;2814883
+3508;Winkel, Rheingau;2911482
+3509;Winkel, Rheingau;2911482
+3510;Zeltingen;3207549
+3511;Laudenbach, Main-Tauber;2880205
+3512;Niederhöchstadt;2863321
+3513;Osov, Tschechien;3068815
+3515;Wattenheim, Pfalz;2813638
+3516;Werda, Sachsen;6548547
+3520;Savoie;2975518
+3521;Frankfurt-Höchst;2903019
+11;Mlynica ;724126
+160;Spa, Belgien;2786318
+197;Herve, Belgien;2795912
+198;Herve, Belgien;2795912
+342;Werne;2810833
+428;Wambach, Rheingau;2814345
+431;Wallmichrath, Velbert;2814550
+540;Traisdorf, Mittelfranken;2821623
+602;Steinbach, Thüringen;2828788
+603;Steinbach, Thüringen;2828737
+604;Steinbach, Thüringen;2828737
+712;Schwäbisch-Gmünd;2835482
+735;Kloster Schmerlenbach;2837920
+1065;Obermörlen ;2859739
+1099;Franken;2861650
+1123;Walluf;2862762
+1124;Walluf;2862762
+1125;Walluf;2862762
+1126;Walluf;2862762
+1127;Walluf;2862762
+1128;Walluf;2862762
+1168;Hochstadt, Pfalz;2863322
+1182;Niederbergheim, Warstein;2863605
+1218;Netra, Ringgau;2866374
+1244;Münster-Sarmsheim;2867511
+1245;Münster-Sarmsheim;2867511
+1309;Momberg, Neustadt;2869938
+1373;Beeck Duisburg;2872347
+1393;Märschendorf, Lohne;2873195
+1452;Lutzerath, Cochem;2874728
+1453;Lutzerath, Cochem;2874728
+1463;Lübisrath, Grevenbroich;2875592
+1464;Lübisrath, Grevenbroich;2875592
+1480;Lohrwardt, Rees;2876118
+1538;Lautern, Bergstraße;2879884
+1945;Herbern, Ascheberg;2906229
+1964;Heinzenbach;2907181
+2294;Frickenhausen am Main;2924836
+2439;Erda, Hessen;2929737
+2578;Diedesheim, Mosbach;2937558
+2591;Denzen, Kirchberg;2938196
+2613;Großcomburg;2939892
+2614;Großcomburg;2939892
+2665;Buchen, Odenwald;2942634
+2666;Buchen, Odenwald;2942634
+2667;Bubenheim, Mainz;2942938
+2735;Bodenstein, Leinefelde;2947106
+2841;Baierbach;2953217
+2885;Baden-Baden;2953504
+2886;Baden-Baden;2953504
+2888;Baden-Baden;2953504
+2889;Baden-Baden;2953504
+2890;Baden-Baden;2953504
+3052;Lenningen, Luxemburg;2960699
+3065;Amance Meurthe;2970222
+3126;Nancy, France;2990999
+3127;Nancy, France;2990999
+3128;Nancy, France;2990999
+3129;Nancy, France;2990999
+3152;Hoffen, Frankreich;3013221
+3171;Dalem, Grand Est;3021907
+3175;Condé-Northen;3023964
+3206;Bohemia;3077916
+3207;Bohemia;3077916
+3220;Mini?ta ;3091733
+3242;Rom, Italien;3169070
+3252;Campi Bisenzio;3181018
+3266;Neumagen-Dhron;3207532
+3267;Neumagen-Dhron;3207532
+3270;Dahlhaus, Rösrath;3207593
+3281;Ediger-Eller;3207699
+3282;Ediger-Eller;3207699
+3318;Jettingen-Scheppach;3336896
+3354;Albach Fernwald;2958762
+3355;Albach Fernwald;2958762
+3356;Äpfelbach Egloffstein;2955805
+3357;Arnsburg Lich;3208027
+3358;Arnsburg Lich;3208027
+3359;Arnsburg Lich;3208027
+3360;Astheim Trebur;2954976
+3361;Aura Saale;2954024
+3362;Ballenberg Ravenstein;2953066
+3363;Ballenberg Ravenstein;2953066
+3364;Bauerbach Marburg;2952160
+3365;Mering;2871813
+3366;Beilstein Cochem;2951345
+3367;Beilstein Cochem;2951345
+3368;Beilstein Cochem;2951345
+3369;Bellingen, Rheinland-Pfalz;6554192
+3370;Altenberg;2957834
+3371;Bettendorf, Rheinland-Pfalz;6553999
+3372;Beuren Leinefelde;2949561
+3373;Beuren Leinefelde;2949561
+3374;Offenbach-Bieber;11974845
+3375;Offenbach-Bieber;11974845
+3376;Offenbach-Bieber;11974845
+3377;Bürgel, Offenbach;2941400
+3378;Blankenheim Euskirchen;2948056
+3379;Blankenberg Hennef;12200272
+3380;Le Bois;3036145
+3383;Buchen, Odenwald;2942634
+3390;Krombach, Unterfranken;6556952
+3391;Dalberg, Kreuznach;2939338
+3393;Dornau, Sulzbach;2935785
+3394;Dornberg, Hardheim;2935751
+3397;Kloster Eberbach;3208037
+3398;Kloster Eberbach;3208037
+3400;Olpe;2857306
+3401;Elz;2930628
+3402;Elz;2930628
+3403;Elz;2930628
+3404;Elz;2930628
+3405;Elz;2930628
+3406;Burg Enn, Tirol;3173113
+3407;Essingen, Pfalz;6555179
+3420;Herborn, Dill;2906199
+3421;Hirschberg, Westfalen;2916325
+3431;Krautscheid, Buchholz;2884610
+3432;Lehnstedt;6550258
+3434;Altleiningen;2957040
+3435;Lichtenau, Rothenbuch;2878137
+3436;Limbach, Baden;6555647
+3437;Lorch, Rheingau;2875906
+3438;Lorch, Rheingau;2875906
+3439;Lorch, Rheingau;2875906
+3444;Mandel, kreuznach;2873989
+3445;Mandel, kreuznach;2873989
+3446;Marlach, Schöntal;2873261
+3449;Molsberg, Rheinland-Pfalz;2869968
+3450;Molsberg, Rheinland-Pfalz;2869968
+3451;Molsberg, Rheinland-Pfalz;2869968
+3453;Neuendorf, Teistungen;2865792
+3454;Neuendorf, Teistungen;2865792
+3455;Neuendorf, Teistungen;2865792
+3456;Neuendorf, Teistungen;2865792
+3457;Neuendorf, Teistungen;2865792
+3458;Neuendorf, Teistungen;2865792
+3459;Neuendorf, Teistungen;2865792
+3460;Neuhäusel, Rheinland-Pfalz;2865123
+3461;Neuhäusel, Rheinland-Pfalz;2865123
+3462;Neulingen, Enzkreis;3209429
+3463;Neunkirchen, Franken;2864420
+3466;Obertiefenbach, Beselich;2858783
+3467;Obertiefenbach, Beselich;2858783
+3468;Obertiefenbach, Beselich;2858783
+3469;Oberheimbach, Bingen;6555293
+3471;Nieder-Olm;2863014
+3472;Nieder-Olm;2863014
+3473;Poritsch, Tschechien;3067785
+3474;Ransbach-Baumbach;3225108
+3475;Reisberg, Kärnten;2767687
+3476;Rosbach vor der Höhe;2845160
+3477;Roth, Bad Kreuznach;6553533
+3479;Sanddorf, Saarland;2841899
+3482;Niederselters;2862873
+3484;Steinfeld, Unterfranken;2828140
+3485;Sulzbach am Main;2824806
+3486;Sulzbach am Main;2824806
+3487;Sulzbach am Main;2824806
+3488;Sulzbach am Main;2824806
+3489;Soest, Nordrhein-Westfalen;2831708
+3491;Toru?;3083271
+3492;Traidendorf, Kallmünz;2821643
+3493;Weinsheim, Bad Kreuznach;6553557
+3494;Weinsheim, Bad Kreuznach;6553557
+3496;Somborn, Freigericht;2831461
+3497;Somborn, Freigericht;2831461
+3500;Winkel, Rheingau;2911482
+3501;Winkel, Rheingau;2911482
+3502;Winkel, Rheingau;2911482
+3504;Weitersweiler, Pfalz;6554995
+3505;Weitersweiler, Pfalz;6554995
+3506;Westhofen, Pfalz ;2810110
+3507;Westhofen, Pfalz ;2810110
+3514;Thorn, Polen;3083271
+3517;Aschaffenburg;2955272
+3518;Maifeld;3207796
+3519;Maifeld;3207796
+3520;n/a;n/a
+3521;#;n/a
+3522;None;n/a
+3523;;n/a
