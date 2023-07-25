@@ -1,0 +1,8709 @@
+
+ ORT:  Q133123 Patras
+Q41 Griechenland
+
+ ORT:  Q1829 Kaliningrad
+Q156020 Deutschordensstaat
+Q153091 Herzogtum Preußen
+Q27306 Königreich Preußen
+Q7318 NS-Staat
+Q15180 Sowjetunion
+Q159 Russland
+
+ ORT:  Q1829 Kaliningrad
+Q156020 Deutschordensstaat
+Q153091 Herzogtum Preußen
+Q27306 Königreich Preußen
+Q7318 NS-Staat
+Q15180 Sowjetunion
+Q159 Russland
+
+ ORT:  Q1770 Tallinn
+Q191 Estland
+Q15180 Sowjetunion
+Q156031 Reichskommissariat Ostland
+Q15180 Sowjetunion
+Q191 Estland
+Q139319 Russische Republik
+Q34266 Russisches Kaiserreich
+Q34 Schweden
+Q29140 Livländischer Orden
+Q35 Dänemark
+Q157605 Schwertbrüderorden
+Q35 Dänemark
+
+ ORT:  Q1770 Tallinn
+Q191 Estland
+Q15180 Sowjetunion
+Q156031 Reichskommissariat Ostland
+Q15180 Sowjetunion
+Q191 Estland
+Q139319 Russische Republik
+Q34266 Russisches Kaiserreich
+Q34 Schweden
+Q29140 Livländischer Orden
+Q35 Dänemark
+Q157605 Schwertbrüderorden
+Q35 Dänemark
+
+ ORT:  Q1770 Tallinn
+Q191 Estland
+Q15180 Sowjetunion
+Q156031 Reichskommissariat Ostland
+Q15180 Sowjetunion
+Q191 Estland
+Q139319 Russische Republik
+Q34266 Russisches Kaiserreich
+Q34 Schweden
+Q29140 Livländischer Orden
+Q35 Dänemark
+Q157605 Schwertbrüderorden
+Q35 Dänemark
+
+ ORT:  Q16898582 Timișoara
+Q218 Rumänien
+
+ ORT:  Q16898582 Timișoara
+Q218 Rumänien
+
+ ORT:  Q193719 Cheb
+Q213 Tschechien
+Q33946 Tschechoslowakei
+Q7318 NS-Staat
+Q33946 Tschechoslowakei
+Q28513 Österreich-Ungarn
+Q131964 Kaisertum Österreich
+none
+
+ ORT:  Q1068637 Chbany
+Q213 Tschechien
+
+ ORT:  Q33507259 Traben-Trarbach
+Q183 Deutschland
+
+ ORT:  Q406 Istanbul
+Q43 Türkei
+Q12560 Osmanisches Reich
+Q12544 Byzantinisches Reich
+Q178897 Lateinisches Kaiserreich
+Q12544 Byzantinisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q809585 Bartoszyce
+Q36 Polen
+none
+
+ ORT:  Q21858054 Schloss Sachsengang
+Q40 Österreich
+
+ ORT:  Q21858054 Schloss Sachsengang
+Q40 Österreich
+
+ ORT:  Q27116 Vejle
+Q35 Dänemark
+
+ ORT:  Q1748 Kopenhagen
+Q35 Dänemark
+Q756617 Königreich Dänemark
+
+ ORT:  Q190235 Horsens
+Q35 Dänemark
+
+ ORT:  Q190235 Horsens
+Q35 Dänemark
+
+ ORT:  Q190235 Horsens
+Q35 Dänemark
+
+ ORT:  Q34217 Oxford
+Q145 Vereinigtes Königreich
+Q174193 Vereinigtes Königreich Großbritannien und Irland
+Q161885 Königreich Großbritannien
+Q179876 Königreich England
+
+ ORT:  Q84 London
+Q2277 Römisches Kaiserreich
+Q110888 Königreich Essex
+Q105092 Mercia
+Q105313 Königreich Wessex
+Q179876 Königreich England
+Q161885 Königreich Großbritannien
+Q174193 Vereinigtes Königreich Großbritannien und Irland
+Q145 Vereinigtes Königreich
+
+ ORT:  Q84 London
+Q2277 Römisches Kaiserreich
+Q110888 Königreich Essex
+Q105092 Mercia
+Q105313 Königreich Wessex
+Q179876 Königreich England
+Q161885 Königreich Großbritannien
+Q174193 Vereinigtes Königreich Großbritannien und Irland
+Q145 Vereinigtes Königreich
+
+ ORT:  Q84 London
+Q2277 Römisches Kaiserreich
+Q110888 Königreich Essex
+Q105092 Mercia
+Q105313 Königreich Wessex
+Q179876 Königreich England
+Q161885 Königreich Großbritannien
+Q174193 Vereinigtes Königreich Großbritannien und Irland
+Q145 Vereinigtes Königreich
+none
+none
+
+ ORT:  Q4737993 Alverthorpe
+Q145 Vereinigtes Königreich
+
+ ORT:  Q31614 Zell im Fichtelgebirge
+Q183 Deutschland
+none
+
+ ORT:  Q33527130 Zell
+Q183 Deutschland
+
+ ORT:  Q589968 Wengen
+Q39 Schweiz
+none
+none
+
+ ORT:  Q22390095 Steinhausen
+Q39 Schweiz
+
+ ORT:  Q63931 Stans
+Q39 Schweiz
+none
+none
+none
+none
+none
+
+ ORT:  Q69345 Neuenburg
+Q39 Schweiz
+none
+none
+
+ ORT:  Q4191 Luzern
+Q39 Schweiz
+
+ ORT:  Q22641718 Hornussen
+Q39 Schweiz
+none
+
+ ORT:  Q22419022 Erlenbach
+Q39 Schweiz
+
+ ORT:  Q22419022 Erlenbach
+Q39 Schweiz
+
+ ORT:  Q22419022 Erlenbach
+Q39 Schweiz
+
+ ORT:  Q22419022 Erlenbach
+Q39 Schweiz
+
+ ORT:  Q22419022 Erlenbach
+Q39 Schweiz
+
+ ORT:  Q67128 Diessenhofen
+Q39 Schweiz
+
+ ORT:  Q63896 Delsberg
+Q39 Schweiz
+
+ ORT:  Q63896 Delsberg
+Q39 Schweiz
+none
+none
+none
+
+ ORT:  Q22397480 Altdorf
+Q39 Schweiz
+
+ ORT:  Q25286 Uppsala
+Q34 Schweden
+
+ ORT:  Q1754 Stockholm
+Q34 Schweden
+Q62623 Kalmarer Union
+Q62589 Union zwischen Schweden und Norwegen
+
+ ORT:  Q1754 Stockholm
+Q34 Schweden
+Q62623 Kalmarer Union
+Q62589 Union zwischen Schweden und Norwegen
+
+ ORT:  Q793 Zwolle
+Q55 Niederlande
+
+ ORT:  Q1616224 Zelhem
+Q55 Niederlande
+
+ ORT:  Q3112153 Wommels
+Q55 Niederlande
+
+ ORT:  Q2615141 Wittem
+Q55 Niederlande
+
+ ORT:  Q3184100 Veere
+Q55 Niederlande
+
+ ORT:  Q100076 Valkenburg
+Q55 Niederlande
+
+ ORT:  Q39297398 Utrecht
+Q55 Niederlande
+
+ ORT:  Q39297398 Utrecht
+Q55 Niederlande
+
+ ORT:  Q39297398 Utrecht
+Q55 Niederlande
+
+ ORT:  Q33506500 Tiel
+Q55 Niederlande
+
+ ORT:  Q7476457 Someren
+Q55 Niederlande
+
+ ORT:  Q7476457 Someren
+Q55 Niederlande
+
+ ORT:  Q7476457 Someren
+Q55 Niederlande
+
+ ORT:  Q73022 Sittard
+Q55 Niederlande
+
+ ORT:  Q73022 Sittard
+Q55 Niederlande
+
+ ORT:  Q2766547 Den Bosch (Herzogenbusch)
+Q55 Niederlande
+
+ ORT:  Q36600 Den Haag
+Q55 Niederlande
+Q212278 Königreich Holland
+Q71084 Erstes Kaiserreich
+Q188553 Batavische Republik
+Q170072 Republik der Vereinigten Niederlande
+Q80702 Spanisches Kolonialreich
+Q1031430 Habsburgische Niederlande
+Q762943 Grafschaft Holland
+
+ ORT:  Q36600 Den Haag
+Q55 Niederlande
+Q212278 Königreich Holland
+Q71084 Erstes Kaiserreich
+Q188553 Batavische Republik
+Q170072 Republik der Vereinigten Niederlande
+Q80702 Spanisches Kolonialreich
+Q1031430 Habsburgische Niederlande
+Q762943 Grafschaft Holland
+
+ ORT:  Q34370 Rotterdam
+Q55 Niederlande
+
+ ORT:  Q34370 Rotterdam
+Q55 Niederlande
+
+ ORT:  Q34370 Rotterdam
+Q55 Niederlande
+
+ ORT:  Q9783 Roermond
+Q55 Niederlande
+
+ ORT:  Q9783 Roermond
+Q55 Niederlande
+
+ ORT:  Q13137607 Rheden
+Q55 Niederlande
+
+ ORT:  Q1615365 Ootmarsum
+Q55 Niederlande
+
+ ORT:  Q13188714 Nimwegen
+Q55 Niederlande
+
+ ORT:  Q21765585 Limbourg
+Q31 Belgien
+
+ ORT:  Q1309 Maastricht
+Q55 Niederlande
+
+ ORT:  Q1000817 Leiderdorp
+Q55 Niederlande
+
+ ORT:  Q43631 Leiden
+Q55 Niederlande
+Q170072 Republik der Vereinigten Niederlande
+Q55 Niederlande
+
+ ORT:  Q25390 Leeuwarden
+Q55 Niederlande
+
+ ORT:  Q25390 Leeuwarden
+Q55 Niederlande
+
+ ORT:  Q1723294 Kamperland
+Q55 Niederlande
+
+ ORT:  Q10014 Kampen
+Q55 Niederlande
+none
+
+ ORT:  Q9404653 Hilvarenbeek
+Q55 Niederlande
+
+ ORT:  Q749 Groningen
+Q55 Niederlande
+Q170072 Republik der Vereinigten Niederlande
+Q188553 Batavische Republik
+Q212278 Königreich Holland
+Q142 Frankreich
+
+ ORT:  Q749 Groningen
+Q55 Niederlande
+Q170072 Republik der Vereinigten Niederlande
+Q188553 Batavische Republik
+Q212278 Königreich Holland
+Q142 Frankreich
+
+ ORT:  Q33439340 Gouda
+Q55 Niederlande
+
+ ORT:  Q41974 Franeker
+Q55 Niederlande
+
+ ORT:  Q41974 Franeker
+Q55 Niederlande
+
+ ORT:  Q41974 Franeker
+Q55 Niederlande
+
+ ORT:  Q13188262 Elburg
+Q55 Niederlande
+
+ ORT:  Q9832 Eindhoven
+Q55 Niederlande
+
+ ORT:  Q9832 Eindhoven
+Q55 Niederlande
+
+ ORT:  Q690 Delft
+Q55 Niederlande
+
+ ORT:  Q33426218 Brielle
+Q55 Niederlande
+
+ ORT:  Q33426218 Brielle
+Q55 Niederlande
+
+ ORT:  Q631499 Beegden
+Q55 Niederlande
+
+ ORT:  Q1310 Arnheim
+Q55 Niederlande
+
+ ORT:  Q727 Amsterdam
+Q55 Niederlande
+Q596214 Reichskommissariat Niederlande
+Q55 Niederlande
+Q15864 Königreich der Vereinigten Niederlande
+Q774783 Souveränes Fürstentum der Vereinigten Niederlande
+Q142 Frankreich
+Q212278 Königreich Holland
+Q188553 Batavische Republik
+Q170072 Republik der Vereinigten Niederlande
+Q1031430 Habsburgische Niederlande
+Q157109 Burgundische Niederlande
+Q762943 Grafschaft Holland
+
+ ORT:  Q727 Amsterdam
+Q55 Niederlande
+Q596214 Reichskommissariat Niederlande
+Q55 Niederlande
+Q15864 Königreich der Vereinigten Niederlande
+Q774783 Souveränes Fürstentum der Vereinigten Niederlande
+Q142 Frankreich
+Q212278 Königreich Holland
+Q188553 Batavische Republik
+Q170072 Republik der Vereinigten Niederlande
+Q1031430 Habsburgische Niederlande
+Q157109 Burgundische Niederlande
+Q762943 Grafschaft Holland
+
+ ORT:  Q33421377 Amersfoort
+Q55 Niederlande
+
+ ORT:  Q33421377 Amersfoort
+Q55 Niederlande
+
+ ORT:  Q612259 Aduard
+Q55 Niederlande
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q1741 Wien
+Q40 Österreich
+Q518101 Erste Republik
+Q28513 Österreich-Ungarn
+Q268970 Deutschösterreich
+Q131964 Kaisertum Österreich
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+Q153136 Habsburgermonarchie
+Q699964 Erzherzogtum Österreich
+Q3624335 Herzogtum Österreich
+Q283627 Marcha orientalis
+Q47261 Herzogtum Bayern
+Q596239 besetztes Nachkriegsösterreich
+
+ ORT:  Q21881895 Wenns
+Q40 Österreich
+
+ ORT:  Q21863743 Villach
+Q40 Österreich
+
+ ORT:  Q871426 Stainach
+Q40 Österreich
+
+ ORT:  Q21880376 Sommerein
+Q40 Österreich
+
+ ORT:  Q21881884 Hall in Tirol
+Q40 Österreich
+
+ ORT:  Q21865352 Sankt Pölten
+Q40 Österreich
+
+ ORT:  Q34713 Salzburg
+Q40 Österreich
+Q131964 Kaisertum Österreich
+Q154195 Königreich Bayern
+Q131964 Kaisertum Österreich
+Q28513 Österreich-Ungarn
+Q518101 Erste Republik
+Q176495 Bundesstaat Österreich
+Q7318 NS-Staat
+none
+
+ ORT:  Q22775 Dachstein
+Q142 Frankreich
+
+ ORT:  Q22775 Dachstein
+Q142 Frankreich
+
+ ORT:  Q63404502 Mostbach
+Q40 Österreich
+
+ ORT:  Q41329 Linz
+Q40 Österreich
+
+ ORT:  Q41329 Linz
+Q40 Österreich
+
+ ORT:  Q32060456 Innsbruck
+Q40 Österreich
+
+ ORT:  Q32060456 Innsbruck
+Q40 Österreich
+
+ ORT:  Q21871155 Graz
+Q40 Österreich
+
+ ORT:  Q21882134 Bregenz
+Q40 Österreich
+none
+none
+
+ ORT:  Q21880383 Bad Deutsch-Altenburg
+Q40 Österreich
+
+ ORT:  Q440724 Altheim
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+none
+
+ ORT:  Q21760162 Waimes
+Q31 Belgien
+
+ ORT:  Q21760086 Visé
+Q31 Belgien
+
+ ORT:  Q21760086 Visé
+Q31 Belgien
+
+ ORT:  Q51367625 Wirten
+Q55 Niederlande
+Q31 Belgien
+
+ ORT:  Q31571899 Verviers
+Q31 Belgien
+
+ ORT:  Q31571899 Verviers
+Q31 Belgien
+none
+none
+
+ ORT:  Q31532444 Stavelot
+Q31 Belgien
+
+ ORT:  Q21763297 Soumagne
+Q31 Belgien
+
+ ORT:  Q21763297 Soumagne
+Q31 Belgien
+
+ ORT:  Q21764821 Sint-Lievens-Houtem
+Q31 Belgien
+
+ ORT:  Q2572526 Sart-lez-Spa
+Q31 Belgien
+
+ ORT:  Q21764663 Saint-Hubert
+Q31 Belgien
+
+ ORT:  Q21764663 Saint-Hubert
+Q31 Belgien
+
+ ORT:  Q31493468 Ronse
+Q31 Belgien
+
+ ORT:  Q21764380 Plombières
+Q31 Belgien
+
+ ORT:  Q51389725 Namur
+Q31 Belgien
+
+ ORT:  Q34328915 Mons
+Q31 Belgien
+Q309460 Grafschaft Hennegau
+
+ ORT:  Q21765751 Mechelen
+Q31 Belgien
+
+ ORT:  Q21765751 Mechelen
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+
+ ORT:  Q31824088 Malmedy
+Q31 Belgien
+none
+none
+
+ ORT:  Q21765585 Limbourg
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+
+Sleeping for 5.0 seconds, 2023-07-25 18:32:06
+Sleeping for 5.0 seconds, 2023-07-25 18:32:11
+
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765571 Liège
+Q31 Belgien
+
+ ORT:  Q21765562 Löwen
+Q31 Belgien
+
+ ORT:  Q21765562 Löwen
+Q31 Belgien
+
+ ORT:  Q1713746 Jupille
+Q31 Belgien
+
+ ORT:  Q1713746 Jupille
+Q31 Belgien
+
+ ORT:  Q21767964 Jalhay
+Q31 Belgien
+
+ ORT:  Q31824036 Ypern
+Q31 Belgien
+
+ ORT:  Q18542624 Huy
+Q31 Belgien
+
+ ORT:  Q21767894 Houffalize
+Q31 Belgien
+
+ ORT:  Q21767697 Hasselt
+Q31 Belgien
+
+ ORT:  Q2795025 Hamont
+Q31 Belgien
+none
+
+ ORT:  Q2000118 Habay-la-Vieille
+Q31 Belgien
+
+ ORT:  Q31579678 Eupen
+Q31 Belgien
+
+ ORT:  Q2549044 Ensival
+Q31 Belgien
+
+ ORT:  Q31567774 Dinant
+Q31 Belgien
+none
+
+ ORT:  Q239 Stadt Brüssel
+Q31 Belgien
+
+ ORT:  Q239 Stadt Brüssel
+Q31 Belgien
+
+ ORT:  Q239 Stadt Brüssel
+Q31 Belgien
+
+ ORT:  Q21770446 Boutersem
+Q31 Belgien
+
+ ORT:  Q12360419 Bouillon
+Q31 Belgien
+
+ ORT:  Q12360419 Bouillon
+Q31 Belgien
+
+ ORT:  Q21770111 Aubel
+Q31 Belgien
+
+ ORT:  Q21770111 Aubel
+Q31 Belgien
+
+ ORT:  Q21770111 Aubel
+Q31 Belgien
+none
+
+ ORT:  Q21770050 Alken
+Q31 Belgien
+none
+none
+
+ ORT:  Q5398 Zülpich
+Q183 Deutschland
+Q142 Frankreich
+Q38872 Preußen
+
+ ORT:  Q5398 Zülpich
+Q183 Deutschland
+Q142 Frankreich
+Q38872 Preußen
+none
+none
+
+ ORT:  Q197021 Zeutern
+Q183 Deutschland
+
+ ORT:  Q33728196 Zeitz
+Q183 Deutschland
+none
+
+ ORT:  Q314065 Frankfurt-Zeilsheim
+Q183 Deutschland
+
+ ORT:  Q33527002 Zeil
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+
+Sleeping for 5.0 seconds, 2023-07-25 18:33:28
+
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q2999 Würzburg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+none
+none
+
+ ORT:  Q33521983 Wörth am Rhein
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+
+ ORT:  Q2593375 Worbis
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q502591 Wolframs-Eschenbach
+Q183 Deutschland
+
+ ORT:  Q502591 Wolframs-Eschenbach
+Q183 Deutschland
+none
+
+ ORT:  Q627586 Wolfersdorf
+Q183 Deutschland
+none
+none
+
+ ORT:  Q983726 Wołów
+Q36 Polen
+
+ ORT:  Q983726 Wołów
+Q36 Polen
+
+ ORT:  Q983726 Wołów
+Q36 Polen
+
+ ORT:  Q564827 Witzenhausen
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q49293178 Witterda
+Q183 Deutschland
+
+ ORT:  Q33517716 Wissen
+Q183 Deutschland
+
+ ORT:  Q32761623 Wismar
+Q183 Deutschland
+none
+none
+
+ ORT:  Q33517660 Wirges
+Q183 Deutschland
+
+ ORT:  Q33517660 Wirges
+Q183 Deutschland
+
+ ORT:  Q33517660 Wirges
+Q183 Deutschland
+
+ ORT:  Q11045 Wipperfürth
+Q183 Deutschland
+
+ ORT:  Q11045 Wipperfürth
+Q183 Deutschland
+
+ ORT:  Q881635 Wipperfeld
+Q183 Deutschland
+none
+
+ ORT:  Q10923 Winterberg
+Q183 Deutschland
+
+ ORT:  Q22469 Winnweiler
+Q183 Deutschland
+
+ ORT:  Q22469 Winnweiler
+Q183 Deutschland
+
+ ORT:  Q22469 Winnweiler
+Q183 Deutschland
+none
+
+ ORT:  Q49293049 Wiesthal
+Q183 Deutschland
+
+ ORT:  Q33516820 Wiesentheid
+Q183 Deutschland
+
+ ORT:  Q33516820 Wiesentheid
+Q183 Deutschland
+none
+
+ ORT:  Q1721 Wiesbaden
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+
+ ORT:  Q1721 Wiesbaden
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+
+ ORT:  Q1721 Wiesbaden
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+
+ ORT:  Q1721 Wiesbaden
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+none
+none
+
+ ORT:  Q2567626 Wicker
+Q183 Deutschland
+
+ ORT:  Q2567626 Wicker
+Q183 Deutschland
+
+ ORT:  Q2567626 Wicker
+Q183 Deutschland
+
+ ORT:  Q2567626 Wicker
+Q183 Deutschland
+
+ ORT:  Q2567626 Wicker
+Q183 Deutschland
+
+ ORT:  Q4178 Wetzlar
+Q183 Deutschland
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q4178 Wetzlar
+Q183 Deutschland
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q4178 Wetzlar
+Q183 Deutschland
+Q12548 Heiliges Römisches Reich
+none
+none
+none
+none
+
+ ORT:  Q688629 Westerhausen
+Q183 Deutschland
+
+ ORT:  Q537491 Westerburg
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+
+Sleeping for 5.0 seconds, 2023-07-25 18:35:59
+
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+Q183 Deutschland
+
+ ORT:  Q49278421 Wesel
+Q183 Deutschland
+
+ ORT:  Q21405656 Wertheim
+Q183 Deutschland
+
+ ORT:  Q21405656 Wertheim
+Q183 Deutschland
+
+ ORT:  Q2563401 Wersen
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32753806 Wernigerode
+Q183 Deutschland
+none
+
+ ORT:  Q11120 Werl
+Q183 Deutschland
+
+ ORT:  Q11120 Werl
+Q183 Deutschland
+none
+none
+
+ ORT:  Q258391 Werden
+Q183 Deutschland
+none
+
+ ORT:  Q32753762 Werbach
+Q183 Deutschland
+
+ ORT:  Q32753762 Werbach
+Q183 Deutschland
+
+ ORT:  Q32753762 Werbach
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32753672 Welzheim
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q33514563 Weißensee
+Q183 Deutschland
+
+ ORT:  Q33514563 Weißensee
+Q183 Deutschland
+
+ ORT:  Q44500 Weißenburg in Bayern
+Q183 Deutschland
+
+ ORT:  Q44500 Weißenburg in Bayern
+Q183 Deutschland
+
+ ORT:  Q44500 Weißenburg in Bayern
+Q183 Deutschland
+
+ ORT:  Q44500 Weißenburg in Bayern
+Q183 Deutschland
+
+ ORT:  Q44500 Weißenburg in Bayern
+Q183 Deutschland
+
+ ORT:  Q49292853 Weißenbrunn
+Q183 Deutschland
+
+ ORT:  Q579006 Weißenborn-Lüderode
+Q183 Deutschland
+
+ ORT:  Q579006 Weißenborn-Lüderode
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32753471 Weisenbach
+Q183 Deutschland
+
+ ORT:  Q32753471 Weisenbach
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32753443 Weinheim
+Q183 Deutschland
+
+ ORT:  Q32753443 Weinheim
+Q183 Deutschland
+
+ ORT:  Q32067990 Weimar
+Q183 Deutschland
+
+ ORT:  Q32067990 Weimar
+Q183 Deutschland
+
+ ORT:  Q32067990 Weimar
+Q183 Deutschland
+
+ ORT:  Q32067990 Weimar
+Q183 Deutschland
+none
+
+ ORT:  Q33514354 Weiler bei Bingen
+Q183 Deutschland
+
+ ORT:  Q33514354 Weiler bei Bingen
+Q183 Deutschland
+
+ ORT:  Q505147 Weil der Stadt
+Q183 Deutschland
+
+ ORT:  Q505147 Weil der Stadt
+Q183 Deutschland
+
+ ORT:  Q573599 Weilburg
+Q183 Deutschland
+none
+
+ ORT:  Q32753279 Weil am Rhein
+Q183 Deutschland
+
+ ORT:  Q32753279 Weil am Rhein
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q628442 Wehrheim
+Q183 Deutschland
+
+ ORT:  Q33514301 Wehr
+Q183 Deutschland
+
+ ORT:  Q204860 Wegberg
+Q183 Deutschland
+
+ ORT:  Q204860 Wegberg
+Q183 Deutschland
+none
+
+ ORT:  Q32752877 Warthausen
+Q183 Deutschland
+
+ ORT:  Q2243967 Schloss Wartenstein
+Q183 Deutschland
+
+ ORT:  Q11119 Warstein
+Q183 Deutschland
+
+ ORT:  Q11119 Warstein
+Q183 Deutschland
+
+ ORT:  Q11119 Warstein
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q33513598 Warburg
+Q183 Deutschland
+
+ ORT:  Q49292714 Warberg
+Q183 Deutschland
+
+ ORT:  Q33513507 Wanfried
+Q183 Deutschland
+
+ ORT:  Q705011 Wandersleben
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q33513348 Wallenfels
+Q183 Deutschland
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q32752658 Walldürn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+none
+
+ ORT:  Q32752640 Waldshut-Tiengen
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q33513107 Waldheim
+Q183 Deutschland
+none
+
+ ORT:  Q33513084 Waldenburg
+Q183 Deutschland
+
+ ORT:  Q33513076 Waldeck
+Q183 Deutschland
+
+ ORT:  Q33513076 Waldeck
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q49292509 Waldalgesheim
+Q183 Deutschland
+
+ ORT:  Q503128 Waischenfeld
+Q183 Deutschland
+
+ ORT:  Q49292495 Waigolshausen
+Q183 Deutschland
+
+ ORT:  Q49292495 Waigolshausen
+Q183 Deutschland
+
+ ORT:  Q66435995 Waidachshof
+Q183 Deutschland
+
+ ORT:  Q32752603 Waibstadt
+Q183 Deutschland
+
+ ORT:  Q32752603 Waibstadt
+Q183 Deutschland
+
+ ORT:  Q32752602 Waiblingen
+Q183 Deutschland
+
+ ORT:  Q32752598 Waghäusel
+Q183 Deutschland
+
+ ORT:  Q32752598 Waghäusel
+Q183 Deutschland
+none
+none
+
+ ORT:  Q881859 Schloss Vollrads
+Q183 Deutschland
+
+ ORT:  Q881859 Schloss Vollrads
+Q183 Deutschland
+
+ ORT:  Q881859 Schloss Vollrads
+Q183 Deutschland
+
+ ORT:  Q881859 Schloss Vollrads
+Q183 Deutschland
+
+ ORT:  Q38433600 Vollmersdorf
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+
+ ORT:  Q533535 Volkmarsen
+Q183 Deutschland
+
+ ORT:  Q533535 Volkmarsen
+Q183 Deutschland
+
+ ORT:  Q504787 Volkach
+Q183 Deutschland
+none
+
+ ORT:  Q1805307 Vockenhausen
+Q183 Deutschland
+
+ ORT:  Q1805307 Vockenhausen
+Q183 Deutschland
+
+ ORT:  Q2529697 Vlotho
+Q183 Deutschland
+none
+none
+
+ ORT:  Q508107 Vilseck
+Q183 Deutschland
+
+ ORT:  Q508107 Vilseck
+Q183 Deutschland
+
+ ORT:  Q621483 Villmar
+Q183 Deutschland
+
+ ORT:  Q621483 Villmar
+Q183 Deutschland
+
+ ORT:  Q621483 Villmar
+Q183 Deutschland
+
+ ORT:  Q621483 Villmar
+Q183 Deutschland
+
+ ORT:  Q16055 Viernheim
+Q183 Deutschland
+
+ ORT:  Q16055 Viernheim
+Q183 Deutschland
+none
+
+ ORT:  Q49292281 Venningen
+Q183 Deutschland
+
+ ORT:  Q49292278 Vendersheim
+Q183 Deutschland
+none
+
+ ORT:  Q49292269 Veitshöchheim
+Q183 Deutschland
+
+ ORT:  Q49278389 Vechta
+Q183 Deutschland
+none
+
+ ORT:  Q33511252 Vallendar
+Q183 Deutschland
+
+ ORT:  Q622565 Usingen
+Q183 Deutschland
+
+ ORT:  Q622565 Usingen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q1666816 Unter-Abtsteinach
+Q183 Deutschland
+
+ ORT:  Q1666816 Unter-Abtsteinach
+Q183 Deutschland
+
+ ORT:  Q33510591 Unkel
+Q183 Deutschland
+
+ ORT:  Q49292059 Undenheim
+Q183 Deutschland
+
+ ORT:  Q49292059 Undenheim
+Q183 Deutschland
+
+ ORT:  Q3012 Ulm
+Q183 Deutschland
+Q12548 Heiliges Römisches Reich
+Q154195 Königreich Bayern
+Q159631 Königreich Württemberg
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+
+ ORT:  Q3012 Ulm
+Q183 Deutschland
+Q12548 Heiliges Römisches Reich
+Q154195 Königreich Bayern
+Q159631 Königreich Württemberg
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+
+ ORT:  Q49292006 Uder
+Q183 Deutschland
+
+ ORT:  Q49292006 Uder
+Q183 Deutschland
+none
+
+ ORT:  Q33730295 Überlingen
+Q183 Deutschland
+
+ ORT:  Q33508964 Tussenhausen
+Q183 Deutschland
+
+ ORT:  Q32751737 Tübingen
+Q183 Deutschland
+
+ ORT:  Q32751737 Tübingen
+Q183 Deutschland
+
+ ORT:  Q32751737 Tübingen
+Q183 Deutschland
+none
+
+ ORT:  Q1774330 Trockau
+Q183 Deutschland
+
+ ORT:  Q3138 Trier
+
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q3138 Trier
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q3138 Trier
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q3138 Trier
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q3138 Trier
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+
+ ORT:  Q3138 Trier
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q2277 Römisches Kaiserreich
+none
+none
+none
+
+ ORT:  Q33507419 Treffurt
+Q183 Deutschland
+
+ ORT:  Q33507419 Treffurt
+Q183 Deutschland
+
+ ORT:  Q49291776 Trechtingshausen
+Q183 Deutschland
+
+ ORT:  Q49291776 Trechtingshausen
+Q183 Deutschland
+
+ ORT:  Q49291776 Trechtingshausen
+Q183 Deutschland
+
+ ORT:  Q259898 Trebitz
+Q183 Deutschland
+none
+
+ ORT:  Q12062 Torgau
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32751360 Todtnau
+Q183 Deutschland
+
+ ORT:  Q33506413 Thulendorf
+Q183 Deutschland
+
+ ORT:  Q502604 Teuschnitz
+Q183 Deutschland
+
+ ORT:  Q502604 Teuschnitz
+Q183 Deutschland
+
+ ORT:  Q32750763 Templin
+Q183 Deutschland
+none
+none
+
+ ORT:  Q569664 Taunusstein
+Q183 Deutschland
+
+ ORT:  Q569664 Taunusstein
+Q183 Deutschland
+
+ ORT:  Q569664 Taunusstein
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q61977929 Tauberbischofsheim
+Q183 Deutschland
+
+ ORT:  Q32750458 Tambach-Dietharz/Thür. Wald
+Q183 Deutschland
+
+ ORT:  Q32750458 Tambach-Dietharz/Thür. Wald
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32749678 Stuttgart
+Q183 Deutschland
+
+ ORT:  Q32749678 Stuttgart
+Q183 Deutschland
+
+ ORT:  Q32749678 Stuttgart
+Q183 Deutschland
+
+ ORT:  Q19912720 Strümpfelbrunn
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+none
+
+ ORT:  Q49278248 Straubing
+Q183 Deutschland
+
+ ORT:  Q33496679 Straelen
+Q183 Deutschland
+
+ ORT:  Q4068 Stolberg
+Q183 Deutschland
+
+ ORT:  Q504297 Stockstadt am Main
+Q183 Deutschland
+
+ ORT:  Q504297 Stockstadt am Main
+Q183 Deutschland
+none
+
+ ORT:  Q32749424 Stockach
+Q183 Deutschland
+none
+none
+
+ ORT:  Q525796 Stettfeld
+Q183 Deutschland
+none
+
+ ORT:  Q33495673 Steinwiesen
+Q183 Deutschland
+
+ ORT:  Q49290665 Steinheuterode
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q522045 Stein
+Q183 Deutschland
+
+ ORT:  Q522045 Stein
+Q183 Deutschland
+none
+none
+
+ ORT:  Q31898065 Bad Staffelstein
+Q183 Deutschland
+
+ ORT:  Q31898065 Bad Staffelstein
+Q183 Deutschland
+
+ ORT:  Q31898065 Bad Staffelstein
+Q183 Deutschland
+
+ ORT:  Q31898065 Bad Staffelstein
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q120805008 Stadtprozelten
+Q183 Deutschland
+
+ ORT:  Q33492576 Stadtlohn
+Q183 Deutschland
+
+ ORT:  Q33492563 Stadtlengsfeld
+Q183 Deutschland
+
+ ORT:  Q33492563 Stadtlengsfeld
+Q183 Deutschland
+
+ ORT:  Q33492563 Stadtlengsfeld
+Q183 Deutschland
+
+ ORT:  Q32747968 Stadtilm
+Q183 Deutschland
+
+ ORT:  Q32747968 Stadtilm
+Q183 Deutschland
+
+ ORT:  Q32747968 Stadtilm
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q49278241 Speyer
+Q183 Deutschland
+
+ ORT:  Q49278241 Speyer
+Q183 Deutschland
+
+ ORT:  Q49278241 Speyer
+Q183 Deutschland
+
+ ORT:  Q49278241 Speyer
+Q183 Deutschland
+
+ ORT:  Q33491841 Spalt
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q314754 Frankfurt-Sossenheim
+Q183 Deutschland
+
+ ORT:  Q314754 Frankfurt-Sossenheim
+Q183 Deutschland
+none
+
+ ORT:  Q549971 Sontra
+Q183 Deutschland
+
+ ORT:  Q549971 Sontra
+Q183 Deutschland
+
+ ORT:  Q549971 Sontra
+Q183 Deutschland
+
+ ORT:  Q32744154 Sondershausen
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32750241 Sömmerda
+Q183 Deutschland
+
+ ORT:  Q32750241 Sömmerda
+Q183 Deutschland
+
+ ORT:  Q32750241 Sömmerda
+Q183 Deutschland
+
+ ORT:  Q32750241 Sömmerda
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32741874 Sinsheim
+Q183 Deutschland
+
+ ORT:  Q59168728 Sindolsheim
+Q183 Deutschland
+Q569998 Trizone
+Q693911 Bizone
+Q55304 Amerikanische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+none
+
+ ORT:  Q32741559 Simmersfeld
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q49290215 Silberhausen
+Q183 Deutschland
+
+ ORT:  Q32741131 Sigmaringen
+Q183 Deutschland
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+
+ ORT:  Q3167 Siegen
+Q183 Deutschland
+Q12817455 Grafschaft Nassau
+Q736029 Nassau-Siegen
+Q736029 Nassau-Siegen
+No country found.
+none
+
+ ORT:  Q49278207 Siegburg
+Q183 Deutschland
+
+ ORT:  Q49278207 Siegburg
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32738981 Seulingen
+Q183 Deutschland
+
+ ORT:  Q32738981 Seulingen
+Q183 Deutschland
+
+ ORT:  Q32738981 Seulingen
+Q183 Deutschland
+
+ ORT:  Q32738981 Seulingen
+Q183 Deutschland
+none
+
+ ORT:  Q33483816 Seßlach
+Q183 Deutschland
+
+ ORT:  Q33483816 Seßlach
+Q183 Deutschland
+none
+
+ ORT:  Q516529 Seligenstadt
+Q183 Deutschland
+
+ ORT:  Q516529 Seligenstadt
+Q183 Deutschland
+
+ ORT:  Q516529 Seligenstadt
+Q183 Deutschland
+
+ ORT:  Q516529 Seligenstadt
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32293442 Schwobfeld
+Q183 Deutschland
+
+ ORT:  Q32293106 Schweppenhausen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q4126 Schweinfurt
+Q183 Deutschland
+
+ ORT:  Q32291764 Schwarzenberg/Erzgeb.
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32290942 Schwandorf in Bayern
+Q183 Deutschland
+
+ ORT:  Q516599 Schwalmstadt
+Q183 Deutschland
+
+ ORT:  Q32290754 Schwalbach am Taunus
+Q183 Deutschland
+
+ ORT:  Q32290754 Schwalbach am Taunus
+Q183 Deutschland
+
+ ORT:  Q32290754 Schwalbach am Taunus
+Q183 Deutschland
+
+ ORT:  Q32290754 Schwalbach am Taunus
+Q183 Deutschland
+none
+
+ ORT:  Q32730725 Schwäbisch Gmünd
+Q183 Deutschland
+
+ ORT:  Q32730725 Schwäbisch Gmünd
+Q183 Deutschland
+
+ ORT:  Q32730725 Schwäbisch Gmünd
+Q183 Deutschland
+
+ ORT:  Q32290518 Schwabenheim
+Q183 Deutschland
+
+ ORT:  Q32290518 Schwabenheim
+Q183 Deutschland
+
+ ORT:  Q32290518 Schwabenheim
+
+Q183 Deutschland
+
+ ORT:  Q32290518 Schwabenheim
+Q183 Deutschland
+
+ ORT:  Q1567134 Schröck
+Q183 Deutschland
+
+ ORT:  Q1567134 Schröck
+Q183 Deutschland
+
+ ORT:  Q1567134 Schröck
+Q183 Deutschland
+
+ ORT:  Q1567134 Schröck
+Q183 Deutschland
+
+ ORT:  Q32289549 Schornsheim
+Q183 Deutschland
+
+ ORT:  Q32289314 Schonungen
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32288744 Schneeberg
+Q183 Deutschland
+
+ ORT:  Q32288744 Schneeberg
+Q183 Deutschland
+
+ ORT:  Q32288555 Schnaittach
+Q183 Deutschland
+
+ ORT:  Q569671 Schlüchtern
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q828314 Schloßborn
+Q183 Deutschland
+
+ ORT:  Q828314 Schloßborn
+Q183 Deutschland
+
+ ORT:  Q552477 Schlitz
+Q183 Deutschland
+
+ ORT:  Q552477 Schlitz
+Q183 Deutschland
+none
+
+ ORT:  Q504914 Schleusingen
+Q183 Deutschland
+
+ ORT:  Q32285667 Schleiz
+Q183 Deutschland
+none
+none
+
+ ORT:  Q478142 Schierstein
+Q183 Deutschland
+
+ ORT:  Q478142 Schierstein
+Q183 Deutschland
+
+ ORT:  Q238951 Scheßlitz
+Q183 Deutschland
+none
+
+ ORT:  Q100776176 Scheringen
+Q183 Deutschland
+Q569998 Trizone
+Q693911 Bizone
+Q55304 Amerikanische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q29561603 Scheeren
+Q183 Deutschland
+
+ ORT:  Q32282081 Schallodenbach
+Q183 Deutschland
+
+ ORT:  Q32282081 Schallodenbach
+Q183 Deutschland
+
+ ORT:  Q32282081 Schallodenbach
+Q183 Deutschland
+
+ ORT:  Q32282081 Schallodenbach
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q32278296 Sankt Goar
+Q183 Deutschland
+
+ ORT:  Q32278296 Sankt Goar
+Q183 Deutschland
+
+ ORT:  Q32278207 Sankt Aldegund
+Q183 Deutschland
+
+ ORT:  Q32276246 Salzkotten
+Q183 Deutschland
+
+ ORT:  Q32276246 Salzkotten
+Q183 Deutschland
+
+ ORT:  Q151535 Frankfurt-Sachsenhausen
+Q183 Deutschland
+
+ ORT:  Q151535 Frankfurt-Sachsenhausen
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q14912 Saarlouis
+Q183 Deutschland
+
+ ORT:  Q32722322 Saarbrücken
+Q183 Deutschland
+
+ ORT:  Q32722322 Saarbrücken
+Q183 Deutschland
+
+ ORT:  Q32273521 Saalfeld/Saale
+Q183 Deutschland
+none
+
+ ORT:  Q33477350 Rüthen
+Q183 Deutschland
+
+ ORT:  Q32270097 Rutesheim
+Q183 Deutschland
+none
+
+ ORT:  Q32270037 Rustenfelde
+Q183 Deutschland
+
+ ORT:  Q32270037 Rustenfelde
+Q183 Deutschland
+none
+
+ ORT:  Q32269656 Ruppertsberg
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q628118 Rüdesheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q32722026 Rüdershausen
+Q183 Deutschland
+
+ ORT:  Q32722026 Rüdershausen
+Q183 Deutschland
+
+ ORT:  Q32722026 Rüdershausen
+Q183 Deutschland
+
+ ORT:  Q32722026 Rüdershausen
+Q183 Deutschland
+
+ ORT:  Q32722026 Rüdershausen
+Q183 Deutschland
+none
+
+ ORT:  Q22556 Ruchheim
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q82960 Rottweil
+Q183 Deutschland
+
+ ORT:  Q32266996 Rottendorf
+Q183 Deutschland
+
+ ORT:  Q32266996 Rottendorf
+Q183 Deutschland
+
+ ORT:  Q32266967 Rottenburch
+Q183 Deutschland
+none
+
+ ORT:  Q628163 Rothenfels
+Q183 Deutschland
+
+ ORT:  Q117728366 Rothenburg ob der Tauber
+Q183 Deutschland
+
+ ORT:  Q32266498 Rothenbuch
+Q183 Deutschland
+
+ ORT:  Q634743 Rothenberg
+Q183 Deutschland
+none
+
+ ORT:  Q32266223 Roth
+Q183 Deutschland
+
+ ORT:  Q117728366 Rothenburg ob der Tauber
+Q183 Deutschland
+
+ ORT:  Q49288824 Roßdorf
+Q183 Deutschland
+
+ ORT:  Q49288824 Roßdorf
+Q183 Deutschland
+none
+
+ ORT:  Q32263882 Rosdorf
+Q183 Deutschland
+
+ ORT:  Q32263882 Rosdorf
+Q183 Deutschland
+
+ ORT:  Q32263882 Rosdorf
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q314187 Frankfurt-Rödelheim
+Q183 Deutschland
+
+ ORT:  Q33475915 Rockenhausen
+Q183 Deutschland
+
+ ORT:  Q617180 Rockenberg
+Q183 Deutschland
+
+ ORT:  Q617180 Rockenberg
+Q183 Deutschland
+
+ ORT:  Q617180 Rockenberg
+Q183 Deutschland
+
+ ORT:  Q617180 Rockenberg
+Q183 Deutschland
+
+ ORT:  Q617180 Rockenberg
+Q183 Deutschland
+
+ ORT:  Q32260182 Rivenich
+Q183 Deutschland
+
+ ORT:  Q32259037 Rinteln
+Q183 Deutschland
+
+ ORT:  Q32259037 Rinteln
+Q183 Deutschland
+
+ ORT:  Q32259037 Rinteln
+Q183 Deutschland
+
+ ORT:  Q32259037 Rinteln
+Q183 Deutschland
+
+ ORT:  Q19963160 Rinschheim
+Q183 Deutschland
+
+ ORT:  Q19963160 Rinschheim
+Q183 Deutschland
+
+ ORT:  Q120851315 Rieneck
+Q183 Deutschland
+
+ ORT:  Q120851315 Rieneck
+Q183 Deutschland
+
+ ORT:  Q120851315 Rieneck
+Q183 Deutschland
+
+ ORT:  Q32257655 Riedlingen
+Q183 Deutschland
+
+ ORT:  Q32256341 Rhumspringe
+Q183 Deutschland
+
+ ORT:  Q32256341 Rhumspringe
+Q183 Deutschland
+
+ ORT:  Q1553204 Rhonard
+Q183 Deutschland
+
+ ORT:  Q32255512 Rhens
+Q183 Deutschland
+
+ ORT:  Q32255488 Rheinzabern
+Q183 Deutschland
+
+ ORT:  Q32255488 Rheinzabern
+Q183 Deutschland
+none
+
+ ORT:  Q3890 Rheine
+Q183 Deutschland
+none
+
+ ORT:  Q16086 Rheinberg
+Q183 Deutschland
+
+ ORT:  Q16086 Rheinberg
+Q183 Deutschland
+
+ ORT:  Q16086 Rheinberg
+Q183 Deutschland
+
+ ORT:  Q12547 Rheinbach
+Q183 Deutschland
+
+ ORT:  Q6896 Rheda-Wiedenbrück
+Q183 Deutschland
+
+ ORT:  Q6896 Rheda-Wiedenbrück
+Q183 Deutschland
+
+ ORT:  Q32254777 Reutlingen
+Q183 Deutschland
+none
+
+ ORT:  Q32253582 Rentweinsdorf
+Q183 Deutschland
+
+ ORT:  Q32253481 Rennerod
+Q183 Deutschland
+none
+
+ ORT:  Q532058 Remlingen
+Q183 Deutschland
+
+ ORT:  Q32252657 Reipoltskirchen
+Q183 Deutschland
+
+ ORT:  Q32252502 Reinholterode
+Q183 Deutschland
+
+ ORT:  Q32252502 Reinholterode
+Q183 Deutschland
+
+ ORT:  Q32252502 Reinholterode
+Q183 Deutschland
+
+ ORT:  Q32252502 Reinholterode
+Q183 Deutschland
+
+ ORT:  Q32252502 Reinholterode
+Q183 Deutschland
+
+ ORT:  Q20180098 Reinhardsachsen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+
+ ORT:  Q20180098 Reinhardsachsen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+
+ ORT:  Q20180098 Reinhardsachsen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+
+ ORT:  Q20180098 Reinhardsachsen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+
+ ORT:  Q32252359 Reimlingen
+Q183 Deutschland
+
+ ORT:  Q32252307 Reil
+Q183 Deutschland
+none
+
+ ORT:  Q32251638 Reichartshausen
+Q183 Deutschland
+
+ ORT:  Q32251638 Reichartshausen
+Q183 Deutschland
+
+ ORT:  Q2978 Regensburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q552033 Bayern-München
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q2978 Regensburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q552033 Bayern-München
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q2978 Regensburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q552033 Bayern-München
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q2978 Regensburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q552033 Bayern-München
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q2978 Regensburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q552033 Bayern-München
+Q12548 Heiliges Römisches Reich
+
+Q183 Deutschland
+
+ ORT:  Q3050 Recklinghausen
+Q183 Deutschland
+
+ ORT:  Q3050 Recklinghausen
+Q183 Deutschland
+
+ ORT:  Q117813802 Reckendorf
+Q183 Deutschland
+
+ ORT:  Q32248787 Rechtenbach
+Q183 Deutschland
+
+ ORT:  Q32248231 Ravensburg
+Q183 Deutschland
+
+ ORT:  Q32248231 Ravensburg
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q622505 Rauen
+Q183 Deutschland
+
+ ORT:  Q490025 Ratzeburg
+Q183 Deutschland
+
+ ORT:  Q32247518 Rattenberg
+Q183 Deutschland
+
+ ORT:  Q3791 Ratingen
+Q183 Deutschland
+
+ ORT:  Q3791 Ratingen
+Q183 Deutschland
+
+ ORT:  Q32247155 Rastatt
+Q183 Deutschland
+
+ ORT:  Q32247155 Rastatt
+Q183 Deutschland
+
+ ORT:  Q32247155 Rastatt
+Q183 Deutschland
+
+ ORT:  Q32247155 Rastatt
+Q183 Deutschland
+
+ ORT:  Q624495 Rasdorf
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32246199 Randersacker
+Q183 Deutschland
+
+ ORT:  Q32245503 Ralingen
+Q183 Deutschland
+
+ ORT:  Q579011 Bodensee
+Q183 Deutschland
+
+ ORT:  Q712104 Bühren
+Q183 Deutschland
+
+ ORT:  Q569750 Ebergötzen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q544908 Püttlingen
+Q183 Deutschland
+none
+
+ ORT:  Q33473896 Prüm
+Q183 Deutschland
+
+ ORT:  Q33473896 Prüm
+Q183 Deutschland
+
+ ORT:  Q33473896 Prüm
+Q183 Deutschland
+
+ ORT:  Q32237006 Prosselsheim
+Q183 Deutschland
+none
+
+ ORT:  Q1414674 Presberg
+Q183 Deutschland
+
+ ORT:  Q1414674 Presberg
+Q183 Deutschland
+
+ ORT:  Q1414674 Presberg
+Q183 Deutschland
+
+ ORT:  Q32233952 Pottenstein
+Q183 Deutschland
+
+ ORT:  Q32233952 Pottenstein
+Q183 Deutschland
+none
+
+ ORT:  Q5542 Plettenberg
+Q183 Deutschland
+none
+
+ ORT:  Q32226902 Plaidt
+Q183 Deutschland
+
+ ORT:  Q32226535 Pirna
+Q183 Deutschland
+
+ ORT:  Q32224658 Piesport
+Q183 Deutschland
+
+ ORT:  Q32223549 Philippsthal
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223510 Philippsburg
+Q183 Deutschland
+
+ ORT:  Q32223234 Pforzheim
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32222925 Pfarrweisach
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32219863 Peine
+Q183 Deutschland
+
+ ORT:  Q32218006 Pattensen
+Q183 Deutschland
+
+ ORT:  Q32215530 Papenburg
+Q183 Deutschland
+none
+
+ ORT:  Q32214993 Palzem
+Q183 Deutschland
+
+ ORT:  Q2971 Paderborn
+Q183 Deutschland
+
+ ORT:  Q2971 Paderborn
+Q183 Deutschland
+
+ ORT:  Q2971 Paderborn
+Q183 Deutschland
+
+ ORT:  Q2971 Paderborn
+Q183 Deutschland
+
+ ORT:  Q602330 Padberg
+Q183 Deutschland
+
+ ORT:  Q32211566 Ottersheim
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32210851 Osthofen
+Q183 Deutschland
+
+ ORT:  Q32210851 Osthofen
+Q183 Deutschland
+
+ ORT:  Q120864892 Ostheim vor der Rhön
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q32210066 Osterburken
+Q183 Deutschland
+
+ ORT:  Q33158934 Kreisfreie Stadt Osnabrück
+Q183 Deutschland
+
+ ORT:  Q33158934 Kreisfreie Stadt Osnabrück
+Q183 Deutschland
+
+ ORT:  Q33158934 Kreisfreie Stadt Osnabrück
+Q183 Deutschland
+none
+
+ ORT:  Q32208173 Oppenheim
+Q183 Deutschland
+
+ ORT:  Q32208173 Oppenheim
+Q183 Deutschland
+none
+
+ ORT:  Q10898 Olpe
+Q183 Deutschland
+
+ ORT:  Q10898 Olpe
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32205491 Offenburg
+Q183 Deutschland
+
+ ORT:  Q32205491 Offenburg
+Q183 Deutschland
+
+ ORT:  Q32205491 Offenburg
+Q183 Deutschland
+
+ ORT:  Q32205427 Offenbach
+Q183 Deutschland
+
+ ORT:  Q32205427 Offenbach
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32204335 Ockenheim
+Q183 Deutschland
+
+ ORT:  Q32204335 Ockenheim
+Q183 Deutschland
+
+ ORT:  Q32204335 Ockenheim
+Q183 Deutschland
+
+ ORT:  Q32204269 Ochtendung
+Q183 Deutschland
+
+ ORT:  Q504849 Ochsenfurt
+Q183 Deutschland
+
+ ORT:  Q504849 Ochsenfurt
+Q183 Deutschland
+
+ ORT:  Q504849 Ochsenfurt
+Q183 Deutschland
+
+ ORT:  Q504849 Ochsenfurt
+Q183 Deutschland
+
+ ORT:  Q2011520 Oberwittstadt
+Q183 Deutschland
+Q569998 Trizone
+Q693911 Bizone
+Q55304 Amerikanische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+none
+
+ ORT:  Q32203443 Oberwesel
+Q183 Deutschland
+
+ ORT:  Q32203443 Oberwesel
+Q183 Deutschland
+
+ ORT:  Q32203443 Oberwesel
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+
+ ORT:  Q7044 Oberursel (Taunus)
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32202694 Oberstdorf
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32198836 Ober-Saulheim
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32198793 Ober-Olm
+Q183 Deutschland
+
+ ORT:  Q32198793 Ober-Olm
+Q183 Deutschland
+
+ ORT:  Q32198793 Ober-Olm
+Q183 Deutschland
+
+ ORT:  Q550682 Obernheim
+Q183 Deutschland
+
+ ORT:  Q32201657 Oberndorf
+Q183 Deutschland
+
+ ORT:  Q32201657 Oberndorf
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q633608 Ober-Mörlen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32201468 Obermehler
+Q183 Deutschland
+
+ ORT:  Q32201333 Oberleichtersbach
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32198715 Ober-Hilbersheim
+Q183 Deutschland
+
+ ORT:  Q32198715 Ober-Hilbersheim
+Q183 Deutschland
+
+ ORT:  Q32200768 Oberheimbach
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32198984 Oberaudorf
+Q183 Deutschland
+
+ ORT:  Q117677 Nusplingen
+Q183 Deutschland
+
+ ORT:  Q32196689 Nusbaum
+Q183 Deutschland
+
+ ORT:  Q14853 Nürtingen
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+
+ ORT:  Q116874675 Nürnberg
+Q183 Deutschland
+none
+
+ ORT:  Q32194568 Northeim
+Q183 Deutschland
+
+ ORT:  Q32674779 Nörten-Hardenberg
+Q183 Deutschland
+
+ ORT:  Q32674779 Nörten-Hardenberg
+Q183 Deutschland
+
+ ORT:  Q32674779 Nörten-Hardenberg
+Q183 Deutschland
+
+ ORT:  Q32674779 Nörten-Hardenberg
+Q183 Deutschland
+
+ ORT:  Q32674779 Nörten-Hardenberg
+Q183 Deutschland
+
+ ORT:  Q32193058 Nordstemmen
+Q183 Deutschland
+
+ ORT:  Q32193058 Nordstemmen
+Q183 Deutschland
+
+ ORT:  Q489902 Nördlingen
+Q183 Deutschland
+
+ ORT:  Q489902 Nördlingen
+Q183 Deutschland
+
+ ORT:  Q120865925 Nordheim vor der Rhön
+Q183 Deutschland
+
+ ORT:  Q32190196 Nievern
+Q183 Deutschland
+
+ ORT:  Q32190122 Nierstein
+Q183 Deutschland
+
+ ORT:  Q32190122 Nierstein
+Q183 Deutschland
+
+ ORT:  Q32190122 Nierstein
+Q183 Deutschland
+
+ ORT:  Q1524435 Nierentrop
+Q183 Deutschland
+
+ ORT:  Q32189353 Niederzissen
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q316073 Frankfurt-Niederursel
+Q183 Deutschland
+
+ ORT:  Q32188807 Niederstetten
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+
+ ORT:  Q870852 Niederselters
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32188389 Niederorschel
+Q183 Deutschland
+
+ ORT:  Q32188389 Niederorschel
+Q183 Deutschland
+
+ ORT:  Q32188389 Niederorschel
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32186994 Nieder-Olm
+Q183 Deutschland
+
+ ORT:  Q32188304 Niedernhausen
+Q183 Deutschland
+
+ ORT:  Q32188304 Niedernhausen
+Q183 Deutschland
+
+ ORT:  Q32188245 Niedernberg
+Q183 Deutschland
+
+ ORT:  Q32188245 Niedernberg
+Q183 Deutschland
+
+ ORT:  Q32188245 Niedernberg
+
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q1987956 Niederlahnstein
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q1648323 Nieder-Ingelheim
+Q183 Deutschland
+
+ ORT:  Q1648323 Nieder-Ingelheim
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32187840 Niederheimbach
+Q183 Deutschland
+
+ ORT:  Q32187840 Niederheimbach
+Q183 Deutschland
+
+ ORT:  Q32187840 Niederheimbach
+Q183 Deutschland
+
+ ORT:  Q1987833 Niederhadamar
+Q183 Deutschland
+
+ ORT:  Q314199 Frankfurt-Nieder-Eschbach
+Q183 Deutschland
+
+ ORT:  Q32187277 Niederburg
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32187082 Niederalben
+Q183 Deutschland
+
+ ORT:  Q32186495 Nickenich
+Q183 Deutschland
+none
+none
+
+ ORT:  Q4149 Neustadt an der Weinstraße
+Q183 Deutschland
+
+ ORT:  Q665582 Neustadt
+Q183 Deutschland
+
+ ORT:  Q665582 Neustadt
+Q183 Deutschland
+
+ ORT:  Q665582 Neustadt
+Q183 Deutschland
+
+ ORT:  Q665582 Neustadt
+Q183 Deutschland
+
+ ORT:  Q33466216 Neustadt
+Q183 Deutschland
+
+ ORT:  Q33466216 Neustadt
+Q183 Deutschland
+
+ ORT:  Q2948 Neuss
+Q183 Deutschland
+
+ ORT:  Q2948 Neuss
+Q183 Deutschland
+
+ ORT:  Q2948 Neuss
+Q183 Deutschland
+
+ ORT:  Q32183294 Neumarkt in der Oberpfalz
+Q183 Deutschland
+
+ ORT:  Q32181580 Neuhausen auf den Fildern
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q32179325 Neudenau
+Q183 Deutschland
+
+ ORT:  Q125652 Neuburg an der Donau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q125652 Neuburg an der Donau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q125652 Neuburg an der Donau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q125652 Neuburg an der Donau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q125652 Neuburg an der Donau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q32179152 Neuburg
+Q183 Deutschland
+
+ ORT:  Q32178749 Neu-Bamberg
+Q183 Deutschland
+
+ ORT:  Q32178749 Neu-Bamberg
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q1799915 Neiden
+Q183 Deutschland
+
+ ORT:  Q26696033 Neheim
+Q183 Deutschland
+
+ ORT:  Q26696033 Neheim
+Q183 Deutschland
+
+ ORT:  Q1973855 Neckarsteinach
+Q183 Deutschland
+
+ ORT:  Q32175001 Nauroth
+Q183 Deutschland
+
+ ORT:  Q32174717 Naumburg
+Q183 Deutschland
+
+ ORT:  Q32174717 Naumburg
+Q183 Deutschland
+
+ ORT:  Q32174717 Naumburg
+Q183 Deutschland
+
+ ORT:  Q32174717 Naumburg
+Q183 Deutschland
+
+ ORT:  Q33465796 Nastätten
+Q183 Deutschland
+
+ ORT:  Q33465796 Nastätten
+Q183 Deutschland
+
+ ORT:  Q32172326 Nagold
+Q183 Deutschland
+none
+
+ ORT:  Q32172083 Nackenheim
+Q183 Deutschland
+
+ ORT:  Q32172083 Nackenheim
+Q183 Deutschland
+
+ ORT:  Q32172083 Nackenheim
+Q183 Deutschland
+
+ ORT:  Q570892 Münzenberg
+Q183 Deutschland
+
+ ORT:  Q570892 Münzenberg
+Q183 Deutschland
+
+ ORT:  Q570892 Münzenberg
+Q183 Deutschland
+none
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33465368 Münstermaifeld
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q33158887 Kreisfreie Stadt Münster
+Q183 Deutschland
+
+ ORT:  Q571922 Münnerstadt
+Q183 Deutschland
+
+ ORT:  Q32664319 Kreisfreie Stadt München
+Q183 Deutschland
+
+ ORT:  Q32664319 Kreisfreie Stadt München
+Q183 Deutschland
+
+ ORT:  Q32664319 Kreisfreie Stadt München
+Q183 Deutschland
+
+ ORT:  Q32664319 Kreisfreie Stadt München
+Q183 Deutschland
+
+ ORT:  Q639902 Mühlheim am Main
+Q183 Deutschland
+
+ ORT:  Q639902 Mühlheim am Main
+Q183 Deutschland
+
+ ORT:  Q639902 Mühlheim am Main
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+
+ ORT:  Q32664001 Mühlhausen/Thüringen
+Q183 Deutschland
+none
+
+ ORT:  Q32663340 Mühlberg
+Q183 Deutschland
+
+ ORT:  Q32147729 Mosbach
+Q183 Deutschland
+none
+
+ ORT:  Q646919 Mörsdorf
+Q183 Deutschland
+
+ ORT:  Q629101 Mörlenbach
+Q183 Deutschland
+
+ ORT:  Q629101 Mörlenbach
+Q183 Deutschland
+
+ ORT:  Q32142962 Morbach
+Q183 Deutschland
+
+ ORT:  Q32141259 Monzingen
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q32140521 Montabaur
+Q183 Deutschland
+
+ ORT:  Q200783 Monschau
+Q183 Deutschland
+
+ ORT:  Q200783 Monschau
+Q183 Deutschland
+
+ ORT:  Q200783 Monschau
+Q183 Deutschland
+
+ ORT:  Q200783 Monschau
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+
+ ORT:  Q33464939 Mönchberg
+Q183 Deutschland
+none
+
+ ORT:  Q317819 Mainz-Mombach
+Q183 Deutschland
+
+ ORT:  Q317819 Mainz-Mombach
+Q183 Deutschland
+
+ ORT:  Q317819 Mainz-Mombach
+Q183 Deutschland
+
+ ORT:  Q32139823 Molschleben
+Q183 Deutschland
+none
+
+ ORT:  Q32138683 Mittweida
+Q183 Deutschland
+
+ ORT:  Q1940435 Mittelstreu
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q3846 Minden
+Q183 Deutschland
+
+ ORT:  Q3846 Minden
+Q183 Deutschland
+
+ ORT:  Q3846 Minden
+Q183 Deutschland
+
+ ORT:  Q118383213 Miltenberg
+Q183 Deutschland
+
+ ORT:  Q118383213 Miltenberg
+Q183 Deutschland
+
+ ORT:  Q118383213 Miltenberg
+Q183 Deutschland
+
+ ORT:  Q118383213 Miltenberg
+Q183 Deutschland
+
+ ORT:  Q118383213 Miltenberg
+Q183 Deutschland
+
+ ORT:  Q32133779 Michelbach
+Q183 Deutschland
+
+ ORT:  Q6836676 Michelbach
+Q183 Deutschland
+
+ ORT:  Q32133242 Meudt
+Q183 Deutschland
+
+ ORT:  Q32133242 Meudt
+Q183 Deutschland
+
+ ORT:  Q32133242 Meudt
+Q183 Deutschland
+
+ ORT:  Q32132945 Metten
+Q183 Deutschland
+
+ ORT:  Q32132945 Metten
+Q183 Deutschland
+
+ ORT:  Q659060 Metebach
+Q183 Deutschland
+
+ ORT:  Q11114871 Meßkirch
+Q183 Deutschland
+
+ ORT:  Q11114871 Meßkirch
+Q183 Deutschland
+none
+
+ ORT:  Q32132432 Meschede
+Q183 Deutschland
+
+ ORT:  Q32132432 Meschede
+Q183 Deutschland
+
+ ORT:  Q32132432 Meschede
+Q183 Deutschland
+
+ ORT:  Q32132432 Meschede
+Q183 Deutschland
+none
+
+ ORT:  Q32132126 Mertloch
+Q183 Deutschland
+
+ ORT:  Q32132126 Mertloch
+Q183 Deutschland
+
+ ORT:  Q32132126 Mertloch
+Q183 Deutschland
+
+ ORT:  Q32132093 Mertesheim
+Q183 Deutschland
+none
+
+ ORT:  Q32131808 Mermuth
+Q183 Deutschland
+none
+
+ ORT:  Q16320348 Merkershausen
+Q183 Deutschland
+
+ ORT:  Q32131697 Merkelbach
+Q183 Deutschland
+
+ ORT:  Q32130856 Mengerskirchen
+Q183 Deutschland
+
+ ORT:  Q32130856 Mengerskirchen
+Q183 Deutschland
+
+ ORT:  Q32130856 Mengerskirchen
+Q183 Deutschland
+
+ ORT:  Q32130856 Mengerskirchen
+Q183 Deutschland
+
+ ORT:  Q32130856 Mengerskirchen
+Q183 Deutschland
+
+ ORT:  Q32130819 Mengen
+Q183 Deutschland
+none
+
+ ORT:  Q32130688 Menden
+Q183 Deutschland
+
+ ORT:  Q32130688 Menden
+Q183 Deutschland
+
+ ORT:  Q32130688 Menden
+Q183 Deutschland
+
+ ORT:  Q14825 Memmingen
+Q183 Deutschland
+
+ ORT:  Q552495 Melsungen
+Q183 Deutschland
+
+ ORT:  Q120755444 Mellrichstadt
+Q183 Deutschland
+
+ ORT:  Q120755444 Mellrichstadt
+Q183 Deutschland
+
+ ORT:  Q120755444 Mellrichstadt
+Q183 Deutschland
+none
+
+
+ ORT:  Q32129371 Meisenheim
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32128461 Meersburg
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32127974 Medebach
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32124952 Masburg
+Q183 Deutschland
+
+ ORT:  Q32124952 Masburg
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q5645 Marsberg
+Q183 Deutschland
+
+ ORT:  Q502965 Marktsteft
+Q183 Deutschland
+
+ ORT:  Q32123436 Marktredwitz
+Q183 Deutschland
+
+ ORT:  Q32123376 Marktleugast
+Q183 Deutschland
+
+ ORT:  Q16854612 Marktheidenfeld
+Q183 Deutschland
+
+ ORT:  Q16854612 Marktheidenfeld
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32121710 Marburg
+Q183 Deutschland
+
+ ORT:  Q32121710 Marburg
+Q183 Deutschland
+
+ ORT:  Q32121710 Marburg
+Q183 Deutschland
+
+ ORT:  Q32121710 Marburg
+Q183 Deutschland
+
+ ORT:  Q32121710 Marburg
+Q183 Deutschland
+
+ ORT:  Q32121667 Marbach am Neckar
+Q183 Deutschland
+
+ ORT:  Q32121667 Marbach am Neckar
+Q183 Deutschland
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2119 Mannheim
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q151624 Deutscher Bund
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q186320 Großherzogtum Baden
+Q154741 Rheinbund
+Q22880 Kurpfalz
+Q637238 Kurfürstentum Baden
+none
+
+ ORT:  Q83051 Malsch
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q2966 Heidelberg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+Q22880 Kurpfalz
+none
+none
+none
+none
+
+ ORT:  Q504861 Mainbernheim
+Q183 Deutschland
+
+ ORT:  Q32116754 Maikammer
+Q183 Deutschland
+
+ ORT:  Q32116754 Maikammer
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q635901 Lychen
+Q183 Deutschland
+
+ ORT:  Q33459069 Lützen
+Q183 Deutschland
+
+ ORT:  Q33459069 Lützen
+Q183 Deutschland
+
+ ORT:  Q33459069 Lützen
+Q183 Deutschland
+
+ ORT:  Q32112498 Lutter
+Q183 Deutschland
+
+ ORT:  Q32112498 Lutter
+Q183 Deutschland
+
+ ORT:  Q32112498 Lutter
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q520440 Lottstetten
+Q183 Deutschland
+
+ ORT:  Q520440 Lottstetten
+Q183 Deutschland
+none
+
+ ORT:  Q49286302 Lörzweiler
+Q183 Deutschland
+
+ ORT:  Q49286302 Lörzweiler
+Q183 Deutschland
+
+ ORT:  Q524939 Lorsch
+Q183 Deutschland
+
+ ORT:  Q524939 Lorsch
+Q183 Deutschland
+
+ ORT:  Q524939 Lorsch
+Q183 Deutschland
+
+ ORT:  Q524939 Lorsch
+Q183 Deutschland
+
+ ORT:  Q524939 Lorsch
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q120755418 Lohr am Main
+Q183 Deutschland
+
+ ORT:  Q120755418 Lohr am Main
+Q183 Deutschland
+
+ ORT:  Q120755418 Lohr am Main
+Q183 Deutschland
+
+ ORT:  Q120755418 Lohr am Main
+Q183 Deutschland
+
+ ORT:  Q120755418 Lohr am Main
+Q183 Deutschland
+none
+
+ ORT:  Q32098500 Lipprechterode
+Q183 Deutschland
+
+ ORT:  Q32098196 Linz am Rhein
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q1826104 Lindenholzhausen
+Q183 Deutschland
+
+ ORT:  Q1826104 Lindenholzhausen
+Q183 Deutschland
+
+ ORT:  Q1826104 Lindenholzhausen
+Q183 Deutschland
+
+ ORT:  Q153969 Lindau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q153969 Lindau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q153969 Lindau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q153969 Lindau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q153969 Lindau
+Q183 Deutschland
+Q154195 Königreich Bayern
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q16026 Limburg an der Lahn
+Q183 Deutschland
+
+ ORT:  Q32094997 Lichtenfels
+Q183 Deutschland
+none
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+
+ ORT:  Q32093270 Lenterode
+Q183 Deutschland
+none
+none
+
+ ORT:  Q1817663 Lengfurt
+Q183 Deutschland
+
+ ORT:  Q1817663 Lengfurt
+Q183 Deutschland
+
+ ORT:  Q32092720 Lemgo
+Q183 Deutschland
+
+ ORT:  Q32092720 Lemgo
+Q183 Deutschland
+
+ ORT:  Q873555 Lembeck
+Q183 Deutschland
+
+ ORT:  Q2079 Leipzig
+Q183 Deutschland
+Q16957 Deutsche Demokratische Republik
+Q55300 Sowjetische Besatzungszone
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q153015 Königreich Sachsen
+Q156199 Kurfürstentum Sachsen
+
+ ORT:  Q2079 Leipzig
+Q183 Deutschland
+Q16957 Deutsche Demokratische Republik
+Q55300 Sowjetische Besatzungszone
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q153015 Königreich Sachsen
+Q156199 Kurfürstentum Sachsen
+
+ ORT:  Q2079 Leipzig
+Q183 Deutschland
+Q16957 Deutsche Demokratische Republik
+Q55300 Sowjetische Besatzungszone
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q153015 Königreich Sachsen
+Q156199 Kurfürstentum Sachsen
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q580115 Leinefelde
+Q183 Deutschland
+
+ ORT:  Q32091573 Lehmen
+Q183 Deutschland
+
+ ORT:  Q760488 Augsburg-Lechhausen
+Q183 Deutschland
+
+ ORT:  Q1811312 Lechenich
+Q183 Deutschland
+
+ ORT:  Q1811312 Lechenich
+Q183 Deutschland
+none
+
+ ORT:  Q32089878 Lauterecken
+Q183 Deutschland
+
+ ORT:  Q32089878 Lauterecken
+Q183 Deutschland
+
+ ORT:  Q622569 Lauterbach
+Q183 Deutschland
+
+ ORT:  Q622569 Lauterbach
+Q183 Deutschland
+none
+
+ ORT:  Q32089411 Lauffen am Neckar
+Q183 Deutschland
+
+ ORT:  Q32089386 Laufenburg
+Q183 Deutschland
+
+ ORT:  Q32089386 Laufenburg
+Q183 Deutschland
+
+ ORT:  Q32089328 Laufach
+Q183 Deutschland
+
+ ORT:  Q100410981 Laudenberg
+Q183 Deutschland
+Q569998 Trizone
+Q693911 Bizone
+Q55304 Amerikanische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+none
+
+ ORT:  Q1885700 Mainz-Laubenheim
+Q183 Deutschland
+
+ ORT:  Q1885700 Mainz-Laubenheim
+Q183 Deutschland
+
+ ORT:  Q6485925 Langenprozelten
+Q183 Deutschland
+
+ ORT:  Q6485925 Langenprozelten
+Q183 Deutschland
+
+ ORT:  Q32086402 Langenenslingen
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32086261 Langenau
+Q183 Deutschland
+
+ ORT:  Q32086261 Langenau
+Q183 Deutschland
+
+ ORT:  Q32085475 Landstuhl
+Q183 Deutschland
+
+ ORT:  Q3974 Landshut
+
+Q183 Deutschland
+none
+
+ ORT:  Q7052 Landau in der Pfalz
+Q183 Deutschland
+none
+
+ ORT:  Q32079460 Lahr/Schwarzwald
+Q183 Deutschland
+
+ ORT:  Q32079460 Lahr/Schwarzwald
+Q183 Deutschland
+
+ ORT:  Q32079405 Lahnstein
+Q183 Deutschland
+
+ ORT:  Q32079405 Lahnstein
+Q183 Deutschland
+
+ ORT:  Q32079405 Lahnstein
+Q183 Deutschland
+
+ ORT:  Q32072670 Ladenburg
+Q183 Deutschland
+
+ ORT:  Q32072670 Ladenburg
+Q183 Deutschland
+
+ ORT:  Q32072670 Ladenburg
+Q183 Deutschland
+
+ ORT:  Q32068821 Kuppenheim
+Q183 Deutschland
+
+ ORT:  Q32068774 Kupferzell
+Q183 Deutschland
+
+ ORT:  Q505242 Kupferberg
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+
+ ORT:  Q32596687 Külsheim
+Q183 Deutschland
+none
+none
+
+ ORT:  Q569634 Kronberg im Taunus
+Q183 Deutschland
+
+ ORT:  Q569634 Kronberg im Taunus
+Q183 Deutschland
+
+ ORT:  Q569634 Kronberg im Taunus
+Q183 Deutschland
+
+ ORT:  Q569634 Kronberg im Taunus
+Q183 Deutschland
+
+ ORT:  Q569634 Kronberg im Taunus
+Q183 Deutschland
+
+ ORT:  Q494537 Kronach
+Q183 Deutschland
+
+ ORT:  Q494537 Kronach
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068193 Kriftel
+Q183 Deutschland
+
+ ORT:  Q32068108 Kreuzebra
+Q183 Deutschland
+
+ ORT:  Q32068108 Kreuzebra
+Q183 Deutschland
+
+ ORT:  Q32067805 Krautheim
+Q183 Deutschland
+
+ ORT:  Q32067805 Krautheim
+Q183 Deutschland
+
+ ORT:  Q32067805 Krautheim
+Q183 Deutschland
+none
+
+ ORT:  Q478710 Mainz-Kostheim
+Q183 Deutschland
+
+ ORT:  Q478710 Mainz-Kostheim
+Q183 Deutschland
+
+ ORT:  Q478710 Mainz-Kostheim
+Q183 Deutschland
+
+ ORT:  Q478710 Mainz-Kostheim
+Q183 Deutschland
+
+ ORT:  Q478710 Mainz-Kostheim
+Q183 Deutschland
+
+ ORT:  Q154048 Kornelimünster
+Q183 Deutschland
+
+ ORT:  Q154048 Kornelimünster
+Q183 Deutschland
+
+ ORT:  Q32066622 Konstanz
+Q183 Deutschland
+
+ ORT:  Q32066622 Konstanz
+Q183 Deutschland
+
+ ORT:  Q32066622 Konstanz
+Q183 Deutschland
+
+ ORT:  Q32066622 Konstanz
+Q183 Deutschland
+
+ ORT:  Q32066622 Konstanz
+Q183 Deutschland
+
+ ORT:  Q569661 Königstein im Taunus
+Q183 Deutschland
+
+ ORT:  Q569661 Königstein im Taunus
+Q183 Deutschland
+
+ ORT:  Q569661 Königstein im Taunus
+Q183 Deutschland
+
+ ORT:  Q569661 Königstein im Taunus
+Q183 Deutschland
+
+ ORT:  Q569661 Königstein im Taunus
+Q183 Deutschland
+
+ ORT:  Q118131635 Bad Königshofen im Grabfeld
+Q183 Deutschland
+
+ ORT:  Q118131635 Bad Königshofen im Grabfeld
+Q183 Deutschland
+
+ ORT:  Q32595778 Königsheim
+Q183 Deutschland
+
+ ORT:  Q32595778 Königsheim
+Q183 Deutschland
+
+ ORT:  Q32595778 Königsheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q32595478 Königheim
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q365 Köln
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q71084 Erstes Kaiserreich
+Q12548 Heiliges Römisches Reich
+Q7904317 Kurköln
+Q153080 Ostfrankenreich
+Q146246 Fränkisches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q42834 Weströmisches Reich
+Q2277 Römisches Kaiserreich
+Q183 Deutschland
+
+ ORT:  Q3104 Koblenz
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q1794352 Kurtrier
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q142 Frankreich
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+
+ ORT:  Q3104 Koblenz
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q1794352 Kurtrier
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q142 Frankreich
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+
+ ORT:  Q3104 Koblenz
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q1794352 Kurtrier
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q142 Frankreich
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+
+ ORT:  Q3104 Koblenz
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q1794352 Kurtrier
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q142 Frankreich
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+
+ ORT:  Q3104 Koblenz
+
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q1794352 Kurtrier
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q142 Frankreich
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+none
+
+ ORT:  Q32066204 Klotten
+Q183 Deutschland
+
+ ORT:  Q328923 Kloppenheim
+Q183 Deutschland
+none
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q502934 Klingenberg am Main
+Q183 Deutschland
+
+ ORT:  Q32065587 Klein-Winternheim
+Q183 Deutschland
+
+ ORT:  Q32065587 Klein-Winternheim
+Q183 Deutschland
+
+ ORT:  Q32065587 Klein-Winternheim
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+
+ ORT:  Q504686 Kleinwallstadt
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32065980 Kleinrinderfeld
+Q183 Deutschland
+
+ ORT:  Q32065977 Kleinostheim
+Q183 Deutschland
+
+ ORT:  Q32065966 Kleinmaischeid
+Q183 Deutschland
+none
+
+ ORT:  Q117771516 Kitzingen
+Q183 Deutschland
+
+ ORT:  Q117771516 Kitzingen
+Q183 Deutschland
+
+ ORT:  Q117771516 Kitzingen
+Q183 Deutschland
+
+ ORT:  Q32578373 Kißlegg
+Q183 Deutschland
+
+ ORT:  Q32578373 Kißlegg
+Q183 Deutschland
+
+ ORT:  Q570077 Kirtorf
+Q183 Deutschland
+none
+
+ ORT:  Q32065372 Kirrweiler
+Q183 Deutschland
+
+ ORT:  Q32065372 Kirrweiler
+Q183 Deutschland
+
+ ORT:  Q32065372 Kirrweiler
+Q183 Deutschland
+
+ ORT:  Q32065357 Kirn
+Q183 Deutschland
+
+ ORT:  Q32065357 Kirn
+Q183 Deutschland
+none
+
+ ORT:  Q32065336 Kirchzell
+Q183 Deutschland
+
+ ORT:  Q32065336 Kirchzell
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+
+ ORT:  Q32065332 Kirchworbis
+Q183 Deutschland
+none
+
+ ORT:  Q1743314 Kirchhundem
+Q183 Deutschland
+
+ ORT:  Q1743314 Kirchhundem
+Q183 Deutschland
+
+ ORT:  Q1743314 Kirchhundem
+Q183 Deutschland
+
+ ORT:  Q1743314 Kirchhundem
+Q183 Deutschland
+
+ ORT:  Q1743286 Kirchheim
+Q183 Deutschland
+
+ ORT:  Q1743286 Kirchheim
+Q183 Deutschland
+
+ ORT:  Q32065234 Kirchgandern
+Q183 Deutschland
+
+ ORT:  Q32065234 Kirchgandern
+Q183 Deutschland
+
+ ORT:  Q32065203 Kirchen
+Q183 Deutschland
+
+ ORT:  Q32065156 Kirchberg
+Q183 Deutschland
+
+ ORT:  Q32065156 Kirchberg
+Q183 Deutschland
+
+ ORT:  Q32065156 Kirchberg
+Q183 Deutschland
+
+ ORT:  Q32065014 Kindenheim
+Q183 Deutschland
+
+ ORT:  Q1707 Kiel
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q55306 Britische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q704288 Herzogtum Holstein
+
+ ORT:  Q1707 Kiel
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q55306 Britische Besatzungszone
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q704288 Herzogtum Holstein
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+
+ ORT:  Q627351 Kiedrich
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q654316 Kerpen
+Q183 Deutschland
+none
+
+ ORT:  Q32064603 Kempenich
+Q183 Deutschland
+
+ ORT:  Q32064603 Kempenich
+Q183 Deutschland
+
+ ORT:  Q639667 Kelkheim
+Q183 Deutschland
+
+ ORT:  Q32064530 Kelberg
+Q183 Deutschland
+
+ ORT:  Q32064474 Kefferhausen
+Q183 Deutschland
+
+ ORT:  Q14805 Kaufbeuren
+Q183 Deutschland
+
+ ORT:  Q32064171 Kaub
+Q183 Deutschland
+
+ ORT:  Q32064171 Kaub
+Q183 Deutschland
+
+ ORT:  Q32064171 Kaub
+Q183 Deutschland
+
+ ORT:  Q32064171 Kaub
+Q183 Deutschland
+none
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q567545 Mainz-Kastel
+Q183 Deutschland
+
+ ORT:  Q32067925 Kreisfreie Stadt Kassel
+Q183 Deutschland
+
+ ORT:  Q32067925 Kreisfreie Stadt Kassel
+Q183 Deutschland
+
+ ORT:  Q32063992 Kasel
+Q183 Deutschland
+
+ ORT:  Q1040 Karlsruhe
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+
+ ORT:  Q1040 Karlsruhe
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+
+ ORT:  Q1040 Karlsruhe
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+
+ ORT:  Q1040 Karlsruhe
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+
+ ORT:  Q546100 Karbach
+Q183 Deutschland
+
+ ORT:  Q32063901 Kappel
+Q183 Deutschland
+none
+
+ ORT:  Q32063873 Kandel
+Q183 Deutschland
+
+ ORT:  Q32063859 Kamp-Bornhofen
+Q183 Deutschland
+none
+
+ ORT:  Q32063749 Kallmerode
+Q183 Deutschland
+
+ ORT:  Q32063749 Kallmerode
+Q183 Deutschland
+
+ ORT:  Q32063749 Kallmerode
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q678456 Kaiserswerth
+Q183 Deutschland
+
+ ORT:  Q678456 Kaiserswerth
+Q183 Deutschland
+
+ ORT:  Q678456 Kaiserswerth
+Q183 Deutschland
+
+ ORT:  Q32063664 Kaiserslautern
+Q183 Deutschland
+
+ ORT:  Q32063664 Kaiserslautern
+Q183 Deutschland
+
+ ORT:  Q32063583 Kahl am Main
+Q183 Deutschland
+
+ ORT:  Q32063583 Kahl am Main
+Q183 Deutschland
+
+ ORT:  Q660188 Jützenbach
+Q183 Deutschland
+
+ ORT:  Q16045 Jülich
+Q183 Deutschland
+
+ ORT:  Q16045 Jülich
+Q183 Deutschland
+
+ ORT:  Q16045 Jülich
+Q183 Deutschland
+
+ ORT:  Q16045 Jülich
+Q183 Deutschland
+none
+none
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q1698901 Johannisberg
+Q183 Deutschland
+
+ ORT:  Q32063050 Jena
+Q183 Deutschland
+
+ ORT:  Q32063050 Jena
+Q183 Deutschland
+
+ ORT:  Q32559191 Isny im Allgäu
+Q183 Deutschland
+
+ ORT:  Q32062470 Insul
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32062387 Ingelheim am Rhein
+Q183 Deutschland
+
+ ORT:  Q19980345 Impfingen
+Q183 Deutschland
+
+ ORT:  Q19980345 Impfingen
+Q183 Deutschland
+
+ ORT:  Q19980345 Impfingen
+Q183 Deutschland
+none
+
+ ORT:  Q506278 Immenstadt im Allgäu
+Q183 Deutschland
+Q154195 Königreich Bayern
+Q131964 Kaisertum Österreich
+Q1541716 Grafschaft Königsegg-Rothenfels
+Q183 Deutschland
+
+ ORT:  Q32061541 Ilbesheim
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q525659 Idstein
+Q183 Deutschland
+
+ ORT:  Q525659 Idstein
+Q183 Deutschland
+
+ ORT:  Q525659 Idstein
+Q183 Deutschland
+
+ ORT:  Q32061466 Idar-Oberstein
+Q183 Deutschland
+
+ ORT:  Q559841 Ichtershausen
+Q183 Deutschland
+
+ ORT:  Q569692 Hünfeld
+Q183 Deutschland
+
+ ORT:  Q569692 Hünfeld
+Q183 Deutschland
+
+ ORT:  Q569692 Hünfeld
+Q183 Deutschland
+
+ ORT:  Q32060765 Hundsangen
+Q183 Deutschland
+
+ ORT:  Q32060765 Hundsangen
+Q183 Deutschland
+
+ ORT:  Q61976628 Hundheim
+Q183 Deutschland
+
+ ORT:  Q61976628 Hundheim
+Q183 Deutschland
+none
+
+ ORT:  Q32060652 Hoya
+Q183 Deutschland
+
+ ORT:  Q32060652 Hoya
+Q183 Deutschland
+
+ ORT:  Q32060652 Hoya
+Q183 Deutschland
+
+ ORT:  Q16107 Höxter
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q32060332 Rathaus Horben
+Q183 Deutschland
+
+ ORT:  Q49284498 Höpfingen
+Q183 Deutschland
+
+ ORT:  Q1644233 Höpfigheim
+Q183 Deutschland
+
+ ORT:  Q32060153 Holzhausen an der Haide
+
+Q183 Deutschland
+
+ ORT:  Q32060153 Holzhausen an der Haide
+Q183 Deutschland
+
+ ORT:  Q32060153 Holzhausen an der Haide
+Q183 Deutschland
+
+ ORT:  Q32060153 Holzhausen an der Haide
+Q183 Deutschland
+
+ ORT:  Q665402 Holungen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32060070 Hollstadt
+Q183 Deutschland
+
+ ORT:  Q503048 Hollfeld
+Q183 Deutschland
+
+ ORT:  Q503048 Hollfeld
+Q183 Deutschland
+
+ ORT:  Q503048 Hollfeld
+Q183 Deutschland
+
+ ORT:  Q503048 Hollfeld
+Q183 Deutschland
+
+ ORT:  Q15115110 Hollerbach
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q15115110 Hollerbach
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q15115110 Hollerbach
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q50899 Höhr-Grenzhausen
+Q183 Deutschland
+
+ ORT:  Q32059811 Hohengandern
+Q183 Deutschland
+
+ ORT:  Q32059811 Hohengandern
+Q183 Deutschland
+
+ ORT:  Q170405 Hohenberg an der Eger
+Q183 Deutschland
+
+ ORT:  Q28111447 Hofstadt
+Q183 Deutschland
+none
+
+ ORT:  Q32059538 Hofheim in Unterfranken
+Q183 Deutschland
+
+ ORT:  Q32059538 Hofheim in Unterfranken
+Q183 Deutschland
+
+ ORT:  Q14896 Hofheim am Taunus
+Q183 Deutschland
+
+ ORT:  Q14896 Hofheim am Taunus
+Q183 Deutschland
+
+ ORT:  Q707011 Hoffenheim
+Q183 Deutschland
+
+ ORT:  Q707011 Hoffenheim
+Q183 Deutschland
+
+ ORT:  Q707011 Hoffenheim
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q132499 Höchst
+Q183 Deutschland
+none
+none
+
+ ORT:  Q30724202 Höchst
+Q183 Deutschland
+
+ ORT:  Q505909 Höchstädt an der Donau
+Q183 Deutschland
+
+ ORT:  Q458205 Hochstadt
+Q183 Deutschland
+
+ ORT:  Q458205 Hochstadt
+Q183 Deutschland
+
+ ORT:  Q132499 Höchst
+Q183 Deutschland
+
+ ORT:  Q632750 Hochheim am Main
+Q183 Deutschland
+
+ ORT:  Q632750 Hochheim am Main
+Q183 Deutschland
+
+ ORT:  Q632750 Hochheim am Main
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32058875 Hirschhorn
+Q183 Deutschland
+
+ ORT:  Q32058533 Hilscheid
+Q183 Deutschland
+
+ ORT:  Q570035 Hillesheim
+Q183 Deutschland
+
+ ORT:  Q570035 Hillesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q32058340 Hildesheim
+Q183 Deutschland
+
+ ORT:  Q636117 Hilders
+Q183 Deutschland
+
+ ORT:  Q32057998 Heuthen
+Q183 Deutschland
+
+ ORT:  Q32057998 Heuthen
+Q183 Deutschland
+
+ ORT:  Q32057998 Heuthen
+Q183 Deutschland
+
+ ORT:  Q32057998 Heuthen
+Q183 Deutschland
+
+ ORT:  Q32057998 Heuthen
+Q183 Deutschland
+
+ ORT:  Q569659 Heusenstamm
+Q183 Deutschland
+
+ ORT:  Q569659 Heusenstamm
+Q183 Deutschland
+
+ ORT:  Q569659 Heusenstamm
+Q183 Deutschland
+
+ ORT:  Q569659 Heusenstamm
+Q183 Deutschland
+
+ ORT:  Q569659 Heusenstamm
+Q183 Deutschland
+none
+none
+
+ ORT:  Q15114780 Hettingen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q629699 Hettenleidelheim
+Q183 Deutschland
+
+ ORT:  Q32057765 Hesweiler
+Q183 Deutschland
+
+ ORT:  Q478049 Heßloch
+Q183 Deutschland
+
+ ORT:  Q478049 Heßloch
+Q183 Deutschland
+none
+
+ ORT:  Q24841365 Hessisch Oldendorf
+Q183 Deutschland
+
+ ORT:  Q32057602 Herzogenaurach
+Q183 Deutschland
+
+ ORT:  Q32057569 Herzberg am Harz
+Q183 Deutschland
+
+ ORT:  Q32057518 Herxheim am Berg
+Q183 Deutschland
+
+ ORT:  Q32057518 Herxheim am Berg
+Q183 Deutschland
+
+ ORT:  Q32057518 Herxheim am Berg
+Q183 Deutschland
+none
+
+ ORT:  Q32057441 Herrstein
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q3971 Herford
+Q183 Deutschland
+none
+
+ ORT:  Q565528 Herbstein
+Q183 Deutschland
+
+ ORT:  Q565528 Herbstein
+Q183 Deutschland
+
+ ORT:  Q565528 Herbstein
+Q183 Deutschland
+
+ ORT:  Q565528 Herbstein
+Q183 Deutschland
+
+ ORT:  Q32056901 Herbolzheim
+Q183 Deutschland
+
+ ORT:  Q524407 Heppenheim
+Q183 Deutschland
+
+ ORT:  Q524407 Heppenheim
+Q183 Deutschland
+
+ ORT:  Q524407 Heppenheim
+Q183 Deutschland
+
+ ORT:  Q869732 Heppendorf
+Q183 Deutschland
+
+ ORT:  Q33093364 Heppdiel
+Q183 Deutschland
+
+ ORT:  Q33093364 Heppdiel
+Q183 Deutschland
+
+ ORT:  Q702856 Henningen
+Q183 Deutschland
+
+ ORT:  Q32056575 Hemsbach
+Q183 Deutschland
+none
+
+ ORT:  Q32056406 Helmstedt
+Q183 Deutschland
+
+ ORT:  Q32056406 Helmstedt
+Q183 Deutschland
+
+ ORT:  Q32056392 Helmsdorf
+Q183 Deutschland
+
+ ORT:  Q32056392 Helmsdorf
+Q183 Deutschland
+
+ ORT:  Q32056172 Helferskirchen
+Q183 Deutschland
+none
+
+ ORT:  Q1601704 Helden
+Q183 Deutschland
+
+ ORT:  Q32056063 Heitersheim
+Q183 Deutschland
+none
+
+ ORT:  Q32055977 Heinrichsthal
+Q183 Deutschland
+
+ ORT:  Q1595784 Heiminghausen
+Q183 Deutschland
+
+ ORT:  Q32055810 Heimbach
+Q183 Deutschland
+
+ ORT:  Q32055810 Heimbach
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+
+ ORT:  Q32055572 Heilbad Heiligenstadt
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q2966 Heidelberg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+Q22880 Kurpfalz
+
+ ORT:  Q2966 Heidelberg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+Q22880 Kurpfalz
+
+ ORT:  Q2966 Heidelberg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+Q22880 Kurpfalz
+
+ ORT:  Q2966 Heidelberg
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+Q22880 Kurpfalz
+none
+
+ ORT:  Q32055160 Heichelheim
+Q183 Deutschland
+none
+none
+none
+none
+
+ ORT:  Q32054927 Hechingen
+Q183 Deutschland
+
+ ORT:  Q32054927 Hechingen
+Q183 Deutschland
+
+ ORT:  Q32054283 Hausen
+Q183 Deutschland
+
+ ORT:  Q32054283 Hausen
+Q183 Deutschland
+
+ ORT:  Q525809 Hausen
+Q183 Deutschland
+
+ ORT:  Q525809 Hausen
+Q183 Deutschland
+
+ ORT:  Q525809 Hausen
+Q183 Deutschland
+
+ ORT:  Q525809 Hausen
+Q183 Deutschland
+none
+
+ ORT:  Q32054087 Hattingen
+Q183 Deutschland
+
+ ORT:  Q569626 Hattersheim am Main
+Q183 Deutschland
+
+ ORT:  Q569626 Hattersheim am Main
+Q183 Deutschland
+
+ ORT:  Q569626 Hattersheim am Main
+Q183 Deutschland
+
+ ORT:  Q1589004 Hattenheim
+Q183 Deutschland
+
+ ORT:  Q1589004 Hattenheim
+Q183 Deutschland
+
+ ORT:  Q1589004 Hattenheim
+Q183 Deutschland
+
+ ORT:  Q492659 Haßfurt
+Q183 Deutschland
+
+ ORT:  Q492659 Haßfurt
+Q183 Deutschland
+
+ ORT:  Q492659 Haßfurt
+Q183 Deutschland
+none
+
+ ORT:  Q32053709 Haserich
+Q183 Deutschland
+none
+
+ ORT:  Q32053279 Hartenfels
+Q183 Deutschland
+
+ ORT:  Q314895 Frankfurt-Harheim
+Q183 Deutschland
+
+ ORT:  Q314895 Frankfurt-Harheim
+Q183 Deutschland
+
+ ORT:  Q314895 Frankfurt-Harheim
+Q183 Deutschland
+
+ ORT:  Q32052824 Haren
+Q183 Deutschland
+
+ ORT:  Q539852 Hardheim
+Q183 Deutschland
+
+ ORT:  Q539852 Hardheim
+Q183 Deutschland
+
+ ORT:  Q539852 Hardheim
+Q183 Deutschland
+
+ ORT:  Q539852 Hardheim
+Q183 Deutschland
+
+ ORT:  Q1635 Harburg
+
+Q183 Deutschland
+
+ ORT:  Q1635 Harburg
+Q183 Deutschland
+
+ ORT:  Q32052205 Hannover
+Q183 Deutschland
+
+ ORT:  Q32052205 Hannover
+Q183 Deutschland
+
+ ORT:  Q32052104 Hanhofen
+Q183 Deutschland
+none
+
+ ORT:  Q3802 Hanau
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q319376 Grafschaft Hanau-Münzenberg
+Q19902345 Herrschaft Hanau
+Q168651 Landgrafschaft Hessen-Kassel
+Q529605 Kurfürstentum Hessen
+Q153943 Königreich Westphalen
+Q529605 Kurfürstentum Hessen
+Q27306 Königreich Preußen
+Q874567 Grafschaft Hanau
+
+ ORT:  Q3802 Hanau
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q319376 Grafschaft Hanau-Münzenberg
+Q19902345 Herrschaft Hanau
+Q168651 Landgrafschaft Hessen-Kassel
+Q529605 Kurfürstentum Hessen
+Q153943 Königreich Westphalen
+Q529605 Kurfürstentum Hessen
+Q27306 Königreich Preußen
+Q874567 Grafschaft Hanau
+
+ ORT:  Q32051816 Hammerstein
+Q183 Deutschland
+
+ ORT:  Q32051731 Hammelburg
+Q183 Deutschland
+
+ ORT:  Q32051731 Hammelburg
+Q183 Deutschland
+
+ ORT:  Q32051612 Hamm
+Q183 Deutschland
+
+ ORT:  Q32051612 Hamm
+Q183 Deutschland
+
+ ORT:  Q32051531 Hameln
+Q183 Deutschland
+
+ ORT:  Q1493006 Gamburg
+Q183 Deutschland
+none
+none
+
+ ORT:  Q1055 Hamburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q150981 Norddeutscher Bund
+Q151624 Deutscher Bund
+Q12548 Heiliges Römisches Reich
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q71084 Erstes Kaiserreich
+
+ ORT:  Q1055 Hamburg
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q150981 Norddeutscher Bund
+Q151624 Deutscher Bund
+Q12548 Heiliges Römisches Reich
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q71084 Erstes Kaiserreich
+
+ ORT:  Q32051492 Hambuch
+Q183 Deutschland
+
+ ORT:  Q5567 Halver
+Q183 Deutschland
+
+ ORT:  Q32051338 Halsenbach
+Q183 Deutschland
+
+ ORT:  Q32051338 Halsenbach
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q1571700 Hallgarten
+Q183 Deutschland
+
+ ORT:  Q445500 Altstadt (Halle)
+Q183 Deutschland
+
+ ORT:  Q445500 Altstadt (Halle)
+Q183 Deutschland
+
+ ORT:  Q445500 Altstadt (Halle)
+Q183 Deutschland
+
+ ORT:  Q7072 Halberstadt
+Q183 Deutschland
+Q27306 Königreich Preußen
+
+ ORT:  Q7072 Halberstadt
+Q183 Deutschland
+Q27306 Königreich Preußen
+none
+none
+none
+
+ ORT:  Q18020644 Hain im Spessart
+Q183 Deutschland
+
+ ORT:  Q18020644 Hain im Spessart
+Q183 Deutschland
+
+ ORT:  Q1376485 Hainhausen
+Q183 Deutschland
+
+ ORT:  Q32050811 Hainfeld
+Q183 Deutschland
+none
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q565530 Hadamar
+Q183 Deutschland
+
+ ORT:  Q32049980 Hackenheim
+Q183 Deutschland
+
+ ORT:  Q32049918 Hachenburg
+Q183 Deutschland
+
+ ORT:  Q32049918 Hachenburg
+Q183 Deutschland
+
+ ORT:  Q32049918 Hachenburg
+Q183 Deutschland
+none
+
+ ORT:  Q32518590 Günzburg
+Q183 Deutschland
+
+ ORT:  Q32048753 Guntersblum
+Q183 Deutschland
+
+ ORT:  Q32048654 Gundheim
+Q183 Deutschland
+
+ ORT:  Q558498 Gudensberg
+Q183 Deutschland
+
+ ORT:  Q32047892 Guben
+Q183 Deutschland
+
+ ORT:  Q33441736 Grünstadt
+Q183 Deutschland
+
+ ORT:  Q32514607 Grünsfeld
+Q183 Deutschland
+
+ ORT:  Q622589 Groß-Zimmern
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q31622 Großwallstadt
+Q183 Deutschland
+
+ ORT:  Q31622 Großwallstadt
+Q183 Deutschland
+
+ ORT:  Q31622 Großwallstadt
+Q183 Deutschland
+
+ ORT:  Q31622 Großwallstadt
+Q183 Deutschland
+
+ ORT:  Q31622 Großwallstadt
+Q183 Deutschland
+
+ ORT:  Q49283587 Großvargula
+Q183 Deutschland
+
+ ORT:  Q49283587 Großvargula
+Q183 Deutschland
+
+ ORT:  Q516474 Groß-Umstadt
+Q183 Deutschland
+
+ ORT:  Q516474 Groß-Umstadt
+Q183 Deutschland
+
+ ORT:  Q516474 Groß-Umstadt
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q33441262 Großostheim
+Q183 Deutschland
+
+ ORT:  Q49283563 Großmölsen
+Q183 Deutschland
+
+ ORT:  Q33441198 Großlangheim
+Q183 Deutschland
+
+ ORT:  Q49283556 Großkrotzenburg
+Q183 Deutschland
+
+ ORT:  Q49283556 Großkrotzenburg
+Q183 Deutschland
+
+ ORT:  Q49283556 Großkrotzenburg
+Q183 Deutschland
+
+ ORT:  Q49283556 Großkrotzenburg
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q33441102 Großheubach
+Q183 Deutschland
+
+ ORT:  Q251689 Groß-Gerau
+Q183 Deutschland
+
+ ORT:  Q251689 Groß-Gerau
+Q183 Deutschland
+
+ ORT:  Q32510453 Großenehrich
+Q183 Deutschland
+none
+
+ ORT:  Q49283511 Großbartloff
+Q183 Deutschland
+
+ ORT:  Q49283511 Großbartloff
+Q183 Deutschland
+
+ ORT:  Q49283511 Großbartloff
+Q183 Deutschland
+
+ ORT:  Q49283511 Großbartloff
+Q183 Deutschland
+
+ ORT:  Q49283511 Großbartloff
+Q183 Deutschland
+
+ ORT:  Q594576 Großauheim
+Q183 Deutschland
+Q1206012 Deutsches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+
+ ORT:  Q594576 Großauheim
+Q183 Deutschland
+Q1206012 Deutsches Reich
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+none
+none
+
+ ORT:  Q882426 Grevenstein
+Q183 Deutschland
+
+ ORT:  Q33439978 Greußen
+Q183 Deutschland
+
+ ORT:  Q32041969 Greiz
+No country found.
+
+ ORT:  Q32041969 Greiz
+No country found.
+none
+
+ ORT:  Q33441483 Gräfenthal
+Q183 Deutschland
+
+ ORT:  Q33441483 Gräfenthal
+Q183 Deutschland
+
+ ORT:  Q49283607 Gräfendorf
+Q183 Deutschland
+
+ ORT:  Q32518229 Göttingen
+Q183 Deutschland
+
+ ORT:  Q32518229 Göttingen
+Q183 Deutschland
+
+ ORT:  Q32518229 Göttingen
+Q183 Deutschland
+
+ ORT:  Q32038418 Gotha
+Q183 Deutschland
+
+ ORT:  Q32038418 Gotha
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q961164 Mainz-Gonsenheim
+Q183 Deutschland
+
+ ORT:  Q516238 Goldbach
+Q183 Deutschland
+
+ ORT:  Q516238 Goldbach
+Q183 Deutschland
+
+ ORT:  Q516238 Goldbach
+Q183 Deutschland
+none
+
+ ORT:  Q32035325 Goch
+Q183 Deutschland
+
+ ORT:  Q32035325 Goch
+Q183 Deutschland
+none
+
+ ORT:  Q32033414 Glatten
+Q183 Deutschland
+
+ ORT:  Q637032 Glashütten
+Q183 Deutschland
+
+ ORT:  Q1529570 Glashofen
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q55304 Amerikanische Besatzungszone
+Q693911 Bizone
+Q569998 Trizone
+none
+
+ ORT:  Q26271280 Gissigheim
+Q183 Deutschland
+
+ ORT:  Q1525143 Ginseldorf
+Q183 Deutschland
+none
+
+ ORT:  Q3874 Gießen
+Q183 Deutschland
+Q7318 NS-Staat
+none
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031338 Gieboldehausen
+Q183 Deutschland
+
+ ORT:  Q32031321 Giebelstadt
+Q183 Deutschland
+
+ ORT:  Q32030588 Geseke
+Q183 Deutschland
+
+ ORT:  Q32030588 Geseke
+
+Q183 Deutschland
+
+ ORT:  Q32030588 Geseke
+Q183 Deutschland
+
+ ORT:  Q32030569 Geschwenda
+Q183 Deutschland
+
+ ORT:  Q472141 Gerresheim
+Q183 Deutschland
+
+ ORT:  Q519134 Gerolzhofen
+Q183 Deutschland
+
+ ORT:  Q519134 Gerolzhofen
+Q183 Deutschland
+
+ ORT:  Q625091 Gernsheim
+Q183 Deutschland
+
+ ORT:  Q625091 Gernsheim
+Q183 Deutschland
+
+ ORT:  Q32030131 Gernsbach
+Q183 Deutschland
+
+ ORT:  Q32030131 Gernsbach
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q32030076 Germersheim
+Q183 Deutschland
+
+ ORT:  Q32030076 Germersheim
+Q183 Deutschland
+none
+
+ ORT:  Q23197530 Gerlachsheim
+Q183 Deutschland
+
+ ORT:  Q32029746 Gerbershausen
+Q183 Deutschland
+
+ ORT:  Q32029746 Gerbershausen
+Q183 Deutschland
+
+ ORT:  Q32029746 Gerbershausen
+Q183 Deutschland
+
+ ORT:  Q32029496 Georgenthal
+Q183 Deutschland
+
+ ORT:  Q505332 Gemünden am Main
+Q183 Deutschland
+
+ ORT:  Q505332 Gemünden am Main
+Q183 Deutschland
+none
+none
+
+ ORT:  Q16024 Geldern
+Q183 Deutschland
+
+ ORT:  Q16024 Geldern
+Q183 Deutschland
+
+ ORT:  Q16024 Geldern
+Q183 Deutschland
+
+ ORT:  Q16024 Geldern
+Q183 Deutschland
+
+ ORT:  Q16024 Geldern
+Q183 Deutschland
+
+ ORT:  Q32028209 Geismar
+Q183 Deutschland
+
+ ORT:  Q32028175 Geisleden
+Q183 Deutschland
+
+ ORT:  Q32028175 Geisleden
+Q183 Deutschland
+
+ ORT:  Q32028175 Geisleden
+Q183 Deutschland
+
+ ORT:  Q32028175 Geisleden
+Q183 Deutschland
+
+ ORT:  Q558516 Geisenheim
+Q183 Deutschland
+
+ ORT:  Q558516 Geisenheim
+Q183 Deutschland
+
+ ORT:  Q558516 Geisenheim
+Q183 Deutschland
+
+ ORT:  Q558516 Geisenheim
+Q183 Deutschland
+
+ ORT:  Q558516 Geisenheim
+Q183 Deutschland
+
+ ORT:  Q33438072 Geisa
+Q183 Deutschland
+
+ ORT:  Q33438072 Geisa
+Q183 Deutschland
+
+ ORT:  Q33438072 Geisa
+Q183 Deutschland
+
+ ORT:  Q33438072 Geisa
+Q183 Deutschland
+none
+
+ ORT:  Q205050 Geilenkirchen
+Q183 Deutschland
+
+ ORT:  Q205050 Geilenkirchen
+Q183 Deutschland
+
+ ORT:  Q32027482 Gehren
+Q183 Deutschland
+
+ ORT:  Q32027462 Gehrden
+Q183 Deutschland
+
+ ORT:  Q32026920 Gechingen
+Q183 Deutschland
+
+ ORT:  Q32026410 Gau-Odernheim
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026387 Gau-Bickelheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q32026379 Gau-Algesheim
+Q183 Deutschland
+
+ ORT:  Q224504 Garbenheim
+Q183 Deutschland
+
+ ORT:  Q32023552 Gappenach
+Q183 Deutschland
+
+ ORT:  Q32021176 Gabsheim
+Q183 Deutschland
+
+ ORT:  Q32021176 Gabsheim
+Q183 Deutschland
+none
+
+ ORT:  Q3075 Fürth
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q154195 Königreich Bayern
+Q183 Deutschland
+
+ ORT:  Q3075 Fürth
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q154195 Königreich Bayern
+Q183 Deutschland
+none
+
+ ORT:  Q262644 Fürstenberg
+Q183 Deutschland
+
+ ORT:  Q3963 Fulda
+Q183 Deutschland
+
+ ORT:  Q3963 Fulda
+Q183 Deutschland
+
+ ORT:  Q3963 Fulda
+Q183 Deutschland
+
+ ORT:  Q492503 Fritzlar
+Q183 Deutschland
+
+ ORT:  Q492503 Fritzlar
+Q183 Deutschland
+
+ ORT:  Q492503 Fritzlar
+Q183 Deutschland
+
+ ORT:  Q492503 Fritzlar
+Q183 Deutschland
+
+ ORT:  Q492503 Fritzlar
+Q183 Deutschland
+
+ ORT:  Q1464220 Friedrichsfeld
+Q183 Deutschland
+
+ ORT:  Q32018224 Friedelshausen
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+
+ ORT:  Q516485 Friedberg
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q32017957 Fretterode
+Q183 Deutschland
+
+ ORT:  Q32017957 Fretterode
+Q183 Deutschland
+
+ ORT:  Q32017602 Freisbach
+Q183 Deutschland
+
+ ORT:  Q32017410 Frei-Laubersheim
+Q183 Deutschland
+
+ ORT:  Q2833 Freiburg im Breisgau
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2833 Freiburg im Breisgau
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q2833 Freiburg im Breisgau
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q637238 Kurfürstentum Baden
+
+ ORT:  Q32017434 Freiberg
+Q183 Deutschland
+
+ ORT:  Q798686 Bad Fredeburg
+Q183 Deutschland
+
+ ORT:  Q478097 Frauenstein
+Q183 Deutschland
+
+ ORT:  Q478097 Frauenstein
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q1794 Frankfurt am Main
+Q12548 Heiliges Römisches Reich
+Q704312 Großherzogtum Frankfurt
+Q704300 Freie Stadt Frankfurt
+Q151624 Deutscher Bund
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q713750 Bundesrepublik Deutschland bis 1990
+Q183 Deutschland
+
+ ORT:  Q4024 Frankfurt (Oder)
+Q183 Deutschland
+Q16957 Deutsche Demokratische Republik
+Q27306 Königreich Preußen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q55300 Sowjetische Besatzungszone
+
+ ORT:  Q6905 Frankenthal
+Q183 Deutschland
+
+ ORT:  Q6905 Frankenthal
+Q183 Deutschland
+
+ ORT:  Q6905 Frankenthal
+Q183 Deutschland
+
+ ORT:  Q6905 Frankenthal
+Q183 Deutschland
+
+ ORT:  Q573603 Frankenberg (Eder)
+Q183 Deutschland
+
+ ORT:  Q573603 Frankenberg (Eder)
+Q183 Deutschland
+
+ ORT:  Q573603 Frankenberg (Eder)
+Q183 Deutschland
+
+ ORT:  Q32016026 Frammersbach
+Q183 Deutschland
+
+ ORT:  Q32016026 Frammersbach
+Q183 Deutschland
+
+ ORT:  Q32016026 Frammersbach
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32010194 Forchheim
+Q183 Deutschland
+
+ ORT:  Q32010194 Forchheim
+Q183 Deutschland
+
+ ORT:  Q32010194 Forchheim
+Q183 Deutschland
+
+ ORT:  Q622593 Flörsheim am Main
+Q183 Deutschland
+
+ ORT:  Q622593 Flörsheim am Main
+Q183 Deutschland
+
+ ORT:  Q622593 Flörsheim am Main
+Q183 Deutschland
+
+ ORT:  Q622593 Flörsheim am Main
+Q183 Deutschland
+
+ ORT:  Q553680 Flonheim
+Q183 Deutschland
+none
+none
+
+ ORT:  Q1428062 Flerzheim
+Q183 Deutschland
+
+ ORT:  Q1427624 Fleckenberg
+Q183 Deutschland
+none
+
+ ORT:  Q118558808 Fladungen
+Q183 Deutschland
+none
+
+ ORT:  Q532046 Fischen im Allgäu
+Q183 Deutschland
+
+ ORT:  Q1419781 Fischbach
+Q183 Deutschland
+
+ ORT:  Q1419781 Fischbach
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q18020123 Fechenbach
+Q183 Deutschland
+
+ ORT:  Q18020123 Fechenbach
+Q183 Deutschland
+
+ ORT:  Q317432 Eversberg
+Q183 Deutschland
+
+ ORT:  Q31999949 Ettlingen
+Q183 Deutschland
+
+ ORT:  Q31999949 Ettlingen
+Q183 Deutschland
+
+ ORT:  Q31999949 Ettlingen
+Q183 Deutschland
+
+ ORT:  Q31999949 Ettlingen
+Q183 Deutschland
+none
+
+ ORT:  Q31999934 Ettenheim
+Q183 Deutschland
+
+ ORT:  Q1371747 Etteln
+Q183 Deutschland
+
+ ORT:  Q31999807 Esslingen
+Q183 Deutschland
+
+ ORT:  Q31999807 Esslingen
+Q183 Deutschland
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+
+ ORT:  Q2066 Essen
+Q183 Deutschland
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q1206012 Deutsches Reich
+Q7318 NS-Staat
+Q2415901 Deutschland 1945 bis 1949
+Q27306 Königreich Preußen
+Q249428 Großherzogtum Berg
+Q12548 Heiliges Römisches Reich
+none
+none
+
+ ORT:  Q31999418 Esens
+Q183 Deutschland
+none
+
+ ORT:  Q1468 Eschwege
+Q183 Deutschland
+none
+
+ ORT:  Q31998864 Erzhausen
+Q183 Deutschland
+none
+
+ ORT:  Q567608 Ernst
+Q183 Deutschland
+
+ ORT:  Q118557733 Erlenbach am Main
+Q183 Deutschland
+
+ ORT:  Q118557733 Erlenbach am Main
+Q183 Deutschland
+
+ ORT:  Q118557733 Erlenbach am Main
+Q183 Deutschland
+
+ ORT:  Q117751880 Erlangen
+Q183 Deutschland
+
+ ORT:  Q7025 Erkelenz
+Q183 Deutschland
+none
+none
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+
+ ORT:  Q31997476 Erfurt
+Q183 Deutschland
+none
+
+ ORT:  Q51735998 Erfeld
+Q183 Deutschland
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q186320 Großherzogtum Baden
+Q12548 Heiliges Römisches Reich
+Q153080 Ostfrankenreich
+Q31929 Karolingerreich
+Q146246 Fränkisches Reich
+
+ ORT:  Q31997337 Erding
+Q183 Deutschland
+
+ ORT:  Q1348194 Erbach
+Q183 Deutschland
+
+ ORT:  Q1348194 Erbach
+Q183 Deutschland
+
+ ORT:  Q45347 Eppstein
+Q183 Deutschland
+
+ ORT:  Q45347 Eppstein
+Q183 Deutschland
+
+ ORT:  Q31996966 Eppertshausen
+Q183 Deutschland
+none
+
+ ORT:  Q31996552 Ensheim
+Q183 Deutschland
+
+ ORT:  Q31996177 Enkirch
+Q183 Deutschland
+
+ ORT:  Q31996177 Enkirch
+Q183 Deutschland
+
+ ORT:  Q162681 Engers
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q31995210 Emmerich
+Q183 Deutschland
+
+ ORT:  Q31995210 Emmerich
+Q183 Deutschland
+
+ ORT:  Q31995210 Emmerich
+Q183 Deutschland
+
+ ORT:  Q31994891 Embsen
+Q183 Deutschland
+
+ ORT:  Q31994777 Elz
+Q183 Deutschland
+
+ ORT:  Q31994759 Elxleben
+Q183 Deutschland
+
+ ORT:  Q31994759 Elxleben
+Q183 Deutschland
+
+ ORT:  Q31994759 Elxleben
+Q183 Deutschland
+
+ ORT:  Q31994759 Elxleben
+Q183 Deutschland
+none
+
+ ORT:  Q275193 Eltville am Rhein
+Q183 Deutschland
+
+ ORT:  Q275193 Eltville am Rhein
+Q183 Deutschland
+
+ ORT:  Q275193 Eltville am Rhein
+Q183 Deutschland
+
+ ORT:  Q275193 Eltville am Rhein
+Q183 Deutschland
+
+ ORT:  Q275193 Eltville am Rhein
+Q183 Deutschland
+none
+
+ ORT:  Q31994337 Elsenfeld
+Q183 Deutschland
+none
+
+ ORT:  Q117751597 Ellingen
+Q183 Deutschland
+
+ ORT:  Q117751597 Ellingen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q503169 Elchingen
+Q183 Deutschland
+
+ ORT:  Q259444 Eiterfeld
+Q183 Deutschland
+
+ ORT:  Q31987874 Eisfeld
+Q183 Deutschland
+
+ ORT:  Q31987874 Eisfeld
+Q183 Deutschland
+none
+none
+
+ ORT:  Q31987634 Eisenbach
+Q183 Deutschland
+
+ ORT:  Q31987634 Eisenbach
+Q183 Deutschland
+
+ ORT:  Q31987608 Eisenach
+Q183 Deutschland
+
+ ORT:  Q31987608 Eisenach
+Q183 Deutschland
+
+ ORT:  Q31987426 Einhausen
+Q183 Deutschland
+
+ ORT:  Q31987228 Eilenburg
+Q183 Deutschland
+
+ ORT:  Q1302820 Eiersheim
+Q183 Deutschland
+none
+none
+none
+none
+none
+none
+
+ ORT:  Q452493 Eibingen
+Q183 Deutschland
+
+ ORT:  Q452493 Eibingen
+Q183 Deutschland
+
+ ORT:  Q452493 Eibingen
+Q183 Deutschland
+
+ ORT:  Q452493 Eibingen
+Q183 Deutschland
+
+ ORT:  Q452493 Eibingen
+Q183 Deutschland
+none
+none
+
+ ORT:  Q32475796 Ehingen
+Q183 Deutschland
+
+ ORT:  Q32475796 Ehingen
+Q183 Deutschland
+none
+
+ ORT:  Q31983185 Edesheim
+Q183 Deutschland
+
+ ORT:  Q31983185 Edesheim
+Q183 Deutschland
+
+ ORT:  Q31983117 Edenkoben
+Q183 Deutschland
+
+ ORT:  Q31983117 Edenkoben
+Q183 Deutschland
+
+ ORT:  Q31983117 Edenkoben
+Q183 Deutschland
+none
+none
+none
+none
+none
+
+ ORT:  Q117836283 Ebern
+Q183 Deutschland
+none
+
+ ORT:  Q1718 Düsseldorf
+Q183 Deutschland
+
+ ORT:  Q1718 Düsseldorf
+Q183 Deutschland
+
+ ORT:  Q1718 Düsseldorf
+Q183 Deutschland
+
+ ORT:  Q1718 Düsseldorf
+Q183 Deutschland
+
+ ORT:  Q1718 Düsseldorf
+Q183 Deutschland
+
+ ORT:  Q1884 Düren
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q1884 Düren
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q1884 Düren
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q1884 Düren
+Q183 Deutschland
+Q713750 Bundesrepublik Deutschland bis 1990
+Q2415901 Deutschland 1945 bis 1949
+Q7318 NS-Staat
+Q41304 Weimarer Republik
+Q43287 Deutsches Kaiserreich
+Q27306 Königreich Preußen
+Q142 Frankreich
+Q12548 Heiliges Römisches Reich
+Q183 Deutschland
+
+ ORT:  Q31976906 Duisburg
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+
+ ORT:  Q31976703 Duderstadt
+Q183 Deutschland
+none
+none
+none
+
+ ORT:  Q31975774 Drolshagen
+Q183 Deutschland
+
+ ORT:  Q1731 Dresden
+Q183 Deutschland
+Q156199 Kurfürstentum Sachsen
+Q153015 Königreich Sachsen
+Q43287 Deutsches Kaiserreich
+Q41304 Weimarer Republik
+Q7318 NS-Staat
+Q55300 Sowjetische Besatzungszone
+Q16957 Deutsche Demokratische Republik
+Q12548 Heiliges Römisches Reich
+Q170180 Markgrafschaft Meißen
+
+ ORT:  Q31971823 Dorsten
+Q183 Deutschland
+
+ ORT:  Q31971823 Dorsten
+Q183 Deutschland
+none
+none
+
+ ORT:  Q31971324 Dorfprozelten
+Q183 Deutschland
+
+ ORT:  Q49277407 Donauwörth
+Q183 Deutschland
+
+ ORT:  Q18333288 Dittwar
+Q183 Deutschland
+
+ ORT:  Q18333288 Dittwar
+Q183 Deutschland
+
+ ORT:  Q31955031 Dirmstein
+Q183 Deutschland
+
+ ORT:  Q31955031 Dirmstein
+Q183 Deutschland
+
+ ORT:  Q31955031 Dirmstein
+Q183 Deutschland
+
+ ORT:  Q31955031 Dirmstein
+Q183 Deutschland
+
+ ORT:  Q31955031 Dirmstein
+Q183 Deutschland
+
+ ORT:  Q491743 Dinkelsbühl
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+
+ERROR: Traceback (most recent call last):
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\data\api\_requests.py", line 691, in _http_request
+    response = http.request(self.site, uri=uri,
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 285, in request
+    r = fetch(baseuri, headers=headers, **kwargs)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 459, in fetch
+    callback(response)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 345, in error_handling_callback
+    raise response from None
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 450, in fetch
+    response = session.request(method, uri,
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\sessions.py", line 747, in send
+    r.content
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\models.py", line 899, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.wikidata.org', port=443): Read timed out.
+
+WARNING: Waiting 5.0 seconds before retrying.
+ERROR: Traceback (most recent call last):
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\data\api\_requests.py", line 691, in _http_request
+    response = http.request(self.site, uri=uri,
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 285, in request
+    r = fetch(baseuri, headers=headers, **kwargs)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 459, in fetch
+    callback(response)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 330, in error_handling_callback
+    raise ConnectionError(response)
+ConnectionError: HTTPSConnectionPool(host='www.wikidata.org', port=443): Max retries exceeded with url: /w/api.php?ids=Q183&action=wbgetentities&maxlag=5&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020AA7EE7FD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+No country found.
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+Q183 Deutschland
+
+ ORT:  Q33433312 Dingelstädt
+
+ERROR: Traceback (most recent call last):
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\data\api\_requests.py", line 691, in _http_request
+    response = http.request(self.site, uri=uri,
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 285, in request
+    r = fetch(baseuri, headers=headers, **kwargs)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 459, in fetch
+    callback(response)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 345, in error_handling_callback
+    raise response from None
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 450, in fetch
+    response = session.request(method, uri,
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\sessions.py", line 747, in send
+    r.content
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\models.py", line 899, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+  File "C:\ProgramData\anaconda3\lib\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.wikidata.org', port=443): Read timed out.
+
+WARNING: Waiting 5.0 seconds before retrying.
+ERROR: Traceback (most recent call last):
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\data\api\_requests.py", line 691, in _http_request
+    response = http.request(self.site, uri=uri,
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 285, in request
+    r = fetch(baseuri, headers=headers, **kwargs)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 459, in fetch
+    callback(response)
+  File "C:\Users\p70076654\AppData\Roaming\Python\Python310\site-packages\pywikibot\comms\http.py", line 330, in error_handling_callback
+    raise ConnectionError(response)
+ConnectionError: HTTPSConnectionPool(host='www.wikidata.org', port=443): Max retries exceeded with url: /w/api.php?ids=Q183&action=wbgetentities&maxlag=5&format=json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000020AA9775EA0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+No country found.
+
+ERROR: An error occurred for uri https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%20%3FitemLabel%20%3Fcountry%20%3FcountryLabel%20%3Fterritory%20%3FterritoryLabel%0AWHERE%20%7B%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22de%22.%20%7D%0A%20%20BIND%20%28%20wd%3AQ33433312%20AS%20%3Fitem%20%29%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20wd%3AQ2766547%20wdt%3AP17%20%3Fcountry%20.%0A%20%20%20%20wd%3AQ2766547%20wdt%3AP131%20%3Fterritory%20.%0A%20%20%7D%0A%7D%0A
+
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
+none
