@@ -6,7 +6,7 @@
 <p><strong>FR: </strong>Scripts pour la gestion des données spatiales et biographiques dans le projet DigiKAR</p>
 
 <hr>
-
+<p>Die hier verlinkten Seiten geben einen Einblick in die Daten und Datenabfragen im DigiKAR Geohumanities Projekt. Das Arbeitspaket Kursachsen konzentriert sich auf die Raumstrukturierung über Herrschaftsrechte, während das Arbeitspaket Kurmainz die Mobilität von Amtsträgern über biographische Ereignisdaten erfasst. Erklärungen zur Datenstruktur un den Forschungsfragen sind in englischer Sprache dokumentiert, die Kurzbeschreibungen der Skripte und ihrer Anwendungsfälle sind in Deutsch, Englisch und Französisch verfügbar. Zusätzlich zu den Kurzbeschreibungen sind Blogposts (Deutsch und/oder Englisch) zur Erläuterung der Prozesse sowie Video-Präsentationen verlinkt.</p>
 <hr>
 <a href="https://ieg-dhr.github.io/DigiKAR/1_DataStructureMAINZ.html">Explanation of data structure in WP3 Mainz</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/2_DataCategorisationMAINZ.html">Data categorisation Mainz</a><br><br>
