@@ -1,7 +1,6 @@
 **Process of person identification and disambiguation**
 
-The challenges of working with (German and Latinised) person names in DigiKAR has been described in one of my blog post.
-In the process, we first experimented with a Python script that did the following:
+The challenges of working with (German and Latinised) person names in DigiKAR has been described in one of my blog post. In the process, we first experimented with a Python script that did the following:
 
 1) Read all names from PersonList into memory
 2) Ask the user to enter a name
@@ -13,20 +12,11 @@ In the process, we first experimented with a Python script that did the followin
 
 To search for similarities, we calculated the name strings' Cosine Similarity, and specified, for example, that they must be at least 80% to consider a match. But if only 1st name and surname and once 10 first names of the person are given, the Similarity is far below that. If we assume that at least one last name is always present, and that it must be the last word in an n-gram, then one could match only the last names and introduce a spelling tolerance of 0.8?  Based on this, one can make a person ambiguation script that can put life events into relation.
 
-If father and son have the same name and the year of birth is known for both, then we can assess whether a study period in the year YYYY concerns the father or the son. But here I still have the question of whether we can assign unique norm names or whether we can only work with the IDs. In the latter case, they must also be included in the factoid list..... In the first case, we could simply normalise the factoid list regularly and work only with the names.
+If father and son have the same name and the year of birth is known for both, then we can assess whether a study period in the year YYYY concerns the father or the son. But here I still have the question of whether we can assign unique norm names or whether we can only work with the IDs. In the latter case, they must also be included in the factoid list..... In the first case, we could normalise the factoid list regularly and work only with the names.
 
 **Working with related persons**
 
-Kurzes Update, dass das Skript "Relationship Tracer" nun fast fertig ist. Ich habe noch ein Format-Problem mit Tuples an einer Stelle im Code, habe das aber schon bei Stackoverflow eingestellt.
-
-Ich arbeite zwischenzeitlich an den Prof-Daten weiter.
-
-
-mobarget
-5:58 PM
-@fstabel 
-
-Wenn du Zeit hast, könntest du mal gucken, ob diese Herren hier wirklich Brüder sind:
+Kurzes Update, dass das Skript "Relationship Tracer" nun fast fertig ist. Ich habe noch ein Format-Problem mit Tuples an einer Stelle im Code, habe das aber schon bei Stackoverflow eingestellt. Wenn du Zeit hast, könntest du mal gucken, ob diese Herren hier wirklich Brüder sind:
 
 1048	Karl Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
 1049	Alexander Bernhard Strecker	sibling	Karl Strecker	unknown	no info
@@ -41,21 +31,14 @@ Wenn du Zeit hast, könntest du mal gucken, ob diese Herren hier wirklich Brüde
 1058	Karl Friedrich Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
 1059	Ernst Wilhelm Strecker	sibling	Karl Friedrich Strecker	unknown	no info
 1060	Joachim Andreas Meyer	sibling	Johann Andreas Meyer	unknown	no info
-1061	Johann Andreas Meyer	sibling	Joachim Andreas Meyer	unknown	no info
-Show more
-Zeile 1061 muss natürlich noch raus...
 
 Was ich gemacht habe:
 
-Skript sucht nach allen Elternbeziehungen und konstruiert daraus die Gruppe der Geschwister.
+- Skript sucht nach allen Elternbeziehungen und konstruiert daraus die Gruppe der Geschwister.
+- Dann erstellt das Skript aus der Liste der Kinder alle möglichen Geschwisterpaare (im Moment auch mit der Person selbst), die dann entsprechend in EXCEL geschrieben werden.
+- Analog rekonsturiere ich Beziehungen zu den Großeltern.
 
-Dann erstellt das Skript aus der Liste der Kinder alle möglichen Geschwisterpaare (im Moment auch mit der Person selbst), die dann entsprechend in EXCEL geschrieben werden.
-
-Analog rekonsturiere ich Beziehungen zu den Großeltern.
-
-Ich glaube, diese beiden Ebenen reichen als EXPLIZITE Ebenen aus.
-
-Cousins etc. könnte man einfacher über Ingos DB abfragen.
+Ich glaube, diese beiden Ebenen reichen als EXPLIZITE Ebenen aus. Cousins etc. könnte man einfacher über Ingos DB abfragen.
 
 Hier noch ein paar Schwestern zum Test:
 
@@ -67,25 +50,11 @@ Hier noch ein paar Schwestern zum Test:
 1094	Sophia Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
 1095	Susanna Christina Weltz	sibling	Friederike Eleonore Weltz	unknown	no info
 1096	Friederike Eleonore Weltz	sibling	Susanna Christina Weltz	unknown	no info
-Show more
+
 Leider kann ich Schwestern und Brüder nicht ohne massiven Mehraufwand unterscheiden, aber das Geschlecht sollte dann eh für jede Person individuell erfasst sein.
-
-
-mobarget
-6:53 PM
 Die derzeitige Verwandschaftsrekonstruktion zur Erfurt-Sonde (Testdatei mit Stand April!) liegt in \Seafile\DigiKAR_DATEN\Python\Results und heißt "Parents-and-siblings":  hier sind sowohl Rel_Pers Beziehungen explizit gemacht, als auch neue Verwandtschaften (Eltern und Geschwister!) errechnet. Die Großeltern integriere ich, wenn ich Stackoverflow Feedback habe. Wenn Eltern und Geschwister RICHTIG erfasst sind, dann können wir das Skript später über beliebig viele Factoid Listen gleichzeitig laufen lassen, um darauf Angaben für die Personen-Listen in der Datenbank zu generieren.
 
-
-if
-7:13 PM
-Ui, super -- die Verwandschaftsrekonstruktion schaue ich mir gleich mal an, um die in die RDF-Datenbank zu bringen.
-
-
-mobarget
-7:59 PM
-Also, die würden wir vorher umschreiben, in eine flache Personenliste.
-
-Pro Person dann folgende Infos:
+**Pro Person dann folgende Infos:**
 
 Name
 GND ID
@@ -99,46 +68,16 @@ Großvater via Vater
 Großmutter via Vater
 alle bekannten Geschwister
 
-if
-8:01 PM
 Die Einträge/Zeilen mit 'parent' oder 'sibling' in der Spalte 'Rel_type' sind berechnet -- die anderen ('Ehefrau' oder auch sowas wie 'Ausbilder', 'Pate', usw.) sind vorgebenen Beziehungstypen.
+Die dt. Spalten habe ich aus "Rel_Pers" rausgefischt und invertiert. Also um jeweils auch die andere Seite der Beziehung zu haben. Die englischen Spalten sind rein errechnet, ja.
 
-
-mobarget
-8:02 PM
-Die dt. Spalten habe ich aus "Rel_Pers" rausgefischt und invertiert.
-
-Also um jeweils auch die andere Seite der Beziehung zu haben.
-
-Die englischen Spalten sind rein errechnet, ja.
-
-
-if
-8:04 PM
 Schreibst Du in die Excel-Datei Parents-and-siblings.xlsx ggf. noch die ID der Person (Name in Spalte 'Person')?
 
-
-mobarget
-8:05 PM
-Das würde ich dann in der finalen Person-Datei machen.
-
-Macht in der Beziehungstabelle nicht so viel Sinn.
-
-Zumal Florian da teils auch noch korrigieren muss, so weit ich weiß.
-
-
-if
-8:10 PM
-Hm, die Personen (die Erfurter) können anscheinend auch an den eindeutigen Namen identifiziert werden!?
-
+Das würde ich dann in der finalen Person-Datei machen. Macht in der Beziehungstabelle nicht so viel Sinn. Zumal Florian da teils auch noch korrigieren muss, so weit ich weiß. Hm, die Personen (die Erfurter) können anscheinend auch an den eindeutigen Namen identifiziert werden!?
 
 mobarget
 8:40 PM
-Ja, weitgehend.
-
-Wir brauchen natürlich ein ID-Mapping.
-
-Aber das sollten wir machen, wenn wir alle Sonden gleichzeitig eingelesen haben und dann ggf. doppelte Namen finden können. Florian hatte da schon mal eine ID-Liste begonnen, die würde ich damit noch kombinieren...
+Ja, weitgehend. Wir brauchen natürlich ein ID-Mapping. Aber das sollten wir machen, wenn wir alle Sonden gleichzeitig eingelesen haben und dann ggf. doppelte Namen finden können. Florian hatte da schon mal eine ID-Liste begonnen, die würde ich damit noch kombinieren...
 
 Das Tuple Problem habe ich gelöst.
 
@@ -146,7 +85,7 @@ BITTE AN @fstabel : in \Seafile\DigiKAR_DATEN\Python\Results liegt nun auch eine
 
 Da brauche ich bitte Rückmeldung, was passiert ist, damit ich das im Skript deutlich machen oder verbessern kann!!
 
-Den aktuellen Code zum Relationship Tracer gibt es hier: 
+**Den aktuellen Code zum Relationship Tracer gibt es hier:**
 
 https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py
 
