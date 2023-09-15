@@ -1,18 +1,18 @@
 # Data collection in DigiKAR
 
-Humanities projects, especially historians, work with large amounts of data from various sources and often need to be more structured. Ingesting these data into an easy-to-use database that permits complex data queries or visualisations is often unattainable. The blog post addresses this challenge and presents workflows in which relational or graph databases are optional end-products rather than the starting points of the research process. The DigiKAR geohumanities project, which analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period, uses a combination of spreadsheets, scripts, and sample databases. 
+Humanities projects, especially historians, work with large amounts of data from various sources and often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. The blog post addresses this challenge and presents workflows in which relational or graph databases are optional end-products rather than the starting points of the research process. The DigiKAR geohumanities project, which analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period, uses a combination of spreadsheets, scripts, and sample databases. 
 
 ## Data structure in workpackage 3 "Electoral Mainz"
 
-In the workpackage 3, which analysis biographic mobility in Electoral Mainz, the basis for data collection are EXCEL spreadsheets that follow our project-specific factoid model. This event-oriented approach to data is modelled on the factoid approach developed at King’s College London. This means that we gather agency-related events (e.g. “grand tour”) and general life events (e.g. “birth” and “death”) as stated in different sources. Uncertainty or vagueness of the information is captured in a comments column, where we also add important source quotations:
+In work package 3, which analyses biographic mobility in Electoral Mainz, the basis for data collection is EXCEL spreadsheets that follow our project-specific factoid model. This event-oriented approach to data is modelled on the factoid approach developed at King’s College London. This means that we gather agency-related events (e.g. “grand tour”) and general life events (e.g. “birth” and “death”) as stated in different sources. Uncertainty or vagueness of the information is captured in a comments column, where we also add important source quotations:
 
 **Table design in EXCEL for collecting biographic data**
 
 | factoid_ID | pers_ID | event_date | event_after-date | event_before-date | event_start | event_end | event_type | pers_name | pers_title | pers_function | place_name | inst_name | rel_pers | alternative_names | source_quotations | additional_info | comment | source | source_site | info_dump |
 
-## Analytical lenses in the "Electoral Mainz" workpackage
+## Analytical lenses in the "Electoral Mainz" work package
 
-To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR-technology to semi-automatically gather information on professors and students active at the early modern university of Mainz. 
+To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR technology to semi-automatically gather information on professors and students active at the early modern university of Mainz. 
 
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates:
 
@@ -39,9 +39,9 @@ a) **"Erfurt" data (2022-11-11, last updated on February 2nd, 2023)**:
 - comment	source	
 - source_site	
 - info_dump	
-- Weitere Belegstellen (column not in initial data model)
-- StaatskalenderID (column not in initial data model)
-- Import-ID (column not in initial data model)
+- Weitere Belegstellen (column not in the initial data model)
+- StaatskalenderID (column not in the initial data model)
+- Import-ID (column not in the initial data model)
 
 **5987 rows of data!**
 
@@ -129,4 +129,4 @@ The merging of duplicate events reduces that number to **9323**.
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
-Since spring 2023, the focus has been cleaning and consolidating the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the XXXX directory.
+Since spring 2023, the focus has been **cleaning and consolidating** the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the XXXX directory.
