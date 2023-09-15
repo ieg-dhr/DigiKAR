@@ -28,3 +28,5 @@ Concerning the territorial administration, we find a similar diversity of agents
 - Amtsschösser
 - Amtsrentverwalter
 - Amtmänner (of the local administration)
+
+Also, finding an overarching definition of early modern "Landesherrschaft" is difficult. Researchers have focused on military organisation, imperial taxation and certain offices or legal instruments as key elements, but they remain contested. 
