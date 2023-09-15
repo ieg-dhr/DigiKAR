@@ -1,8 +1,8 @@
 # Data collection in DigiKAR
 
-Humanities projects, especially historians, work with large amounts of data from various sources and often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. The blog post addresses this challenge and presents workflows in which relational or graph databases are optional end-products rather than the starting points of the research process. The DigiKAR geohumanities project, which analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period, uses a combination of spreadsheets, scripts, and sample databases. 
+Humanities projects, especially historians, work with large amounts of data from various sources that often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. The blog post addresses this challenge and presents workflows in which relational or graph databases are optional end-products rather than the starting points of the research process. The DigiKAR geohumanities project, which analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period, uses a combination of spreadsheets, scripts, and sample databases. 
 
-## Data structure in workpackage 3 "Electoral Mainz"
+## Data structure in work package 3 "Electoral Mainz"
 
 In work package 3, which analyses biographic mobility in Electoral Mainz, the basis for data collection is EXCEL spreadsheets that follow our project-specific factoid model. This event-oriented approach to data is modelled on the factoid approach developed at King’s College London. This means that we gather agency-related events (e.g. “grand tour”) and general life events (e.g. “birth” and “death”) as stated in different sources. Uncertainty or vagueness of the information is captured in a comments column, where we also add important source quotations:
 
