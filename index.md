@@ -18,4 +18,3 @@
 <a href="https://ieg-dhr.github.io/DigiKAR/9_Scripts.html">Scripts for data collection, data analysis and data cleaning</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/10_Links.html">Links to DigiKAR output</a><br><br>
 <hr>
-<img src="/assets/DBReview.png" alt="DBReview" width="650" style="padding:10px" align="left"/>
