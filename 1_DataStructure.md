@@ -1,6 +1,10 @@
 # Data collection in DigiKAR
 
-Humanities projects, especially historians, work with large amounts of data from various sources that often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. The blog post addresses this challenge and presents workflows in which relational or graph databases are optional end-products rather than the starting points of the research process. The DigiKAR geohumanities project, which analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period, uses a combination of spreadsheets, scripts, and sample databases. These two work packages experiment with slightly different workflows, but both are marked by a flexible combination of (versioned) spreadsheets, script-supported data cleaning, and more solid data infrastructures.
+Humanities projects, especially historians, work with large amounts of data from various sources that often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. Therefore, we conducted a careful tool review at the beginning of the DigiKAR project to be able to discuss the advantages and challenges of different (open source and proprietary) database systems:
+
+<img src="/assets/DBReview.png" alt="DBReview" width="650" style="padding:10px" align="left"/>
+
+We then decided to view relational or graph databases as an optional end-product rather than the starting point of our research process and decided to experiment with a flexible combination of (versioned) spreadsheets, script-supported data cleaning, and more solid data infrastructures. The DigiKAR geohumanities project analyses spatial relations in Electoral Mainz and Electoral Saxony of the early modern period from two distinct perspectives, which is why we also needed to develop slightly different workflows.
 
 ## Data structure in work package 2 "Electoral Saxony"
 
@@ -12,7 +16,20 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 
 **Table design in EXCEL for collecting biographic data**
 
-| factoid_ID | pers_ID | event_date | event_after-date | event_before-date | event_start | event_end | event_type | pers_name | pers_title | pers_function | place_name | inst_name | rel_pers | alternative_names | source_quotations | additional_info | comment | source | source_site | info_dump |
+*Columns with event information*
+| factoid_ID | event_date | event_after-date | event_before-date | event_start | event_end | event_type |
+
+The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
+
+*Columns with person, place and institution information*
+| pers_ID | pers_name | pers_title | pers_function | place_name | inst_name | rel_pers | alternative_names |
+
+The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
+
+*Columns with source information*
+| source_quotations | additional_info | comment | source | source_site | info_dump |
+
+The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
 ## Analytical lenses in the "Electoral Mainz" work package
 
