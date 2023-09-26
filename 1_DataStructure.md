@@ -24,7 +24,7 @@ The different data columns were used to differentiate between punctual events an
 *Columns with person, place and institution information*
 | pers_ID | pers_name | pers_title | pers_function | place_name | inst_name | rel_pers | alternative_names |
 
-The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
+Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
 
 *Columns with source information*
 | source_quotations | additional_info | comment | source | source_site | info_dump |
