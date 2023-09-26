@@ -16,7 +16,17 @@ If father and son have the same name and the year of birth is known for both, th
 
 **Working with related persons**
 
-Kurzes Update, dass das Skript "Relationship Tracer" nun fast fertig ist. Ich habe noch ein Format-Problem mit Tuples an einer Stelle im Code, habe das aber schon bei Stackoverflow eingestellt. Wenn du Zeit hast, könntest du mal gucken, ob diese Herren hier wirklich Brüder sind:
+Quick update that the "Relationship Tracer" script is now almost finished. I still have a format problem with tuples at one point in the code, but I've already fixed it at Stackoverflow. 
+
+Description of script workflow:
+
+- Script searches for all parent relationships and constructs the group of siblings from this.
+- Then the script creates all possible sibling pairs from the list of children (at the moment also with the person himself), which are then written accordingly in EXCEL.
+- Analogously, I reconstruct relationships with grandparents.
+
+I think these two levels are sufficient as EXPLICIT levels. Cousins etc. could be queried more easily via Ingo's DB.
+
+If you have time, you could check if these gentlemen are really brothers:
 
 1048	Karl Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
 1049	Alexander Bernhard Strecker	sibling	Karl Strecker	unknown	no info
@@ -32,15 +42,9 @@ Kurzes Update, dass das Skript "Relationship Tracer" nun fast fertig ist. Ich ha
 1059	Ernst Wilhelm Strecker	sibling	Karl Friedrich Strecker	unknown	no info
 1060	Joachim Andreas Meyer	sibling	Johann Andreas Meyer	unknown	no info
 
-Was ich gemacht habe:
+REVIEW: Yes, the raw data indicate that these people were brothers. I am a little surprised, however, because these relationships are also very certain about the Streckers, based on the research literature. But the two Meyers make me suspicious. This is one of those cases where the identification of the person is not quite clear. There are far worse cases in the Erfurt data. Definitely not all assignments made by ID are correct. Here it would be necessary to look at the data as a whole. In case of doubt, two different persons must be assumed. And probably the calculation of relationships only makes sense after such an adjustment? Conversely, it would be helpful for the overview to have the relationships explicitly...(Btw: having siblings explicitly is not so decisive for our question (see below)).
 
-- Skript sucht nach allen Elternbeziehungen und konstruiert daraus die Gruppe der Geschwister.
-- Dann erstellt das Skript aus der Liste der Kinder alle möglichen Geschwisterpaare (im Moment auch mit der Person selbst), die dann entsprechend in EXCEL geschrieben werden.
-- Analog rekonsturiere ich Beziehungen zu den Großeltern.
-
-Ich glaube, diese beiden Ebenen reichen als EXPLIZITE Ebenen aus. Cousins etc. könnte man einfacher über Ingos DB abfragen.
-
-Hier noch ein paar Schwestern zum Test:
+Here are a few more sisters to test:
 
 1089	Maria Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
 1090	Theresia Rotermund	sibling	Maria Josepha Rotermund	unknown	no info
@@ -51,151 +55,53 @@ Hier noch ein paar Schwestern zum Test:
 1095	Susanna Christina Weltz	sibling	Friederike Eleonore Weltz	unknown	no info
 1096	Friederike Eleonore Weltz	sibling	Susanna Christina Weltz	unknown	no info
 
-Leider kann ich Schwestern und Brüder nicht ohne massiven Mehraufwand unterscheiden, aber das Geschlecht sollte dann eh für jede Person individuell erfasst sein.
-Die derzeitige Verwandschaftsrekonstruktion zur Erfurt-Sonde (Testdatei mit Stand April!) liegt in \Seafile\DigiKAR_DATEN\Python\Results und heißt "Parents-and-siblings":  hier sind sowohl Rel_Pers Beziehungen explizit gemacht, als auch neue Verwandtschaften (Eltern und Geschwister!) errechnet. Die Großeltern integriere ich, wenn ich Stackoverflow Feedback habe. Wenn Eltern und Geschwister RICHTIG erfasst sind, dann können wir das Skript später über beliebig viele Factoid Listen gleichzeitig laufen lassen, um darauf Angaben für die Personen-Listen in der Datenbank zu generieren.
+REVIEW: https://mattermost.gitlab.rlp.net/digikar/pl/tew65cssu7ysbrzqk5f93id1oh Auch bei den Schwestern passt das von den Rohdaten her.
+Zwischenfazit: Das Skript scheint mir zu funktionieren.
 
-**Pro Person dann folgende Infos:**
+Unfortunately, I cannot distinguish sisters and brothers without massive additional effort, but the sex should then be recorded individually for each person anyway.
+The current kinship reconstruction for the Erfurt probe (test file as of April!) is in \Seafile\DigiKAR_DATEN\Python\Results and is called "Parents-and-siblings": here, both Rel_Pers relationships are made explicit and new relationships (parents and siblings!) are calculated. I integrate the grandparents when I have stackoverflow feedback. If parents and siblings are correctly recorded, we can later run the script over any number of Factoid lists at the same time in order to generate information for the lists of persons in the database.
+
+**Per person, we should aim to record the following data:**
 
 Name
 GND ID
-ggf. andere IDs?
-interne Projekt ID von @fstabel
-Vater
-Mutter
-Großvater via Mutter
-Großmutter via Mutter
-Großvater via Vater
-Großmutter via Vater
-alle bekannten Geschwister
+possibly other IDs?
+internal project ID of @fstabel
+Father
+Mother
+Grandfather via mother
+Grandmother via Mother
+Grandfather via father
+Grandmother via father
+all known siblings
 
-Die Einträge/Zeilen mit 'parent' oder 'sibling' in der Spalte 'Rel_type' sind berechnet -- die anderen ('Ehefrau' oder auch sowas wie 'Ausbilder', 'Pate', usw.) sind vorgebenen Beziehungstypen.
-Die dt. Spalten habe ich aus "Rel_Pers" rausgefischt und invertiert. Also um jeweils auch die andere Seite der Beziehung zu haben. Die englischen Spalten sind rein errechnet, ja.
+The entries/rows with 'parent' or 'sibling' in the column 'Rel_type' are calculated -- the others ('wife' or also something like 'instructor', 'godfather', etc.) are predefined relationship types. I got the German columns out of "Rel_Pers" and inverted them. That is, to have the other side of the relationship as well. The English columns are purely calculated, yes.
 
-Schreibst Du in die Excel-Datei Parents-and-siblings.xlsx ggf. noch die ID der Person (Name in Spalte 'Person')?
+Do you write the ID of the person (name in column 'Person') in the Excel file Parents-and-siblings.xlsx? I would do that in the final person file. Doesn't make much sense in the relationship table. Especially as Florian has to correct some of it, as far as I know. Hm, it seems that the persons (the Erfurt ones) can also be identified by their unique names!?
 
-Das würde ich dann in der finalen Person-Datei machen. Macht in der Beziehungstabelle nicht so viel Sinn. Zumal Florian da teils auch noch korrigieren muss, so weit ich weiß. Hm, die Personen (die Erfurter) können anscheinend auch an den eindeutigen Namen identifiziert werden!?
+Yes, to a large extent. We need ID mapping, of course. But we should do that when we have read in all the probes at the same time and can then find duplicate names if necessary. Florian had already started an ID list, I would combine it with that...
 
-mobarget
-8:40 PM
-Ja, weitgehend. Wir brauchen natürlich ein ID-Mapping. Aber das sollten wir machen, wenn wir alle Sonden gleichzeitig eingelesen haben und dann ggf. doppelte Namen finden können. Florian hatte da schon mal eine ID-Liste begonnen, die würde ich damit noch kombinieren...
+I have solved the tuple problem.
 
-Das Tuple Problem habe ich gelöst.
+Request @fstabel : in \Seafile\DigiKAR_DATEN\Python\Results there is now also a file "GRANDPARENTS_GRANDCHILDREN", where at the end various grandparent relationships from the Erfurt sample are now recorded. Where it says "grandchild" directly, there was a known grandparent relationship. Where it says "grandparent-gandchild", I have calculated, so I am not sure whether these are grandparents, grandchildren or even both types of relationships. I need feedback on what happened so that I can make it clear or improve it in the script.
 
-BITTE AN @fstabel : in \Seafile\DigiKAR_DATEN\Python\Results liegt nun auch eine Datei "GRANDPARENTS_GRANDCHILDREN", wo man Ende nun verschiedene Großelternbeziehungen aus der Erfurt-Sonde erfasst sind. Da wo direkt "grandchild" steht, gab es eine bekannte Großelternbeziehung. Da wo "grandparent-gandchild" steht, habe ich errechnet, aber etwas den Faden verloren, weshalb ich nicht sicher bin, ob das nun Großeltern, Enkel oder sogar beide Arten von Beziehungen sind.
+**Latest version of the relationship tracer code:** https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py
 
-Da brauche ich bitte Rückmeldung, was passiert ist, damit ich das im Skript deutlich machen oder verbessern kann!!
+**Input data used as a sample:** FactoidList_Erfassung_Erfurt_Master_2022-04-18.xlsx
 
-**Den aktuellen Code zum Relationship Tracer gibt es hier:**
+But what we should look at in Leipzig: Effects of the person data on Ingo's models. Ingo had once planned to link roles etc. to the person. But they change all the time. Therefore, we should strictly record ONLY the overtime in the person model, the rest is factoid. The time-dependent roles or activities (with information about roles, if applicable) should also be able to be modelled with the data model -- <a href="https://gitlab.rlp.net/digikar/ap-4-datenmodellierung/-/blob/main/OntologyDesignPatterns/dmlo-bio_shacl.pdf">as a factoid, so to speak</a>. Yes, of course, in the end you should be able to "link" it to the person.
 
-https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py
+Also cf. preliminary data models on Metaphacts: http://65.21.245.157:10214/resource/:EntwurfsmusterAP3 und http://65.21.245.157:10214/resource/:EntwurfsmusterAP2
 
-GitHub
-DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
-scripts for managing spatial and biographic data in the DigiKAR project - DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
+FEEDBACK FLORIAN:
 
-DigiKAR/XLSX_relationship-tracer.py at main · ieg-dhr/DigiKAR
+Großelternbeziehungen gecheckt und kommentiert, siehe "GRANDPARENTS_GRANDCHILDREN_FS.xlsx" a.a.O. (Hier sind mir Fälle vor Augen getreten, bei denen wir namensgleiche Personen haben, die ich aber schon jetzt disambiuieren kann und verschiedene IDs vergeben habe. Das erscheint mir relevant, weil es problematisch sein könnte, wenn das Skript v.a. über die Namensstrings arbeitet (?).) Wäre es auch möglich, dass das Skript ausgibt, über welche Schiene (mütterlicher- oder väterlicherseits) die Beziehung hergestellt wurde? Soweit ich das sehe, sind in der aktuellen Liste die Zeilen etwas verrutscht (jedenfalls stimmen die Nummern der Liste nicht mit denen von dir oben geposteten überein). Und es wurden die von mir vergebenen IDs nur sporadisch ausgegeben? IDs wären aber zur Orientierung hilfreich!
 
-mobarget
-8:58 PM
-Meine Input-Datei war diese
+Bei einem kursorischen Check ist mir außerdem aufgefallen, dass nicht alle (?) Beziehungen auch invertiert wurden. Exemplarische habe ich dir mal Jost Brochhausen markiert. Die Inversen, die vorliegen, sind auch in den Rohdaten explizit. Ich habe in der ersten Liste außerdem Fälle mit leerer Beziehungsspalte oder sinnlosen Angaben entdeckt. Du findest sie in der Liste "Parents-and-siblings_fs.xlsx" in deinem Output-Ordner gelb markiert. Ich nehme an, dass sich dahinter Tippfehler verbergen. Für sowas wäre es generell hilfreich, immer die ID des Quellenfactoids mit reinzuschreiben (ggf. mehrere, bei gelöschten doppelten Informationen?). Weitere Fälle mit nur sporadisch verwendeten (wahrscheinlich künftig irrelevanten relations-types sowie Tippefehler habe ich ebenfalls (orange) markiert.
 
-FactoidList_Erfassung_Erfurt_Master_2022-04-18.xlsx
-XLSX302KB
-Aktuellere Dateien dürfen gerne in \Seafile\DigiKAR_DATEN\Python\InputLists abgelegt werden, dann kann ich weitere Testläufe machen! :slightly_smiling_face:
-
-July 24, 2022
-
-fstabel
-11:58 AM
-Moinmoin und danke. Ich werds mir bei Gelegenheit mal anschauen, wird aber frühestens Donnerstag was.
-
-
-mobarget
-12:45 PM
-Was wir aber in Leipzig anschauen sollten:
-
-Auswirkungen der Personendaten auf Ingos Modelle.
-
-Weiter oben hatte Ingo mal vorgesehen, Rollen etc. an die Person anzubinden. Die ändern sich ja aber ständig.
-
-Also sollten wir streng im Personen-Modell NUR Überzeitliches erfassen, der Rest ist Factoid.
-
-
-if
-12:49 PM
-Die zeitabhängigen Rollen bzw. Tätigkeiten (ggf. mit Information über Rollen) sollten aber auch mit dem Datenmodell modelliert werden können -- also quasi als Faktoid: https://gitlab.rlp.net/digikar/ap-4-datenmodellierung/-/blob/main/OntologyDesignPatterns/dmlo-bio_shacl.pdf
-
-GitLab
-Sign in · GitLab
-Welcome to gitlab.rlp.net
-Sign in · GitLab
-Hier gibt's übrigens eine Auswahl der wichtigsten bzw. grundlegenden Competency Questions: https://gitlab.rlp.net/digikar/ap-4-datenmodellierung/-/blob/main/CompetencyQuestions/cqs.md
-
-GitLab
-Sign in · GitLab
-Welcome to gitlab.rlp.net
-Sign in · GitLab
-Die kommen dann teilweise auch in http://65.21.245.157:10214/resource/:EntwurfsmusterAP3 und http://65.21.245.157:10214/resource/:EntwurfsmusterAP2 [Login: 'admin' , Passwort 'admin'} vor ...
-
-
-mobarget
-12:52 PM
-Ja, klar, am Ende soll man das natürlich mit der Person "verlinken" können. Ich schaue da, wie gesagt, heute rein. Nur die Organisation der Spreadsheets muss die Trennung klar sein.
-
-
-mobarget
-1:51 PM
-@if and @fstabel :
-
-Das Neuauslesen der Prof API ist auch fertig und liegt im "Results" Ordner.
-
-Version 9!
-
-ProfEvents_v9.xlsx
-XLSX415KB
-Änderungen gegenüber früheren Versionen:
-
-1) Daten sind an unser Format angepasst: also bei vagen Jahresangaben nur YYYY statt YYYY-MM-DD.
-
-2) Ich habe die Orte aus dem Entity-Counter genutzt, um bei fehlenden Orten im XML Orte indirekt aus den Institutionen zu erstellen.
-
-Bitte mal Rückmeldung geben, ob es Sinn macht, bei Mainzer Hofämtern das kurfürstliche Schloss anzugeben.
-
-Das habe ich jetzt analog zu den Erfahrungen im Projektseminar so gemacht.
-
-Eine verbesserte Ortserkennung kann noch dadurch erreicht werden, dass ich die bereits in der API vorhandenen Geburts- und Sterbeorte mit den Entity Counter Orten verbinde.
-
-Das mache ich heute Abend noch!
-
-Außerdem schaue ich mir bis morgen die aktuelle 1756er Sonde von Florian an und schaue, was ich da per Skript machen kann. Mittlerweile geht das Coden immer schneller, weil ich alle Mainz-typischen Ausnahmen nun schon einmal abgefrühstückt habe...
-
-Guten Morgen zusammen,
-ich hoffe, ihr hattet gestern noch eine produktive Sitzung und seid voran gekommen?
-
-Ich komme nun dazu, deine (Monika) Listen durchzusehen, und habe folgendes Feedback:
-1.)  Ja, die Rohdaten geben es her, dass diese Personen Brüder waren. Ich wundere mich allerdings etwas, da diese Beziehungen auch Bei den Streckers bin ich mir da aufgrund der Forschungsliteratur sehr sicher. Die beiden Meyers machen mich aber misstrauisch. Das ist so ein Fall, wo die Identifizierung der Person nicht ganz klar ist. Es gibt davon in den Erfurter Daten noch weit schlimmere Fälle. Definitiv stimmen auch nicht alle per ID vorgenommenen Zuordnungen. Hier wäre es notwendig, die Daten in der Gesamtsicht zu betrachten. Im Zweifelsfall muss man von zwei unterschiedlichen Personen ausgehen. Und wahrscheinlich ist die Errechnung von Verwandtschaften erst nach so einer Bereinigung sinnvoll? Umgekehrt wäre es für den Überblick hilfreich, die Beziehungen explizit zu haben...(Btw.: Geschwister explizit zu haben ist für unsere Fragestellung (s.u.) gar nicht so entscheidend.)
-2.) https://mattermost.gitlab.rlp.net/digikar/pl/tew65cssu7ysbrzqk5f93id1oh Auch bei den Schwestern passt das von den Rohdaten her.
-Zwischenfazit: Das Skript scheint mir zu funktionieren.
-3.) https://mattermost.gitlab.rlp.net/digikar/pl/ac9iq7z17iri9n1nmqc8ap48qr Großelternbeziehungen gecheckt und kommentiert, siehe "GRANDPARENTS_GRANDCHILDREN_FS.xlsx" a.a.O. (Hier sind mir Fälle vor Augen getreten, bei denen wir namensgleiche Personen haben, die ich aber schon jetzt disambiuieren kann und verschiedene IDs vergeben habe. Das erscheint mir relevant, weil es problematisch sein könnte, wenn das Skript v.a. über die Namensstrings arbeitet (?).) Wäre es auch möglich, dass das Skript ausgibt, über welche Schiene (mütterlicher- oder väterlicherseits) die Beziehung hergestellt wurde?
-
-Soweit ich das sehe, sind in der aktuellen Liste die Zeilen etwas verrutscht (jedenfalls stimmen die Nummern der Liste nicht mit denen von dir oben geposteten überein). Und es wurden die von mir vergebenen IDs nur sporadisch ausgegeben? IDs wären aber zur Orientierung hilfreich!
-
-Bei einem kursorischen Check ist mir außerdem aufgefallen, dass nicht alle (?) Beziehungen auch invertiert wurden. Exemplarische habe ich dir mal Jost Brochhausen markiert. Die Inversen, die vorliegen, sind auch in den Rohdaten explizit. 
-Ich habe in der ersten Liste außerdem Fälle mit leerer Beziehungsspalte oder sinnlosen Angaben entdeckt. Du findest sie in der Liste "Parents-and-siblings_fs.xlsx" in deinem Output-Ordner gelb markiert. Ich nehme an, dass sich dahinter Tippfehler verbergen. Für sowas wäre es generell hilfreich, immer die ID des Quellenfactoids mit reinzuschreiben (ggf. mehrere, bei gelöschten doppelten Informationen?). Weitere Fälle mit nur sporadisch verwendeten (wahrscheinlich künftig irrelevanten relations-types sowie Tippefehler habe ich ebenfalls (orange) markiert.
-
-Bzgl. Geschlecht kann ich jederzeit mit rel. kleinem Aufwand auch eine extra-Spalte mit expliziter Info einfügen, falls wir das brauchen. Für manche Abfragen könnte das durchaus hilfreich sein (s.u.).
+Bzgl. Geschlecht kann ich jederzeit mit relativ kleinem Aufwand auch eine extra-Spalte mit expliziter Info einfügen, falls wir das brauchen. Für manche Abfragen könnte das durchaus hilfreich sein (s.u.).
 
 Allgemein stellt sich mir hinsichtlich der Personenbeziehungen auch die Frage, wann und wie wir den "Datenmüll" wieder rauswerfen/nicht abfragen (?). In der Liste sind ja durchaus Personen, die uns nicht (mehr) interessieren oder die nur als Bindeglied (insb. die Frauen) von Interesse sind. Die Kernidee war ja, grundsätzlich einen kleinen Personenkreis von Regierungs- und Kammerräten (im Erfurter Fall) in den Mittelpunkt zu stellen und für diese zusätzlich zu gucken, welche Lebensstationen die Väter, Schwieger- und Großväter sowie Schwiegersöhne und Söhne aufwiesen, um generationenübergreifende Muster zu explorieren. Ich sehe aber zunehmend, dass das aufgrund des exponentiell wachsenden Recherchebedarfs so nicht zu leisten sein wird und wir uns mit dieser Fragestellung evtl. auf Jahns beschränken (wo wir die Daten quasi "fertig recherchiert") vorliegen haben und "nur noch" erfassen müssen. So oder so, bedarf es einer Möglichkeit, die "pois" herauszufiltern und automatische Berechnungen auf bestimmte Personen zu beschränken, um den Kontrollbedarf zu minimieren!? Und auch das Datenmodell sollte nicht nur dir Großväter, Väter und Söhne, sondern auch die Schwiegersöhne und Schiwegerväter abdecken!
-
-Die Profdaten Version 10 habe ich auch überflogen. Das sieht mir auf den ersten Blick mal ganz gut aus, jedenfalls so, dass man den Feinschliff ganz gut in der Liste erarbeiten kann. Voraussetzung ist aber, wenn ich das noch richtig im Kopf habe, die initiale Erstellung der Ontologielisten!?
-Bzgl. Ortsdaten: Ich halte, wie gesagt, die Differenzierung von Orten unterhalb der Siedlungsgemeinde für unsere Fragestellung nicht für notwendig - eher für abträglich. Die Differenzierung von geistlich/weltlich sehe ich weniger im geographischen Bezugsort als in den Funktionen/Institutionen (bzw. deren Klassifizierung).
-
-Eine andere Baustelle, die ich im Hinblick auf die ontologische Bereinigung schon länger im Hinterkopf habe und deren Wichtigkeit sich gestern im Projekt noch einmal gezeigt hat, ist die Vereinheitlichung der Events und die Explikation von deren Beziehungen. Aktuell ist es so, dass bspw. ein Studium als solches mit oder ohne bekannte Anfangs- und Enddaten erfasst sein kann (andauerndes Ereignis), aber auch als Immatrikulation (punktuelles Ereignis = Studium bei dem nur Anfangsdatum bekannt). Da habe ich mich bisher weitgehend an die Vorlagen gehalten, bisweilen aber auch nach Möglichkeit in Richtung von andauernden Ereignissen interpretiert, weil dies a) die Lebensstationen sind, die mich interessieren (punktuelle Ereignisse definieren diese ja erst), b) ich damit mehr Einheitlichkeit und damit wiederum schon jetzt c) einen besseren Überblick habe (denn damit ist das Hantieren mit Excel-Filtern leichter). Solche Beziehungen müssen wir m.E. explizit definieren und später entsprechend auch Events aus den Rohdaten per Skript erstellen, um auf einer Abfrageebene dieselben Dinge miteinander zu vergleichen. (Den Studis waren Lebensstationen "verloren gegangen", weil sie teils nur "Aufschwörung", teils mit "Wahl" operierten...). 
-
-Show less
-mobarget
-July 23, 2022
-1089	Maria
 
 **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
