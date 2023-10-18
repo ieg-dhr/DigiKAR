@@ -1,5 +1,5 @@
 <h2>Overview of DigiKAR data documentation</h2>
-<hr>
+
 <a href="https://ieg-dhr.github.io/DigiKAR/1_DataStructure.html">Explanation of data structure</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/2_DataCategorisationMAINZ.html">Data categorisation Mainz</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/3_PersonsMAINZ.html">Persons in Mainz data</a><br><br>
