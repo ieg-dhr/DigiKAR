@@ -151,5 +151,3 @@ After the reconstruction of additional events, 2412 rows were added. This combin
 The merging of duplicate events reduces that number to **9323**.
 
 <img src="https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png" width="650" align="left"/>
-
-
