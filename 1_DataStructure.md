@@ -31,11 +31,13 @@ Regarding **location data**, we did not consider the differentiation of places b
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
+Since spring 2023, the focus in our Mainz work package has been **cleaning and consolidating** the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the <a href="https://github.com/ieg-dhr/DigiKAR/tree/main/Data%20Categorisation">Data Categorisation</a> directory.
+
 ## Analytical lenses in the "Electoral Mainz" work package
 
 To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR technology to semi-automatically gather information on professors and students active at the early modern university of Mainz. 
 
-The following lists give an overview of the data structure in each of these lenses and indicate the latest updates:
+The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
 
 a) **"Erfurt" data (2022-11-11, last updated on February 2nd, 2023)**:
 
@@ -150,4 +152,4 @@ The merging of duplicate events reduces that number to **9323**.
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
-Since spring 2023, the focus has been **cleaning and consolidating** the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the XXXX directory.
+
