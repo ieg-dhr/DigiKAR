@@ -45,7 +45,7 @@ The <code>relationType</code> property must be de-referenceable to an existing v
 
 ## Wikidata
 
-<p align="justify">Wikidata is a Linked Open Data project that also includes spatial data from various sources (see entry on Germania Sacra above). Wikidata can easily be queried via its own SPARQL service, but its data are often very fragmented. Spatial information on the Holy Roman Empire, for instance, cannot be systematically harvested via Wikidata alone, and future research efforts will be needed to improve the Wikidata database. For a critical analysis of Wikidata as a spatial data source, see Jan Macura's Czech-language thesis<a href="https://zenodo.org/records/55381">Comparison of Wikidata and DBpedia projects as spatial data sources</a>.</p>
+<p align="justify"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> is a Linked Open Data project that also includes spatial data from various sources (see entry on Germania Sacra above). Wikidata can easily be queried via its own SPARQL service, but its data are often very fragmented. Spatial information on the Holy Roman Empire, for instance, cannot be systematically harvested via Wikidata alone, and future research efforts will be needed to improve the Wikidata database. For a critical analysis of Wikidata as a spatial data source, see Jan Macura's Czech-language thesis <a href="https://zenodo.org/records/55381">Comparison of Wikidata and DBpedia projects as spatial data sources</a>.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
