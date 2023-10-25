@@ -26,9 +26,15 @@
     <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_en.html">5) Data replacement based on ontology lists</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/MAPPING_fr.html">5) Remplacement de données basé sur des listes d'ontologies</a><br><br></td>
   </tr>
-  <tr>
-    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_de.html">Projektbezogene Links</a></td>
-    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_en.html">Project-related links</a></td>
-    <td><img src="./links.png" alt="drawing" width="20" style="padding=10px"/><a href="https://ieg-dhr.github.io/DigiKAR/LINKS_fr.html">Liens relatifs au projet</a></td>
+    <tr>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CONSOLIDATION_de.html">6) Konsolidierung der Factoid-Tabellen im Arbeitspaket Mainz</a></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CONSOLIDATION_en.html">6) Consolidation of the factoid tables in the Mainz work package</a><br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CONSOLIDATION_fr.html">6) Consolidation des tables de factoids dans le package de travail Mainz</a><br><br></td>
   </tr>
+    <tr>
+    <td><a href="https://monikabarget.github.io/GeoHumTutorials/">7) Geocoding historischer Ortsdaten mit Google und Geonames</a></td>
+    <td><a href="https://monikabarget.github.io/GeoHumTutorials/">7) Geocoding historical location data with Google and Geonames</a><br><br></td>
+    <td><a href="https://monikabarget.github.io/GeoHumTutorials/">7) Géocodage de données historiques de lieux avec Google et Geonames</a><br><br></td>
+  </tr>
+ 
 </table> 
