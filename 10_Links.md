@@ -11,7 +11,7 @@
 
 <h3>Blogposts on work in progress</h3>
 
-<p align="justify">Blogposts (der Studierenden), die auf dem DH LAB Blog etc. erschienen sind, sollten hier zuerst genannt werden, da sie einen eigenen Fokus haben.</p>
+<p align="justify">Blogposts (by students) that have appeared on the DH LAB blog etc. should be mentioned here first, as they have their own focus.</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg" alt="drawing" width="150" style="padding:10px" align="left"/>
 <p>The following blog posts describes the application of some of our Python scripts in the "Kurmainz" work package:</p>
