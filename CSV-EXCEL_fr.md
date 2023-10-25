@@ -35,6 +35,8 @@ Le tri actuel est quadruple et commence par la classification des événements. 
 <h3>c) Traceur de relations:</h3>
 <p align="justify">
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_relationship-tracer.py">Version étendue : XSLX_relationship-tracer.py</a>
+  </p>
+<p align="justify">
 <strong>Cas d'utilisation:</strong>
 <ul>
 <li>Consolidation des informations généalogiques de la colonne rel_pers dans les listes de factoïdes</li>
