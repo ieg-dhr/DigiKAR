@@ -1,52 +1,43 @@
-1) Récupération de données à partir de plusieurs tableaux CSV/EXCEL
+<h2>1) Récupération de données à partir de plusieurs tableaux CSV/EXCEL</h2>
 
-a) Analyse simple des colonnes d'un tableau avec des étiquettes identiques à partir de plusieurs fichiers EXCEL :
+    <h3>a) Analyse simple des colonnes d'un tableau avec des étiquettes identiques à partir de plusieurs fichiers EXCEL:</h3>
+    <a href="./XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a>
 
-XLSX_analysing-multiple-files.py
+    Cas d'utilisation :
+    <ul>
+        <li>Identification de chronologies dans des ensembles de données</li>
+        <li>Comparaison de données</li>
+        <li>Nettoyage et normalisation des données</li>
+    </ul>
 
-Cas d'utilisation :
+    Exemple de sortie pour le script susmentionné :
+    <a href="./XLSX_multiple-files_sample-output.md">XLSX_multiple-files_sample-output.md</a>
 
-<ul>
-<li>Identification de chronologies dans des ensembles de données</li>
-<li>Comparaison de données</li>
-<li>Nettoyage et normalisation des données</li>
-</ul>
+    <h3>b) Script pour identifier les événements biographiques par personne et les trier par valeur d'événement et date:</h3>
+    <a href="./XLSX_select-and-sort-events.py">1ère version : XLSX_select-and-sort-events.py</a>
 
-Exemple de sortie pour le script susmentionné :
+    Cas d'utilisation :
+    <ul>
+        <li>Reconstruction expérimentale de chronologies biographiques dans les cas où beaucoup d'événements n'ont pas de datation ou une datation vague</li>
+        <li>Calcul de la chronologie possible d'un événement en fonction des événements précédents ou suivants</li>
+        <li>Fusion d'événements identiques / ajustement de la chronologie des événements sur la base d'informations provenant de sources différentes</li>
+    </ul>
 
-XLSX_multiple-files_sample-output.md
+    Le tri actuel est quadruple et commence par la classification des événements. Ceci peut être ajusté dans le code:
+    <code>res_sorted=res_df.sort_values(by =[ 'event_value', 'event_after-date', 'event_start', 'event_before-date',])</code>
 
-b) Script pour identifier les événements biographiques par personne et les trier par valeur d'événement et date :
+    <h3>c) Traceur de relations:</h3>
+    <a href="./XSLX_relationship-tracer.py">Version étendue : XSLX_relationship-tracer.py</a>
 
-1ère version : XLSX_select-and-sort-events.py
+    Cas d'utilisateurs :
+    <ul>
+        <li>Consolidation des informations généalogiques de la colonne rel_pers dans les listes de factoïdes</li>
+        <li>Reconstruction des relations entre frères et sœurs à partir des liens parents-enfants connus</li>
+        <li>Reconstruction de relations implicites grand-parent-petit-enfant</li>
+    </ul>
 
-Cas d'utilisation :
-
-<ul>
-<li>Reconstruction expérimentale de chronologies biographiques dans les cas où beaucoup d'événements n'ont pas de datation ou une datation vague</li>
-<li>Calcul de la chronologie possible d'un événement en fonction des événements précédents ou suivants</li>
-<li>Fusion d'événements identiques / ajustement de la chronologie des événements sur la base d'informations provenant de sources différentes</li>
-</ul>
-
-Le tri actuel est quadruple et commence par la classification des événements. Ceci peut être ajusté dans le code.
-
-res_sorted=res_df.sort_values(by =[ 'event_value', 'event_after-date', 'event_start', 'event_before-date',])
-
-c) Traceur de relations :
-
-Version étendue : XSLX_relationship-tracer.py
-
-Cas d'utilisateurs :
-
-<ul>
-<li>Consolidation des informations généalogiques de la colonne rel_pers dans les listes de factoïdes</li>
-<li>Reconstruction des relations entre frères et sœurs à partir des liens parents-enfants connus</li>
-<li>Reconstruction de relations implicites grand-parent-petit-enfant</li>
-</ul>
-
-d) Script avancé permettant d'interroger plusieurs colonnes sur plusieurs feuilles de calcul en fonction de la saisie de l'utilisateur :
-
-Interrogation des conditions OR : XSLX_multiple-conditions_OR.py
+    <h3>d) Script avancé permettant d'interroger plusieurs colonnes sur plusieurs feuilles de calcul en fonction de la saisie de l'utilisateur:</h3>
+    <a href="./XSLX_multiple-conditions_OR.py">Interrogation des conditions OR : XSLX_multiple-conditions_OR.py</a>
 
     Les fichiers du répertoire DigiKAR_DATEN\Python\InputLists sont lus dans un seul cadre de données.
 
@@ -60,10 +51,9 @@ Interrogation des conditions OR : XSLX_multiple-conditions_OR.py
 
     La gestion du temps prend en charge les entrées "YYYY" ainsi que "YYYY-MM" et "YYYY-MM-DD". En recherchant les dates avant et après la date d'entrée, les colonnes "avant" et "après" de la feuille de calcul originale sont prises en compte avec les dates de début et de fin.
 
-Cas d'utilisation :
-
-<ul>
-<li>Exemple pour créer des requêtes booléennes plus complexes sur plusieurs feuilles de calcul</li>
-<li>Adaptation à différents formats de feuilles de calcul</li>
-<li>Expérimentation de l'analyse syntaxique des données et des problèmes potentiels posés par les données modernes anciennes</li>
-</ul>
+    Cas d'utilisation :
+    <ul>
+        <li>Exemple pour créer des requêtes booléennes plus complexes sur plusieurs feuilles de calcul</li>
+        <li>Adaptation à différents formats de feuilles de calcul</li>
+        <li>Expérimentation de l'analyse syntaxique des données et des problèmes potentiels posés par les données modernes anciennes</li>
+    </ul>
