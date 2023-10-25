@@ -21,3 +21,11 @@ d) [TransferPROFData](https://github.com/ieg-dhr/DigiKAR/blob/main/JupyterNotebo
 - Splitting the information into "name", "information" and "source citation" columns
 - Further refinement of the entries by matching the "information" with ontology lists
 - Identification of event names, titles, functions, place names and dates
+
+<hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg" alt="drawing" width="150" style="padding:10px" align="left"/>
+The following blog post describes the application of some of the above-mentioned scripts in the "Kurmainz" work package:<br>
+<a href="https://insulae.hypotheses.org/333">Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021</a>
+
+<hr>
