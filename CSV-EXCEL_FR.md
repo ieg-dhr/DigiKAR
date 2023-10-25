@@ -6,9 +6,11 @@ XLSX_analysing-multiple-files.py
 
 Cas d'utilisation :
 
-    -identification de chonologies dans des ensembles de données
-    -comparaison de données
-    -nettoyage et normalisation des données
+<ul>
+<li>Identification de chronologies dans des ensembles de données</li>
+<li>Comparaison de données</li>
+<li>Nettoyage et normalisation des données</li>
+</ul>
 
 Exemple de sortie pour le script susmentionné :
 
@@ -20,9 +22,11 @@ b) Script pour identifier les événements biographiques par personne et les tri
 
 Cas d'utilisation :
 
-    - reconstruction expérimentale de chronologies biographiques dans les cas où beaucoup d'événements n'ont pas de datation ou une datation vague
-    - calcul de la chronologie possible d'un événement en fonction des événements précédents ou suivants
-    - fusion d'événements identiques / ajustement de la chronologie des événements sur la base d'informations provenant de sources différentes.
+<ul>
+<li>Reconstruction expérimentale de chronologies biographiques dans les cas où beaucoup d'événements n'ont pas de datation ou une datation vague</li>
+<li>Calcul de la chronologie possible d'un événement en fonction des événements précédents ou suivants</li>
+<li>Fusion d'événements identiques / ajustement de la chronologie des événements sur la base d'informations provenant de sources différentes</li>
+</ul>
 
 Le tri actuel est quadruple et commence par la classification des événements. Ceci peut être ajusté dans le code.
 
@@ -34,9 +38,11 @@ Version étendue : XSLX_relationship-tracer.py
 
 Cas d'utilisateurs :
 
-    - consolidation des informations généalogiques de la colonne rel_pers dans les listes de factoïdes
-    - reconstruction des relations entre frères et sœurs à partir des liens parents-enfants connus
-    - reconstruction de relations implicites grand-parent-petit-enfant
+<ul>
+<li>Consolidation des informations généalogiques de la colonne rel_pers dans les listes de factoïdes</li>
+<li>Reconstruction des relations entre frères et sœurs à partir des liens parents-enfants connus</li>
+<li>Reconstruction de relations implicites grand-parent-petit-enfant</li>
+</ul>
 
 d) Script avancé permettant d'interroger plusieurs colonnes sur plusieurs feuilles de calcul en fonction de la saisie de l'utilisateur :
 
@@ -56,6 +62,8 @@ Interrogation des conditions OR : XSLX_multiple-conditions_OR.py
 
 Cas d'utilisation :
 
-    - exemple pour créer des requêtes booléennes plus complexes sur plusieurs feuilles de calcul
-    - adaptation à différents formats de feuilles de calcul
-    - expérimentation de l'analyse syntaxique des données et des problèmes potentiels posés par les données modernes anciennes.
+<ul>
+<li>Exemple pour créer des requêtes booléennes plus complexes sur plusieurs feuilles de calcul</li>
+<li>Adaptation à différents formats de feuilles de calcul</li>
+<li>Expérimentation de l'analyse syntaxique des données et des problèmes potentiels posés par les données modernes anciennes</li>
+</ul>
