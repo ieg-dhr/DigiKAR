@@ -21,10 +21,10 @@
 <p>Pages 41-42 explain:</p>
 
 <blockquote>
-  <p align="justify">"The current owner of a knight's estate was not considered an individual owner in Saxon feudal law. Rather, the property belonged to a social association. This was either a gender, i.e. mainly continuity in father-son succession, or the group of a vassal and fellow vassal, possibly forming a 'familia' in the older pre-modern sense. (Flügel (2000. 54)"</p>
+  <p align="justify">"The current owner of a knight's estate was not considered an individual owner in Saxon feudal law. Rather, the property belonged to a social association. This was either a family, based mainly on continuity in father-son succession, or the group around a vassal and fellow vassal, possibly forming a 'familia' in the older pre-modern sense. (Flügel (2000. 54)"</p>
 </blockquote>
 
-<p align="justify">The current diversity of data leads to problems with data preparation and integration into a database structure. Ideally, each database field should contain a single type of data. Assigning several possible classes to data in one data column can cause issues with the long-term interoperability and reusability of the data. It is a challenge to structure diverse data in a way that makes different ontological classes immediately transparent.</p>
+<p align="justify">The current diversity of data in repositories that cover the early modern period leads to problems with data preparation and integration into a new database structure. Ideally, each database field should contain a single type of data. Assigning several possible classes to data in one data column can cause issues with the long-term interoperability and reusability of the data. It is a challenge to structure diverse data in a way that makes different ontological classes immediately transparent.</p>
 
 <p align="justify">If one database field in our own data model is used for differently granular information, this notation is possible:</p>
 <blockquote>
