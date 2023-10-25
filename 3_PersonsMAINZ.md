@@ -10,78 +10,69 @@ The challenges of working with (German and Latinised) person names in DigiKAR ha
 6) Show complete matches with all event info
 7) Search for similar names on user request
 
-To search for similarities, we calculated the name strings' Cosine Similarity, and specified, for example, that they must be at least 80% to consider a match. But if only 1st name and surname and once 10 first names of the person are given, the Similarity is far below that. If we assume that at least one last name is always present, and that it must be the last word in an n-gram, then one could match only the last names and introduce a spelling tolerance of 0.8?  Based on this, one can make a person ambiguation script that can put life events into relation.
+<p align="justify">To search for potentially identical names, we tried calculating the name strings' <a href="https://www.sciencedirect.com/topics/computer-science/cosine-similarity#:~:text=Cosine%20similarity%20measures%20the%20similarity,document%20similarity%20in%20text%20analysis.">Cosine Similarity</a>, and specified, for that it must be at least 80% to consider two strings a match. If only a person's 1st name, surname, and only one of several middle names per person are in one subset of our data, however, the string similarity is far below that threshold when the person's full name is present in another subset. If we assume that at least the family name is always present, and that it must be the last word in an n-gram, then one could begin with matching the last names to identify persons in one family, and then consider identifical first and middle names in a second step. If father and son have the same name and the year of birth is known for both, we can use additional person attributes to assess whether a study period in the year YYYY concerns the father or the son.</p>
 
-If father and son have the same name and the year of birth is known for both, then we can assess whether a study period in the year YYYY concerns the father or the son. But here I still have the question of whether we can assign unique norm names or whether we can only work with the IDs. In the latter case, they must also be included in the factoid list..... In the first case, we could normalise the factoid list regularly and work only with the names.
+<p align="justify">Combining automated string comparisons with manual checks, we have been able to create a person list with unique IDs and name variants as the basis for the data visualisations in our project. IDs from that person list are added to all our factoid lists so that our static and interactive map can be based on the IDs rather than the person names.</p>
 
 **Working with related persons**
 
-Quick update that the "Relationship Tracer" script is now almost finished. I still have a format problem with tuples at one point in the code, but I've already fixed it at Stackoverflow. 
+<p align="justify">A "Relationship Tracer" script helped us to identify family connections between persons based on a smaller number of known relationships (e.g. marriages and births) collected from our sources. In the first version of the script, there was an issue related to the format of tuples within the code, which has been successfully resolved with the assistance of the Stack Overflow community. The script's workflow can be described as follows:
+<ul>
+    <li>The script initiates a search for all parent relationships and subsequently assembles a group of siblings based on this information.</li>
+    <li>Following this, the script generates all potential sibling pairs from the list of children, including the individual themself. These pairings are then documented in an EXCEL file.</li>
+    <li>In a similar fashion, the script reconstructs relationships with grandparents.</li>
+</ul>
 
-Description of script workflow:
+<p align="justify">Per person, we aimed to record the following data:</p>
 
-- Script searches for all parent relationships and constructs the group of siblings from this.
-- Then the script creates all possible sibling pairs from the list of children (at the moment also with the person himself), which are then written accordingly in EXCEL.
-- Analogously, I reconstruct relationships with grandparents.
+<ul>
+  <li>Name</li>
+  <li>GND ID</li>
+  <li>Possibly other IDs?</li>
+  <li>Internal project ID of @fstabel</li>
+  <li>Father</li>
+  <li>Mother</li>
+  <li>Grandfather via mother</li>
+  <li>Grandmother via mother</li>
+  <li>Grandfather via father</li>
+  <li>Grandmother via father</li>
+  <li>All known siblings</li>
+</ul>
 
-I think these two levels are sufficient as EXPLICIT levels. Cousins etc. could be queried more easily via Ingo's DB.
+A test run of the script correctly identified the following men as brothers and the following women as sisters:
+<ul style="list-style-type: none;">
+  <li>1048 Karl Strecker sibling Alexander Bernhard Strecker unknown no info</li>
+  <li>1049 Alexander Bernhard Strecker sibling Karl Strecker unknown no info</li>
+  <li>1050 Karl Strecker sibling Karl Friedrich Strecker unknown no info</li>
+  <li>1051 Karl Friedrich Strecker sibling Karl Strecker unknown no info</li>
+  <li>1052 Karl Strecker sibling Ernst Wilhelm Strecker unknown no info</li>
+  <li>1053 Ernst Wilhelm Strecker sibling Karl Strecker unknown no info</li>
+  <li>1054 Alexander Bernhard Strecker sibling Karl Friedrich Strecker unknown no info</li>
+  <li>1055 Karl Friedrich Strecker sibling Alexander Bernhard Strecker unknown no info</li>
+  <li>1056 Alexander Bernhard Strecker sibling Ernst Wilhelm Strecker unknown no info</li>
+  <li>1057 Ernst Wilhelm Strecker sibling Alexander Bernhard Strecker unknown no info</li>
+  <li>1058 Karl Friedrich Strecker sibling Ernst Wilhelm Strecker unknown no info</li>
+  <li>1059 Ernst Wilhelm Strecker sibling Karl Friedrich Strecker unknown no info</li>
+  <li>1060 Joachim Andreas Meyer sibling Johann Andreas Meyer unknown no info</li>
+</ul>
 
-If you have time, you could check if these gentlemen are really brothers:
+<ul style="list-style-type: none;">
+  <li>1089 Maria Josepha Rotermund sibling Theresia Rotermund unknown no info</li>
+  <li>1090 Theresia Rotermund sibling Maria Josepha Rotermund unknown no info</li>
+  <li>1091 Maria Josepha Rotermund sibling Sophia Josepha Rotermund unknown no info</li>
+  <li>1092 Sophia Josepha Rotermund sibling Maria Josepha Rotermund unknown no info</li>
+  <li>1093 Theresia Rotermund sibling Sophia Josepha Rotermund unknown no info</li>
+  <li>1094 Sophia Josepha Rotermund sibling Theresia Rotermund unknown no info</li>
+  <li>1095 Susanna Christina Weltz sibling Friederike Eleonore Weltz unknown no info</li>
+  <li>1096 Friederike Eleonore Weltz sibling Susanna Christina Weltz unknown no info</li>
+</ul>
 
-1048	Karl Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
-1049	Alexander Bernhard Strecker	sibling	Karl Strecker	unknown	no info
-1050	Karl Strecker	sibling	Karl Friedrich Strecker	unknown	no info
-1051	Karl Friedrich Strecker	sibling	Karl Strecker	unknown	no info
-1052	Karl Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
-1053	Ernst Wilhelm Strecker	sibling	Karl Strecker	unknown	no info
-1054	Alexander Bernhard Strecker	sibling	Karl Friedrich Strecker	unknown	no info
-1055	Karl Friedrich Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
-1056	Alexander Bernhard Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
-1057	Ernst Wilhelm Strecker	sibling	Alexander Bernhard Strecker	unknown	no info
-1058	Karl Friedrich Strecker	sibling	Ernst Wilhelm Strecker	unknown	no info
-1059	Ernst Wilhelm Strecker	sibling	Karl Friedrich Strecker	unknown	no info
-1060	Joachim Andreas Meyer	sibling	Johann Andreas Meyer	unknown	no info
-
-REVIEW: Yes, the raw data indicate that these people were brothers. I am a little surprised, however, because these relationships are also very certain about the Streckers, based on the research literature. But the two Meyers make me suspicious. This is one of those cases where the identification of the person is not quite clear. There are far worse cases in the Erfurt data. Definitely not all assignments made by ID are correct. Here it would be necessary to look at the data as a whole. In case of doubt, two different persons must be assumed. And probably the calculation of relationships only makes sense after such an adjustment? Conversely, it would be helpful for the overview to have the relationships explicitly...(Btw: having siblings explicitly is not so decisive for our question (see below)).
-
-Here are a few more sisters to test:
-
-1089	Maria Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
-1090	Theresia Rotermund	sibling	Maria Josepha Rotermund	unknown	no info
-1091	Maria Josepha Rotermund	sibling	Sophia Josepha Rotermund	unknown	no info
-1092	Sophia Josepha Rotermund	sibling	Maria Josepha Rotermund	unknown	no info
-1093	Theresia Rotermund	sibling	Sophia Josepha Rotermund	unknown	no info
-1094	Sophia Josepha Rotermund	sibling	Theresia Rotermund	unknown	no info
-1095	Susanna Christina Weltz	sibling	Friederike Eleonore Weltz	unknown	no info
-1096	Friederike Eleonore Weltz	sibling	Susanna Christina Weltz	unknown	no info
-
-REVIEW: https://mattermost.gitlab.rlp.net/digikar/pl/tew65cssu7ysbrzqk5f93id1oh Auch bei den Schwestern passt das von den Rohdaten her.
-Zwischenfazit: Das Skript scheint mir zu funktionieren.
+The relationship between the Streckers is also confirmed in research literature. The two Meyers, however, may have been misidentified in the initial dataset. This is one of those cases where the identification of the person is not quite clear. There are far worse cases in the Erfurt data. Definitely not all assignments made by ID are correct. Here it would be necessary to look at the data as a whole. In case of doubt, two different persons must be assumed. And probably the calculation of relationships only makes sense after such an adjustment? Conversely, it would be helpful for the overview to have the relationships explicitly... having siblings explicitly is not so decisive for our question (see below)). More distant relations, such as cousins, can be retrieved through more complex dataqueries.
 
 Unfortunately, I cannot distinguish sisters and brothers without massive additional effort, but the sex should then be recorded individually for each person anyway.
-The current kinship reconstruction for the Erfurt probe (test file as of April!) is in \Seafile\DigiKAR_DATEN\Python\Results and is called "Parents-and-siblings": here, both Rel_Pers relationships are made explicit and new relationships (parents and siblings!) are calculated. I integrate the grandparents when I have stackoverflow feedback. If parents and siblings are correctly recorded, we can later run the script over any number of Factoid lists at the same time in order to generate information for the lists of persons in the database.
-
-**Per person, we should aim to record the following data:**
-
-Name
-GND ID
-possibly other IDs?
-internal project ID of @fstabel
-Father
-Mother
-Grandfather via mother
-Grandmother via Mother
-Grandfather via father
-Grandmother via father
-all known siblings
+The current kinship reconstruction for the Erfurt probe (created in April 2022) is called "Parents-and-siblings". Here, both Rel_Pers relationships are made explicit and new relationships (parents and siblings!) are calculated. I integrate the grandparents when I have stackoverflow feedback. If parents and siblings are correctly recorded, we can later run the script over any number of Factoid lists at the same time in order to generate information for the lists of persons in the database.
 
 The entries/rows with 'parent' or 'sibling' in the column 'Rel_type' are calculated -- the others ('wife' or also something like 'instructor', 'godfather', etc.) are predefined relationship types. I got the German columns out of "Rel_Pers" and inverted them. That is, to have the other side of the relationship as well. The English columns are purely calculated, yes.
-
-Do you write the ID of the person (name in column 'Person') in the Excel file Parents-and-siblings.xlsx? I would do that in the final person file. Doesn't make much sense in the relationship table. Especially as Florian has to correct some of it, as far as I know. Hm, it seems that the persons (the Erfurt ones) can also be identified by their unique names!?
-
-Yes, to a large extent. We need ID mapping, of course. But we should do that when we have read in all the probes at the same time and can then find duplicate names if necessary. Florian had already started an ID list, I would combine it with that...
-
-I have solved the tuple problem.
 
 Request @fstabel : in \Seafile\DigiKAR_DATEN\Python\Results there is now also a file "GRANDPARENTS_GRANDCHILDREN", where at the end various grandparent relationships from the Erfurt sample are now recorded. Where it says "grandchild" directly, there was a known grandparent relationship. Where it says "grandparent-gandchild", I have calculated, so I am not sure whether these are grandparents, grandchildren or even both types of relationships. I need feedback on what happened so that I can make it clear or improve it in the script.
 
@@ -93,19 +84,19 @@ But what we should look at in Leipzig: Effects of the person data on Ingo's mode
 
 Also cf. preliminary data models on Metaphacts: http://65.21.245.157:10214/resource/:EntwurfsmusterAP3 und http://65.21.245.157:10214/resource/:EntwurfsmusterAP2
 
-FEEDBACK FLORIAN:
+Florian reported that grandparent relationships were checked and commented upon in a file named "GRANDPARENTS_GRANDCHILDREN_FS.xlsx." He mentioned encountering cases where individuals shared the same name but indicated that he could disambiguate them and assign different IDs. Florian raised the question of whether the script could potentially indicate the lineage (maternal or paternal) through which the relationship was established. He noted that, based on his observation, there were inconsistencies in the current list, specifically in the numbering of the rows that did not align with the previously posted numbers. Additionally, Florian observed that the IDs he assigned were sporadically included, emphasizing their importance for orientation.
 
-Großelternbeziehungen gecheckt und kommentiert, siehe "GRANDPARENTS_GRANDCHILDREN_FS.xlsx" a.a.O. (Hier sind mir Fälle vor Augen getreten, bei denen wir namensgleiche Personen haben, die ich aber schon jetzt disambiuieren kann und verschiedene IDs vergeben habe. Das erscheint mir relevant, weil es problematisch sein könnte, wenn das Skript v.a. über die Namensstrings arbeitet (?).) Wäre es auch möglich, dass das Skript ausgibt, über welche Schiene (mütterlicher- oder väterlicherseits) die Beziehung hergestellt wurde? Soweit ich das sehe, sind in der aktuellen Liste die Zeilen etwas verrutscht (jedenfalls stimmen die Nummern der Liste nicht mit denen von dir oben geposteten überein). Und es wurden die von mir vergebenen IDs nur sporadisch ausgegeben? IDs wären aber zur Orientierung hilfreich!
+In a cursory examination, Florian noticed that not all relationships were inverted, and he provided Jost Brochhausen as an example. Florian also mentioned that the existing inverses were explicitly available in the raw data. Furthermore, he highlighted cases in the first list that featured an empty relationship column or contained meaningless information, marking these instances in yellow within the "Parents-and-siblings_fs.xlsx" list located in the output folder. Florian speculated that typographical errors might be responsible for such occurrences, and he suggested the inclusion of the source factoid's ID, especially in cases of deleted duplicate information. Additionally, Florian marked other instances where certain relation types were used infrequently (likely to become irrelevant in the future) and also marked typographical errors in orange.
 
-Bei einem kursorischen Check ist mir außerdem aufgefallen, dass nicht alle (?) Beziehungen auch invertiert wurden. Exemplarische habe ich dir mal Jost Brochhausen markiert. Die Inversen, die vorliegen, sind auch in den Rohdaten explizit. Ich habe in der ersten Liste außerdem Fälle mit leerer Beziehungsspalte oder sinnlosen Angaben entdeckt. Du findest sie in der Liste "Parents-and-siblings_fs.xlsx" in deinem Output-Ordner gelb markiert. Ich nehme an, dass sich dahinter Tippfehler verbergen. Für sowas wäre es generell hilfreich, immer die ID des Quellenfactoids mit reinzuschreiben (ggf. mehrere, bei gelöschten doppelten Informationen?). Weitere Fälle mit nur sporadisch verwendeten (wahrscheinlich künftig irrelevanten relations-types sowie Tippefehler habe ich ebenfalls (orange) markiert.
+Regarding gender information, Florian expressed willingness to add an additional column with explicit gender details if necessary, indicating its potential usefulness for specific queries.
 
-Bzgl. Geschlecht kann ich jederzeit mit relativ kleinem Aufwand auch eine extra-Spalte mit expliziter Info einfügen, falls wir das brauchen. Für manche Abfragen könnte das durchaus hilfreich sein (s.u.).
-
-Allgemein stellt sich mir hinsichtlich der Personenbeziehungen auch die Frage, wann und wie wir den "Datenmüll" wieder rauswerfen/nicht abfragen (?). In der Liste sind ja durchaus Personen, die uns nicht (mehr) interessieren oder die nur als Bindeglied (insb. die Frauen) von Interesse sind. Die Kernidee war ja, grundsätzlich einen kleinen Personenkreis von Regierungs- und Kammerräten (im Erfurter Fall) in den Mittelpunkt zu stellen und für diese zusätzlich zu gucken, welche Lebensstationen die Väter, Schwieger- und Großväter sowie Schwiegersöhne und Söhne aufwiesen, um generationenübergreifende Muster zu explorieren. Ich sehe aber zunehmend, dass das aufgrund des exponentiell wachsenden Recherchebedarfs so nicht zu leisten sein wird und wir uns mit dieser Fragestellung evtl. auf Jahns beschränken (wo wir die Daten quasi "fertig recherchiert") vorliegen haben und "nur noch" erfassen müssen. So oder so, bedarf es einer Möglichkeit, die "pois" herauszufiltern und automatische Berechnungen auf bestimmte Personen zu beschränken, um den Kontrollbedarf zu minimieren!? Und auch das Datenmodell sollte nicht nur dir Großväter, Väter und Söhne, sondern auch die Schwiegersöhne und Schiwegerväter abdecken!
+Florian also raised a broader question regarding when and how to handle the removal or exclusion of "data clutter" and individuals who are no longer of interest or serve solely as intermediaries in our project, particularly in the case of women. Florian clarified that the initial objective was to focus on a select group of government and council members, specifically in the Erfurt case. The aim was to explore intergenerational patterns by examining the life stages of fathers, fathers-in-law, grandfathers, sons-in-law, and sons. Florian, however, expressed concerns about the feasibility of this approach due to the escalating research demands. He suggested a possible limitation of this inquiry to Jahns, where the data had already been "researched" and only required capture. Florian underscored the importance of implementing a mechanism to filter out persons of interest and restrict automatic calculations to specific individuals, thus minimizing the oversight needed. Florian also emphasized the need to expand the data model to encompass not only grandfathers, fathers, and sons but also sons-in-law and fathers-in-law.
 
 **Preliminary overview of persons in the data and number of (initial) events associated with them**
 
 So far, we have collected **48497 rows of events** (excluding reconstructed information). These events relate to **2566 person names** (prior to normalisation, disambiguation and ID-assignment). The majority of persons have less than 10 recorded biographic events. For some individuals, we have more than 100 entries (resulting from repeated mentions in annual lists of office holders).
+
+
 
 |index|pers\_name|frequency|
 |---|---|---|
