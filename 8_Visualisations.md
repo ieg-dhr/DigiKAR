@@ -43,14 +43,14 @@ The DigiKAR pilot project "<a href="https://teaching-dhlab.pages.gitlab.rlp.net/
 All in all, the process of creating visualizations such as maps for historical research projects is like an iceberg. The visual output is only the uppermost part. Also, historians cannot rely on just one tool or methodology. Sources must constantly be analyzed in comparison with others, including sources of entirely different genres. This also requires seeing abstract structures in text and reading historic maps as narratives. Visualizations we create are hardly ever final but reflect work in progress. This is why the DigiKAR project shares data tables, scripts and exemplary visualizations on GITHUB where they can be easily updated and versioned. At the same time, we want our data to be inter-operable and open for re-use, which is why we apply established data models whenever possible. Beyond the specific research questions of the DigiKAR project, we intend our data modelling and visualization efforts to serve as samples for similar humanities projects. As explained in this presentation, our maps are not primarily research output but flexible tools of exploration. Moreover, experienced historians, as well as students and interns, benefit from making maps themselves as it challenges them to name uncertainties and ambiguities in their research data.
 </p>
 
-## What data are being visualised in DigiKAR?
+<h3>What data are being visualised in DigiKAR?</h3>
 
 The data that we visualise in DigiKAR is -- similar to many other historical projects -- highly fragmented and come from various sources. 
 First of all, we work with spatial data extracted from textual (narrative) early modern sources (both in the form of archival manuscripts and printed books). 
 Secondly, we work with spatial data extracted from early modern maps (using OCR technology for identifying place names). 
 Thirdly, we are re-using historical spatial data originally gathered by historians in previous decades (some of which have already been digitised and made available via APIs).
 
-<strong>The WORKFLOW in our project includes 6 main steps:</strong>
+<strong>The workflow in our project includes 6 main steps:</strong>
 <ul>
  	<li>semi-automated data collection in spreadsheets (using Python for web-scraping)</li>
  	<li>semi-automated data normalisation and data cleaning</li>
@@ -60,20 +60,19 @@ Thirdly, we are re-using historical spatial data originally gathered by historia
  	<li>advanced data queries and advanced visualisations created by the cartography team at <a href="https://leibniz-ifl.de/">IfL Leipzig</a></li>
 </ul>
 
-## (Automated) geocoding
+<h3>(Automated) geocoding</h3>
 
-[Link Monika's blogpost here!]
+<p align="justify">[Link Monika's blogpost here!]</p>
 
-## What do we consider "base maps"?
+<h3>What do we consider "base maps"?</h3>
 
-The DigiKAR team have given a lot of thought to the basemaps used for the sample visualisations. While modern maps including infrastructures and major settlements generally offer users the best spatial orientation, those maps raise
-many problems from a historiographical perspective. Our final decision is to work with a simple geographical map on which we project some of the most important early modern cities as the standard base map.
-We deliberately avoid topographic maps that include additional geological information on heights and distances.
-Other maps are then used as optional backgrounds, including georeferenced versions of research maps of the Holy Roman Empire and its territories.
+<p align="justify">The DigiKAR team have given a lot of thought to the basemaps used for the sample visualisations. While modern maps including infrastructures and major settlements generally offer users the best spatial orientation, those maps raise
+many problems from a historiographical perspective. Our final decision is to work with a simple geographical map on which we project some of the most important early modern cities as the standard base map. We deliberately avoid topographic maps that include additional geological information on heights and distances.
+Other maps are then used as optional backgrounds, including georeferenced versions of research maps of the Holy Roman Empire and its territories.</p>
 
-## Interpolating "territories" as Voronoi polygones
+<h3>Interpolating "territories" as Voronoi polygones</h3>
 
-[ADD TEXT]
+<p align="justify">[ADD TEXT]</p>
 
 <h3>Further information</h3>
 <p align="justify">
