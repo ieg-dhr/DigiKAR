@@ -2,13 +2,13 @@
 
 <h3>Structuring space through complex legal affiliations</h3>
 
-<a align="justify">Summary of what the Saxony work package does and why this is important...</p>
+<a align="justify">ADD: summary of what the Saxony work package does and why this is important...</p>
 
 <p align="justify">Also, finding an overarching definition of early modern <strong>"Landesherrschaft"</strong> is difficult. Researchers have focused on military organization, imperial taxation, and certain offices or legal instruments as key elements, but they remain contested.</p>
 
 <h3>Data collection</h3>
 
-<a align="justify">From what sources and in which formats does the work package collect data?</p>
+<a align="justify">ADD: from what sources and in which formats does the work package collect data?</p>
 
 <h3>Challenges of divergent data structures</h3>
 
