@@ -39,21 +39,18 @@ The <code>relationType</code> property must be de-referenceable to an existing v
 
 ## Data services provided by the German federal states (e.g. LAGIS and LeoBW)
 
-<p align="justify"></p>
-
+<p align="justify">The different federal states in Germany also maintain their own data services, many of which include historical spatial data. Examples are the <a href="https://www.lagis-hessen.de/en">Hessian Regional History Information System (LAGIS)</a> and the <a href="">Regional History Information System Baden-Württemberg (LEO-BW)</a>. LEO-BW provides a comprehensive exploration of southwestern Germany, offering insights into the region, its inhabitants, culture, and history. The information in LEO-BW is categorized into sections covering People, Places, Objects, Themes, and Highlights. For all locations in Baden-Württemberg, LEO-BW offers fundamental spatial information along with visual materials. Additionally, LEO-BW encompasses a wide range of objects from archival materials to photographs, maps, posters, and videos. LEO-BW shares similar functionality and objectives with LAGIS and similar federal services.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
 ## Wikidata
 
-<p align="justify"></p>
-
+<p align="justify">Wikidata is a Linked Open Data project that also includes spatial data from various sources (see entry on Germania Sacra above). Wikidata can easily be queried via its own SPARQL service, but its data are often very fragmented. Spatial information on the Holy Roman Empire, for instance, cannot be systematically harvested via Wikidata alone, and future research efforts will be needed to improve the Wikidata database. For a critical analysis of Wikidata as a spatial data source, see Jan Macura's Czech-language thesis<a href="https://zenodo.org/records/55381">Comparison of Wikidata and DBpedia projects as spatial data sources</a>.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
 # Geonames
 
-<p align="justify"></p>
+<p align="justify">Geonames is one of the most commonly used Gazetteers and also offers a geocoding API. Similar to the the Getty Thesaurus of Geographic Names, Geonames offers "some level of data curation, nominally global coverage, but limited explicit information with respect to data quality". (Elise Acheson, Stefano De Sabbata, Ross S. Purves, <a href="https://doi.org/10.1016/j.compenvurbsys.2017.03.007">A quantitative analysis of global gazetteers: Patterns of coverage for common feature types</a>, in: Computers, Environment and Urban Systems, Volume 64, 2017, p. 309-320, ISSN 0198-9715.</p>
 
-
-<p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
+<p align="justify">In the DigiKAR project, we mainly use Geonames for geocoding place names in comparison with the Google API. Geocoding results for historical place names often require manual correction. For more information, visit the tutorial <a href="https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingGEONAMES">Geocoding with the Geonames API in Python</a>.</p>
