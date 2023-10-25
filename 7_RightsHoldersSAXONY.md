@@ -8,7 +8,7 @@
 
 <h3>Data collection</h3>
 
-<a align="justify">ADD: from what sources and in which formats does the work package collect data?</p>
+<a align="justify">ADD: from what sources and in which formats does the work package collect data: link to "Datenverfügbarkeitsstudie"?</p>
 
 <h3>Challenges of divergent data structures</h3>
 
