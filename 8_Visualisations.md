@@ -42,6 +42,6 @@ The DigiKAR pilot project "<a href="https://teaching-dhlab.pages.gitlab.rlp.net/
 
 <h3>Further information</h3>
 <p align="justify">
-If you want to find out more about DigiKAR, you are welcome to visit <a href="https://digikar.eu/">our website</a>. Questions can be addressed to <a href="mailto:digikar@ieg-mainz.de">digikar@ieg-mainz.de</a>. My colleague Constanze Buyken will be happy to respond.
+If you want to find out more about DigiKAR, you are welcome to visit <a href="https://digikar.eu/">our website</a>. Questions can be addressed to <a href="mailto:digikar@ieg-mainz.de">digikar@ieg-mainz.de</a>. Project manager Constanze Buyken will be happy to respond.
 You are also welcome to download the full conference presentation containing the displayed slides: <a href="https://insulae.hypotheses.org/files/2022/08/Blog_VisualizationAsExploration.pdf">Blog_VisualizationAsExploration</a>
 </p>
