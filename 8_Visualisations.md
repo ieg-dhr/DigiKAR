@@ -16,9 +16,8 @@ The <a href="https://digikar.eu/">DigiKAR geo-humanities project</a> (<strong>Di
 <p align="justify">
 Bringing together interdisciplinary researchers as well as heritage professionals and students, the DigiKAR project uses maps for high-level data evaluation, data cleaning, a critical reflection on our own research biases, and as tools to highlight developments and alternative views of our data. At a later stage, more elaborate visualizations as tools of science communication will follow.
 </p>
-
-<p align="justify">
 <img class="wp-image-638 alignleft" src="https://insulae.hypotheses.org/files/2022/08/5-300x169.jpg" alt="slide with map" width="351" height="198" align="left" target="_blank">
+<p align="justify">
 The image gives an example of a static map created for DigiKAR: In this map, lines are connecting early modern migrants' places of birth with places where birth or apprenticeship letters were issued. These letters are the early modern versions of passports and other certificates. The spatial data behind this map came from early modern manuscript records kept at the City Archives in Mainz, Germany.
 </p>
 
