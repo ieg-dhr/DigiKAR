@@ -145,9 +145,8 @@ The 1755 Staatskalender data will not be used in the current project phase.
 
 d) **Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR)**:
 
-The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**.
-After the reconstruction of additional events, 2412 rows were added. This combined data frame has **11428 entries**.
+The archival transcripts of the <a href="https://genwiki.genealogy.net/Johannes_Gutenberg-Universit%C3%A4t_Mainz/Matrikel">Mainz university registers ("Universitätsmatrikeln")</a> written with typewriter in the 20th century are easier to read with OCR technology, and mis-interpretations of German special characters ("Umlaute") can be cleaned automatically. This is why we have decided to work on them first. After reading the PDF files provided by the archive to <code>.txt</code> format, we have performed some basic pre-processing to correct OCR errors and to introduce the #NAME and #SOURCE delimiters to separate person name and source citations (at the end of each entry) from the biographic information given. The biographic information is mostly structured with semi-colons between events, which we can thus read as individual items of a list with Python. Moreover, the transcripts of the university registers contain hints to people that might be identical with others, using <code>„ein …“</code>, <code>„—ein“</code>, <code>„—Ein“</code>, <code>„. Ein“</code> or <code>„. ein“</code> to denote this additional information. Reading the registers with Python, the #IDENTITY separator is thus needed as well.
 
-The merging of duplicate events reduces that number to **9323**.
+All scripts I have used to split <code>.txt</code> files by several delimiters (including sequences of uppercase letters) have been published in the <a href="https://github.com/ieg-dhr/DigiKAR">DigiKAR Github repository</a>. The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**. After the reconstruction of additional events, 2412 rows were added. This combined data frame has **11428 entries**. The merging of duplicate events reduces that number to **9323**.
 
 <img src="https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png" width="650" align="left"/>
