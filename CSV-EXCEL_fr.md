@@ -3,6 +3,8 @@
 <h3>a) Analyse simple des colonnes d'un tableau avec des étiquettes identiques à partir de plusieurs fichiers EXCEL:</h3>
 <p align="justify">
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a>
+</p>
+<p align="justify">
 <strong>Cas d'utilisation:</strong>
 <ul>
 <li>Identification de chronologies dans des ensembles de données</li>
@@ -17,6 +19,8 @@ Exemple de sortie pour le script susmentionné :
 <h3>b) Script pour identifier les événements biographiques par personne et les trier par valeur d'événement et date:</h3>
 <p align="justify">
 <a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py">1ère version : XLSX_select-and-sort-events.py</a>
+  </p>
+<p align="justify">
 <strong>Cas d'utilisation:</strong>
 <ul>
 <li>Reconstruction expérimentale de chronologies biographiques dans les cas où beaucoup d'événements n'ont pas de datation ou une datation vague</li>
