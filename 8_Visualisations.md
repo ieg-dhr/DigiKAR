@@ -6,7 +6,7 @@
 The <a href="https://digikar.eu/">DigiKAR geo-humanities project</a> (<strong>Digital Map Lap Holy Roman Empire</strong>) is an interdisciplinary and international project led by the Institute of European History in Mainz and funded by the German Leibniz Association from 2021 to 2024. It questions established visual representations of a historical space whose legal and political complexity is only insufficiently captured through polygons and line-oriented maps with narrow thematic foci. As a fractured yet interwoven territory, the Holy Roman Empire and its individual, often overlapping or contested regions require multi-modal and multi-perspective visualizations. By proto-typically tracing human, material, and ideational border-crossings and competing spatial conceptions, the project addresses the central challenges of both traditional imperial historiography and digital historical research.
 </p>
 
-<p align=""justify">One primary focus of DigiKAR is to understand data visualisations as both explorational and educational tools. Our approach to (geo)visualisations is marked by the following four statements:</p>
+<p align="justify">One primary focus of DigiKAR is to understand data visualisations as both explorational and educational tools. Our approach to (geo)visualisations is marked by the following four statements:</p>
 <ul>
 <li>Visualisations (in the plural), not ONE visualisation!</li>
 <li>Visualisations not at the end of a project, but throughout!</li>
