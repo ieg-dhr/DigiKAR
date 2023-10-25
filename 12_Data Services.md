@@ -33,7 +33,7 @@ The <code>relationType</code> property must be de-referenceable to an existing v
 
 ## Germania Sacra
 
-<p align="justify"></p>
+<p align="justify"><a href="http://personendatenbank.germania-sacra.de/">Germania Sacra</a> is an Online-Portal that permits users to search a constantly growing databases of clerics and monasteries, convents and collegiate churches of the Holy Roman Empire. The focus is on biographical data and the history of institutions. The Germania Sacra team also contribute data to <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a>. Moreover, the database entries are linked to the project’s many monographs. Digitised versions of these publications are freely available.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
