@@ -2,7 +2,7 @@
 
 <h3>Structuring space through complex legal affiliations</h3>
 
-<a align="justify">ADD: summary of what the Saxony work package does and why this is important...</p>
+<a align="justify">The Saxony work package in DigiKAR focuses on the structuring of early modern space through the complex legal affiliations of individual landmarks (e.g. bridges and mills), non-inhabited areas (e.g. forests), settlements and individual estates within settlements. ADD: summary of what the Saxony work package does and why this is important...</p>
 
 <p align="justify">Also, finding an overarching definition of early modern <strong>"Landesherrschaft"</strong> is difficult. Researchers have focused on military organization, imperial taxation, and certain offices or legal instruments as key elements, but they remain contested.</p>
 
@@ -12,7 +12,7 @@
 
 <h3>Challenges of divergent data structures</h3>
 
-<p align="justify">In the course of normalizing the HOV and RepSax database entries, we encountered, among other things, an inconsistent recording of the rights holders, especially regarding the so-called <strong>"Grundherrschaft"</strong> in the manorial system. Right holders are sometimes indicated as individuals, but the family seat is mentioned in other cases.</p>
+<p align="justify">In the course of normalizing database entries which we could import from the historical gazetteers <a href="https://hov.isgv.de/">HOV</a> and <a href="https://repsax.isgv.de/">RepSax</a>, we encountered, among other things, an inconsistent recording of the rights holders, especially regarding the so-called <strong>"Grundherrschaft"</strong> in the manorial system. Right holders are sometimes indicated as individuals, but the family seat is mentioned in other cases.</p>
 
 <p align="justify">In the <strong>Repertorium Saxonicum (RepSax)</strong>, for instance, we find the variants "von Taupaddel" and "Heinrich von Taupaddel" - the former being an instance of the class 'family,' the latter an instance of the class 'person.' In <strong>HOV</strong>, editors often entered non-person entities like "Rittergut Schleinitz" for data simplification.</p>
 
