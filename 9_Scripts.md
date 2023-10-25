@@ -4,7 +4,7 @@
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_de.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_en.html">1) Data retrieval from several CSV/EXCEL tables</a><br><br></td>
-    <td>1) Récupération de données à partir de plusieurs tableaux CSV/EXCEL: veuillez consulter la version allemande ou anglaise<br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_fr.html">1) Récupération de données à partir de plusieurs tableaux CSV/EXCEL<br><br></td>
   </tr>
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/TXT_de.html">2) Extrahieren strukturierter Informationen aus TXT Dateien</a><br><br></td>
@@ -14,7 +14,7 @@
    <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/XML_de.html">3) Auslesen von Daten aus HTML und XML (via API)</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/XML_en.html">3) Reading data from HTML and XML (via API)</a><br><br></td>
-    <td>3) Lecture de données à partir de HTML et XML (via API): veuillez consulter la version allemande ou anglaise<br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/XML_fr.html">3) Lecture de données à partir de HTML et XML (via API): veuillez consulter la version allemande ou anglaise<br><br></td>
   </tr>
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/WHG_de.html">4) Aufbereitung von Ortsdaten für den World Historical Gazetteer</a></td>
