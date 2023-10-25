@@ -9,7 +9,7 @@
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/TXT_de.html">2) Extrahieren strukturierter Informationen aus TXT Dateien</a><br><br></td>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/TXT_en.html">2) Extracting structured information from TXT files</a><br><br></td>
-    <td>2) Extraction d'informations structurées à partir de fichiers TXT: veuillez consulter la version allemande ou anglaise<br><br></td>
+    <td><a href="https://ieg-dhr.github.io/DigiKAR/TXT_fr.html">2) Extraction d'informations structurées à partir de fichiers TXT<br><br></td>
   </tr>
    <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/XML_de.html">3) Auslesen von Daten aus HTML und XML (via API)</a><br><br></td>
