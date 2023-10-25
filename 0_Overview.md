@@ -8,6 +8,6 @@
 <a href="https://ieg-dhr.github.io/DigiKAR/8_Visualisations.html">Data visualisations in DigiKAR</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/9_Scripts.html">Scripts for data collection, data analysis and data cleaning</a><br><br>
 <a href="https://ieg-dhr.github.io/DigiKAR/10_Links.html">Links to DigiKAR output</a><br><br>
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/11_Tools.html">Recommended tools</a><br><br>
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/gh-pages/12_DataServices.html">Data services</a><br><br>
+<a href="https://ieg-dhr.github.io/11_Tools.html">Recommended tools</a><br><br>
+<a href="https://ieg-dhr.github.io/12_DataServices.html">Data services</a><br><br>
 <hr>
