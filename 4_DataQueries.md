@@ -1,6 +1,6 @@
 # Data Queries
 
-Data queries in DigiKAR are inherently driven by historical research questions specific to our two work packages. Based on user stories and a thorough requirements analysis conducted by work package 4 "Data Modelling", Ingo Frank (IOS Regensburg) has developed sample SPARQL queries that reflect some of our research goals.
+Data queries in DigiKAR are inherently driven by historical research questions specific to our two work packages. Based on user stories and a thorough requirements analysis conducted by work package 4 "Data Modelling", Ingo Frank (IOS Regensburg) has developed sample SPARQL queries that reflect some of our research goals. A complete German-language documentation of our competency questions and user stories is available in <a href="https://ieg-dhr.github.io/DigiKAR-Competency-Questions/">a separate Github repository</a>.
 
 In work package 3, which has a focus on biographies and human mobility, we are, inter alia, interested in the following aspects of our data:
 
