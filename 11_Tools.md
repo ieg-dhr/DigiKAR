@@ -2,28 +2,50 @@
 
 <h2>Tools for data queries</h2>
 <ul>
-<li><a href="https://github.com/hassanhajj910/practicalsparql">PracticalSPARQL for integrating SPARQL-queries in Jupyter Notebooks</a><br>GitHub - hassanhajj910/practicalsparql: "package to provide easy interface with sparql, built on top of sparqlwrapperpackage to provide easy interface with sparql, built on top of sparqlwrapper - GitHub - hassanhajj910/practicalsparql: package to provide easy interface with sparql, built on top of sparqlwrapper." Die Abfragen liegen dann praktischerweise in einzelnen Dateien in einem Ordner 'queries'. -- Kommt aufs GitLab.</li>
-<li><a href="https://chpollin.github.io/GM-DH/">ChatGPT for the Digital Humanities: see workshop series on prompt engineering</a></li>
+<li>
+<a href="https://github.com/hassanhajj910/practicalsparql">PracticalSPARQL for integrating SPARQL-queries in Jupyter Notebooks:</a><br>
+PracticalSPARQL is a package that facilitates the integration of SPARQL queries directly into Jupyter Notebooks. It simplifies querying RDF data, making it easier to work with knowledge graphs. Queries are stored in individual files within a 'queries' folder.
+</li>
+<li>
+<a href="https://chpollin.github.io/GM-DH/">ChatGPT promt engineering for the Digital Humanities:</a><br>
+ChatGPT is a language model that is now also used in the Digital Humanities, e.g. for data cleaning. For this purpose, humanities scholars need a better understanding of prompt engineering, which is why AI experts as well as humanities researchers experimenting with AI now offer specialised workshops.
+</li>
 </ul>
 
 <h2>Tools for data visualization</h2>
 <ul>
-<li><a href="https://github.com/gicait/python-for-geospatial-data-analysis">Gicait for geospatial analysis with Python</a><br>gicait/python-for-geospatial-data-analysis: "This includes short and minimalistic few sessions covering fundamentals of Python programing language for geospatial data analysis."</li>
-<li><a href="http://www.informatik.uni-leipzig.de/bsv/homepage/de/people/dr-stefan-j%C3%A4nicke">Visualisation workflows suggested by Stefan Jänicke</a></li>
-<li><a href="http://www.informatik.uni-leipzig.de/~stjaenicke/balancing.pdf">Challenges of interdisciplinarity discussed by Stefan Jänicke</a></li>
-<li><a href="https://vega.github.io/vega-lite/examples/">Building elaborate visualizations with Vega-Lite</a><br>"Vega-Lite is a high-level grammar for statistical graphics. Vega-Lite provides a higher-level grammar for visual analysis, comparable to ggplot or Tableau, that generates complete Vega specifications." This tool can support the most common visualization types, including interactive visualizations for data exploration.<br><strong>Examples:</strong>
-<ul>
-<li><a href="https://vega.github.io/vega-lite/examples/geo_rule.html">Rules (line segments): Connecting SEA to every Airport Reachable via Direct Flights</a></li>
-<li><a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#data-transformation-aggregation">Quantity aggregation</a></li>
-<li>Streamgraphs might be a visualization option for displaying the number of events per place and period.</li>
+<li>
+<a href="https://github.com/gicait/python-for-geospatial-data-analysis">Gicait for geospatial analysis with Python:</a><br>
+Gicait offers tools and training sessions covering the fundamentals of Python programming for geospatial data analysis.
+</li>
+<li>
+<a href="http://www.informatik.uni-leipzig.de/bsv/homepage/de/people/dr-stefan-j%C3%A4nicke">Visualization workflows for geodata:</a><br>
+Stefan Jänicke provides suggested workflows for data visualisation.
+</li>
+<li>
+<a href="http://www.informatik.uni-leipzig.de/~stjaenicke/balancing.pdf">Challenges of interdisciplinarity:</a><br>
+Stefan Jänicke's document discusses the research challenges related to interdisciplinarity.
+</li>
+<li>
+<a href="https://vega.github.io/vega-lite/examples/">Building elaborate visualizations with Vega-Lite:</a><br>
+Vega-Lite is a high-level grammar for statistical graphics, akin to ggplot or Tableau. It generates complete Vega specifications [EXPLAIN], supporting various visualization types and interactive data exploration. This includes rule-based geovisualisations. One example is this
+<a href="https://vega.github.io/vega-lite/examples/geo_rule.html">map of line segments connecting SEA to every Airport Reachable via Direct Flights</a>.
+<a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#data-transformation-aggregation">Quantity aggregation</a> [EXPLAIN] is also possible in Vega-Lite.</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Streamgraph">Streamgraphs</a> might be a visualization option for displaying the number of events per place and period in the Mainz work package. Streamgraphs depict data as a series of flowing, ribbon-like layers, with each layer representing a different category or variable. The thickness of a layer corresponds to the value of that category at a given point in time. Streamgraphs are particularly effective for illustrating changes in multivariate data.  Streamgraphs enable viewers to grasp temporal patterns, trends, and the relative contributions of various categories within the data at first glance. Tools like "D3.js" and "Streamgraph" in "Vega-Lite" help create streamgraphs.
+</li>
 </ul>
 </li>
-<li><a href="https://github.com/sparqlunicorn/sparqlunicornGoesGIS">SPARQLing Unicorn for explorative visualizations in QGIS</a><br>"This plugin adds a GeoJSON layer from SPARQL enpoint queries. The necessary python libs are bundled with the plugin. qgisMinimumVersion = 3.0"<br><a href="https://sparqlunicorn.github.io/sparqlunicornGoesGIS/">Doxygen Documentation</a><br><a href="https://plugins.qgis.org/plugins/sparqlunicorn/">Download plug-in</a></li>
+<li>
+<a href="https://github.com/sparqlunicorn/sparqlunicornGoesGIS">SPARQLing Unicorn for explorative visualizations in QGIS:</a><br>
+SPARQLing Unicorn is a plugin for QGIS that enables explorative visualizations through flexible SPARQL queries. It directly adds a GeoJSON layer from SPARQL endpoint queries. For the integration of SPARQLing Unicorn with QGIS, consult the <a href="https://sparqlunicorn.github.io/sparqlunicornGoesGIS/">Doxygen Documentation</a>. You can download the plug-in <a href="https://plugins.qgis.org/plugins/sparqlunicorn/">here</a>.
+</li>
 </ul>
 
 <h2>Databases</h2>
-<p align+="justify">Integrate tool review table (e.g. as file download and image) and briefly describe why different database tools needed to be tested in DigiKAR. Not all tools have to be described in detail as we can refer to the comments in the review table.</p>
+
+<p align="justify">Integrate tool review table (e.g., as file download and image) and briefly describe why different database tools needed to be tested in DigiKAR. Not all tools have to be described in detail as we can refer to the comments in the review table.</p>
 <ul>
-<li>PostGIS</li>
-<li>Metaphactory / Researchspace</li>
+<li><a href="https://postgis.net/">PostGIS</a> is an open-source, spatial database extension for PostgreSQL, enabling it to manage and query geospatial data effectively. It provides support for geographic objects, spatial indexing, and a wide range of functions for geospatial analysis.</li>
+<li><a href="https://metaphactory.com/">Metaphactory</a> is a knowledge graph platform designed for managing and exploring semantic data. It allows users to create, search, and visualize linked data and knowledge graphs, making it a popular tool for researchers and organizations dealing with complex data relationships. In addition to the proprietary Metaphactory platform, the tool is available as ResearchSpace for those who can host their own instance. ResearchSpace was specifically designed for cultural heritage and digital humanities application. While ResearchSpace has a user base in research, Metaphactory's user community is more diverse. The choice between them depends on the specific requirements and financial means of your knowledge graph project or research.</li>
 </ul>
