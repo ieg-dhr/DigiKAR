@@ -18,16 +18,15 @@ The <code>relationType</code> property must be de-referenceable to an existing v
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
-## HOV
+## Historical Gazetteer of Saxony (HOV)
 
-<p align="justify"></p>
-
+<p align="justify">The <a href="https://hov.isgv.de/">Historical Gazetteer of Saxony</a> (Historisches Ortsverzeichnis von Sachsen, HOV) lists almost all settlements, which have been documented for the territory of the modern federal state of Saxony since the Middle Ages. The individual HOV articles present a short spatial "biography" for each place and mention the historical and topographical development of villages and towns in Saxony.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
-## RepSax
+## Repertorium Saxonicum (RepSax)
 
-<p align="justify">The <a href="https://repsax.isgv.de/">Repertorium Saxonicum</a> offers a glimpse into the rural world of the 16th century. This online database portrays the social, economic, and constitutional conditions of over 1,800 spatial entities within the Electorate of Saxony. It relies on a valuable resource known as the "Amtserbbücher" (official hereditary books). These records provide information about various aspects of these places, such as the number of land-owning farmers in a village and the taxes they paid. They also document who served as the judge in the village and the community's obligations in times of war, including participation in military campaigns. Therefore, the Repertorium Saxonicum is a rich source for understanding the historical context of life in 16th-century rural Saxony.</p>
+<p align="justify">The <a href="https://repsax.isgv.de/">Repertorium Saxonicum (RepSax)</a> offers a glimpse into the rural world of the 16th century. This online database portrays the social, economic, and constitutional conditions of over 1,800 spatial entities within the Electorate of Saxony. It relies on a valuable resource known as the "Amtserbbücher" (official hereditary books). These records provide information about various aspects of these places, such as the number of land-owning farmers in a village and the taxes they paid. They also document who served as the judge in the village and the community's obligations in times of war, including participation in military campaigns. Therefore, the Repertorium Saxonicum is a rich source for understanding the historical context of life in 16th-century rural Saxony.</p>
 
 <p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
 
