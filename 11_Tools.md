@@ -22,6 +22,7 @@
 </ul>
 
 <h2>Databases</h2>
+<p align+="justify">Integrate tool review table (e.g. as file download and image) and briefly describe why different database tools needed to be tested in DigiKAR. Not all tools have to be described in detail as we can refer to the comments in the review table.</p>
 <ul>
 <li>PostGIS</li>
 <li>Metaphactory / Researchspace</li>
