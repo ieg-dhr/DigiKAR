@@ -40,10 +40,17 @@ SPARQLing Unicorn is a plugin for QGIS that enables explorative visualizations t
 </li>
 </ul>
 
-<h2>Databases</h2>
+- [D3](https://d3js.org/) is an open-source JavaScript library for data visualization, in particular for interactive web visualization.
+In contrast to other data popular visualization popular libraries (like *vega* or *vega-lite*) it follows a low level approach, making it a very flexible tool.
+It is used for the more complex symbology for work package "Electoral Saxony".
+- [maplibre GL JS](https://github.com/maplibre/maplibre-gl-js) is an open-source library for publishing web maps.
+It enables the use of vector tiles.
+Because of its GPU-accelerated rendering it is more performant than traditional map libraries such as *leaflet*.
+
+## Databases
 
 <p align="justify">Integrate tool review table (e.g., as file download and image) and briefly describe why different database tools needed to be tested in DigiKAR. Not all tools have to be described in detail as we can refer to the comments in the review table.</p>
-<ul>
-<li><a href="https://postgis.net/">PostGIS</a> is an open-source, spatial database extension for PostgreSQL, enabling it to manage and query geospatial data effectively. It provides support for geographic objects, spatial indexing, and a wide range of functions for geospatial analysis.</li>
-<li><a href="https://metaphactory.com/">Metaphactory</a> is a knowledge graph platform designed for managing and exploring semantic data. It allows users to create, search, and visualize linked data and knowledge graphs, making it a popular tool for researchers and organizations dealing with complex data relationships. In addition to the proprietary Metaphactory platform, the tool is available as ResearchSpace for those who can host their own instance. ResearchSpace was specifically designed for cultural heritage and digital humanities application. While ResearchSpace has a user base in research, Metaphactory's user community is more diverse. The choice between them depends on the specific requirements and financial means of your knowledge graph project or research.</li>
-</ul>
+
+- [PostgreSQL](https://www.postgresql.org/) with [PostGIS](https://postgis.net/), an open-source, spatial database extension. PostGIS enables PostgreSQL databases to manage and query geospatial data effectively. It provides support for geographic objects, spatial indexing, and a wide range of functions for geospatial analysis (e.g. creating voronoi polygons).
+- [Metaphactory](https://metaphactory.com/") is a knowledge graph platform designed for managing and exploring semantic data. It allows users to create, search, and visualize linked data and knowledge graphs, making it a popular tool for researchers and organizations dealing with complex data relationships. In addition to the proprietary Metaphactory platform, the tool is available as ResearchSpace for those who can host their own instance. ResearchSpace was specifically designed for cultural heritage and digital humanities application. While ResearchSpace has a user base in research, Metaphactory's user community is more diverse. The choice between them depends on the specific requirements and financial means of your knowledge graph project or research.
+- [Duckdb](https://duckdb.org/) is a free and open-source "in-process SQL OLAP database management system". It is optimized for analytical purposes, where querying and aggregating significant amount of data is required making a good fit to analyze data of work package "Electoral Mainz" where a large collection of individual events need to be grouped, aggregated and linked before they can be eventually visualized in a map.
