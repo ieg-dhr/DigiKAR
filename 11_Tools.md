@@ -34,8 +34,6 @@ Vega-Lite is a high-level grammar for statistical graphics, akin to ggplot or Ta
 <li>
 <a href="https://en.wikipedia.org/wiki/Streamgraph">Streamgraphs</a> might be a visualization option for displaying the number of events per place and period in the Mainz work package. Streamgraphs depict data as a series of flowing, ribbon-like layers, with each layer representing a different category or variable. The thickness of a layer corresponds to the value of that category at a given point in time. Streamgraphs are particularly effective for illustrating changes in multivariate data.  Streamgraphs enable viewers to grasp temporal patterns, trends, and the relative contributions of various categories within the data at first glance. Tools like "D3.js" and "Streamgraph" in "Vega-Lite" help create streamgraphs.
 </li>
-</ul>
-</li>
 <li>
 <a href="https://github.com/sparqlunicorn/sparqlunicornGoesGIS">SPARQLing Unicorn for explorative visualizations in QGIS:</a><br>
 SPARQLing Unicorn is a plugin for QGIS that enables explorative visualizations through flexible SPARQL queries. It directly adds a GeoJSON layer from SPARQL endpoint queries. For the integration of SPARQLing Unicorn with QGIS, consult the <a href="https://sparqlunicorn.github.io/sparqlunicornGoesGIS/">Doxygen Documentation</a>. You can download the plug-in <a href="https://plugins.qgis.org/plugins/sparqlunicorn/">here</a>.
