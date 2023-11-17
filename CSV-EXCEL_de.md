@@ -2,7 +2,7 @@
 
 a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a> 
+[XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py)
 
 **Anwendungsfälle:**
 
@@ -12,11 +12,11 @@ a) *Einfache Abfrage gleichnamiger Tabellenspalten aus mehreren EXCEL-Dateien:*
 
 *Output-Beispiel für das obige Skript:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md">XLSX_multiple-files_sample-output.md</a> 
+[XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
 
 b) *Skript für die Identifikation biographischer Ereignisse pro Person und ihre Sortierung nach Ereignis-Wert und Zeit:* 
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py">XLSX_select-and-sort-events.py</a> 
+[XLSX_select-and-sort-events.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py)
 
 **Anwendungsfälle:**
 
@@ -30,19 +30,19 @@ Die derzeitige Sortierung der Daten im Skript ist vier-stufig und beginnt mit de
 
 c) *Relationship Tracer:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py">XSLX_relationship-tracer.py</a>
+[XSLX_relationship-tracer.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py)
 
 **Anwendungsfälle:**
 
-- Konsolidierung genealogischer Informationen aus der Spalte <code>rel_pers</code> in Factoid-Listen
+- Konsolidierung genealogischer Informationen aus der Spalte `rel_pers` in Factoid-Listen
 - Rekonstruktion von Geschwisterbeziehungen basierend auf bekannten Eltern-Kind-Verbindungen
 - Rekonstruktion von impliziten Großeltern-Enkel-Beziehungen
 
 d) *Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL Dateien*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py">Abfrage von ODER Bedingungen: XSLX_multiple-conditions_OR.py</a>
+[Abfrage von ODER Bedingungen: XSLX_multiple-conditions_OR.py(https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py)
 
-- Aus dem Standard-Ordner DigiKAR_DATEN\\Python\\InputLists werden alle dort abgelegten EXCEL-Dateien (in Factoid-Struktur) in einen gemeinsamen Dataframe gelesen.
+- Aus dem Standard-Ordner `DigiKAR_DATEN\\Python\\InputLists` werden alle dort abgelegten EXCEL-Dateien (in Factoid-Struktur) in einen gemeinsamen Dataframe gelesen.
 - User kann für Personenname, Datum, Institution, Titel, Funktion und "related person" (Erweiterung auf andere Spalten jederzeit möglich) einen oder mehrere Suchbegriffe / Zeitangaben mit Komma getrennt eingeben.
 - User kann wählen, ob nach konkreten Daten, Zeitraum oder "before" / "after" gesucht wird.
 - Skript analysiert zuerst die Zeit und erstellt aus allen Matches im passenden Zeitraum einen neuen Dateframe, auf den via "numpy condition list" die übrigen Bedingungen angewandt werden. Je nach Condition-List-Operator werden die Bedingungen für die einzelnen Zellen mit "UND" oder mit "ODER" verbunden. Das Skript auf GITHUB behandelt nur "ODER". Im GUI soll es dann eine Auswahlmöglichkeit geben.
@@ -54,4 +54,3 @@ d) *Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL D
 - Beispiel für die Erstellung komplexerer boolescher Abfragen über mehrere Tabellenkalkulationen hinweg
 - Anpassung an verschiedene Tabellenformate möglich
 - Experimentieren mit dem Parsen von Zeitangaben und potenziellen Problemen, die durch frühneuzeitliche Datumsangaben entstehen
-
