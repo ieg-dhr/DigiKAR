@@ -2,7 +2,7 @@
 
 <p align="justify">The pages linked below contain brief descriptions of scripts for data collection, data cleaning or data analysis in the DigiKAR project. Some of the <a href="https://jupyter.org/">Jupyter Notebook</a> files (ending in <code>.ipynb</code>) were initially created for <a href="https://colab.google/">Google Colab</a> and need to be adjusted when used in other environments. In the DigiKAR project, Google Colab was used because we did not have access to an institutional research software infrastructure. Ideally, code should be hosted in non-commercial environments, such as university-hosted computing infrastructures for data science.</p>
 
-<img src="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8" alt="logo" width="500" style="padding:10px" align="left"/>
+<img src="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8" alt="logo" width="500" style="padding:20px" align="left"/>
  
 <p align="justify">To make the Colab notebooks work for you, please carry out the following steps:</p>
 
