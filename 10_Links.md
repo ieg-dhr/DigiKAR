@@ -2,12 +2,11 @@
 
 <h3>DigiKAR Zotero library</h3>
 
-<p align="justify">Explain what it is and why we have it. Especially mention that it helped us to manage sources and contains some folders with additional metadata that we did not use in DigiKAR but that be useful for future projects.</p>
+<p align="justify">The DigiKAR team has created a ZOTERO library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.</p>
 
 <h3>DigiKAR conference papers and publications</h3>
 
 <p align="justify">Short overview of the events in which we have participated and what the focus was. If we can directly link a relevant folder in the public Zotero library, we should also do that here. But I would also export a bibliography of the talks and publications to add directly to this page.</p>
-
 
 <h3>Blogposts on work in progress</h3>
 
