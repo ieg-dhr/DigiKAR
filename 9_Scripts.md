@@ -1,4 +1,15 @@
 ## Code for data collection, data cleaning and data analysis
+
+<p align="justify">The pages linked below contain brief descriptions of scripts for data collection, data cleaning or data analysis in the DigiKAR project. Some of the Jupyter Notebook files were initially created for Google Colab and need to be adjusted when used in other environments. Google Colab was used because the DigiKAR project did not have access to an institutional research software infrastructure.</p>
+
+<p align="justify">To make the Colab notebooks work for you, please carry out the following steps:
+
+1) Put the notebook on your own Google Drive, ideally in a folder whose name contains "Colab" so that you can easily identify it later. 
+2) Open the notebook and adjust the file path according to your own file location. You may also change the paths of the input and output data in the script, depending on your own prefered folder structure.
+3) Select "open with" and connect to the Google Colab app. If you have not used Google Colab before, select the "connect more apps" option and find Colab there.
+4) Make sure to give Colab all the necessary permissions to run the script and read / write files. If you do not want Colab to access a private Google Drive, you may want to create a new Google account exclusively for research purposes.
+
+<img scr="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8"/>
  
  <table width="100%">
   <tr>
