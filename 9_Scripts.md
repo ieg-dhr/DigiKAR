@@ -2,6 +2,8 @@
 
 <p align="justify">The pages linked below contain brief descriptions of scripts for data collection, data cleaning or data analysis in the DigiKAR project. Some of the <a href="https://jupyter.org/">Jupyter Notebook</a> files (ending in <code>.ipynb</code>) were initially created for <a href="https://colab.google/">Google Colab</a> and need to be adjusted when used in other environments. In the DigiKAR project, Google Colab was used because we did not have access to an institutional research software infrastructure. Ideally, code should be hosted in non-commercial environments, such as university-hosted computing infrastructures for data science.</p>
 
+<img src="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8" alt="logo" width="500" style="padding:10px" align="left"/>
+ 
 <p align="justify">To make the Colab notebooks work for you, please carry out the following steps:</p>
 
 1) Put the notebook on your own Google Drive, ideally in a folder whose name contains "Colab" so that you can easily identify it later. 
@@ -9,8 +11,7 @@
 3) Select "open with" and connect to the Google Colab app. If you have not used Google Colab before, select the "connect more apps" option and find Colab there.
 4) Make sure to give Colab all the necessary permissions to run the script and read / write files. If you do not want Colab to access a private Google Drive, you may want to create a new Google account exclusively for research purposes.
 
-<img src="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8" alt="logo" width="500" style="padding:10px" align="left"/>
- 
+
  <table width="100%">
   <tr>
     <td><a href="https://ieg-dhr.github.io/DigiKAR/CSV-EXCEL_de.html">1) Datenabruf aus mehreren CSV-/EXCEL-Tabellen</a><br><br></td>
