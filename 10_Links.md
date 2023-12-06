@@ -2,7 +2,7 @@
 
 <h3>DigiKAR Zotero library</h3>
 
-<p align="justify">The DigiKAR team has created a ZOTERO library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.</p>
+<p align="justify">The DigiKAR team has created a <a href="https://www.zotero.org/">ZOTERO</a> library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.</p>
 
 <h3>DigiKAR conference papers and publications</h3>
 
