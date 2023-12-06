@@ -40,13 +40,13 @@ The <code>relationType</code> property must be de-referenceable to an existing v
 
 <p align="justify">The different federal states in Germany also maintain their own data services, many of which include historical spatial data. Examples are the <a href="https://www.lagis-hessen.de/en">Hessian Regional History Information System (LAGIS)</a> and the <a href="">Regional History Information System Baden-Württemberg (LEO-BW)</a>. LEO-BW provides a comprehensive exploration of southwestern Germany, offering insights into the region, its inhabitants, culture, and history. The information in LEO-BW is categorized into sections covering People, Places, Objects, Themes, and Highlights. For all locations in Baden-Württemberg, LEO-BW offers fundamental spatial information along with visual materials. Additionally, LEO-BW encompasses a wide range of objects from archival materials to photographs, maps, posters, and videos. LEO-BW shares similar functionality and objectives with LAGIS and similar federal services.</p>
 
-<p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
+<p align="justify">Unfortunately, information provided by these services is mainly stored as narrative text in content management systems for web deployment, not in consistently structured databases. Therefore, we could only use data from these services for individual data checks, not for automated data enrichment.</p>
 
 ## Wikidata
 
 <p align="justify"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a> is a Linked Open Data project that also includes spatial data from various sources (see entry on Germania Sacra above). Wikidata can easily be queried via its own SPARQL service, but its data are often very fragmented. Spatial information on the Holy Roman Empire, for instance, cannot be systematically harvested via Wikidata alone, and future research efforts will be needed to improve the Wikidata database. For a critical analysis of Wikidata as a spatial data source, see Jan Macura's Czech-language thesis <a href="https://zenodo.org/records/55381">Comparison of Wikidata and DBpedia projects as spatial data sources</a>.</p>
 
-<p align="justify">[ADD TEXT HOW WE USE THIS RESOURCE IN DIGIKAR]</p>
+<p align="justify">Although spatial data in Wikidata are not complete, we have experimented with place information and tried linking spatial attributes from Wikidata with our own data sets. A more consistent contribution of research results to Wikidata could considerably improve the data quality for future research projects.</p>
 
 # Geonames
 
