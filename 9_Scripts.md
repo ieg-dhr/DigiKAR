@@ -8,7 +8,7 @@
 
 <ol>
 <li>Put the notebook on your own Google Drive, ideally in a folder whose name contains "Colab" so that you can easily identify it later.</li> 
-<li>Open the notebook and adjust the file path according to your own file location. You may also change the paths of the input and output data in the script, depending on your own prefered folder structure.</li>
+<li>Open the notebook and adjust the directory path according to your own file location. You may also change the paths of the input and output data in the script, depending on your own prefered folder structure. Make sure that all folders you name in the script also exist on Google Drive before you execute the script.</li>
 <li>Select "open with" and connect to the Google Colab app. If you have not used Google Colab before, select the "connect more apps" option and find Colab there.</li>
 <li>Make sure to give Colab all the necessary permissions to run the script and read / write files. If you do not want Colab to access a private Google Drive, you may want to create a new Google account exclusively for research purposes.</li>
 </ol>
