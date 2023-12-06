@@ -9,7 +9,7 @@
 3) Select "open with" and connect to the Google Colab app. If you have not used Google Colab before, select the "connect more apps" option and find Colab there.
 4) Make sure to give Colab all the necessary permissions to run the script and read / write files. If you do not want Colab to access a private Google Drive, you may want to create a new Google account exclusively for research purposes.
 
-<img scr="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8"/>
+<img src="https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8" alt="logo" width="150" style="padding:10px" align="left"/>
  
  <table width="100%">
   <tr>
