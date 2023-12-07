@@ -37,6 +37,33 @@ The extensive source columns helped us to preserve additional information that w
 
 <p align="justify">To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR technology to semi-automatically gather information on professors and students active at the early modern university of Mainz.</p>
 
+### Draft: Common schema for analytical lenses
+
+This table describes the harmonized schema for all analytical lenses.
+It is used to create a database for eventually deriving visualisations.
+
+| new column name   | current name/s                       | data type      | null   |
+| ----------------- | ------------------------------------ | -------------- | ------ |
+| person_id         | pers_ID(\_FS)?                       | varchar        | yes    |
+| person_name       | pers_name                            | varchar        | yes    |
+| person_function   | pers_function                        | varchar        | yes    |
+| person_title      | pers_title                           | varchar        | yes    |
+| factoid id        | factoid_ID                           | varchar?       | yes    |
+| event_before_date | event_before-date                    | varchar        | yes    |
+| event_after_date  | event_after-date                     | varchar        | yes    |
+|                   | event_start                          | varchar        | yes    |
+|                   | event_end                            | varchar        | yes    |
+|                   | event_type                           | varchar        | **no** |
+|                   | event_value                          | varchar        | yes    |
+| institution_name  | inst_name                            | varchar        | yes    |
+|                   | place_name                           | varchar        | yes    |
+| related_persons   | rel pers                             | varchar? list? | yes    |
+| latitude          | ((geonames\|google)\_)?latitude(s)?  | real           | yes    |
+| longitude         | ((geonames\|google)\_)?longitude(s)? | real           | yes    |
+|                   | source                               | varchar        | yes    |
+|                   | source_quotations                    | varchar        | yes    |
+| comment           | comment\|additional_info             | varchar        | yes    |
+
 <p align="justify">The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:</p>
 
 a) **"Erfurt" data (2022-11-11, last updated on February 2nd, 2023)**:
