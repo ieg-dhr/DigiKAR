@@ -2,8 +2,8 @@
 
 a) *Download and process professors' biographies via GutenbergBiographics API*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XML_downloadGutenbergBiographics.py">XML_downloadGutenbergBiographics.py</a>
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XML_readGutenbergBiographics.py">XML_readGutenbergBiographics.py</a>
+[XML_downloadGutenbergBiographics.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XML_downloadGutenbergBiographics.py)
+[XML_readGutenbergBiographics.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XML_readGutenbergBiographics.py)
 
 **Use cases:**
 

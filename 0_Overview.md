@@ -1,15 +1,25 @@
-<h2>Overview of DigiKAR data documentation</h2>
+## Overview of DigiKAR data documentation
 
-<img src="https://leibniz-ios.de/fileadmin/mediamanager/012_logos/Logo_DigiKAR.svg" alt="logo" width="150" style="padding:10px" align="left"/>
+![DigiKAR Logo](https://leibniz-ios.de/fileadmin/mediamanager/012_logos/Logo_DigiKAR.svg){:width="150px" style="padding: 0 1em 1em 0; float: left;"}
 
-<a href="https://ieg-dhr.github.io/DigiKAR/1_DataStructure.html">Explanation of the DigiKAR data structure</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/7_RightsHoldersSAXONY.html">Work package 2: Rights and right holders in Saxony</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/2_DataCategorisationMAINZ.html">Work package 3: Data categorisation Mainz</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/3_PersonsMAINZ.html">Work package 3: Persons in Mainz data</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/4_DataQueries.html">Data queries in DigiKAR</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/8_Visualisations.html">Data visualisations in DigiKAR</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/9_Scripts.html">Python scripts for data collection, data analysis and data cleaning</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/10_Links.html">Links to DigiKAR output</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/11_Tools.html">Tools used or recommended</a><br><br>
-<a href="https://ieg-dhr.github.io/DigiKAR/12_DataServices.html">Data services</a><br><br>
-<hr>
+[Explanation of the DigiKAR data structure]({{'1_DataStructure' | relative_url}})
+
+[Work package 2: Rights and right holders in Saxony]({{'7_RightsHoldersSAXONY' | relative_url}})
+
+[Work package 3: Data categorisation Mainz]({{'2_DataCategorisationMAINZ' | relative_url}})
+
+[Work package 3: Persons in Mainz data]({{'3_PersonsMAINZ' | relative_url}})
+
+[Data queries in DigiKAR]({{'4_DataQueries' | relative_url}})
+
+[Data visualisations in DigiKAR]({{'8_Visualisations' | relative_url}})
+
+[Python scripts for data collection, data analysis and data cleaning]({{'9_Scripts' | relative_url}})
+
+[Links to DigiKAR output]({{'10_Links' | relative_url}})
+
+[Tools used or recommended]({{'11_Tools' | relative_url}})
+
+[Data services]({{'12_DataServices' | relative_url}})
+
+***

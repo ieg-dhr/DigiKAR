@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p.justified {
+  text-align: justify;
+}
+
+ul.unstyled {
+  list-style-type: none;
+}
+
+.callout {
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 0.25em;
+  background-color: rgb(230, 230, 230);
+}
+
+.todo {
+  background-color: rgb(160, 250, 145);
+  border: 1px solid rgb(30, 80, 35);
+  color: rgb(30, 80, 35);
+}

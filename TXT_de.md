@@ -1,6 +1,6 @@
-**2) Extrahieren strukturierter Informationen aus TXT Dateien**
+## 2) Extrahieren strukturierter Informationen aus TXT Dateien
 
-a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py) 
+a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py)
 
 - Trennzeichen nach "regular expression" in Text einfügen
 - Vorbereitung des Texts für Aufteilung in einzelne Abschnitte
@@ -22,10 +22,12 @@ d) [TransferPROFData](https://github.com/ieg-dhr/DigiKAR/blob/main/JupyterNotebo
 - Weitere Verfeinerung der Eintrage durch Abgleichen der "Information" mit Ontologielisten
 - Identifikation von Ereignisbezeichnungen, Titeln, Funktionen, Ortsnamen und Daten
 
-<hr>
+***
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg" alt="drawing" width="150" style="padding:10px" align="left"/>
-<p><strong></strong>Der folgende Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":<br>
-<a href="https://insulae.hypotheses.org/333">Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021</a>
+![drawing](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg){:width="150" style="padding:10px" align="left"}
 
-<hr>
+Der folgende Blogpost beschreibt die Verwendung einiger oben genannter Skripte im Arbeitspaket "Kurmainz":
+
+[Monika Barget, "Disambiguating people and places in dirty historical data," in INSULAE, last updated 26/10/2021](https://insulae.hypotheses.org/333)
+
+***

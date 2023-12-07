@@ -2,7 +2,7 @@
 
 a) *Simple analysis of table columns with identical labels from several EXCEL files:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py">XLSX_analysing-multiple-files.py</a> 
+[XLSX_analysing-multiple-files.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_analysing-multiple-files.py)
 
 **Use cases:**
 
@@ -12,11 +12,11 @@ a) *Simple analysis of table columns with identical labels from several EXCEL fi
 
 *Sample output for the above-mentioned script:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md">XLSX_multiple-files_sample-output.md</a> 
+[XLSX_multiple-files_sample-output.md](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_multiple-files_sample-output.md)
 
 b) *Script for identifying biographic events per person and sorting them by event-value and date:* 
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py">1st version: XLSX_select-and-sort-events.py</a> 
+[1st version: XLSX_select-and-sort-events.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_select-and-sort-events.py)
 
 **Use case:**
 
@@ -30,19 +30,19 @@ The current sorting is four-fold and starts with the event classification. This 
 
 c) *Relationship tracer:*
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py">Extended version: XSLX_relationship-tracer.py</a>
+[Extended version: XSLX_relationship-tracer.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XLSX_relationship-tracer.py)
 
 **User cases:**
 
-- consolidating genealogical information from <code>rel_pers</code> column in factoid lists
+- consolidating genealogical information from `rel_pers` column in factoid lists
 - reconstruction of sibling relations based on known parent-child-connections
 - reconstruction of implict grandparent-grandchild relations
 
 d) *Advanced script to query several columns across several spreadsheets based on user input:* 
 
-<a href="https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py">Querying OR conditions: XSLX_multiple-conditions_OR.py</a>
+[Querying OR conditions: XSLX_multiple-conditions_OR.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py)
 
-- Files from directory DigiKAR_DATEN\\Python\\InputLists are read to a single dataframe.
+- Files from directory `DigiKAR_DATEN\\Python\\InputLists` are read to a single dataframe.
 
 - User can select search criteria for person name, date, institution, person title, function and related person. Several keywords per field are accepted.
 
@@ -52,7 +52,7 @@ d) *Advanced script to query several columns across several spreadsheets based o
 
 - Results are written to new file. User is free to assign file name via script input.
 
-- Time management handles "YYYY" as well as "YYYY-MM" and "YYYY-MM-DD" inputs. Searching for dates before and after input date, the "before" and "after" columns in the original spreadsheet are consider alongside start and end dates.
+- Time management handles `YYYY` as well as `YYYY-MM` and `YYYY-MM-DD` inputs. Searching for dates before and after input date, the `before` and `after` columns in the original spreadsheet are consider alongside start and end dates.
 
 **Use cases:**
 
