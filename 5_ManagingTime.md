@@ -12,12 +12,12 @@ ADD TEXT
 
 Allowing a free-text entry for comments on date (un)certainty gave as the opportunity to express additional data problems beyond fuzzy dating and highlight dates from primary and secondary sources whose validity we doubted. The disadvantage, however, was that it was difficult to regulate what data collectors wrote and to find clear conventions for identical issues. The first attempt to add free-text descriptions to our Jahns data set during data collection, for example, resulted in comments that were inconsistent, contained spelling mistakes, or were difficult to interpret by other team members looking at the data later. We, therefore, made the attempt to normalise the free-text comments to a degree that will still permit some NLP or AI processing in the future. The original Jahns comments and the new normalised versions are in the table below.
 
-| Original comment                                                    | Occurrence in Jahns data set |  |
-|-----------------------------------------------------------|------------|-------------------|
-| Alternativdatum                                            |            |
-| Alternatives Startdatum                                    |            |
+| Text                                                      | Occurrence |
+|-----------------------------------------------------------|------------|
+| Alternativdatum                                            | 1          |
+| Alternatives Startdatum                                    | 1          |
 | Datierung inkonsistent, siehe Praktika                      | 1          |
-| exclude                                                   |            |
+| exclude                                                   | 1          |
 | Datierung unklar                                           | 2          |
 | Datierung unsicher                                         | 19         |
 | Datierung unsicher und vage                                 | 8          |
@@ -54,7 +54,7 @@ Allowing a free-text entry for comments on date (un)certainty gave as the opport
 | Funktionsausübung "daneben"                                 | 1          |
 | Geheimer Rat                                                | 2          |
 | Inauguraldisputation am 12.09.1736                         | 1          |
-| n/a1737                                                   |            |
+| n/a1737                                                   | 1          |
 | punktueller Nachweis                                        | 3          |
 | Reihenfolge, Datierung unklar; Enddatum taq                 | 3          |
 | saisonales Datum                                            | 1          |
@@ -88,7 +88,6 @@ Allowing a free-text entry for comments on date (un)certainty gave as the opport
 | Startdatum unsicher, erster Beleg.                          | 1          |
 | Startdatum unsicher, Immatrikulation erst 1724 sicher nachgewiesen | 1          |
 | Startdatum unsicher, punktueller                            | 2          |
-
 
 ### 4) Managing fuzzy time in data analysis and data visualisation
 
