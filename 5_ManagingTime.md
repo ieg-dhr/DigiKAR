@@ -8,7 +8,7 @@ ADD TEXT
 
 ADD TEXT
 
-### 3) Additional temporal information collected as free-text comments.
+### 3) Additional temporal information collected as free-text comments
 
 Allowing a free-text entry for comments on date (un)certainty gave as the opportunity to express additional data problems beyond fuzzy dating and highlight dates from primary and secondary sources whose validity we doubted. The disadvantage, however, was that it was difficult to regulate what data collectors wrote and to find clear conventions for identical issues. The first attempt to add free-text descriptions to our Jahns data set during data collection, for example, resulted in comments that were inconsistent, contained spelling mistakes, or were difficult to interpret by other team members looking at the data later. We, therefore, made the attempt to normalise the free-text comments to a degree that will still permit some NLP or AI processing in the future. The original Jahns comments and the new normalised versions are in the table below.
 
