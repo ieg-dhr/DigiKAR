@@ -14,7 +14,7 @@
 
 {:.justified} 2. Categorise events: This is a script for adding additional event categories to factoid lists created for the DigiKAR project. The script mainly uses the Pandas package in Python to read and manipulate EXCEL data as DataFrames. DataFrames are 2-dimensional data representations in rows and columns. They can be written to different file formats such as CSV, EXCEL, JSON or RDF.
 
-{:.justified} 3. Categorise functions:
+{:.justified} 3. Categorise functions: This is a script for adding function categories (e.g. teaching versus administration functions) to factoid lists created for the DigiKAR project. 
 
 {:.justified} 4. ...
 
