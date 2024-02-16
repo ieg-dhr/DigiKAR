@@ -1,4 +1,4 @@
-## Code for data data consolidation
+## Code for data consolidation
 
 ### Read and merge input files, normalise data
 
