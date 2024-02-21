@@ -1,0 +1,2192 @@
+@prefix schema: <http://schema.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skosthes: <http://purl.org/iso25964/skos-thes#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dmlv-event: <http://digikar.eu/vocabulary/event/> .
+@prefix dmlo: <http://digikareu/ontology/> .
+@prefix adms: <http://www.w3.org/ns/adms#> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix xls2rdf: <https://xls2rdf.sparna.fr/vocabulary#> .
+@prefix dmlv-function: <http://digikar.eu/vocabulary/function/> .
+@prefix vocnet: <http://schema.vocnet.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dmlv: <http://digikar.eu/vocabulary/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+
+dmlv:event a skos:ConceptScheme;
+  skos:prefLabel "Ereignis-Thesaurus"@de, "Event Thesaurus"@en;
+  skos:definition "DigiKAR-Thesaurus für biographische Ereignisse"@de, "DigiKAR Thesaurus of biographical events"@en;
+  skos:hasTopConcept dmlv-event:Absetzung, dmlv-event:Amtsantritt, dmlv-event:Amtseinf%C3%BChrung,
+    dmlv-event:Aufnahme, dmlv-event:Aufschw%C3%B6rung, dmlv-event:Bef%C3%B6rderung, dmlv-event:Beisetzung,
+    dmlv-event:Eheschlie%C3%9Fung, dmlv-event:Eintritt, dmlv-event:Entlassung, dmlv-event:erfolglose%20Bewerbung,
+    dmlv-event:Ernennung, dmlv-event:Funktionsaus%C3%BCbung, dmlv-event:Geburt, dmlv-event:Gesandtschaft,
+    dmlv-event:Graduation, dmlv-event:Haft, dmlv-event:Immatrikulation, dmlv-event:Introduktion,
+    dmlv-event:Konversion, dmlv-event:Mitgliedschaft, dmlv-event:Nobilitierung, dmlv-event:Ordination,
+    dmlv-event:Pension, dmlv-event:Pensionierung, dmlv-event:Praktikum, dmlv-event:Pr%C3%A4sentation,
+    dmlv-event:Prim%C3%A4re%20Bildungsstation, dmlv-event:Privatunterricht, dmlv-event:Privilegierung,
+    dmlv-event:Promotion, dmlv-event:Pr%C3%BCfung, dmlv-event:Pr%C3%BCfungsverfahren,
+    dmlv-event:Reise, dmlv-event:Rejektion, dmlv-event:Resignation, dmlv-event:Rezeption,
+    dmlv-event:R%C3%BCcktritt, dmlv-event:Sonstiges, dmlv-event:Studium, dmlv-event:Suspendierung,
+    dmlv-event:Taufe, dmlv-event:Tod, dmlv-event:Vereidigung, dmlv-event:Vokation, dmlv-event:Wahl,
+    dmlv-event:Wappenbesserung, dmlv-event:Widerstand, dmlv-event:Wohnsitznahme, dmlv-event:Zulassung .
+
+dmlv-event:Absetzung a skos:Concept;
+  skos:prefLabel "Absetzung"@de;
+  dmlo:end dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Amtsantritt a skos:Concept;
+  skos:prefLabel "Amtsantritt"@de;
+  skos:hiddenLabel "berufen", "ging er", "erhielt", "übernahm";
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Amtseinf%C3%BChrung a skos:Concept;
+  skos:prefLabel "Amtseinführung"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Aufnahme a skos:Concept;
+  skos:prefLabel "Aufnahme"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Mitgliedschaft;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Aufschw%C3%B6rung a skos:Concept;
+  skos:prefLabel "Aufschwörung"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Bef%C3%B6rderung a skos:Concept;
+  skos:prefLabel "Beförderung"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Beisetzung a skos:Concept;
+  skos:prefLabel "Beisetzung"@de;
+  skos:hiddenLabel "begr.";
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Eheschlie%C3%9Fung a skos:Concept;
+  skos:prefLabel "Eheschließung"@de;
+  skos:hiddenLabel "Eheschließung", "heiratete", "oo";
+  dmlo:role dmlv-function:Ehemann;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Eintritt a skos:Concept;
+  skos:prefLabel "Eintritt"@de;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Entlassung a skos:Concept;
+  skos:prefLabel "Entlassung"@de;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:erfolglose%20Bewerbung a skos:Concept;
+  skos:prefLabel "erfolglose Bewerbung"@de;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Ernennung a skos:Concept;
+  skos:prefLabel "Ernennung"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Funktionsaus%C3%BCbung a skos:Concept;
+  skos:prefLabel "Funktionsausübung"@de;
+  skos:hiddenLabel "er war", "war er", "lehrte";
+  dmlo:before dmlv-event:Absetzung, dmlv-event:Entlassung, dmlv-event:Pension, dmlv-event:Pensionierung,
+    dmlv-event:Resignation, dmlv-event:R%C3%BCcktritt, dmlv-event:Suspendierung, dmlv-event:Tod;
+  dmlo:role dmlv-function:Lehrer;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Geburt a skos:Concept;
+  skos:prefLabel "Geburt"@de;
+  skos:hiddenLabel "*";
+  dmlo:before dmlv-event:Taufe, dmlv-event:Tod;
+  dmlo:role dmlv-function:Kind;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Gesandtschaft a skos:Concept;
+  skos:prefLabel "Gesandtschaft"@de;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Graduation a skos:Concept;
+  skos:prefLabel "Graduation"@de;
+  dmlo:before dmlv-event:Promotion;
+  dmlo:end dmlv-event:Studium;
+  dmlo:role dmlv-function:Absolvent;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Haft a skos:Concept;
+  skos:prefLabel "Haft"@de;
+  dmlo:role dmlv-function:H%C3%A4ftling;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Immatrikulation a skos:Concept;
+  skos:prefLabel "Immatrikulation"@de;
+  skos:hiddenLabel "immatr.", "immatrikuliert";
+  dmlo:before dmlv-event:Studium;
+  dmlo:start dmlv-event:Studium;
+  dmlo:role dmlv-function:Student;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Introduktion a skos:Concept;
+  skos:prefLabel "Introduktion"@de;
+  skos:hiddenLabel "Introduktion";
+  dmlo:before dmlv-event:Mitgliedschaft;
+  dmlo:start dmlv-event:Mitgliedschaft;
+  dmlo:role dmlv-function:Mitglied;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Konversion a skos:Concept;
+  skos:prefLabel "Konversion"@de;
+  skos:hiddenLabel "Konversion";
+  dmlo:role dmlv-function:Konvertit;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Mitgliedschaft a skos:Concept;
+  skos:prefLabel "Mitgliedschaft"@de;
+  skos:hiddenLabel "inscribiert";
+  dmlo:role dmlv-function:Mitglied;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:mittelbare%20Nobilitierung a skos:Concept;
+  skos:prefLabel "mittelbare Nobilitierung"@de;
+  skos:broader dmlv-event:Nobilitierung;
+  dmlo:role dmlv-function:Adeliger;
+  skos:inScheme dmlv:event .
+
+dmlv-event:Nobilitierung a skos:Concept;
+  skos:prefLabel "Nobilitierung"@de;
+  dmlo:role dmlv-function:Adeliger;
+  skos:narrower dmlv-event:mittelbare%20Nobilitierung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Ordination a skos:Concept;
+  skos:prefLabel "Ordination"@de;
+  skos:hiddenLabel "Priesterweihe";
+  dmlo:role dmlv-function:Geistlicher, dmlv-function:Priester;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Pension a skos:Concept;
+  skos:prefLabel "Pension"@de;
+  dmlo:role dmlv-function:Pensionist;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Pensionierung a skos:Concept;
+  skos:prefLabel "Pensionierung"@de;
+  dmlo:end dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Praktikum a skos:Concept;
+  skos:prefLabel "Praktikum"@de;
+  dmlo:role dmlv-function:Praktikant;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Pr%C3%A4sentation a skos:Concept;
+  skos:prefLabel "Präsentation"@de;
+  dmlo:role dmlv-function:Sonstiges;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Prim%C3%A4re%20Bildungsstation a skos:Concept;
+  skos:prefLabel "Primäre Bildungsstation"@de;
+  dmlo:before dmlv-event:Studium;
+  dmlo:role dmlv-function:Sch%C3%BCler;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Privatunterricht a skos:Concept;
+  skos:prefLabel "Privatunterricht"@de;
+  dmlo:role dmlv-function:Sch%C3%BCler;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Privilegierung a skos:Concept;
+  skos:prefLabel "Privilegierung"@de;
+  dmlo:role dmlv-function:Privilegierter;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Promotion a skos:Concept;
+  skos:prefLabel "Promotion"@de;
+  skos:hiddenLabel "promoviert";
+  dmlo:role dmlv-function:Promovend;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Pr%C3%BCfung a skos:Concept;
+  skos:prefLabel "Prüfung"@de;
+  dmlo:role dmlv-function:Pr%C3%BCfling;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Pr%C3%BCfungsverfahren a skos:Concept;
+  skos:prefLabel "Prüfungsverfahren"@de;
+  dmlo:before dmlv-event:Graduation;
+  dmlo:end dmlv-event:Studium;
+  dmlo:role dmlv-function:Pr%C3%BCfling;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Reise a skos:Concept;
+  skos:prefLabel "Reise"@de;
+  dmlo:role dmlv-function:Reisender;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Rejektion a skos:Concept;
+  skos:prefLabel "Rejektion"@de;
+  dmlo:role dmlv-function:Bewerber;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Resignation a skos:Concept;
+  skos:prefLabel "Resignation"@de;
+  skos:hiddenLabel "resignierte";
+  dmlo:end dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:role dmlv-function:Sonstiges;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Rezeption a skos:Concept;
+  skos:prefLabel "Rezeption"@de;
+  dmlo:start dmlv-event:Mitgliedschaft;
+  dmlo:role dmlv-function:Mitglied;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:R%C3%BCcktritt a skos:Concept;
+  skos:prefLabel "Rücktritt"@de;
+  dmlo:role dmlv-function:Sonstiges;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Sonstiges a skos:Concept;
+  skos:prefLabel "Sonstiges"@de;
+  dmlo:role dmlv-function:Sonstiges;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Studium a skos:Concept;
+  skos:prefLabel "Studium"@de;
+  skos:hiddenLabel "studiert";
+  dmlo:before dmlv-event:Graduation, dmlv-event:Promotion;
+  dmlo:role dmlv-function:Student;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Suspendierung a skos:Concept;
+  skos:prefLabel "Suspendierung"@de;
+  dmlo:end dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:role dmlv-function:Sonstiges;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Taufe a skos:Concept;
+  skos:prefLabel "Taufe"@de;
+  dmlo:role dmlv-function:T%C3%A4ufling;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Tod a skos:Concept;
+  skos:prefLabel "Tod"@de;
+  skos:hiddenLabel "+", "starb", "verstarb";
+  dmlo:role dmlv-function:Toter;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Vereidigung a skos:Concept;
+  skos:prefLabel "Vereidigung"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Vokation a skos:Concept;
+  skos:prefLabel "Vokation"@de;
+  dmlo:before dmlv-event:Funktionsaus%C3%BCbung;
+  dmlo:start dmlv-event:Funktionsaus%C3%BCbung;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Wahl a skos:Concept;
+  skos:prefLabel "Wahl"@de;
+  skos:hiddenLabel "gewählt";
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Wappenbesserung a skos:Concept;
+  skos:prefLabel "Wappenbesserung"@de;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Widerstand a skos:Concept;
+  skos:prefLabel "Widerstand"@de;
+  skos:hiddenLabel "verweigerte";
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Wohnsitznahme a skos:Concept;
+  skos:prefLabel "Wohnsitznahme"@de;
+  skos:hiddenLabel "zog er nach";
+  dmlo:role dmlv-function:Einwohner;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv-event:Zulassung a skos:Concept;
+  skos:prefLabel "Zulassung"@de;
+  skos:hiddenLabel "zugelassen";
+  dmlo:start dmlv-event:Studium;
+  dmlo:role dmlv-function:Student, dmlv-function:Lehrer;
+  skos:inScheme dmlv:event;
+  skos:topConceptOf dmlv:event .
+
+dmlv:function a skos:ConceptScheme;
+  skos:prefLabel "Funktion-Thesaurus"@de, "Function Thesaurus"@en;
+  skos:definition "DigiKAR-Thesaurus für Funktionen/Rollen in biographischen Ereignisse"@de,
+    "DigiKAR Thesaurus of functions/roles in biographical events"@en;
+  skos:hasTopConcept dmlv-function:%23, dmlv-function:%40, dmlv-function:Absolvent,
+    dmlv-function:Abt, dmlv-function:Adeliger, dmlv-function:Adjunkt, dmlv-function:Administrator,
+    dmlv-function:Advokat, dmlv-function:Aktuar, dmlv-function:Altarist, dmlv-function:%C3%84ltester,
+    dmlv-function:Alumnus, dmlv-function:Amtmann, dmlv-function:Antragsteller, dmlv-function:Anwesender,
+    dmlv-function:Archivar, dmlv-function:Archivrat, dmlv-function:Arzt, dmlv-function:Assessor,
+    dmlv-function:Assessor%2C%20Supernumerar, dmlv-function:Auditor, dmlv-function:Beichtvater,
+    dmlv-function:Beichtvater%2C%20f%C3%BCr%20Externe, dmlv-function:Berater, dmlv-function:Bewerber,
+    dmlv-function:Bibliothekar, dmlv-function:Bischof, dmlv-function:B%C3%BCcherkommissar,
+    dmlv-function:B%C3%BCcherzensor, dmlv-function:Buchh%C3%A4ndler, dmlv-function:B%C3%BCrger,
+    dmlv-function:B%C3%BCrgermeister, dmlv-function:Collector, dmlv-function:Concionator%20S%2E%20templi,
+    dmlv-function:Definitor, dmlv-function:Dekan, dmlv-function:Diakon, dmlv-function:Diener,
+    dmlv-function:Diplomat, dmlv-function:Diplomat%2C%20%C3%96sterreich, dmlv-function:Direktor,
+    dmlv-function:Domizellar, dmlv-function:Edelknabe, dmlv-function:Edelknabenpr%C3%A4zeptor,
+    dmlv-function:Ehemann, dmlv-function:Ehrendoktor, dmlv-function:Ehrenmitglied, dmlv-function:Eigent%C3%BCmer,
+    dmlv-function:Einwohner, dmlv-function:Entlassener, dmlv-function:Erbe, dmlv-function:Erzbischof,
+    dmlv-function:Erzieher, dmlv-function:Exulant, dmlv-function:Fiskal, dmlv-function:Gro%C3%9Ffiskal,
+    dmlv-function:Fiskaladvokat, dmlv-function:Fl%C3%BCchtling, dmlv-function:Forscher,
+    dmlv-function:Friedensrichter, dmlv-function:Gastwirt, dmlv-function:Geheimer%20Reichsreferendar,
+    dmlv-function:Geistlicher, dmlv-function:Geistlicher%20Vater, dmlv-function:Generalvikar,
+    dmlv-function:Gerichtsschreiber, dmlv-function:Gesandter, dmlv-function:Gesandter%2C%20stellvertretender,
+    dmlv-function:Glash%C3%A4ndler, dmlv-function:Gro%C3%9Fherzog, dmlv-function:Gro%C3%9Fsiegelbewahrer,
+    dmlv-function:Gutachter, dmlv-function:Habilitand, dmlv-function:H%C3%A4ftling, dmlv-function:H%C3%A4ndler,
+    dmlv-function:Historiker, dmlv-function:Historiker%2C%20Kirchengeschichte, dmlv-function:Hofapotheker,
+    dmlv-function:Hofarzt, dmlv-function:Hofgerichtsadvokat, dmlv-function:Hofgerichtsrat,
+    dmlv-function:Hofgerichtsschreiber, dmlv-function:Hofkaplan, dmlv-function:Hofmathematiker,
+    dmlv-function:Hofmeister, dmlv-function:Hofpfalzgraf, dmlv-function:Hofprediger, dmlv-function:Immatrikulation,
+    dmlv-function:Inspektor, dmlv-function:Jurist, dmlv-function:K%C3%A4mmerer, dmlv-function:Kammerherr,
+    dmlv-function:Kanoniker, dmlv-function:Kantor, dmlv-function:Kanzler, dmlv-function:Kanzlist,
+    dmlv-function:Kapitularherr, dmlv-function:Kapiturlarherr%2FPr%C3%A4bendar, dmlv-function:Kaplan,
+    dmlv-function:Kind, dmlv-function:Kind%20%2F%20Student, dmlv-function:Kleriker, dmlv-function:Koadjutor,
+    dmlv-function:Kommandeur, dmlv-function:Kommissar, dmlv-function:Konferenzminister%20%2F%20Staatsminister%20%2F%20%23,
+    dmlv-function:Konsulent, dmlv-function:Konvertit, dmlv-function:Korrektor, dmlv-function:Kranker,
+    dmlv-function:Kurator, dmlv-function:Kurator%2C%20Generalkurator, dmlv-function:Kurf%C3%BCrst,
+    dmlv-function:Kustos, dmlv-function:Landwirt, dmlv-function:Lehnpropst, dmlv-function:Lehrer,
+    dmlv-function:Lehrer%2C%20Dogmatik, dmlv-function:Lehrer%2C%20Hebr%C3%A4isch, dmlv-function:Lehrer%2C%20Heilige%20Schrift,
+    dmlv-function:Lehrer%2C%20Humaniora, dmlv-function:Lehrer%2C%20Logik, dmlv-function:Lehrer%2C%20Metaphysik,
+    dmlv-function:Lehrer%2C%20Metaphysik%20%2F%20Ethik, dmlv-function:Lehrer%2C%20Metaphysik%20%2F%20Humaniora%20%2F%20Theologie,
+    dmlv-function:Lehrer%2C%20Moral, dmlv-function:Lehrer%2C%20Moraltheologie, dmlv-function:Lehrer%2C%20Philosophie,
+    dmlv-function:Lehrer%2C%20Philosophie%2FLehrer, dmlv-function:Lehrer%2C%20Physik,
+    dmlv-function:Lehrer%2C%20Physik%20%2F%20Ethik, dmlv-function:Lehrer%2C%20Physik%20%2F%20Mathematik,
+    dmlv-function:Lehrer%2C%20Physik%20%2F%20Metaphysik%20%2F%20Ethik, dmlv-function:Lehrer%2C%20Polemik,
+    dmlv-function:Lehrer%2C%20Rhetorik, dmlv-function:Lehrer%2C%20Theologie, dmlv-function:Lehrer%2C%20Theologie%20%2F%20Kirchengeschichte,
+    dmlv-function:Leibarzt, dmlv-function:Leibwundarzt, dmlv-function:Leiter, dmlv-function:Lektor,
+    dmlv-function:Lizentiat, dmlv-function:Logicus, dmlv-function:Milit%C3%A4rarzt, dmlv-function:Minister,
+    dmlv-function:Ministerialbeamter, dmlv-function:Missionar, dmlv-function:Mitglied,
+    dmlv-function:Munizipal, dmlv-function:Mutter, dmlv-function:Notar, dmlv-function:Novizenmeister,
+    dmlv-function:Offizial, dmlv-function:Offizier, dmlv-function:Opponent, dmlv-function:Ordensmann,
+    dmlv-function:Organist, dmlv-function:Panegyricus, dmlv-function:Pastor, dmlv-function:Pate,
+    dmlv-function:Pensionist, dmlv-function:Pfarrer, dmlv-function:Physikus, dmlv-function:Pleban,
+    dmlv-function:Poeta, dmlv-function:Pr%C3%A4bendar, dmlv-function:Praefectus%20advocatiae%20Urbis,
+    dmlv-function:Praepositus, dmlv-function:Praetor, dmlv-function:Pr%C3%A4fekt, dmlv-function:Praktikant,
+    dmlv-function:Pr%C3%A4ses, dmlv-function:Pr%C3%A4sident, dmlv-function:Pr%C3%A4tor,
+    dmlv-function:Pr%C3%A4zeptor, dmlv-function:Prediger, dmlv-function:Priester, dmlv-function:Priester%2C%20Bu%C3%9Fpriester,
+    dmlv-function:Priester%2C%20Weltgeistlicher, dmlv-function:Prior, dmlv-function:Privatier,
+    dmlv-function:Privatlehrer, dmlv-function:Privatmann, dmlv-function:Privilegierter,
+    dmlv-function:Prodekan, dmlv-function:Professor, dmlv-function:Professor%2C%20au%C3%9Ferordentlicher,
+    dmlv-function:Professor%2C%20emeritierter, dmlv-function:Professor%2C%20Ethik%20%2F%20Mathematik,
+    dmlv-function:Professor%2C%20Gastdozent, dmlv-function:Professor%2C%20Geschichte,
+    dmlv-function:Professor%2C%20Kirchenrecht, dmlv-function:Professor%2C%20Logik, dmlv-function:Professor%2C%20Metaphysik%20%2F%20Ethik,
+    dmlv-function:Professor%2C%20ordentlicher, dmlv-function:Professor%2C%20Philosophie,
+    dmlv-function:Professor%2C%20Physik, dmlv-function:Professor%2C%20Poetik, dmlv-function:Professor%2C%20Rechtswissenschaft,
+    dmlv-function:Professor%2C%20Rhetorik, dmlv-function:Professor%2C%20Theologie, dmlv-function:Professsor%2C%20ordentlicher,
+    dmlv-function:Prokurator, dmlv-function:Promissarius, dmlv-function:Promotor, dmlv-function:Promovend,
+    dmlv-function:Promovend%2C%20Assessor, dmlv-function:Promovend%2C%20Professor, dmlv-function:Propst,
+    dmlv-function:Prorektor, dmlv-function:Protog%C3%A9, dmlv-function:Protonotar, dmlv-function:Provikar,
+    dmlv-function:Provincialis, dmlv-function:Provinzial, dmlv-function:Pr%C3%BCfer, dmlv-function:Pr%C3%BCfling,
+    dmlv-function:Quaestor, dmlv-function:Rat, dmlv-function:Rat%20%23, dmlv-function:Rat%2C%20Supernumerar,
+    dmlv-function:Ratsmeister, dmlv-function:Rechnungsunterzeichner, dmlv-function:Rector%20Magnificus,
+    dmlv-function:Redner, dmlv-function:Referend, dmlv-function:Referendar, dmlv-function:Reformator,
+    dmlv-function:Regens, dmlv-function:Regent, dmlv-function:Regierungsmitglied, dmlv-function:Reichsdiener,
+    dmlv-function:Reichserzkanzler, dmlv-function:Reichshofkanzleitaxator, dmlv-function:Reisender,
+    dmlv-function:Rektor, dmlv-function:Rektor%2C%20Assessor, dmlv-function:Rentmeister,
+    dmlv-function:Repetent, dmlv-function:Resignation, dmlv-function:Revisionsrat, dmlv-function:Richter,
+    dmlv-function:S%C3%A4nger, dmlv-function:Sazellan, dmlv-function:Sch%C3%B6ffe, dmlv-function:Scholaster,
+    dmlv-function:Schreiber, dmlv-function:Schriftsteller, dmlv-function:Schuldirektor,
+    dmlv-function:Schuldner, dmlv-function:Sch%C3%BCler, dmlv-function:Sch%C3%BCler%20%23,
+    dmlv-function:Sch%C3%BCler%5D, dmlv-function:Sch%C3%BClerin, dmlv-function:Schulkommissar,
+    dmlv-function:Schulmeister, dmlv-function:Schulthei%C3%9F, dmlv-function:Seelsorger,
+    dmlv-function:Sekret%C3%A4r, dmlv-function:Sekret%C3%A4r%20%23, dmlv-function:Seminarist,
+    dmlv-function:Sicherheitsbeamter, dmlv-function:Siegelbewahrer, dmlv-function:Siegler,
+    dmlv-function:Soldat, dmlv-function:Sonstiges, dmlv-function:Spiritual, dmlv-function:Staatsbeamter%2C%20h%C3%B6herer,
+    dmlv-function:Staatsminister, dmlv-function:Stadtgerichtsschulthei%C3%9F, dmlv-function:Stadthauptmann,
+    dmlv-function:Stadtkapit%C3%A4n, dmlv-function:Stadtmajor, dmlv-function:Stadtschreiber,
+    dmlv-function:Stadtschulthei%C3%9F, dmlv-function:Stadtvogt, dmlv-function:Statthalter,
+    dmlv-function:Steuerzahler, dmlv-function:Stipendiat, dmlv-function:Student, dmlv-function:Student%20%23,
+    dmlv-function:Student%5D, dmlv-function:Subcustos, dmlv-function:Subdelegierter, dmlv-function:Subdiakon,
+    dmlv-function:Subkonkretor, dmlv-function:Subregens, dmlv-function:Superintendent,
+    dmlv-function:Superior, dmlv-function:Syndikus, dmlv-function:Syndikus%20%23, dmlv-function:T%C3%A4ufling,
+    dmlv-function:T%C3%A4ufling%2C%20evangelisch-kalvinistisch, dmlv-function:T%C3%A4ufling%2C%20evangelisch-lutherisch,
+    dmlv-function:T%C3%A4ufling%2C%20evangelisch-reformiert, dmlv-function:T%C3%A4ufling%2C%20katholisch,
+    dmlv-function:Testamentsvollstrecker, dmlv-function:Toter, dmlv-function:Try%C3%9Fler,
+    dmlv-function:Tutor, dmlv-function:Uhrmacher, dmlv-function:Ungelder, dmlv-function:Unterbauherr,
+    dmlv-function:Unterpr%C3%A4fekt, dmlv-function:Unterstadtvogt, dmlv-function:Vater,
+    dmlv-function:Vater%2C%20Braut, dmlv-function:Vater%2C%20Br%C3%A4utigam, dmlv-function:Verwalter,
+    dmlv-function:Verwalter%2C%20kommisarisch, dmlv-function:Verweser, dmlv-function:Vierherr,
+    dmlv-function:Vikar, dmlv-function:Vikariatsassessor, dmlv-function:Visitator, dmlv-function:Vizedekan,
+    dmlv-function:Vizedirektor, dmlv-function:Vizedom, dmlv-function:Vizegro%C3%9Fhofmeister,
+    dmlv-function:Vizekanzler, dmlv-function:Vizepr%C3%A4sident, dmlv-function:Vizepr%C3%A4sident%5D,
+    dmlv-function:Vizeregierungsdirektor%2FKanzleidirektor, dmlv-function:Vizerektor,
+    dmlv-function:Vizestadtschulthei%C3%9F, dmlv-function:Vogelsch%C3%BCtze, dmlv-function:Vogt,
+    dmlv-function:Vorsitzender, dmlv-function:Vorsteher, dmlv-function:Vorstizender, dmlv-function:Wahlbotschafter%2C%20zweiter,
+    dmlv-function:Weihbischof, dmlv-function:Zahlmeister, dmlv-function:Zahlmeister-Adjunkt,
+    dmlv-function:Zensor, dmlv-function:Zinseinnehmer-Adjunkt, dmlv-function:Zinsmeister,
+    dmlv-function:Zollschreiber, dmlv-function:Zuckermacher, dmlv-function:Zweiermann .
+
+dmlv-function:%23 a skos:Concept;
+  skos:prefLabel "#"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:%40 a skos:Concept;
+  skos:prefLabel "@"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Absolvent a skos:Concept;
+  skos:prefLabel "Absolvent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Abt a skos:Concept;
+  skos:prefLabel "Abt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Adeliger a skos:Concept;
+  skos:prefLabel "Adeliger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Adjunkt a skos:Concept;
+  skos:prefLabel "Adjunkt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Administrator a skos:Concept;
+  skos:prefLabel "Administrator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Advokat a skos:Concept;
+  skos:prefLabel "Advokat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Aktuar a skos:Concept;
+  skos:prefLabel "Aktuar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Altarist a skos:Concept;
+  skos:prefLabel "Altarist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:%C3%84ltester a skos:Concept;
+  skos:prefLabel "Ältester"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Alumnus a skos:Concept;
+  skos:prefLabel "Alumnus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Amtmann a skos:Concept;
+  skos:prefLabel "Amtmann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Antragsteller a skos:Concept;
+  skos:prefLabel "Antragsteller"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Anwesender a skos:Concept;
+  skos:prefLabel "Anwesender"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Archivar a skos:Concept;
+  skos:prefLabel "Archivar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Archivrat a skos:Concept;
+  skos:prefLabel "Archivrat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Arzt a skos:Concept;
+  skos:prefLabel "Arzt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Assessor a skos:Concept;
+  skos:prefLabel "Assessor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Assessor%2C%20Supernumerar a skos:Concept;
+  skos:prefLabel "Assessor, Supernumerar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Auditor a skos:Concept;
+  skos:prefLabel "Auditor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Beichtvater a skos:Concept;
+  skos:prefLabel "Beichtvater"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Beichtvater%2C%20f%C3%BCr%20Externe a skos:Concept;
+  skos:prefLabel "Beichtvater, für Externe"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Berater a skos:Concept;
+  skos:prefLabel "Berater"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Bewerber a skos:Concept;
+  skos:prefLabel "Bewerber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Bibliothekar a skos:Concept;
+  skos:prefLabel "Bibliothekar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Bischof a skos:Concept;
+  skos:prefLabel "Bischof"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:B%C3%BCcherkommissar a skos:Concept;
+  skos:prefLabel "Bücherkommissar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:B%C3%BCcherzensor a skos:Concept;
+  skos:prefLabel "Bücherzensor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Buchh%C3%A4ndler a skos:Concept;
+  skos:prefLabel "Buchhändler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:B%C3%BCrger a skos:Concept;
+  skos:prefLabel "Bürger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:B%C3%BCrgermeister a skos:Concept;
+  skos:prefLabel "Bürgermeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Collector a skos:Concept;
+  skos:prefLabel "Collector"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Concionator%20S%2E%20templi a skos:Concept;
+  skos:prefLabel "Concionator S. templi"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Definitor a skos:Concept;
+  skos:prefLabel "Definitor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Dekan a skos:Concept;
+  skos:prefLabel "Dekan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Diakon a skos:Concept;
+  skos:prefLabel "Diakon"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Diener a skos:Concept;
+  skos:prefLabel "Diener"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Diplomat a skos:Concept;
+  skos:prefLabel "Diplomat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Diplomat%2C%20%C3%96sterreich a skos:Concept;
+  skos:prefLabel "Diplomat, Österreich"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Direktor a skos:Concept;
+  skos:prefLabel "Direktor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Domizellar a skos:Concept;
+  skos:prefLabel "Domizellar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Edelknabe a skos:Concept;
+  skos:prefLabel "Edelknabe"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Edelknabenpr%C3%A4zeptor a skos:Concept;
+  skos:prefLabel "Edelknabenpräzeptor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ehemann a skos:Concept;
+  skos:prefLabel "Ehemann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ehrendoktor a skos:Concept;
+  skos:prefLabel "Ehrendoktor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ehrenmitglied a skos:Concept;
+  skos:prefLabel "Ehrenmitglied"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Eigent%C3%BCmer a skos:Concept;
+  skos:prefLabel "Eigentümer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Einwohner a skos:Concept;
+  skos:prefLabel "Einwohner"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Entlassener a skos:Concept;
+  skos:prefLabel "Entlassener"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Erbe a skos:Concept;
+  skos:prefLabel "Erbe"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Erzbischof a skos:Concept;
+  skos:prefLabel "Erzbischof"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Erzieher a skos:Concept;
+  skos:prefLabel "Erzieher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Exulant a skos:Concept;
+  skos:prefLabel "Exulant"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Fiskal a skos:Concept;
+  skos:prefLabel "Fiskal"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gro%C3%9Ffiskal a skos:Concept;
+  skos:prefLabel "Großfiskal"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Fiskaladvokat a skos:Concept;
+  skos:prefLabel "Fiskaladvokat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Fl%C3%BCchtling a skos:Concept;
+  skos:prefLabel "Flüchtling"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Forscher a skos:Concept;
+  skos:prefLabel "Forscher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Friedensrichter a skos:Concept;
+  skos:prefLabel "Friedensrichter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gastwirt a skos:Concept;
+  skos:prefLabel "Gastwirt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Geheimer%20Reichsreferendar a skos:Concept;
+  skos:prefLabel "Geheimer Reichsreferendar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Geistlicher a skos:Concept;
+  skos:prefLabel "Geistlicher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Geistlicher%20Vater a skos:Concept;
+  skos:prefLabel "Geistlicher Vater"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Generalvikar a skos:Concept;
+  skos:prefLabel "Generalvikar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gerichtsschreiber a skos:Concept;
+  skos:prefLabel "Gerichtsschreiber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gesandter a skos:Concept;
+  skos:prefLabel "Gesandter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gesandter%2C%20stellvertretender a skos:Concept;
+  skos:prefLabel "Gesandter, stellvertretender"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Glash%C3%A4ndler a skos:Concept;
+  skos:prefLabel "Glashändler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gro%C3%9Fherzog a skos:Concept;
+  skos:prefLabel "Großherzog"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gro%C3%9Fsiegelbewahrer a skos:Concept;
+  skos:prefLabel "Großsiegelbewahrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Gutachter a skos:Concept;
+  skos:prefLabel "Gutachter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Habilitand a skos:Concept;
+  skos:prefLabel "Habilitand"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:H%C3%A4ftling a skos:Concept;
+  skos:prefLabel "Häftling"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:H%C3%A4ndler a skos:Concept;
+  skos:prefLabel "Händler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Historiker a skos:Concept;
+  skos:prefLabel "Historiker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Historiker%2C%20Kirchengeschichte a skos:Concept;
+  skos:prefLabel "Historiker, Kirchengeschichte"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofapotheker a skos:Concept;
+  skos:prefLabel "Hofapotheker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofarzt a skos:Concept;
+  skos:prefLabel "Hofarzt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofgerichtsadvokat a skos:Concept;
+  skos:prefLabel "Hofgerichtsadvokat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofgerichtsrat a skos:Concept;
+  skos:prefLabel "Hofgerichtsrat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofgerichtsschreiber a skos:Concept;
+  skos:prefLabel "Hofgerichtsschreiber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofkaplan a skos:Concept;
+  skos:prefLabel "Hofkaplan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofmathematiker a skos:Concept;
+  skos:prefLabel "Hofmathematiker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofmeister a skos:Concept;
+  skos:prefLabel "Hofmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofpfalzgraf a skos:Concept;
+  skos:prefLabel "Hofpfalzgraf"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Hofprediger a skos:Concept;
+  skos:prefLabel "Hofprediger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Immatrikulation a skos:Concept;
+  skos:prefLabel "Immatrikulation"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Inspektor a skos:Concept;
+  skos:prefLabel "Inspektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Jurist a skos:Concept;
+  skos:prefLabel "Jurist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:K%C3%A4mmerer a skos:Concept;
+  skos:prefLabel "Kämmerer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kammerherr a skos:Concept;
+  skos:prefLabel "Kammerherr"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kanoniker a skos:Concept;
+  skos:prefLabel "Kanoniker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kantor a skos:Concept;
+  skos:prefLabel "Kantor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kanzler a skos:Concept;
+  skos:prefLabel "Kanzler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kanzlist a skos:Concept;
+  skos:prefLabel "Kanzlist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kapitularherr a skos:Concept;
+  skos:prefLabel "Kapitularherr"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kapiturlarherr%2FPr%C3%A4bendar a skos:Concept;
+  skos:prefLabel "Kapiturlarherr/Präbendar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kaplan a skos:Concept;
+  skos:prefLabel "Kaplan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kind a skos:Concept;
+  skos:prefLabel "Kind"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kind%20%2F%20Student a skos:Concept;
+  skos:prefLabel "Kind / Student"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kleriker a skos:Concept;
+  skos:prefLabel "Kleriker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Koadjutor a skos:Concept;
+  skos:prefLabel "Koadjutor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kommandeur a skos:Concept;
+  skos:prefLabel "Kommandeur"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kommissar a skos:Concept;
+  skos:prefLabel "Kommissar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Konferenzminister%20%2F%20Staatsminister%20%2F%20%23 a skos:Concept;
+  skos:prefLabel "Konferenzminister / Staatsminister / #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Konsulent a skos:Concept;
+  skos:prefLabel "Konsulent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Konvertit a skos:Concept;
+  skos:prefLabel "Konvertit"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Korrektor a skos:Concept;
+  skos:prefLabel "Korrektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kranker a skos:Concept;
+  skos:prefLabel "Kranker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kurator a skos:Concept;
+  skos:prefLabel "Kurator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kurator%2C%20Generalkurator a skos:Concept;
+  skos:prefLabel "Kurator, Generalkurator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kurf%C3%BCrst a skos:Concept;
+  skos:prefLabel "Kurfürst"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Kustos a skos:Concept;
+  skos:prefLabel "Kustos"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Landwirt a skos:Concept;
+  skos:prefLabel "Landwirt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehnpropst a skos:Concept;
+  skos:prefLabel "Lehnpropst"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer a skos:Concept;
+  skos:prefLabel "Lehrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Dogmatik a skos:Concept;
+  skos:prefLabel "Lehrer, Dogmatik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Hebr%C3%A4isch a skos:Concept;
+  skos:prefLabel "Lehrer, Hebräisch"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Heilige%20Schrift a skos:Concept;
+  skos:prefLabel "Lehrer, Heilige Schrift"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Humaniora a skos:Concept;
+  skos:prefLabel "Lehrer, Humaniora"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Logik a skos:Concept;
+  skos:prefLabel "Lehrer, Logik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Metaphysik a skos:Concept;
+  skos:prefLabel "Lehrer, Metaphysik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Metaphysik%20%2F%20Ethik a skos:Concept;
+  skos:prefLabel "Lehrer, Metaphysik / Ethik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Metaphysik%20%2F%20Humaniora%20%2F%20Theologie a skos:Concept;
+  skos:prefLabel "Lehrer, Metaphysik / Humaniora / Theologie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Moral a skos:Concept;
+  skos:prefLabel "Lehrer, Moral"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Moraltheologie a skos:Concept;
+  skos:prefLabel "Lehrer, Moraltheologie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Philosophie a skos:Concept;
+  skos:prefLabel "Lehrer, Philosophie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Philosophie%2FLehrer a skos:Concept;
+  skos:prefLabel "Lehrer, Philosophie/Lehrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Physik a skos:Concept;
+  skos:prefLabel "Lehrer, Physik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Physik%20%2F%20Ethik a skos:Concept;
+  skos:prefLabel "Lehrer, Physik / Ethik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Physik%20%2F%20Mathematik a skos:Concept;
+  skos:prefLabel "Lehrer, Physik / Mathematik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Physik%20%2F%20Metaphysik%20%2F%20Ethik a skos:Concept;
+  skos:prefLabel "Lehrer, Physik / Metaphysik / Ethik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Polemik a skos:Concept;
+  skos:prefLabel "Lehrer, Polemik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Rhetorik a skos:Concept;
+  skos:prefLabel "Lehrer, Rhetorik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Theologie a skos:Concept;
+  skos:prefLabel "Lehrer, Theologie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lehrer%2C%20Theologie%20%2F%20Kirchengeschichte a skos:Concept;
+  skos:prefLabel "Lehrer, Theologie / Kirchengeschichte"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Leibarzt a skos:Concept;
+  skos:prefLabel "Leibarzt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Leibwundarzt a skos:Concept;
+  skos:prefLabel "Leibwundarzt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Leiter a skos:Concept;
+  skos:prefLabel "Leiter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lektor a skos:Concept;
+  skos:prefLabel "Lektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Lizentiat a skos:Concept;
+  skos:prefLabel "Lizentiat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Logicus a skos:Concept;
+  skos:prefLabel "Logicus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Milit%C3%A4rarzt a skos:Concept;
+  skos:prefLabel "Militärarzt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Minister a skos:Concept;
+  skos:prefLabel "Minister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ministerialbeamter a skos:Concept;
+  skos:prefLabel "Ministerialbeamter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Missionar a skos:Concept;
+  skos:prefLabel "Missionar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Mitglied a skos:Concept;
+  skos:prefLabel "Mitglied"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Munizipal a skos:Concept;
+  skos:prefLabel "Munizipal"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Mutter a skos:Concept;
+  skos:prefLabel "Mutter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Notar a skos:Concept;
+  skos:prefLabel "Notar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Novizenmeister a skos:Concept;
+  skos:prefLabel "Novizenmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Offizial a skos:Concept;
+  skos:prefLabel "Offizial"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Offizier a skos:Concept;
+  skos:prefLabel "Offizier"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Opponent a skos:Concept;
+  skos:prefLabel "Opponent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ordensmann a skos:Concept;
+  skos:prefLabel "Ordensmann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Organist a skos:Concept;
+  skos:prefLabel "Organist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Panegyricus a skos:Concept;
+  skos:prefLabel "Panegyricus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pastor a skos:Concept;
+  skos:prefLabel "Pastor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pate a skos:Concept;
+  skos:prefLabel "Pate"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pensionist a skos:Concept;
+  skos:prefLabel "Pensionist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pfarrer a skos:Concept;
+  skos:prefLabel "Pfarrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Physikus a skos:Concept;
+  skos:prefLabel "Physikus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pleban a skos:Concept;
+  skos:prefLabel "Pleban"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Poeta a skos:Concept;
+  skos:prefLabel "Poeta"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4bendar a skos:Concept;
+  skos:prefLabel "Präbendar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Praefectus%20advocatiae%20Urbis a skos:Concept;
+  skos:prefLabel "Praefectus advocatiae Urbis"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Praepositus a skos:Concept;
+  skos:prefLabel "Praepositus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Praetor a skos:Concept;
+  skos:prefLabel "Praetor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4fekt a skos:Concept;
+  skos:prefLabel "Präfekt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Praktikant a skos:Concept;
+  skos:prefLabel "Praktikant"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4ses a skos:Concept;
+  skos:prefLabel "Präses"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4sident a skos:Concept;
+  skos:prefLabel "Präsident"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4tor a skos:Concept;
+  skos:prefLabel "Prätor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%A4zeptor a skos:Concept;
+  skos:prefLabel "Präzeptor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Prediger a skos:Concept;
+  skos:prefLabel "Prediger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Priester a skos:Concept;
+  skos:prefLabel "Priester"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Priester%2C%20Bu%C3%9Fpriester a skos:Concept;
+  skos:prefLabel "Priester, Bußpriester"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Priester%2C%20Weltgeistlicher a skos:Concept;
+  skos:prefLabel "Priester, Weltgeistlicher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Prior a skos:Concept;
+  skos:prefLabel "Prior"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Privatier a skos:Concept;
+  skos:prefLabel "Privatier"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Privatlehrer a skos:Concept;
+  skos:prefLabel "Privatlehrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Privatmann a skos:Concept;
+  skos:prefLabel "Privatmann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Privilegierter a skos:Concept;
+  skos:prefLabel "Privilegierter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Prodekan a skos:Concept;
+  skos:prefLabel "Prodekan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor a skos:Concept;
+  skos:prefLabel "Professor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20au%C3%9Ferordentlicher a skos:Concept;
+  skos:prefLabel "Professor, außerordentlicher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20emeritierter a skos:Concept;
+  skos:prefLabel "Professor, emeritierter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Ethik%20%2F%20Mathematik a skos:Concept;
+  skos:prefLabel "Professor, Ethik / Mathematik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Gastdozent a skos:Concept;
+  skos:prefLabel "Professor, Gastdozent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Geschichte a skos:Concept;
+  skos:prefLabel "Professor, Geschichte"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Kirchenrecht a skos:Concept;
+  skos:prefLabel "Professor, Kirchenrecht"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Logik a skos:Concept;
+  skos:prefLabel "Professor, Logik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Metaphysik%20%2F%20Ethik a skos:Concept;
+  skos:prefLabel "Professor, Metaphysik / Ethik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20ordentlicher a skos:Concept;
+  skos:prefLabel "Professor, ordentlicher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Philosophie a skos:Concept;
+  skos:prefLabel "Professor, Philosophie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Physik a skos:Concept;
+  skos:prefLabel "Professor, Physik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Poetik a skos:Concept;
+  skos:prefLabel "Professor, Poetik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Rechtswissenschaft a skos:Concept;
+  skos:prefLabel "Professor, Rechtswissenschaft"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Rhetorik a skos:Concept;
+  skos:prefLabel "Professor, Rhetorik"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professor%2C%20Theologie a skos:Concept;
+  skos:prefLabel "Professor, Theologie"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Professsor%2C%20ordentlicher a skos:Concept;
+  skos:prefLabel "Professsor, ordentlicher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Prokurator a skos:Concept;
+  skos:prefLabel "Prokurator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Promissarius a skos:Concept;
+  skos:prefLabel "Promissarius"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Promotor a skos:Concept;
+  skos:prefLabel "Promotor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Promovend a skos:Concept;
+  skos:prefLabel "Promovend"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Promovend%2C%20Assessor a skos:Concept;
+  skos:prefLabel "Promovend, Assessor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Promovend%2C%20Professor a skos:Concept;
+  skos:prefLabel "Promovend, Professor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Propst a skos:Concept;
+  skos:prefLabel "Propst"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Prorektor a skos:Concept;
+  skos:prefLabel "Prorektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Protog%C3%A9 a skos:Concept;
+  skos:prefLabel "Protogé"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Protonotar a skos:Concept;
+  skos:prefLabel "Protonotar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Provikar a skos:Concept;
+  skos:prefLabel "Provikar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Provincialis a skos:Concept;
+  skos:prefLabel "Provincialis"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Provinzial a skos:Concept;
+  skos:prefLabel "Provinzial"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%BCfer a skos:Concept;
+  skos:prefLabel "Prüfer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Pr%C3%BCfling a skos:Concept;
+  skos:prefLabel "Prüfling"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Quaestor a skos:Concept;
+  skos:prefLabel "Quaestor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rat a skos:Concept;
+  skos:prefLabel "Rat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rat%20%23 a skos:Concept;
+  skos:prefLabel "Rat #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rat%2C%20Supernumerar a skos:Concept;
+  skos:prefLabel "Rat, Supernumerar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ratsmeister a skos:Concept;
+  skos:prefLabel "Ratsmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rechnungsunterzeichner a skos:Concept;
+  skos:prefLabel "Rechnungsunterzeichner"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rector%20Magnificus a skos:Concept;
+  skos:prefLabel "Rector Magnificus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Redner a skos:Concept;
+  skos:prefLabel "Redner"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Referend a skos:Concept;
+  skos:prefLabel "Referend"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Referendar a skos:Concept;
+  skos:prefLabel "Referendar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Reformator a skos:Concept;
+  skos:prefLabel "Reformator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Regens a skos:Concept;
+  skos:prefLabel "Regens"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Regent a skos:Concept;
+  skos:prefLabel "Regent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Regierungsmitglied a skos:Concept;
+  skos:prefLabel "Regierungsmitglied"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Reichsdiener a skos:Concept;
+  skos:prefLabel "Reichsdiener"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Reichserzkanzler a skos:Concept;
+  skos:prefLabel "Reichserzkanzler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Reichshofkanzleitaxator a skos:Concept;
+  skos:prefLabel "Reichshofkanzleitaxator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Reisender a skos:Concept;
+  skos:prefLabel "Reisender"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rektor a skos:Concept;
+  skos:prefLabel "Rektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rektor%2C%20Assessor a skos:Concept;
+  skos:prefLabel "Rektor, Assessor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Rentmeister a skos:Concept;
+  skos:prefLabel "Rentmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Repetent a skos:Concept;
+  skos:prefLabel "Repetent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Resignation a skos:Concept;
+  skos:prefLabel "Resignation"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Revisionsrat a skos:Concept;
+  skos:prefLabel "Revisionsrat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Richter a skos:Concept;
+  skos:prefLabel "Richter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:S%C3%A4nger a skos:Concept;
+  skos:prefLabel "Sänger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sazellan a skos:Concept;
+  skos:prefLabel "Sazellan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sch%C3%B6ffe a skos:Concept;
+  skos:prefLabel "Schöffe"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Scholaster a skos:Concept;
+  skos:prefLabel "Scholaster"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schreiber a skos:Concept;
+  skos:prefLabel "Schreiber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schriftsteller a skos:Concept;
+  skos:prefLabel "Schriftsteller"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schuldirektor a skos:Concept;
+  skos:prefLabel "Schuldirektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schuldner a skos:Concept;
+  skos:prefLabel "Schuldner"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sch%C3%BCler a skos:Concept;
+  skos:prefLabel "Schüler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sch%C3%BCler%20%23 a skos:Concept;
+  skos:prefLabel "Schüler #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sch%C3%BCler%5D a skos:Concept;
+  skos:prefLabel "Schüler]"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sch%C3%BClerin a skos:Concept;
+  skos:prefLabel "Schülerin"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schulkommissar a skos:Concept;
+  skos:prefLabel "Schulkommissar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schulmeister a skos:Concept;
+  skos:prefLabel "Schulmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Schulthei%C3%9F a skos:Concept;
+  skos:prefLabel "Schultheiß"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Seelsorger a skos:Concept;
+  skos:prefLabel "Seelsorger"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sekret%C3%A4r a skos:Concept;
+  skos:prefLabel "Sekretär"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sekret%C3%A4r%20%23 a skos:Concept;
+  skos:prefLabel "Sekretär #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Seminarist a skos:Concept;
+  skos:prefLabel "Seminarist"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sicherheitsbeamter a skos:Concept;
+  skos:prefLabel "Sicherheitsbeamter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Siegelbewahrer a skos:Concept;
+  skos:prefLabel "Siegelbewahrer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Siegler a skos:Concept;
+  skos:prefLabel "Siegler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Soldat a skos:Concept;
+  skos:prefLabel "Soldat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Sonstiges a skos:Concept;
+  skos:prefLabel "Sonstiges"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Spiritual a skos:Concept;
+  skos:prefLabel "Spiritual"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Staatsbeamter%2C%20h%C3%B6herer a skos:Concept;
+  skos:prefLabel "Staatsbeamter, höherer"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Staatsminister a skos:Concept;
+  skos:prefLabel "Staatsminister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtgerichtsschulthei%C3%9F a skos:Concept;
+  skos:prefLabel "Stadtgerichtsschultheiß"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadthauptmann a skos:Concept;
+  skos:prefLabel "Stadthauptmann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtkapit%C3%A4n a skos:Concept;
+  skos:prefLabel "Stadtkapitän"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtmajor a skos:Concept;
+  skos:prefLabel "Stadtmajor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtschreiber a skos:Concept;
+  skos:prefLabel "Stadtschreiber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtschulthei%C3%9F a skos:Concept;
+  skos:prefLabel "Stadtschultheiß"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stadtvogt a skos:Concept;
+  skos:prefLabel "Stadtvogt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Statthalter a skos:Concept;
+  skos:prefLabel "Statthalter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Steuerzahler a skos:Concept;
+  skos:prefLabel "Steuerzahler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Stipendiat a skos:Concept;
+  skos:prefLabel "Stipendiat"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Student a skos:Concept;
+  skos:prefLabel "Student"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Student%20%23 a skos:Concept;
+  skos:prefLabel "Student #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Student%5D a skos:Concept;
+  skos:prefLabel "Student]"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Subcustos a skos:Concept;
+  skos:prefLabel "Subcustos"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Subdelegierter a skos:Concept;
+  skos:prefLabel "Subdelegierter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Subdiakon a skos:Concept;
+  skos:prefLabel "Subdiakon"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Subkonkretor a skos:Concept;
+  skos:prefLabel "Subkonkretor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Subregens a skos:Concept;
+  skos:prefLabel "Subregens"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Superintendent a skos:Concept;
+  skos:prefLabel "Superintendent"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Superior a skos:Concept;
+  skos:prefLabel "Superior"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Syndikus a skos:Concept;
+  skos:prefLabel "Syndikus"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Syndikus%20%23 a skos:Concept;
+  skos:prefLabel "Syndikus #"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:T%C3%A4ufling a skos:Concept;
+  skos:prefLabel "Täufling"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:T%C3%A4ufling%2C%20evangelisch-kalvinistisch a skos:Concept;
+  skos:prefLabel "Täufling, evangelisch-kalvinistisch"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:T%C3%A4ufling%2C%20evangelisch-lutherisch a skos:Concept;
+  skos:prefLabel "Täufling, evangelisch-lutherisch"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:T%C3%A4ufling%2C%20evangelisch-reformiert a skos:Concept;
+  skos:prefLabel "Täufling, evangelisch-reformiert"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:T%C3%A4ufling%2C%20katholisch a skos:Concept;
+  skos:prefLabel "Täufling, katholisch"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Testamentsvollstrecker a skos:Concept;
+  skos:prefLabel "Testamentsvollstrecker"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Toter a skos:Concept;
+  skos:prefLabel "Toter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Try%C3%9Fler a skos:Concept;
+  skos:prefLabel "Tryßler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Tutor a skos:Concept;
+  skos:prefLabel "Tutor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Uhrmacher a skos:Concept;
+  skos:prefLabel "Uhrmacher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Ungelder a skos:Concept;
+  skos:prefLabel "Ungelder"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Unterbauherr a skos:Concept;
+  skos:prefLabel "Unterbauherr"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Unterpr%C3%A4fekt a skos:Concept;
+  skos:prefLabel "Unterpräfekt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Unterstadtvogt a skos:Concept;
+  skos:prefLabel "Unterstadtvogt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vater a skos:Concept;
+  skos:prefLabel "Vater"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vater%2C%20Braut a skos:Concept;
+  skos:prefLabel "Vater, Braut"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vater%2C%20Br%C3%A4utigam a skos:Concept;
+  skos:prefLabel "Vater, Bräutigam"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Verwalter a skos:Concept;
+  skos:prefLabel "Verwalter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Verwalter%2C%20kommisarisch a skos:Concept;
+  skos:prefLabel "Verwalter, kommisarisch"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Verweser a skos:Concept;
+  skos:prefLabel "Verweser"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vierherr a skos:Concept;
+  skos:prefLabel "Vierherr"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vikar a skos:Concept;
+  skos:prefLabel "Vikar"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vikariatsassessor a skos:Concept;
+  skos:prefLabel "Vikariatsassessor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Visitator a skos:Concept;
+  skos:prefLabel "Visitator"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizedekan a skos:Concept;
+  skos:prefLabel "Vizedekan"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizedirektor a skos:Concept;
+  skos:prefLabel "Vizedirektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizedom a skos:Concept;
+  skos:prefLabel "Vizedom"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizegro%C3%9Fhofmeister a skos:Concept;
+  skos:prefLabel "Vizegroßhofmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizekanzler a skos:Concept;
+  skos:prefLabel "Vizekanzler"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizepr%C3%A4sident a skos:Concept;
+  skos:prefLabel "Vizepräsident"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizepr%C3%A4sident%5D a skos:Concept;
+  skos:prefLabel "Vizepräsident]"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizeregierungsdirektor%2FKanzleidirektor a skos:Concept;
+  skos:prefLabel "Vizeregierungsdirektor/Kanzleidirektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizerektor a skos:Concept;
+  skos:prefLabel "Vizerektor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vizestadtschulthei%C3%9F a skos:Concept;
+  skos:prefLabel "Vizestadtschultheiß"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vogelsch%C3%BCtze a skos:Concept;
+  skos:prefLabel "Vogelschütze"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vogt a skos:Concept;
+  skos:prefLabel "Vogt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vorsitzender a skos:Concept;
+  skos:prefLabel "Vorsitzender"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vorsteher a skos:Concept;
+  skos:prefLabel "Vorsteher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Vorstizender a skos:Concept;
+  skos:prefLabel "Vorstizender"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Wahlbotschafter%2C%20zweiter a skos:Concept;
+  skos:prefLabel "Wahlbotschafter, zweiter"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Weihbischof a skos:Concept;
+  skos:prefLabel "Weihbischof"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zahlmeister a skos:Concept;
+  skos:prefLabel "Zahlmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zahlmeister-Adjunkt a skos:Concept;
+  skos:prefLabel "Zahlmeister-Adjunkt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zensor a skos:Concept;
+  skos:prefLabel "Zensor"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zinseinnehmer-Adjunkt a skos:Concept;
+  skos:prefLabel "Zinseinnehmer-Adjunkt"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zinsmeister a skos:Concept;
+  skos:prefLabel "Zinsmeister"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zollschreiber a skos:Concept;
+  skos:prefLabel "Zollschreiber"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zuckermacher a skos:Concept;
+  skos:prefLabel "Zuckermacher"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
+
+dmlv-function:Zweiermann a skos:Concept;
+  skos:prefLabel "Zweiermann"@de;
+  skos:inScheme dmlv:function;
+  skos:topConceptOf dmlv:function .
