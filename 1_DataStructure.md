@@ -21,18 +21,38 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 **Table design in EXCEL for collecting biographic data**
 
 *Columns with event information*
-| factoid_ID | event_date | event_after-date | event_before-date | event_start | event_end | event_type |
+| factoid_ID | internal project ID, containing an abbrevated source name and consecutive numbers |
+| event_date | used if exact event date is known |
+| event_after-date | used as fuzzy start date |
+| event_before-date | used as fuzzy end date |
+| event_start | used as specific start date |
+| event_end | used as specific end date |
+| event_type | specification of event type according to our project ontologies |
 
 The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
 
 *Columns with person, place and institution information*
-| pers_ID | pers_name | pers_title | pers_function | place_name | inst_name | rel_pers | alternative_names |
+| pers_ID | numeric person ID to differentiate people in the data |
+| pers_name | standardised person name used for display in data visualisations |
+| pers_title | academic, noble or religious titles held by person in question |
+| pers_function | function carried out by person in question at the time of the event |
+| place_name | place where the event happened |
+| inst_name | institution where or on whose behalf a function is carried out |
+| rel_pers | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
+| alternative_names | alternative names of person in question, including spelling variants |
+
+While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
 
 {:.justified}
 Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
 
 *Columns with source information*
-| source_quotations | additional_info | comment | source | source_site | info_dump |
+| source_quotations | direct quotes from sources in which event was found |
+| additional_info | column to specify or critique the source and its history |
+| comment | editorial comment concerning the data collection and data decisions in DigiKAR |
+| source | bibliographic information on the sources in which event was found |
+| source_site | if digital source was used: URL |
+| info_dump | additional information on the recorded event, including historical contextualisations based on secondary literature |
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
@@ -68,7 +88,9 @@ It is used to create a database for eventually deriving visualisations.
 | longitude         | ((geonames\|google)\_)?longitude(s)? | real           | yes    |
 |                   | source                               | varchar        | yes    |
 |                   | source_quotations                    | varchar        | yes    |
-| comment           | comment\|additional_info             | varchar        | yes    |
+| editorial_comment           | comment            | varchar        | yes    |
+| source_criticism           |additional_info             | varchar        | yes    |
+| historiographical_comment           |info_dump             | varchar        | yes    |
 
 {:.justified}
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
