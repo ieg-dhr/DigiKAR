@@ -21,6 +21,9 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 **Table design in EXCEL for collecting biographic data**
 
 *Columns with event information*
+
+| column name   | column function                     |
+| ----------------- | ------------------------------------ | 
 | factoid_ID | internal project ID, containing an abbrevated source name and consecutive numbers |
 | event_date | used if exact event date is known |
 | event_after-date | used as fuzzy start date |
@@ -32,6 +35,9 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
 
 *Columns with person, place and institution information*
+
+| column name   | column function                     |
+| ----------------- | ------------------------------------ | 
 | pers_ID | numeric person ID to differentiate people in the data |
 | pers_name | standardised person name used for display in data visualisations |
 | pers_title | academic, noble or religious titles held by person in question |
@@ -47,6 +53,9 @@ While some alternative names are thus recorded in our actual data sets, due to t
 Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
 
 *Columns with source information*
+
+| column name   | column function                     |
+| ----------------- | ------------------------------------ | 
 | source_quotations | direct quotes from sources in which event was found |
 | additional_info | column to specify or critique the source and its history |
 | comment | editorial comment concerning the data collection and data decisions in DigiKAR |
