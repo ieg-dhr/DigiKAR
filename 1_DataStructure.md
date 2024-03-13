@@ -38,13 +38,13 @@ The different data columns were used to differentiate between punctual events an
 
 | column name   | column function                     |
 | ----------------- | ------------------------------------ | 
-| pers_ID | numeric person ID to differentiate people in the data |
-| pers_name | standardised person name used for display in data visualisations |
-| pers_title | academic, noble or religious titles held by person in question |
-| pers_function | function carried out by person in question at the time of the event |
+| person_ID | numeric person ID to differentiate people in the data |
+| person_name | standardised person name used for display in data visualisations |
+| person_title | academic, noble or religious titles held by person in question |
+| person_function | function carried out by person in question at the time of the event |
 | place_name | place where the event happened |
-| inst_name | institution where or on whose behalf a function is carried out |
-| rel_pers | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
+| institution_name | institution where or on whose behalf a function is carried out |
+| related_pers | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
 | alternative_names | alternative names of person in question, including spelling variants |
 
 While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
