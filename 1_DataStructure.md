@@ -20,48 +20,48 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 
 **Table design in EXCEL for collecting biographic data**
 
-*Columns with event information*
+_Columns with event information_
 
-| column name   | column function                     |
-| ----------------- | ------------------------------------ | 
-| factoid_ID | internal project ID, containing an abbrevated source name and consecutive numbers |
-| event_date | used if exact event date is known |
-| event_after-date | used as fuzzy start date |
-| event_before-date | used as fuzzy end date |
-| event_start | used as specific start date |
-| event_end | used as specific end date |
-| event_type | specification of event type according to our project ontologies |
+| column name       | column function                                                                   |
+| ----------------- | --------------------------------------------------------------------------------- |
+| factoid_ID        | internal project ID, containing an abbrevated source name and consecutive numbers |
+| event_date        | used if exact event date is known                                                 |
+| event_after-date  | used as fuzzy start date                                                          |
+| event_before-date | used as fuzzy end date                                                            |
+| event_start       | used as specific start date                                                       |
+| event_end         | used as specific end date                                                         |
+| event_type        | specification of event type according to our project ontologies                   |
 
 The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
 
-*Columns with person, place and institution information*
+_Columns with person, place and institution information_
 
-| column name   | column function                     |
-| ----------------- | ------------------------------------ | 
-| person_ID | numeric person ID to differentiate people in the data |
-| person_name | standardised person name used for display in data visualisations |
-| person_title | academic, noble or religious titles held by person in question |
-| person_function | function carried out by person in question at the time of the event |
-| place_name | place where the event happened |
-| institution_name | institution where or on whose behalf a function is carried out |
-| related_pers | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
-| alternative_names | alternative names of person in question, including spelling variants |
+| column name       | column function                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------ |
+| person_ID         | numeric person ID to differentiate people in the data                                            |
+| person_name       | standardised person name used for display in data visualisations                                 |
+| person_title      | academic, noble or religious titles held by person in question                                   |
+| person_function   | function carried out by person in question at the time of the event                              |
+| place_name        | place where the event happened                                                                   |
+| institution_name  | institution where or on whose behalf a function is carried out                                   |
+| related_pers      | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
+| alternative_names | alternative names of person in question, including spelling variants                             |
 
 While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
 
 {:.justified}
 Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
 
-*Columns with source information*
+_Columns with source information_
 
-| column name   | column function                     |
-| ----------------- | ------------------------------------ | 
-| source_quotations | direct quotes from sources in which event was found |
-| additional_info | column to specify or critique the source and its history |
-| comment | editorial comment concerning the data collection and data decisions in DigiKAR |
-| source | bibliographic information on the sources in which event was found |
-| source_site | if digital source was used: URL |
-| info_dump | additional information on the recorded event, including historical contextualisations based on secondary literature |
+| column name       | column function                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
+| source_quotations | direct quotes from sources in which event was found                                                                 |
+| additional_info   | column to specify or critique the source and its history                                                            |
+| comment           | editorial comment concerning the data collection and data decisions in DigiKAR                                      |
+| source            | bibliographic information on the sources in which event was found                                                   |
+| source_site       | if digital source was used: URL                                                                                     |
+| info_dump         | additional information on the recorded event, including historical contextualisations based on secondary literature |
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
@@ -191,7 +191,7 @@ The columns in this spreadsheet are:
 - Recherchehinweise(not in original data model!)
 - ID_Factoid-List (not in original data model!)
 
-*Overview of the individual tabs in the Staatskalender spreadsheet:*
+_Overview of the individual tabs in the Staatskalender spreadsheet:_
 
 - FS0 = 4457 entries
 - FS1 = 4910 entries
@@ -202,7 +202,7 @@ The columns in this spreadsheet are:
 {:.justified}
 Due to the large number of data rows per sheet and the redundant nature of the entries (functions enumerated per year), a vertical consolidation should be performed before a horizontal mapping of entities.
 
-*Important information to add to consolidated Staatskalender files:*
+_Important information to add to consolidated Staatskalender files:_
 
 - add exact name of data source
 - add missing person IDs (based on all existing person data)
