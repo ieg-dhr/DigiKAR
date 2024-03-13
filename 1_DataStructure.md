@@ -83,7 +83,7 @@ It is used to create a database for eventually deriving visualisations.
 | person_name               | pers_name                            | varchar        | yes    |
 | person_function           | pers_function                        | varchar        | yes    |
 | person_title              | pers_title                           | varchar        | yes    |
-| factoid id                | factoid_ID                           | varchar?       | yes    |
+| factoid_id                | factoid_ID                           | varchar?       | yes    |
 | event_before_date         | event_before-date                    | varchar        | yes    |
 | event_after_date          | event_after-date                     | varchar        | yes    |
 |                           | event_start                          | varchar        | yes    |
