@@ -77,29 +77,31 @@ To get a better idea of the different types of ecclesiastical, academic, and pol
 This table describes the harmonized schema for all analytical lenses.
 It is used to create a database for eventually deriving visualisations.
 
-| new column name   | current name/s                       | data type      | null   |
-| ----------------- | ------------------------------------ | -------------- | ------ |
-| person_id         | pers_ID(\_FS)?                       | varchar        | yes    |
-| person_name       | pers_name                            | varchar        | yes    |
-| person_function   | pers_function                        | varchar        | yes    |
-| person_title      | pers_title                           | varchar        | yes    |
-| factoid id        | factoid_ID                           | varchar?       | yes    |
-| event_before_date | event_before-date                    | varchar        | yes    |
-| event_after_date  | event_after-date                     | varchar        | yes    |
-|                   | event_start                          | varchar        | yes    |
-|                   | event_end                            | varchar        | yes    |
-|                   | event_type                           | varchar        | **no** |
-|                   | event_value                          | varchar        | yes    |
-| institution_name  | inst_name                            | varchar        | yes    |
-|                   | place_name                           | varchar        | yes    |
-| related_persons   | rel pers                             | varchar? list? | yes    |
-| latitude          | ((geonames\|google)\_)?latitude(s)?  | real           | yes    |
-| longitude         | ((geonames\|google)\_)?longitude(s)? | real           | yes    |
-|                   | source                               | varchar        | yes    |
-|                   | source_quotations                    | varchar        | yes    |
-| editorial_comment           | comment            | varchar        | yes    |
-| source_criticism           |additional_info             | varchar        | yes    |
-| historiographical_comment           |info_dump             | varchar        | yes    |
+| new column name           | current name/s                       | data type      | null   |
+| ------------------------- | ------------------------------------ | -------------- | ------ |
+| person_id                 | pers_ID(\_FS)?                       | varchar        | yes    |
+| person_name               | pers_name                            | varchar        | yes    |
+| person_function           | pers_function                        | varchar        | yes    |
+| person_title              | pers_title                           | varchar        | yes    |
+| factoid id                | factoid_ID                           | varchar?       | yes    |
+| event_before_date         | event_before-date                    | varchar        | yes    |
+| event_after_date          | event_after-date                     | varchar        | yes    |
+|                           | event_start                          | varchar        | yes    |
+|                           | event_end                            | varchar        | yes    |
+|                           | event_type                           | varchar        | **no** |
+|                           | event_value                          | varchar        | yes    |
+| institution_name          | inst_name                            | varchar        | yes    |
+|                           | place_name                           | varchar        | yes    |
+| place_name_geonames       | geonames_address                     | varchar        | yes    |
+| related_persons           | rel pers                             | varchar? list? | yes    |
+| latitude                  | ((geonames\|google)\_)?latitude(s)?  | real           | yes    |
+| longitude                 | ((geonames\|google)\_)?longitude(s)? | real           | yes    |
+|                           | source                               | varchar        | yes    |
+|                           | source_quotations                    | varchar        | yes    |
+| editorial_comment         | comment                              | varchar        | yes    |
+| source_criticism          | additional_info                      | varchar        | yes    |
+| historiographical_comment | info_dump                            | varchar        | yes    |
+| analytical_lense          |                                      | varchar        | yes?   |
 
 {:.justified}
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
