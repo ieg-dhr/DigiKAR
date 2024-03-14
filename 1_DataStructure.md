@@ -24,7 +24,7 @@ _Columns with event information_
 
 | column name       | column function                                                                   |
 | ----------------- | --------------------------------------------------------------------------------- |
-| factoid_ID        | internal project ID, containing an abbrevated source name and consecutive numbers |
+| factoid_id        | internal project ID, containing an abbrevated source name and consecutive numbers |
 | event_date        | used if exact event date is known                                                 |
 | event_after-date  | used as fuzzy start date                                                          |
 | event_before-date | used as fuzzy end date                                                            |
@@ -38,13 +38,13 @@ _Columns with person, place and institution information_
 
 | column name       | column function                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------ |
-| person_ID         | numeric person ID to differentiate people in the data                                            |
+| person_id         | numeric person ID to differentiate people in the data                                            |
 | person_name       | standardised person name used for display in data visualisations                                 |
 | person_title      | academic, noble or religious titles held by person in question                                   |
 | person_function   | function carried out by person in question at the time of the event                              |
 | place_name        | place where the event happened                                                                   |
 | institution_name  | institution where or on whose behalf a function is carried out                                   |
-| related_pers      | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
+| related_persons   | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
 | alternative_names | alternative names of person in question, including spelling variants                             |
 
 While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
@@ -60,8 +60,10 @@ _Columns with source information_
 | additional_info   | column to specify or critique the source and its history                                                            |
 | comment           | editorial comment concerning the data collection and data decisions in DigiKAR                                      |
 | source            | bibliographic information on the sources in which event was found                                                   |
-| source_site       | if digital source was used: URL                                                                                     |
+| source_reference       | if digital source was used: URL                                                                                     |
 | info_dump         | additional information on the recorded event, including historical contextualisations based on secondary literature |
+| analytical_lense  | historiographical context in which the data were initially collected |
+
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
