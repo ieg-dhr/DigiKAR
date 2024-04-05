@@ -107,34 +107,195 @@ It is used to create a database for eventually deriving visualisations.
 
 # Data Columns Documentation for separate person and place files
 
----
-layout: default
-title: Data Columns Documentation
----
+## Person Data
 
-# Data Columns Documentation
-
-{% assign categories = ["Person Data", "Place Data"] %}
-
-{% for category in categories %}
 <details>
-  <summary><b>{{ category }}</b></summary>
+  <summary><b>person_id</b> (finales Modell)</summary>
 
-  {% case category %}
-  {% when "Person Data" %}
-  {% assign columns = "person_id (finales Modell);person_id_mb;person_name;person_alternative_names;person_editorial_comment;person_name_normalised;person_id_fs !!!;person_relevance (persons of interest);person_name_corrected;person_frequency (veraltet - nicht ins finale Modell)" | split: ";" %}
-  {% when "Place Data" %}
-  {% assign columns = "place_name_old;place_name;place_editorial_comment;place_suffix;place_community;place_region_1;place_region_2;place_continent;place_name_variant_1 (merge all variants into one column);place_name_variant_2;place_name_variant_3;place_type;place_source;place_geonames_address;place_geonames_id;place_geonames_address;place_geonames_latitude;place_geonames_longitude;place_google_latitude;place_google_longitude;place_google_address" | split: ";" %}
-  {% endcase %}
-
-  {% for column in columns %}
-  ## {{ column }}
-
-  Explanation of the `{{ column }}` column...
-
-  {% endfor %}
+  Explanation of the person_id column...
 </details>
-{% endfor %}
+
+<details>
+  <summary><b>person_id_mb</b></summary>
+
+  Explanation of the person_id_mb column...
+</details>
+
+<details>
+  <summary><b>person_name</b></summary>
+
+  Explanation of the person_name column...
+</details>
+
+<details>
+  <summary><b>person_alternative_names</b></summary>
+
+  Explanation of the person_alternative_names column...
+</details>
+
+<details>
+  <summary><b>person_editorial_comment</b></summary>
+
+  Explanation of the person_editorial_comment column...
+</details>
+
+<details>
+  <summary><b>person_name_normalised</b></summary>
+
+  Explanation of the person_name_normalised column...
+</details>
+
+<details>
+  <summary><b>person_id_fs</b> !!!</summary>
+
+  Explanation of the person_id_fs column...
+</details>
+
+<details>
+  <summary><b>person_relevance</b> (persons of interest)</summary>
+
+  Explanation of the person_relevance column...
+</details>
+
+<details>
+  <summary><b>person_name_corrected</b></summary>
+
+  Explanation of the person_name_corrected column...
+</details>
+
+<details>
+  <summary><b>person_frequency</b> (veraltet - nicht ins finale Modell)</summary>
+
+  Explanation of the person_frequency column...
+</details>
+
+## Place Data
+
+<details>
+  <summary><b>place_name_old</b></summary>
+
+  Explanation of the place_name_old column...
+</details>
+
+<details>
+  <summary><b>place_name</b></summary>
+
+  Explanation of the place_name column...
+</details>
+
+<details>
+  <summary><b>place_editorial_comment</b></summary>
+
+  Explanation of the place_editorial_comment column...
+</details>
+
+<details>
+  <summary><b>place_suffix</b></summary>
+
+  Explanation of the place_suffix column...
+</details>
+
+<details>
+  <summary><b>place_community</b></summary>
+
+  Explanation of the place_community column...
+</details>
+
+<details>
+  <summary><b>place_region_1</b></summary>
+
+  Explanation of the place_region_1 column...
+</details>
+
+<details>
+  <summary><b>place_region_2</b></summary>
+
+  Explanation of the place_region_2 column...
+</details>
+
+<details>
+  <summary><b>place_continent</b></summary>
+
+  Explanation of the place_continent column...
+</details>
+
+<details>
+  <summary><b>place_name_variant_1</b> (merge all variants into one column)</summary>
+
+  Explanation of the place_name_variant_1 column...
+</details>
+
+<details>
+  <summary><b>place_name_variant_2</b></summary>
+
+  Explanation of the place_name_variant_2 column...
+</details>
+
+<details>
+  <summary><b>place_name_variant_3</b></summary>
+
+  Explanation of the place_name_variant_3 column...
+</details>
+
+<details>
+  <summary><b>place_type</b></summary>
+
+  Explanation of the place_type column...
+</details>
+
+<details>
+  <summary><b>place_source</b></summary>
+
+  Explanation of the place_source column...
+</details>
+
+<details>
+  <summary><b>place_geonames_address</b></summary>
+
+  Explanation of the place_geonames_address column...
+</details>
+
+<details>
+  <summary><b>place_geonames_id</b></summary>
+
+  Explanation of the place_geonames_id column...
+</details>
+
+<details>
+  <summary><b>place_geonames_latitude</b></summary>
+
+  Explanation of the place_geonames_latitude column...
+</details>
+
+<details>
+  <summary><b>place_geonames_longitude</b></summary>
+
+  Explanation of the place_geonames_longitude column...
+</details>
+
+<details>
+  <summary><b>place_google_latitude</b></summary>
+
+  Explanation of the place_google_latitude column...
+</details>
+
+<details>
+  <summary><b>place_google_longitude</b></summary>
+
+  Explanation of the place_google_longitude column...
+</details>
+
+<details>
+  <summary><b>place_google_address</b></summary>
+
+  Explanation of the place_google_address column...
+</details>
+
+<script>
+  // JavaScript for search functionality (optional)
+</script>
+
+
 
 
 
