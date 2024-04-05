@@ -22,84 +22,24 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 
 _Columns with event information_
 
-<details>
-  <summary><strong>factoid_id</strong></summary>
-  <p>internal project ID, containing an abbreviated source name and consecutive numbers</p>
-</details>
-
-<details>
-  <summary><strong>event_date</strong></summary>
-  <p>used if exact event date is known</p>
-</details>
-
-<details>
-  <summary><strong>event_after-date</strong></summary>
-  <p>used as fuzzy start date</p>
-</details>
-
-<details>
-  <summary><strong>event_before-date</strong></summary>
-  <p>used as fuzzy end date</p>
-</details>
-
-<details>
-  <summary><strong>event_start</strong></summary>
-  <p>used as specific start date</p>
-</details>
-
-<details>
-  <summary><strong>event_end</strong></summary>
-  <p>used as specific end date</p>
-</details>
-
-<details>
-  <summary><strong>event_type</strong></summary>
-  <p>specification of event type according to our project ontologies</p>
-</details>
-
+- [factoid_id](https://github.com/ieg-dhr/DigiKAR/wiki/factoid_id)
+- [event_date](https://github.com/ieg-dhr/DigiKAR/wiki/event_date)
+- [event_after-date](https://github.com/ieg-dhr/DigiKAR/wiki/event_after-date)
+- [event_before-date](https://github.com/ieg-dhr/DigiKAR/wiki/event_before-date)
+- [event_start](https://github.com/ieg-dhr/DigiKAR/wiki/event_start)
+- [event_end](https://github.com/ieg-dhr/DigiKAR/wiki/event_end)
+- [event_type](https://github.com/ieg-dhr/DigiKAR/wiki/event_type)
 
 The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
 
-_Columns with person, place and institution information_
-<details>
-  <summary><strong>person_id</strong></summary>
-  <p>numeric person ID to differentiate people in the data</p>
-</details>
-
-<details>
-  <summary><strong>person_name</strong></summary>
-  <p>standardised person name used for display in data visualisations</p>
-</details>
-
-<details>
-  <summary><strong>person_title</strong></summary>
-  <p>academic, noble or religious titles held by person in question</p>
-</details>
-
-<details>
-  <summary><strong>person_function</strong></summary>
-  <p>function carried out by person in question at the time of the event</p>
-</details>
-
-<details>
-  <summary><strong>place_name</strong></summary>
-  <p>place where the event happened</p>
-</details>
-
-<details>
-  <summary><strong>institution_name</strong></summary>
-  <p>institution where or on whose behalf a function is carried out</p>
-</details>
-
-<details>
-  <summary><strong>related_persons</strong></summary>
-  <p>related persons linked with the event, e.g. spouses, academic supervisors or religious superiors</p>
-</details>
-
-<details>
-  <summary><strong>alternative_names</strong></summary>
-  <p>alternative names of person in question, including spelling variants</p>
-</details>
+- [person_id](https://github.com/ieg-dhr/DigiKAR/wiki/person_id)
+- [person_name](https://github.com/ieg-dhr/DigiKAR/wiki/person_name)
+- [person_title](https://github.com/ieg-dhr/DigiKAR/wiki/person_title)
+- [person_function](https://github.com/ieg-dhr/DigiKAR/wiki/person_function)
+- [place_name](https://github.com/ieg-dhr/DigiKAR/wiki/place_name)
+- [institution_name](https://github.com/ieg-dhr/DigiKAR/wiki/institution_name)
+- [related_persons](https://github.com/ieg-dhr/DigiKAR/wiki/related_persons)
+- [alternative_names](https://github.com/ieg-dhr/DigiKAR/wiki/alternative_names)
 
 While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
 
@@ -108,41 +48,8 @@ Regarding **location data**, we did not consider the differentiation of places b
 
 _Columns with source information_
 
-<details>
-  <summary><strong>factoid_id</strong></summary>
-  <p>internal project ID, containing an abbreviated source name and consecutive numbers</p>
-</details>
-
-<details>
-  <summary><strong>event_date</strong></summary>
-  <p>used if exact event date is known</p>
-</details>
-
-<details>
-  <summary><strong>event_after-date</strong></summary>
-  <p>used as fuzzy start date</p>
-</details>
-
-<details>
-  <summary><strong>event_before-date</strong></summary>
-  <p>used as fuzzy end date</p>
-</details>
-
-<details>
-  <summary><strong>event_start</strong></summary>
-  <p>used as specific start date</p>
-</details>
-
-<details>
-  <summary><strong>event_end</strong></summary>
-  <p>used as specific end date</p>
-</details>
-
-<details>
-  <summary><strong>event_type</strong></summary>
-  <p>specification of event type according to our project ontologies</p>
-</details>
-
+- [event_source](https://github.com/ieg-dhr/DigiKAR/wiki/event_source)
+- [event_source_quotation](https://github.com/ieg-dhr/DigiKAR/wiki/event_source_quotation)
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
@@ -153,256 +60,41 @@ Since spring 2023, the focus in our Mainz work package has been **cleaning and c
 {:.justified}
 To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR technology to semi-automatically gather information on professors and students active at the early modern university of Mainz.
 
-### Draft: Common schema for analytical lenses
-
-This table describes the harmonized schema for all analytical lenses.
-It is used to create a database for eventually deriving visualisations.
-
-| new column name           | current name/s                       | data type      | null   |
-| ------------------------- | ------------------------------------ | -------------- | ------ |
-| person_id                 | pers_ID(\_FS)?                       | varchar        | yes    |
-| person_name               | pers_name                            | varchar        | yes    |
-| person_function           | pers_function                        | varchar        | yes    |
-| person_title              | pers_title                           | varchar        | yes    |
-| factoid_id                | factoid_ID                           | varchar?       | yes    |
-| event_before_date         | event_before-date                    | varchar        | yes    |
-| event_after_date          | event_after-date                     | varchar        | yes    |
-|                           | event_start                          | varchar        | yes    |
-|                           | event_end                            | varchar        | yes    |
-|                           | event_type                           | varchar        | **no** |
-|                           | event_value                          | varchar        | yes    |
-| institution_name          | inst_name                            | varchar        | yes    |
-|                           | place_name                           | varchar        | yes    |
-| place_name_geonames       | geonames_address                     | varchar        | yes    |
-| related_persons           | rel pers                             | varchar? list? | yes    |
-| latitude                  | ((geonames\|google)\_)?latitude(s)?  | real           | yes    |
-| longitude                 | ((geonames\|google)\_)?longitude(s)? | real           | yes    |
-|                           | source                               | varchar        | yes    |
-|                           | source_quotations                    | varchar        | yes    |
-| editorial_comment         | comment                              | varchar        | yes    |
-| source_criticism          | additional_info                      | varchar        | yes    |
-| historiographical_comment | info_dump                            | varchar        | yes    |
-| analytical_lense          |                                      | varchar        | yes?   |
-
-# Data Columns Documentation for separate person and place files
-
-## Person Data (separate table of persons with name variants and IDs)
-
-<details>
-  <summary><b>person_id</b> (finales Modell)</summary>
-
-  Explanation of the person_id column...
-</details>
-
-<details>
-  <summary><b>person_id_mb</b></summary>
-
-  Explanation of the person_id_mb column...
-</details>
-
-<details>
-  <summary><b>person_name</b></summary>
-
-  Explanation of the person_name column...
-</details>
-
-<details>
-  <summary><b>person_alternative_names</b></summary>
-
-  Explanation of the person_alternative_names column...
-</details>
-
-<details>
-  <summary><b>person_editorial_comment</b></summary>
-
-  Explanation of the person_editorial_comment column...
-</details>
-
-<details>
-  <summary><b>person_name_normalised</b></summary>
-
-  Explanation of the person_name_normalised column...
-</details>
-
-<details>
-  <summary><b>person_id_fs</b> !!!</summary>
-
-  Explanation of the person_id_fs column...
-</details>
-
-<details>
-  <summary><b>person_relevance</b> (persons of interest)</summary>
-
-  Explanation of the person_relevance column...
-</details>
-
-<details>
-  <summary><b>person_name_corrected</b></summary>
-
-  Explanation of the person_name_corrected column...
-</details>
-
-<details>
-  <summary><b>person_frequency</b> (veraltet - nicht ins finale Modell)</summary>
-
-  Explanation of the person_frequency column...
-</details>
-
-## Place Data (separate table of place names with variants and coordinates)
-
-<details>
-  <summary><b>place_name_old</b></summary>
-
-  Explanation of the place_name_old column...
-</details>
-
-<details>
-  <summary><b>place_name</b></summary>
-
-  Explanation of the place_name column...
-</details>
-
-<details>
-  <summary><b>place_editorial_comment</b></summary>
-
-  Explanation of the place_editorial_comment column...
-</details>
-
-<details>
-  <summary><b>place_suffix</b></summary>
-
-  Explanation of the place_suffix column...
-</details>
-
-<details>
-  <summary><b>place_community</b></summary>
-
-  Explanation of the place_community column...
-</details>
-
-<details>
-  <summary><b>place_region_1</b></summary>
-
-  Explanation of the place_region_1 column...
-</details>
-
-<details>
-  <summary><b>place_region_2</b></summary>
-
-  Explanation of the place_region_2 column...
-</details>
-
-<details>
-  <summary><b>place_continent</b></summary>
-
-  Explanation of the place_continent column...
-</details>
-
-<details>
-  <summary><b>place_name_variant_1</b> (merge all variants into one column)</summary>
-
-  Explanation of the place_name_variant_1 column...
-</details>
-
-<details>
-  <summary><b>place_name_variant_2</b></summary>
-
-  Explanation of the place_name_variant_2 column...
-</details>
-
-<details>
-  <summary><b>place_name_variant_3</b></summary>
-
-  Explanation of the place_name_variant_3 column...
-</details>
-
-<details>
-  <summary><b>place_type</b></summary>
-
-  Explanation of the place_type column...
-</details>
-
-<details>
-  <summary><b>place_source</b></summary>
-
-  Explanation of the place_source column...
-</details>
-
-<details>
-  <summary><b>place_geonames_address</b></summary>
-
-  Explanation of the place_geonames_address column...
-</details>
-
-<details>
-  <summary><b>place_geonames_id</b></summary>
-
-  Explanation of the place_geonames_id column...
-</details>
-
-<details>
-  <summary><b>place_geonames_latitude</b></summary>
-
-  Explanation of the place_geonames_latitude column...
-</details>
-
-<details>
-  <summary><b>place_geonames_longitude</b></summary>
-
-  Explanation of the place_geonames_longitude column...
-</details>
-
-<details>
-  <summary><b>place_google_latitude</b></summary>
-
-  Explanation of the place_google_latitude column...
-</details>
-
-<details>
-  <summary><b>place_google_longitude</b></summary>
-
-  Explanation of the place_google_longitude column...
-</details>
-
-<details>
-  <summary><b>place_google_address</b></summary>
-
-  Explanation of the place_google_address column...
-</details>
-
 {:.justified}
-The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
+The following dropdown menu give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
 
-<summary>a) "Erfurt" data (2022-11-11, last updated on February 2nd, 2023)</summary>
+<summary>"Erfurt" data (collection completed by 2022-11-11, last updated on February 2nd, 2023)</summary>
 <details>
-- factoid_ID
-- IsSubject
-- Reise (sic!)
-- pers_ID
-- pers_name
-- alternative_names
-- event_after-date
-- event_before-date
-- event_start
-- event_end
-- event_date
-- pers_title
-- pers_function
-- place_name
-- inst_name
-- rel_pers
-- source_quotations
-- additional_info
-- commentsource
-- source_site
-- info_dump
-- Weitere Belegstellen (column not in the initial data model)
-- StaatskalenderID (column not in the initial data model)
-- Import-ID (column not in the initial data model)
 
-**5987 rows of data!**
+**5987 rows of data! Not all persons in this data set have been documented!**
 
-**Not all persons in this data set have been documented!**
+| Original Column Name   | Mapped Column Name |
+| ---------------------- | ------------------ |
+| factoid_ID             |                    |
+| IsSubject              |                    |
+| Reise (sic!)           |                    |
+| pers_ID                |                    |
+| pers_name              |                    |
+| alternative_names      |                    |
+| event_after-date       |                    |
+| event_before-date      |                    |
+| event_start            |                    |
+| event_end              |                    |
+| event_date             |                    |
+| pers_title             |                    |
+| pers_function          |                    |
+| place_name             |                    |
+| inst_name              |                    |
+| rel_pers               |                    |
+| source_quotations      |                    |
+| additional_info        |                    |
+| commentsource          |                    |
+| source_site            |                    |
+| info_dump              |                    |
+| Weitere Belegstellen   |                    |
+| StaatskalenderID       |                    |
+| Import-ID              |                    |
+
 </details>
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
@@ -492,3 +184,8 @@ All scripts I have used to split `.txt` files by several delimiters (including s
 
 ![data structure](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png){:width="650" style="float:left;"}
 </details>
+
+# Separate person and place files
+
+{:.justified}
+In order to keep the factoid model and manageable for manual data collection, we have collected general information on persons and places in two separate lists which we could curate indepently from the analytical lenses and use for data disambiguation and normalisation. The separate table of persons contains name variants and final IDs assigned after disambiguation. Similarly, places list contains place names with additional attributes such as place name variants, related territories and coordinates. Please check the [DigiKAR wiki of AP3 column names](https://github.com/ieg-dhr/DigiKAR/wiki) for details.
