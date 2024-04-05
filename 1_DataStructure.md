@@ -107,129 +107,35 @@ It is used to create a database for eventually deriving visualisations.
 
 # Data Columns Documentation for separate person and place files
 
-## Person Data
+---
+layout: default
+title: Data Columns Documentation
+---
 
-### person_id (finales Modell)
+# Data Columns Documentation
 
-Explanation of the `person_id` column...
+{% assign categories = ["Person Data", "Place Data"] %}
 
-### person_id_mb
+{% for category in categories %}
+<details>
+  <summary><b>{{ category }}</b></summary>
 
-Explanation of the `person_id_mb` column...
+  {% case category %}
+  {% when "Person Data" %}
+  {% assign columns = "person_id (finales Modell);person_id_mb;person_name;person_alternative_names;person_editorial_comment;person_name_normalised;person_id_fs !!!;person_relevance (persons of interest);person_name_corrected;person_frequency (veraltet - nicht ins finale Modell)" | split: ";" %}
+  {% when "Place Data" %}
+  {% assign columns = "place_name_old;place_name;place_editorial_comment;place_suffix;place_community;place_region_1;place_region_2;place_continent;place_name_variant_1 (merge all variants into one column);place_name_variant_2;place_name_variant_3;place_type;place_source;place_geonames_address;place_geonames_id;place_geonames_address;place_geonames_latitude;place_geonames_longitude;place_google_latitude;place_google_longitude;place_google_address" | split: ";" %}
+  {% endcase %}
 
-### person_name
+  {% for column in columns %}
+  ## {{ column }}
 
-Explanation of the `person_name` column...
+  Explanation of the `{{ column }}` column...
 
-### person_alternative_names
+  {% endfor %}
+</details>
+{% endfor %}
 
-Explanation of the `person_alternative_names` column...
-
-### person_editorial_comment
-
-Explanation of the `person_editorial_comment` column...
-
-### person_name_normalised
-
-Explanation of the `person_name_normalised` column...
-
-### person_id_fs !!!
-
-Explanation of the `person_id_fs` column...
-
-### person_relevance (persons of interest)
-
-Explanation of the `person_relevance` column...
-
-### person_name_corrected
-
-Explanation of the `person_name_corrected` column...
-
-### person_frequency (veraltet - nicht ins finale Modell)
-
-Explanation of the `person_frequency` column...
-
-## Place Data
-
-### place_name_old
-
-Explanation of the `place_name_old` column...
-
-### place_name
-
-Explanation of the `place_name` column...
-
-### place_editorial_comment
-
-Explanation of the `place_editorial_comment` column...
-
-### place_suffix
-
-Explanation of the `place_suffix` column...
-
-### place_community
-
-Explanation of the `place_community` column...
-
-### place_region_1
-
-Explanation of the `place_region_1` column...
-
-### place_region_2
-
-Explanation of the `place_region_2` column...
-
-### place_continent
-
-Explanation of the `place_continent` column...
-
-### place_name_variant_1 (merge all variants into one column)
-
-Explanation of the `place_name_variant_1` column...
-
-### place_name_variant_2
-
-Explanation of the `place_name_variant_2` column...
-
-### place_name_variant_3
-
-Explanation of the `place_name_variant_3` column...
-
-### place_type
-
-Explanation of the `place_type` column...
-
-### place_source
-
-Explanation of the `place_source` column...
-
-### place_geonames_address
-
-Explanation of the `place_geonames_address` column...
-
-### place_geonames_id
-
-Explanation of the `place_geonames_id` column...
-
-### place_geonames_latitude
-
-Explanation of the `place_geonames_latitude` column...
-
-### place_geonames_longitude
-
-Explanation of the `place_geonames_longitude` column...
-
-### place_google_latitude
-
-Explanation of the `place_google_latitude` column...
-
-### place_google_longitude
-
-Explanation of the `place_google_longitude` column...
-
-### place_google_address
-
-Explanation of the `place_google_address` column...
 
 
 {:.justified}
