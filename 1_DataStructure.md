@@ -22,30 +22,84 @@ In work package 3, which analyses biographic mobility in Electoral Mainz, the ba
 
 _Columns with event information_
 
-| column name       | column function                                                                   |
-| ----------------- | --------------------------------------------------------------------------------- |
-| factoid_id        | internal project ID, containing an abbrevated source name and consecutive numbers |
-| event_date        | used if exact event date is known                                                 |
-| event_after-date  | used as fuzzy start date                                                          |
-| event_before-date | used as fuzzy end date                                                            |
-| event_start       | used as specific start date                                                       |
-| event_end         | used as specific end date                                                         |
-| event_type        | specification of event type according to our project ontologies                   |
+<details>
+  <summary><strong>factoid_id</strong></summary>
+  <p>internal project ID, containing an abbreviated source name and consecutive numbers</p>
+</details>
+
+<details>
+  <summary><strong>event_date</strong></summary>
+  <p>used if exact event date is known</p>
+</details>
+
+<details>
+  <summary><strong>event_after-date</strong></summary>
+  <p>used as fuzzy start date</p>
+</details>
+
+<details>
+  <summary><strong>event_before-date</strong></summary>
+  <p>used as fuzzy end date</p>
+</details>
+
+<details>
+  <summary><strong>event_start</strong></summary>
+  <p>used as specific start date</p>
+</details>
+
+<details>
+  <summary><strong>event_end</strong></summary>
+  <p>used as specific end date</p>
+</details>
+
+<details>
+  <summary><strong>event_type</strong></summary>
+  <p>specification of event type according to our project ontologies</p>
+</details>
+
 
 The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
 
 _Columns with person, place and institution information_
+<details>
+  <summary><strong>person_id</strong></summary>
+  <p>numeric person ID to differentiate people in the data</p>
+</details>
 
-| column name       | column function                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------ |
-| person_id         | numeric person ID to differentiate people in the data                                            |
-| person_name       | standardised person name used for display in data visualisations                                 |
-| person_title      | academic, noble or religious titles held by person in question                                   |
-| person_function   | function carried out by person in question at the time of the event                              |
-| place_name        | place where the event happened                                                                   |
-| institution_name  | institution where or on whose behalf a function is carried out                                   |
-| related_persons   | related persons linked with the event, e.g. spouses, academic supervisors or religious superiors |
-| alternative_names | alternative names of person in question, including spelling variants                             |
+<details>
+  <summary><strong>person_name</strong></summary>
+  <p>standardised person name used for display in data visualisations</p>
+</details>
+
+<details>
+  <summary><strong>person_title</strong></summary>
+  <p>academic, noble or religious titles held by person in question</p>
+</details>
+
+<details>
+  <summary><strong>person_function</strong></summary>
+  <p>function carried out by person in question at the time of the event</p>
+</details>
+
+<details>
+  <summary><strong>place_name</strong></summary>
+  <p>place where the event happened</p>
+</details>
+
+<details>
+  <summary><strong>institution_name</strong></summary>
+  <p>institution where or on whose behalf a function is carried out</p>
+</details>
+
+<details>
+  <summary><strong>related_persons</strong></summary>
+  <p>related persons linked with the event, e.g. spouses, academic supervisors or religious superiors</p>
+</details>
+
+<details>
+  <summary><strong>alternative_names</strong></summary>
+  <p>alternative names of person in question, including spelling variants</p>
+</details>
 
 While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
 
@@ -54,15 +108,40 @@ Regarding **location data**, we did not consider the differentiation of places b
 
 _Columns with source information_
 
-| column name       | column function                                                                                                     |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------- |
-| source_quotations | direct quotes from sources in which event was found                                                                 |
-| additional_info   | column to specify or critique the source and its history                                                            |
-| comment           | editorial comment concerning the data collection and data decisions in DigiKAR                                      |
-| source            | bibliographic information on the sources in which event was found                                                   |
-| source_reference       | if digital source was used: URL                                                                                     |
-| info_dump         | additional information on the recorded event, including historical contextualisations based on secondary literature |
-| analytical_lense  | historiographical context in which the data were initially collected |
+<details>
+  <summary><strong>factoid_id</strong></summary>
+  <p>internal project ID, containing an abbreviated source name and consecutive numbers</p>
+</details>
+
+<details>
+  <summary><strong>event_date</strong></summary>
+  <p>used if exact event date is known</p>
+</details>
+
+<details>
+  <summary><strong>event_after-date</strong></summary>
+  <p>used as fuzzy start date</p>
+</details>
+
+<details>
+  <summary><strong>event_before-date</strong></summary>
+  <p>used as fuzzy end date</p>
+</details>
+
+<details>
+  <summary><strong>event_start</strong></summary>
+  <p>used as specific start date</p>
+</details>
+
+<details>
+  <summary><strong>event_end</strong></summary>
+  <p>used as specific end date</p>
+</details>
+
+<details>
+  <summary><strong>event_type</strong></summary>
+  <p>specification of event type according to our project ontologies</p>
+</details>
 
 
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
