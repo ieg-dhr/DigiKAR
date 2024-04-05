@@ -18,10 +18,9 @@ In the Saxony work package, we have decided to approach spaces through their leg
 {:.justified}
 In work package 3, which analyses biographic mobility in Electoral Mainz, the basis for data collection is EXCEL spreadsheets that follow our project-specific factoid model. This event-oriented approach to data is modelled on the factoid approach developed at King’s College London. This means that we gather agency-related events (e.g. “grand tour”) and general life events (e.g. “birth” and “death”) as stated in different sources. Uncertainty or vagueness of the information is captured in a comments column, where we also add important source quotations:
 
-**Table design in EXCEL for collecting biographic data**
+###Table design in EXCEL for collecting biographic data
 
-**Columns with event information**
-
+{:.justified}
 Our dataset provides detailed event information, focusing on who did what when and where. The factoid lists, in which we collected all event-related data, include a unique ["factoid_id"](https://github.com/ieg-dhr/DigiKAR/wiki/factoid_id) for each event. We also categorise the ["event_type"](https://github.com/ieg-dhr/DigiKAR/wiki/event_type) according to our project ontologies. We use the columns ["event_date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_date), ["event_after-date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_after-date), and ["event_before-date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_before-date) to record both exact dates and fuzzy timeframes. The date columns ["event_start"](https://github.com/ieg-dhr/DigiKAR/wiki/event_start) and ["event_end"](https://github.com/ieg-dhr/DigiKAR/wiki/event_end) contain specific start and end dates to delineate event durations. 
 
 {:.justified}
@@ -36,12 +35,12 @@ Finally, our factoid lists include several columns dedicated to source informati
 {:.justified}
 Since spring 2023, the focus in our Mainz work package has been **cleaning and consolidating** the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the [Data Categorisation](https://github.com/ieg-dhr/DigiKAR/tree/main/Data%20Categorisation) directory.
 
-## Separate person and place files
+### Separate person and place files
 
 {:.justified}
 In order to keep the factoid model and manageable for manual data collection, we have collected general information on persons and places in two separate lists which we could curate indepently from the analytical lenses and use for data disambiguation and normalisation. The separate table of persons contains name variants and final IDs assigned after disambiguation. Similarly, places list contains place names with additional attributes such as place name variants, related territories and coordinates. Please check the [DigiKAR wiki of AP3 column names](https://github.com/ieg-dhr/DigiKAR/wiki) for details.
 
-## Analytical lenses in the "Electoral Mainz" work package
+### Analytical lenses in the "Electoral Mainz" work package
 
 {:.justified}
 To get a better idea of the different types of ecclesiastical, academic, and political agents active in Electoral Mainz between the 16th and 18th centuries, our historians have manually collected biographic data relating to the Mainz government in the Eastern German exclave of Erfurt, Mainz officials represented at imperial institutions such as Reichstag (Imperial Diet), Reichshofrat and Reichskammergericht, and the organisation of the electoral court in Mainz itself. In addition, we have used XML data (harvested via API) and OCR technology to semi-automatically gather information on professors and students active at the early modern university of Mainz.
