@@ -373,7 +373,7 @@ It is used to create a database for eventually deriving visualisations.
 {:.justified}
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
 
-<summary>a) **"Erfurt" data (2022-11-11, last updated on February 2nd, 2023)**:</summary>
+<summary>a) "Erfurt" data (2022-11-11, last updated on February 2nd, 2023)</summary>
 <details>
 - factoid_ID
 - IsSubject
@@ -400,7 +400,6 @@ The following lists give an overview of the data structure in each of these lens
 - StaatskalenderID (column not in the initial data model)
 - Import-ID (column not in the initial data model)
 
-
 **5987 rows of data!**
 
 **Not all persons in this data set have been documented!**
@@ -408,7 +407,7 @@ The following lists give an overview of the data structure in each of these lens
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
 
-<summary>b) **"Jahns" data (2023-02-22, last updated February 22nd, 2023)**</summary>
+<summary>b) "Jahns" data (2023-02-22, last updated February 22nd, 2023)</summary>
 <details>
 - factoid_ID
 - pers_ID
@@ -435,7 +434,7 @@ The following lists give an overview of the data structure in each of these lens
 This spreadsheet has an additional tab with REL_PERS information to be included in final person list. However, this list still needs to be completed.
 </details>
 
-<summary>c) **1756er Staatskalender META FINAL** (last updated January 27th, 2023):
+<summary>c) 1756er Staatskalender META FINAL (last updated January 27th, 2023):
 <details>
 {:.justified}
 This spreadsheet contains five tabs of biographic data. The "inst_name" column is erroneously named "H" in some tabs.
@@ -485,7 +484,7 @@ The 1755 Staatskalender data will not be used in the current project phase.
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
-<summary>d) **Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR)**</summary>
+<summary>d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR)</summary>
 <details>
 The archival transcripts of the [Mainz university registers ("Universitätsmatrikeln")](https://genwiki.genealogy.net/Johannes_Gutenberg-Universit%C3%A4t_Mainz/Matrikel) written with typewriter in the 20th century are easier to read with OCR technology, and mis-interpretations of German special characters ("Umlaute") can be cleaned automatically. This is why we have decided to work on them first. After reading the PDF files provided by the archive to `.txt` format, we have performed some basic pre-processing to correct OCR errors and to introduce the #NAME and #SOURCE delimiters to separate person name and source citations (at the end of each entry) from the biographic information given. The biographic information is mostly structured with semi-colons between events, which we can thus read as individual items of a list with Python. Moreover, the transcripts of the university registers contain hints to people that might be identical with others, using `„ein …“`, `„—ein“`, `„—Ein“`, `„. Ein“` or `„. ein“` to denote this additional information. Reading the registers with Python, the #IDENTITY separator is thus needed as well.
 
