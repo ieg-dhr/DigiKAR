@@ -30,7 +30,9 @@ _Columns with event information_
 - [event_end](https://github.com/ieg-dhr/DigiKAR/wiki/event_end)
 - [event_type](https://github.com/ieg-dhr/DigiKAR/wiki/event_type)
 
-The different data columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
+The different date columns were used to differentiate between punctual events and time periods, but also to capture uncertainty of dating.
+
+_Columns with person, place and institution information_
 
 - [person_id](https://github.com/ieg-dhr/DigiKAR/wiki/person_id)
 - [person_name](https://github.com/ieg-dhr/DigiKAR/wiki/person_name)
@@ -41,16 +43,15 @@ The different data columns were used to differentiate between punctual events an
 - [related_persons](https://github.com/ieg-dhr/DigiKAR/wiki/related_persons)
 - [alternative_names](https://github.com/ieg-dhr/DigiKAR/wiki/alternative_names)
 
-While some alternative names are thus recorded in our actual data sets, due to the data collection process, a full list of name variants is separately stored for future reference and research.
-
 {:.justified}
-Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
+While some alternative names for persons are recorded in our factoid lists, due to the data collection process, a full list of name variants is separately stored for future reference and research. Regarding **location data**, we did not consider the differentiation of places below the settlement level necessary for our research questions. Also, we obstained from differentiations of ecclesiastical versus secular territories because we associated such values with the person functions and / or the institutions for which people were active. The geocoding of place names was carried out after a normalisation and disambiguation of place names, many of which came in old spelling or Latin variants.
 
 _Columns with source information_
 
 - [event_source](https://github.com/ieg-dhr/DigiKAR/wiki/event_source)
 - [event_source_quotation](https://github.com/ieg-dhr/DigiKAR/wiki/event_source_quotation)
 
+{:.justified}
 The extensive source columns helped us to preserve additional information that was not relevant to our own visualisation interests but might incite future research.
 
 Since spring 2023, the focus in our Mainz work package has been **cleaning and consolidating** the hitherto collected data with Open Refine and Python Scripts. To normalise the entities as far as possible while respecting uncertainty and historical development, we have decided to work with **ontology tables** that non-hierarchically list the vocabulary we use. For an overview of named entities in the Mainz work package and our data mapping, cf. the [ontology lists](https://github.com/ieg-dhr/DigiKAR/tree/main/OntologyFiles). Classifications and evaluations of the entities are not included in the data but are flexibly added via vocabulary mappings based on specific research questions. Examples can be found in the [Data Categorisation](https://github.com/ieg-dhr/DigiKAR/tree/main/Data%20Categorisation) directory.
