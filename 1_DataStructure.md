@@ -107,7 +107,7 @@ It is used to create a database for eventually deriving visualisations.
 
 # Data Columns Documentation for separate person and place files
 
-## Person Data
+## Person Data (separate table of persons with name variants and IDs)
 
 <details>
   <summary><b>person_id</b> (finales Modell)</summary>
@@ -169,7 +169,7 @@ It is used to create a database for eventually deriving visualisations.
   Explanation of the person_frequency column...
 </details>
 
-## Place Data
+## Place Data (separate table of place names with variants and coordinates)
 
 <details>
   <summary><b>place_name_old</b></summary>
@@ -290,14 +290,6 @@ It is used to create a database for eventually deriving visualisations.
 
   Explanation of the place_google_address column...
 </details>
-
-<script>
-  // JavaScript for search functionality (optional)
-</script>
-
-
-
-
 
 {:.justified}
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
