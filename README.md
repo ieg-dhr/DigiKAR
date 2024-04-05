@@ -1,10 +1,27 @@
 <img src="./DigiKAR_logo-small.png" alt="drawing" width="100" style="padding=10px" align="left"/>
 
-<h2>DigiKAR</h2>
+# DigiKAR
 
-<p><strong>DE: </strong>Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt</p>
-<p><strong>EN: </strong>Scripts for managing spatial and biographic data in the DigiKAR project</p>
-<p><strong>FR: </strong>Scripts pour la gestion des données spatiales et biographiques dans le projet DigiKAR</p>
+**DE**: Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt
 
-<a href="https://ieg-dhr.github.io/DigiKAR/"><img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="drawing" width="100" style="padding=10px" align="right"/></a>
+**EN**: Scripts for managing spatial and biographic data in the DigiKAR project
 
+**FR**: Scripts pour la gestion des données spatiales et biographiques dans le projet DigiKAR
+
+## Documentation
+
+This repository also contains `VitePress` [docs](https://ieg-dhr.github.io/DigiKAR/).
+
+Follow these steps to develop the docs locally:
+
+- Firstly, install the dependencies by running:
+
+    ```bash
+    pnpm install
+    ```
+
+- After that you can start a `VitePress` dev server locally by running:
+
+    ```bash
+    pnpm docs:dev
+    ```
