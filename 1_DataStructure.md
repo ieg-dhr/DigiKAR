@@ -105,6 +105,133 @@ It is used to create a database for eventually deriving visualisations.
 | historiographical_comment | info_dump                            | varchar        | yes    |
 | analytical_lense          |                                      | varchar        | yes?   |
 
+# Data Columns Documentation for separate person and place files
+
+## Person Data
+
+### person_id (finales Modell)
+
+Explanation of the `person_id` column...
+
+### person_id_mb
+
+Explanation of the `person_id_mb` column...
+
+### person_name
+
+Explanation of the `person_name` column...
+
+### person_alternative_names
+
+Explanation of the `person_alternative_names` column...
+
+### person_editorial_comment
+
+Explanation of the `person_editorial_comment` column...
+
+### person_name_normalised
+
+Explanation of the `person_name_normalised` column...
+
+### person_id_fs !!!
+
+Explanation of the `person_id_fs` column...
+
+### person_relevance (persons of interest)
+
+Explanation of the `person_relevance` column...
+
+### person_name_corrected
+
+Explanation of the `person_name_corrected` column...
+
+### person_frequency (veraltet - nicht ins finale Modell)
+
+Explanation of the `person_frequency` column...
+
+## Place Data
+
+### place_name_old
+
+Explanation of the `place_name_old` column...
+
+### place_name
+
+Explanation of the `place_name` column...
+
+### place_editorial_comment
+
+Explanation of the `place_editorial_comment` column...
+
+### place_suffix
+
+Explanation of the `place_suffix` column...
+
+### place_community
+
+Explanation of the `place_community` column...
+
+### place_region_1
+
+Explanation of the `place_region_1` column...
+
+### place_region_2
+
+Explanation of the `place_region_2` column...
+
+### place_continent
+
+Explanation of the `place_continent` column...
+
+### place_name_variant_1 (merge all variants into one column)
+
+Explanation of the `place_name_variant_1` column...
+
+### place_name_variant_2
+
+Explanation of the `place_name_variant_2` column...
+
+### place_name_variant_3
+
+Explanation of the `place_name_variant_3` column...
+
+### place_type
+
+Explanation of the `place_type` column...
+
+### place_source
+
+Explanation of the `place_source` column...
+
+### place_geonames_address
+
+Explanation of the `place_geonames_address` column...
+
+### place_geonames_id
+
+Explanation of the `place_geonames_id` column...
+
+### place_geonames_latitude
+
+Explanation of the `place_geonames_latitude` column...
+
+### place_geonames_longitude
+
+Explanation of the `place_geonames_longitude` column...
+
+### place_google_latitude
+
+Explanation of the `place_google_latitude` column...
+
+### place_google_longitude
+
+Explanation of the `place_google_longitude` column...
+
+### place_google_address
+
+Explanation of the `place_google_address` column...
+
+
 {:.justified}
 The following lists give an overview of the data structure in each of these lenses and indicate the latest updates prior to our automated data consolidation:
 
