@@ -18,7 +18,7 @@ In the Saxony work package, we have decided to approach spaces through their leg
 {:.justified}
 In work package 3, which analyses biographic mobility in Electoral Mainz, the basis for data collection is EXCEL spreadsheets that follow our project-specific factoid model. This event-oriented approach to data is modelled on the factoid approach developed at King’s College London. This means that we gather agency-related events (e.g. “grand tour”) and general life events (e.g. “birth” and “death”) as stated in different sources. Uncertainty or vagueness of the information is captured in a comments column, where we also add important source quotations:
 
-###Table design in EXCEL for collecting biographic data
+### Table design in EXCEL for collecting biographic data
 
 {:.justified}
 Our dataset provides detailed event information, focusing on who did what when and where. The factoid lists, in which we collected all event-related data, include a unique ["factoid_id"](https://github.com/ieg-dhr/DigiKAR/wiki/factoid_id) for each event. We also categorise the ["event_type"](https://github.com/ieg-dhr/DigiKAR/wiki/event_type) according to our project ontologies. We use the columns ["event_date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_date), ["event_after-date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_after-date), and ["event_before-date"](https://github.com/ieg-dhr/DigiKAR/wiki/event_before-date) to record both exact dates and fuzzy timeframes. The date columns ["event_start"](https://github.com/ieg-dhr/DigiKAR/wiki/event_start) and ["event_end"](https://github.com/ieg-dhr/DigiKAR/wiki/event_end) contain specific start and end dates to delineate event durations. 
