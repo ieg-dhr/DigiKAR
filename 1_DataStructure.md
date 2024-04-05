@@ -84,59 +84,62 @@ The following dropdown menu give an overview of the data structure in each of th
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
 
-<summary>b) "Jahns" data (2023-02-22, last updated February 22nd, 2023)</summary>
+<summary>"Jahns" data (2023-02-22, last updated February 22nd, 2023)</summary>
 <details>
-- factoid_ID
-- pers_ID
-- pers_name
-- alternative_names
-- event_type
-- pers_function
-- place_name
-- inst_name
-- rel_pers
-- source_quotations
-- additional_info
-- comment
-- info_dump
-- source
-- source_site
-</details>
+**2081 rows of data!**
+  
+| Original Column Name | Mapped Column Name |
+|----------------------|---------------------|
+| factoid_ID           |                     |
+| pers_ID              |                     |
+| pers_name            |                     |
+| alternative_names    |                     |
+| event_type           |                     |
+| pers_function        |                     |
+| place_name           |                     |
+| inst_name            |                     |
+| rel_pers             |                     |
+| source_quotations   |                     |
+| additional_info      |                     |
+| comment              |                     |
+| info_dump            |                     |
+| source               |                     |
+| source_site          |                     |
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225735037-eaf683e1-9478-4ff0-a301-0284be5f0bdd.png)
-
-**2081 rows of data!**
 
 {:.justified}
 This spreadsheet has an additional tab with REL_PERS information to be included in final person list. However, this list still needs to be completed.
 </details>
 
-<summary>c) 1756er Staatskalender META FINAL (last updated January 27th, 2023):
+<summary>1756er Staatskalender META FINAL (last updated January 27th, 2023)M</summary>
 <details>
 {:.justified}
 This spreadsheet contains five tabs of biographic data. The "inst_name" column is erroneously named "H" in some tabs.
 This has been changed in the copy for data consolidation.
 
-The columns in this spreadsheet are:
+| Original Column Name | Mapped Column Name                        |
+|----------------------|-------------------------------------------|
+| factoid_ID           |                                           |
+| pers_ID              |                                           |
+| alternative_names    |                                           |
+| event_start          |                                           |
+| pers_title           |                                           |
+| pers_function        |                                           |
+| place_name           |                                           |
+| inst_name            |                                           |
+| source               |                                           |
+| pers_name_org        |                                           |
+| pers_name            |                                           |
+| source_quotations    |                                           |
+| comment              |                                           |
+| source_site          |                                           |
+| Hilfsspalte          | (not in original data model!)            |
+| additional_info      | (not in original data model!)            |
+| Recherchehinweise    | (not in original data model!)            |
+| ID_Factoid-List      | (not in original data model!)            |
 
-- factoid_ID
-- pers_ID
-- alternative_names
-- event_start
-- pers_title
-- pers_function
-- place_name
-- inst_name (or "H"?)
-- source
-- pers_name_org (not in original data model!)
-- pers_name
-- source_quotations
-- comment
-- source_site
-- Hilfsspalte (not in original data model!)
-- additional_info
-- Recherchehinweise(not in original data model!)
-- ID_Factoid-List (not in original data model!)
+
 
 _Overview of the individual tabs in the Staatskalender spreadsheet:_
 
@@ -157,11 +160,12 @@ _Important information to add to consolidated Staatskalender files:_
 - watch out for entities that are currently NOT captured in the ontology lists (links below)
 
 The 1755 Staatskalender data will not be used in the current project phase.
-</details>
 
 ![grafik](https://user-images.githubusercontent.com/38257338/225738740-4763cfa5-c418-4c58-aafe-efd0336d0a27.png)
 
-<summary>d) Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR)</summary>
+</details>
+
+<summary>Professors' and students' biographies based on Gutenberg API and Universitätsmatrikel (OCR)</summary>
 <details>
 The archival transcripts of the [Mainz university registers ("Universitätsmatrikeln")](https://genwiki.genealogy.net/Johannes_Gutenberg-Universit%C3%A4t_Mainz/Matrikel) written with typewriter in the 20th century are easier to read with OCR technology, and mis-interpretations of German special characters ("Umlaute") can be cleaned automatically. This is why we have decided to work on them first. After reading the PDF files provided by the archive to `.txt` format, we have performed some basic pre-processing to correct OCR errors and to introduce the #NAME and #SOURCE delimiters to separate person name and source citations (at the end of each entry) from the biographic information given. The biographic information is mostly structured with semi-colons between events, which we can thus read as individual items of a list with Python. Moreover, the transcripts of the university registers contain hints to people that might be identical with others, using `„ein …“`, `„—ein“`, `„—Ein“`, `„. Ein“` or `„. ein“` to denote this additional information. Reading the registers with Python, the #IDENTITY separator is thus needed as well.
 
