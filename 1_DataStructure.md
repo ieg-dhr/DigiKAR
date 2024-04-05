@@ -79,10 +79,10 @@ The following dropdown menu give an overview of the data structure in each of th
 | Weitere Belegstellen   |                    |
 | StaatskalenderID       |                    |
 | Import-ID              |                    |
-
+![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
 </details>
 
-![grafik](https://user-images.githubusercontent.com/38257338/225733762-9faab624-8943-43de-a476-6c3ca914b177.png)
+
 
 <summary>"Jahns" data (2023-02-22, last updated February 22nd, 2023)</summary>
 <details>
