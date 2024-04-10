@@ -21,6 +21,7 @@ export default defineConfig({
       lang: "de",
     },
   },
+  base: "/DigiKAR/",
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
