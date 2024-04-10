@@ -13,9 +13,6 @@ hero:
       text: About the project
       link: /project
     - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR
 
