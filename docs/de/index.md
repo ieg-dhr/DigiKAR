@@ -4,29 +4,29 @@ layout: home
 
 hero:
   name: "DigiKAR"
-  text: "Data and workflows."
+  text: "Daten und Workflows."
   tagline: |
-    Digital map workshop Old Empire.
-    A geohumanities project.
+    Digitale Kartenwerkstatte Altes Reich.
+    Ein Geohumanities Projekt.
   actions:
     - theme: brand
-      text: About the project
+      text: Über das project
       link: /project
     - theme: alt
-      text: API Examples
+      text: API Beispeile
       link: /api-examples
     - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR
 
 features:
-  - title: Data access
+  - title: Daten Zugang
     icon: ☁️
     details: How to access our datasets.
   - title: Data schema
     icon: 📦
-    details: How to use and interpret our datasets.
-  - title: Data workflows
+    details: Metadaten und Hintergründe zum Datenformat.
+  - title: Daten workflows
     icon: 🔧
-    details: How we created the datasets.
+    details: Über die Erstellung der Datensätze.
 ---
