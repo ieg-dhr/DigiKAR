@@ -3,8 +3,22 @@
 ## Overall challenges
 
 ::: info
-This part of the documentation is still missing.
+Focusing on the event-related date columns event_after_date, event_before_date, event_date, event_end, and event_start in a project with fuzzy and uncertain data had the following advantages:
 :::
+
+- By including event_after_date and event_before_date, the dataset can capture the uncertainty around the exact timing of events. If the precise date of an event is unknown but it's known to have occurred after a certain date or before a certain date, these columns can represent that uncertainty.
+- The columns event_start and event_end provide information about the duration of events, which is crucial for understanding their impact and scope. This can help in analyzing the temporal extent of events and their relationship with other events.
+- Using varchar data type for these columns allows for flexibility in representing uncertain or ambiguous date information. It accommodates various date formats, partial dates, or textual descriptions of dates, which is common in historical or fuzzy datasets.
+
+::: info
+While focusing on these columns addresses certain forms of uncertainty, there are still some challenges that remain:
+:::
+
+- The level of granularity provided by these columns may not always be sufficient to capture the full extent of uncertainty. For example, if events are known to have occurred within a certain timeframe but the exact dates are unknown, representing this level of uncertainty may require additional techniques such as interval-based representations.
+- Uncertainty in the data itself, such as missing or inconsistent values in these columns, can still pose challenges.
+- While these columns provide information about the timing and duration of events, interpreting and making meaningful inferences cannot be taken for granted. This requires careful consideration of context and potentially the integration of external sources of information, including the various historiographical and editorial comments in the factoid lists.
+
+Overall, focusing on event-related date columns allows us to handle temporal uncertainty per archival factoid but may not be the ideal solution for all projects.
 
 ## Differentiating temporal information in the factoid model (WP3)
 
