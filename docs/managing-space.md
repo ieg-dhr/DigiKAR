@@ -24,6 +24,7 @@ In our case, the origin of the place names is derived from the three sources use
 1) Mainly from the university registers (automatically recorded "source edition")
 2) Partly also professor data (partly manually and partly automatically recorded secondary literature)
 3) Partly from secondary literature on the RKG by Jahns (secondary literature)
+
 Initially, the place names were automatically recorded from the respective sources and collated and compiled in an alphabetically sorted Excel list. 
 Advantage: Similar spellings of a place name are often close to each other and are therefore easily recognisable and sometimes helpful for a person
 Disadvantage: Additional information such as specifications of the place name was not recorded. Such information must be queried and taken into account during manual comparison.
