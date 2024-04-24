@@ -2,7 +2,7 @@
   "name": "digikar-docs",
   "version": "1.0.0",
   "description": "",
-  "packageManager": "pnpm@8.15.6",
+  "packageManager": "pnpm@9.0.5",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs",
