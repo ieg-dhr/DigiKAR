@@ -1,34 +1,51 @@
-# Links to DigiKAR output
+# Links
 
-Some links to DigiKAR output, such as Zotero library, conference papers and publications, blogposts on work in progress.
-
-## Zotero library
-
-The DigiKAR team has created a [zotero](https://www.zotero.org/) library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.
+Links to DigiKAR output such as conference papers and publications, a Zotero library, and blogposts on work in progress.
 
 ## Conference papers and publications
 
+:::info
+
 Short overview of the events in which we have participated and what the focus was. If we can directly link a relevant folder in the public Zotero library, we should also do that here. But I would also export a bibliography of the talks and publications to add directly to this page.
+
+:::
+
+## Zotero library
+
+::: info
+
+The DigiKAR team has created a [zotero](https://www.zotero.org/) library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.
+
+:::
+
+## Ontology design patterns
+
+Traditional modeling of geospatial data limits the possibilities to integrate, distribute, retrieve, and reuse the data. The Linked Data paradigm enables new
+ways to tackle these issues. Thus, we follow a Linked Data approach towards modeling geospatial information extracted from different historical sources.
+
+<Button link="https://ieg-dhr.github.io/DigiKAR-Ontology-Design/" label="Go to the Ontology design patterns"/>
+
+## Prototype
+
+The prototype for visualizations on mobility and sovereign rights in the Holy Roman Empire is work in progress and frequently updated.
+
+<Button link="https://digikar.geohistoricaldata.org/" label="Go to the prototype"/>
 
 ## Blogposts on work in progress
 
-![slide with experiments](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg){width="70px" style="padding: 0 1em 0 0;float:left;"}
+![Kurmainzische Wappentafel](https://upload.wikimedia.org/wikipedia/commons/1/1c/Kurmainzische_Wappentafel_1750.jpg){width="70px" style="padding: 0 1em 0 0;float:left;"}
+
+### Monika Barget's blogpost
 
 The following blog posts describes the application of some of our Python scripts in the "Kurmainz" work package:
 
-- [Monika Barget, "Manipulating spreadsheets," last updated XXXX](https://insulae.hypotheses.org/1571)
-- [Monika Barget, "Zugehörigkeiten ohne Grenzen," last updated XXXX](https://insulae.hypotheses.org/1296)
-- [Monika Barget, "Humor und Halluzinationen," last updated XXXX](https://insulae.hypotheses.org/1179)
-- [Monika Barget, "De Collectione Datarum," XXXX](https://insulae.hypotheses.org/1155)
-- [Monika Barget, "Methoden der Datenerfassung," last updated XXXX](https://insulae.hypotheses.org/1146)
-- [Monika Barget, "Vom Text zur Tabelle," last updated XXXX](https://insulae.hypotheses.org/905)
-- [Monika Barget, "Erfassung und Geocodierung historischer Ortsdaten," last updated XXXX](https://insulae.hypotheses.org/830)
-- [Monika Barget, "Visualisations as exploration," last updated XXXX](https://insulae.hypotheses.org/613)
-- [Monika Barget, "Reading historical maps with OCR," last updated XXXX](https://insulae.hypotheses.org/485)
-- [Monika Barget, "Disambiguating people and places in dirty historical data," last updated 26/10/2021](https://insulae.hypotheses.org/333)
-
-## Project information
-
-[DigiKAR website](https://digikar.eu/)
-
-[DigiKAR on Twitter](https://twitter.com/digi_KAR)
+- [Manipulating spreadsheets](https://insulae.hypotheses.org/1571), last updated XXXX
+- [Zugehörigkeiten ohne Grenzen](https://insulae.hypotheses.org/1296), last updated XXXX
+- [Humor und Halluzinationen](https://insulae.hypotheses.org/1179), last updated XXXX
+- [De Collectione Datarum, XXXX](https://insulae.hypotheses.org/1155)
+- [Methoden der Datenerfassung](https://insulae.hypotheses.org/1146), last updated XXXX
+- [Vom Text zur Tabelle](https://insulae.hypotheses.org/905), last updated XXXX
+- [Erfassung und Geocodierung historischer Ortsdaten](https://insulae.hypotheses.org/830), last updated XXXX
+- [Visualisations as exploration](https://insulae.hypotheses.org/613), last updated XXXX
+- [Reading historical maps with OCR](https://insulae.hypotheses.org/485), last updated XXXX
+- [Disambiguating people and places in dirty historical data](https://insulae.hypotheses.org/333), last updated 26/10/2021
