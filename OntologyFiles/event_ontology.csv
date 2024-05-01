@@ -5,33 +5,31 @@ Absetzung,Absetzung,,
 Amtsantritt,Amtsantritt,,
 Aufnahme,Aufnahme,,
 Aufschwörung,Aufschwörung,,
-begr.,Beisetzung,,
-berufen,Amtsantritt,,
-berufen,Amtsantritt,,
+begr.,Beisetzung,Toter,
+berufen,Amtsantritt,[Amtsträger],
 Eheschließung,Eheschließung,Ehemann,
-heiratete,Eheschließung,Ehemann,
-oo,Eheschließung,Ehemann,
-Tochter des,Eheschließung,Ehemann,
-Eintritt,Eintritt,,
-Entlassung,Entlassung,,
-er war,Funktionsausübung,,
-erfolglose Bewerbung,erfolglose Bewerbung,,
-erhielt,Amtsantritt,,
 Ernennung,Ernennung,,
-Funktionsausübung,Funktionsausübung,,
-Geburt,Geburt,,
-Gesandtschaft,Gesandtschaft,,
-gewählt,Wahl,,
-ging er,Amtsantritt,,
+Eintritt,Eintritt,[Mitglied],
+Entlassung,Entlassung,[Ehemaliger],
+er war,Funktionsausübung,n/a,
+erfolglose Bewerbung,erfolglose Bewerbung,[Bewerber],
+Ernennung,Ernennung,[Amtsträger],
+erhielt,Amtsantritt,[Amtsträger],
+Funktionsausübung,Funktionsausübung,[Funktionsträger],
+Geburt,Geburt,[Kind oder Vater],
+Gesandtschaft,Gesandtschaft,Gesandter,
 Graduation,Graduation,Absolvent,
 Haft,Haft,Häftling,
 immatr.,Immatrikulation,[Student],
 Immatrikulation,Immatrikulation,[Student],
+Immatrikulation,Immatrikulation,[Student],
 immatrikuliert,Immatrikulation,[Student],
+Immatrikulation,Immatrikulation,[Student],
 inscribiert,Mitgliedschaft,Mitglied,
 Introduktion,Introduktion,Mitglied,
 Konversion,Konversion,Konvertit,
 lehrte,Funktionsausübung,Lehrer,
+Mitgliedschaft,Mitgliedschaft,Mitglied,
 Mitgliedschaft,Mitgliedschaft,Mitglied,
 mittelbare Nobilitierung,mittelbare Nobilitierung,Adeliger,
 Nobilitierung,Nobilitierung,Adeliger,
@@ -49,66 +47,24 @@ Prüfungsverfahren,Prüfungsverfahren,Prüfling,
 Prüfung,Prüfung,Prüfling,
 Reise,Reise,Reisender,
 Rejektion,Rejektion,Bewerber,
-Resignation,Resignation,Sonstiges,
-resignierte,Resignation,Sonstiges,
+Resignation,Resignation,[Ehemaliger],
+resignierte,Resignation,[Ehemaliger],
 Rezeption,Rezeption,Mitglied,
 Rücktritt,Rücktritt,Sonstiges,
-Sonstiges,Sonstiges,Sonstiges,
 studiert,Studium,Student,
+studierte,Studium,Student,
 Studium,Studium,Student,
 Suspendierung,Suspendierung,Sonstiges,
 Taufe,Taufe,[Täufling],
 Tod,Tod,Toter,
-übernahm,Amtsantritt,,
-Vereidigung,Vereidigung,,
-verweigerte,Widerstand,,
-Vokation,Vokation,,
-Wappenbesserung,Wappenbesserung,,
-war er,Funktionsausübung,,
+übernahm,Amtsantritt,Amtsträger,
+Vereidigung,Vereidigung,Amtsträger,
+verstarb,Tod,Toter,
+verweigerte,Widerstand,Sonstiges,
+Vokation,Vokation,[Funktionsträger],
+Wappenbesserung,Wappenbesserung,Sonstiges,
+war er,Funktionsausübung,[Funktionsträger],
 Wohnsitznahme,Wohnsitznahme,Einwohner,
 zog er nach,Wohnsitznahme,Einwohner,
 zugelassen,Zulassung,[Student oder Lehrer],
-Zulassung,Zulassung,[Student oder Lehrer],
-starb,Tod,Toter,
-verstarb,Tod,Toter,
-Absetzung2
-Amtsantritt1
-Aufnahme3
-Aufschwörung60
-Eheschließung91
-Entlassung31
-erfolglose Bewerbung88
-Ernennung86
-Funktionsausübung622
-Geburt64
-Gesandtschaft11
-Graduation70
-Immatrikulation120
-Introduktion4
-Konversion1
-Mitgliedschaft14
-Nobilitierung54
-Nobilitierung, mittelbar24
-Pension11
-Praktikum107
-Präsentation71
-Primäre Bildungsstation11
-Privatunterricht17
-Privilegierung1
-Promotion27
-Prüfungsverfahren8
-Reise13
-Rejektion2
-Resignation34
-Rezeption43
-Rücktritt1
-Sonstiges3
-Studium158
-Suspendierung2
-Taufe73
-Tod72
-Vereidigung24
-Vokation44
-Wappenbesserung1
-Wohnsitznahme10
-Zulassung1
+
