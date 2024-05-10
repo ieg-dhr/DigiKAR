@@ -38,6 +38,7 @@ Per person, we aimed to record the following data:
 
 The initial test run, which focused on siblings, correctly identified the following men as brothers and the following women as sisters:
 
+```
 - 1048 Karl Strecker sibling Alexander Bernhard Strecker unknown no info
 - 1049 Alexander Bernhard Strecker sibling Karl Strecker unknown no info
 - 1050 Karl Strecker sibling Karl Friedrich Strecker unknown no info
@@ -60,6 +61,7 @@ The initial test run, which focused on siblings, correctly identified the follow
 - 1094 Sophia Josepha Rotermund sibling Theresia Rotermund unknown no info
 - 1095 Susanna Christina Weltz sibling Friederike Eleonore Weltz unknown no info
 - 1096 Friederike Eleonore Weltz sibling Susanna Christina Weltz unknown no info
+```
 
 Unfortunately, we could not distinguish sisters and brothers without massive additional effort (e.g. an automated identification of the gender commonly associated with certain first names). So we decided to work with gender-neutral relationship markers. Florian expressed willingness to add an additional column with explicit gender details to our final person list if necessary, indicating its potential usefulness for specific prosopographic queries.
 

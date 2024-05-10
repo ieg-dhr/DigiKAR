@@ -1,10 +1,10 @@
-<img src="./DigiKAR_logo-small.png" alt="drawing" width="100" style="padding=10px" align="left"/>
+<img src="./DigiKAR_logo-small.png" alt="DigiKAR" width="100" style="padding=10px"/>
 
 # DigiKAR
 
-**DE**: Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt
+Scripts for managing spatial and biographic data in the DigiKAR project
 
-**EN**: Scripts for managing spatial and biographic data in the DigiKAR project
+**DE**: Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt
 
 **FR**: Scripts pour la gestion des données spatiales et biographiques dans le projet DigiKAR
 
@@ -16,12 +16,12 @@ Follow these steps to develop the docs locally:
 
 - Firstly, install the dependencies by running:
 
-    ```bash
-    pnpm install
-    ```
+  ```bash
+  pnpm install
+  ```
 
 - After that you can start a `VitePress` dev server locally by running:
 
-    ```bash
-    pnpm docs:dev
-    ```
+  ```bash
+  pnpm docs:dev
+  ```
