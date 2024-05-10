@@ -56,8 +56,8 @@ export default defineConfig({
             link: "/managing-space",
           },
           {
-            text: "Visualisations",
-            link: "/visualisations",
+            text: "Data visualisation",
+            link: "/data-visualisation",
           },
           {
             text: "Scripts",
@@ -116,6 +116,19 @@ export default defineConfig({
             text: "Data access",
             items: [{ text: "Postgres" }, { text: "PostgREST" }],
           },
+        ],
+      },
+      {
+        text: "Visualisation principles",
+        link: "/visualisations/",
+        collapsed: true,
+        items: [
+          {
+            text: "Experimental development",
+            link: "/visualisations/experimental-approach",
+          },
+          { text: "Processes", link: "/visualisations/process-driven" },
+          { text: "Technology", link: "visualisations/technology" },
         ],
       },
     ],
