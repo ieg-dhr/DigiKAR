@@ -1,9 +1,10 @@
-# Data schema mobility data
+# Schema mobility data
 
-The different analytical lenses for the Working package 3, Mobility data, follow a common data schema.
-This page describes the data schema in detail.
+The different analytical lenses of the mobility data, follow a common data schema.
+This page describes this schema in detail.
 
-The columns can be grouped into the following categories, and are prefixed accordingly:
+The basis of every datum is an event, which is related to a person and a place.
+Hence, we group the columns the following categories, and prefix them accordingly:
 
 - related to the event itself, prefix: `event_`
 - related to the primary person of that event, prefix: `person_`
@@ -172,11 +173,13 @@ name="place_geonames_id"
 
 <SchemaEntry
 name="place_geonames_latitude"
+type="number"
 :examples="[]">
 </SchemaEntry>
 
 <SchemaEntry
 name="place_geonames_longitude"
+type="number"
 :examples="[]">
 </SchemaEntry>
 

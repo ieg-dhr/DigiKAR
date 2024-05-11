@@ -49,7 +49,7 @@ export default {
         iconName() {
             switch (this.type) {
                 case 'string': return 'octicon:typography-24';
-                case 'integer': return 'octicon:number-24';
+                case 'number': return 'octicon:number-24';
                 default: return 'octicon:question-24';
             }
         }
@@ -66,14 +66,6 @@ export default {
     display: flex;
     flex-direction: column;
     gap: 1em;
-    /* padding: 2em;
-    border: 1px solid var(--vp-code-bg); */
-
-    .name {
-        font-weight: bold;
-        /* font-size: 1.25em; */
-        color: black;
-    }
 
     .badge {
         background-color: var(--vp-code-bg);
