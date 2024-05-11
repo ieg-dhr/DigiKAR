@@ -28,7 +28,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Links", link: "/links" },
-      { text: "Mobility", link: "/mobility" },
+      { text: "Mobility", link: "/mobility-schema" },
       { text: "Sovereign rights", link: "/rights-holders-saxony" },
       { text: "Visualisations", link: "/visualisations/" },
     ],
@@ -80,8 +80,9 @@ export default defineConfig({
       },
       {
         text: "Mobility data",
-        collapsed: false,
+        collapsed: true,
         items: [
+          { text: "Data Schema", link: "/mobility-schema" },
           {
             text: "Workflow",
             items: [
@@ -98,7 +99,6 @@ export default defineConfig({
               { text: "CSV", link: "/csv-excel" },
             ],
           },
-          { text: "Data Schema", link: "/mobility-schema" },
         ],
       },
       {
