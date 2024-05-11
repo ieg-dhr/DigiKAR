@@ -30,6 +30,7 @@ export default defineConfig({
       { text: "Links", link: "/links" },
       { text: "Mobility", link: "/mobility" },
       { text: "Sovereign rights", link: "/rights-holders-saxony" },
+      { text: "Visualisations", link: "/visualisations/" },
     ],
     sidebar: [
       {
@@ -97,6 +98,7 @@ export default defineConfig({
               { text: "CSV", link: "/csv-excel" },
             ],
           },
+          { text: "Data Schema", link: "/mobility-schema" },
         ],
       },
       {
