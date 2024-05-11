@@ -1,6 +1,8 @@
 <template>
     <div class="schema-entry" style="margin-bottom: 2em;">
-        <h3 :id="name" class="name">{{ name }} <v-icon :name="iconName" scale="1.5" fill="grey" /></h3>
+        <h3 :id="name" class="name">{{ name }}
+            <icon :icon="iconName" :inline="true" style="color:grey;display: inline;" />
+        </h3>
         <div>
             Datatype <span class="badge">{{ type ?? "unknown" }}</span>
         </div>
@@ -46,9 +48,9 @@ export default {
     computed: {
         iconName() {
             switch (this.type) {
-                case 'string': return 'oi-typography';
-                case 'integer': return 'oi-number';
-                default: return 'oi-question';
+                case 'string': return 'octicon:typography-24';
+                case 'integer': return 'octicon:number-24';
+                default: return 'octicon:question-24';
             }
         }
     }

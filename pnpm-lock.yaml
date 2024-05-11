@@ -8,9 +8,9 @@ importers:
 
   .:
     dependencies:
-      oh-vue-icons:
-        specifier: 1.0.0-rc3
-        version: 1.0.0-rc3(vue@3.4.21)
+      '@iconify/vue':
+        specifier: ^4.1.2
+        version: 4.1.2(vue@3.4.21)
     devDependencies:
       vitepress:
         specifier: ^1.0.2
@@ -261,6 +261,14 @@ packages:
     cpu: [x64]
     os: [win32]
 
+  '@iconify/types@2.0.0':
+    resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
+
+  '@iconify/vue@4.1.2':
+    resolution: {integrity: sha512-CQnYqLiQD5LOAaXhBrmj1mdL2/NCJvwcC4jtW2Z8ukhThiFkLDkutarTOV2trfc9EXqUqRs0KqXOL9pZ/IyysA==}
+    peerDependencies:
+      vue: '>=3'
+
   '@jridgewell/sourcemap-codec@1.4.15':
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
 
@@ -504,15 +512,6 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  oh-vue-icons@1.0.0-rc3:
-    resolution: {integrity: sha512-+k2YC6piK7sEZnwbkQF3UokFPMmgqpiLP6f/H0ovQFLl20QA5V4U8EcI6EclD2Lt5NMQ3k6ilLGo8XyXqdVSvg==}
-    peerDependencies:
-      '@vue/composition-api': ^1.0.0-rc.1
-      vue: ^2.0.0 || >=3.0.0
-    peerDependenciesMeta:
-      '@vue/composition-api':
-        optional: true
-
   perfect-debounce@1.0.0:
     resolution: {integrity: sha512-xCy9V055GLEqoFaHoC1SoLIaLmWctgCUaBaWxDZ7/Zx4CTyX7cJQLJOok/orfjZAh9kEYpjJa4d0KcJmCbctZA==}
 
@@ -593,17 +592,6 @@ packages:
       markdown-it-mathjax3:
         optional: true
       postcss:
-        optional: true
-
-  vue-demi@0.12.5:
-    resolution: {integrity: sha512-BREuTgTYlUr0zw0EZn3hnhC3I6gPWv+Kwh4MCih6QcAeaTlaIX0DwOVN0wHej7hSvDPecz4jygy/idsgKfW58Q==}
-    engines: {node: '>=12'}
-    hasBin: true
-    peerDependencies:
-      '@vue/composition-api': ^1.0.0-rc.1
-      vue: ^3.0.0-0 || ^2.6.0
-    peerDependenciesMeta:
-      '@vue/composition-api':
         optional: true
 
   vue-demi@0.14.7:
@@ -837,6 +825,13 @@ snapshots:
 
   '@esbuild/win32-x64@0.20.2':
     optional: true
+
+  '@iconify/types@2.0.0': {}
+
+  '@iconify/vue@4.1.2(vue@3.4.21)':
+    dependencies:
+      '@iconify/types': 2.0.0
+      vue: 3.4.21
 
   '@jridgewell/sourcemap-codec@1.4.15': {}
 
@@ -1082,11 +1077,6 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  oh-vue-icons@1.0.0-rc3(vue@3.4.21):
-    dependencies:
-      vue: 3.4.21
-      vue-demi: 0.12.5(vue@3.4.21)
-
   perfect-debounce@1.0.0: {}
 
   picocolors@1.0.0: {}
@@ -1189,10 +1179,6 @@ snapshots:
       - terser
       - typescript
       - universal-cookie
-
-  vue-demi@0.12.5(vue@3.4.21):
-    dependencies:
-      vue: 3.4.21
 
   vue-demi@0.14.7(vue@3.4.21):
     dependencies:
