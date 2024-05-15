@@ -10,16 +10,22 @@ like we benefited from great open-source libraries we want others to be able to 
 Instead of creating a desktop application, we decided to create a web-based tool.
 This allows us to reach a broader audience:
 
-- no setup required (no installation)
+- no setup (does only require a modern browser and internet connection)
 - it is crossplatform (does not require specific operating systems or hardware)
+
+## APIs for data access
+
+Both working packages, expose the collected and normalized data vian an API.
+We see the access to data via an API as another step towards accessible and reusable results of the DigiKAR project.
+The [prototype](digikar.geohistoricaldata.org) uses this API as well.
 
 ## Accessibility first
 
-:::info
-This part of the documentation is still missing. Potential topics to cover:
-
-- technologies, web-based tools
-  - for historians
-  - why a web tool in the end? (why not create something based on QGIS), because we can be more creative / more flexible?
-
-:::
+> [!Info]
+> This part of the documentation is still missing. Potential topics to cover:
+>
+> - why a web tool in the end? (why not create visualizations e.g. in QGIS)?
+>   - because we don't want users to install QGIS first
+>   - because we want users to be able to use the tool in a well-known environment (their browser)
+>   - because we want users to be able to easily share their findings (via an link, instead of e.g. a QGIS file)
+>   - because there mature web mapping libraries we can build for be more creative / more flexible?
