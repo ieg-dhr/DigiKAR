@@ -12,6 +12,9 @@ importers:
         specifier: ^4.1.2
         version: 4.1.2(vue@3.4.21)
     devDependencies:
+      husky:
+        specifier: ^9.0.11
+        version: 9.0.11
       vitepress:
         specifier: ^1.0.2
         version: 1.0.2(@algolia/client-search@4.23.2)(postcss@8.4.38)(search-insights@2.13.0)
@@ -493,6 +496,11 @@ packages:
 
   hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
+
+  husky@9.0.11:
+    resolution: {integrity: sha512-AB6lFlbwwyIqMdHYhwPe+kjOC3Oc5P3nThEoW/AaO2BX3vJDjWPFxYLxokUZOo6RNX20He3AaT8sESs9NJcmEw==}
+    engines: {node: '>=18'}
+    hasBin: true
 
   magic-string@0.30.9:
     resolution: {integrity: sha512-S1+hd+dIrC8EZqKyT9DstTH/0Z+f76kmmvZnkfQVmOpDEF9iVgdYif3Q/pIWHmCoo59bQVGW0kVL3e2nl+9+Sw==}
@@ -1064,6 +1072,8 @@ snapshots:
     optional: true
 
   hookable@5.5.3: {}
+
+  husky@9.0.11: {}
 
   magic-string@0.30.9:
     dependencies:
