@@ -20,10 +20,15 @@ features:
   - title: Data access
     icon: ☁️
     details: How to access our datasets.
+    linkText: Learn more
   - title: Data schema
     icon: 📦
     details: How to use and interpret our datasets.
+    linkText: Learn more
+    link: /mobility-schema
   - title: Data workflows
     icon: 🔧
     details: How we created the datasets.
+    linkText: Learn more
+    link: /data-categorisation-mainz
 ---
