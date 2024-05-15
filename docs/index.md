@@ -8,6 +8,8 @@ hero:
   tagline: |
     Digital map workshop Holy Roman Empire.
     A geohumanities project.
+
+    ⚠️ This documentation is currently work in progress.
   actions:
     - theme: brand
       text: About the project
