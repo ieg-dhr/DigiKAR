@@ -6,7 +6,7 @@ hero:
   name: "DigiKAR"
   text: "Data and workflows."
   tagline: |
-    Digital map workshop Old Empire.
+    Digital map workshop Holy Roman Empire.
     A geohumanities project.
   actions:
     - theme: brand
