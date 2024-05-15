@@ -121,12 +121,12 @@ export default defineConfig({
         ],
       },
       {
-        text: "Visualisation principles",
+        text: "Visualisations",
         link: "/visualisations/",
         collapsed: true,
         items: [
           {
-            text: "Experimental development",
+            text: "Experimental approach",
             link: "/visualisations/experimental-approach",
           },
           { text: "Processes", link: "/visualisations/process-driven" },

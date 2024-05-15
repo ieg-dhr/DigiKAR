@@ -2,7 +2,7 @@
 
 DigiKAR was planned and executed as a laboratory, hence with a strong experimental character.
 
-## Why an experimental approach?
+## Why experimental?
 
 Certainly, it is nice to have a finished product, but the process of getting there is equally important.
 As clichee as it sounds – we wanted to enjoy the process and take out as much as possible.
@@ -20,7 +20,7 @@ Moreover, it also allows us to be more flexible, adapting to new insights and re
 With all its freedom the experimental approach still needs a clear structure.
 We tried to keep the focus by looking at things from the perspective of our target group:
 the visualizations in the DigiKAR project are aimed at an expert audience of historians and DH professionals.
-This audience includes both, user skilled with digital data processing, and users with less experience in this field.
+This audience includes both, users skilled with digital data processing, and users with less experience in this field.
 We wanted to create visualizations that are easy to understand and that can be used by both groups.
 At the same time we did not want to compromise on the complexity of the data and the visualizations.
 
