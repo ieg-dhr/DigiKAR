@@ -18,7 +18,7 @@ description="Unique identifier for the event."
 type="string"
 :examples="['stud2715', '123456']">
 
-Every datum in the DigiKar project gets a _unique_ identifier for the event.
+Every datum in the DigiKAR project gets a _unique_ identifier for the event.
 This identifiers are prefixed.
 For example, `stud2715` is a unique identifier for a student event.
 
