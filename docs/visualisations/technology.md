@@ -17,7 +17,7 @@ This allows us to reach a broader audience:
 
 Both working packages, expose the collected and normalized data vian an API.
 We see the access to data via an API as another step towards accessible and reusable results of the DigiKAR project.
-The [prototype](digikar.geohistoricaldata.org) uses this API as well.
+The [prototype](https://digikar.geohistoricaldata.org) uses this API as well.
 
 ## Accessibility first
 
