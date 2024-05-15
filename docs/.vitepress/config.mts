@@ -29,7 +29,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Links", link: "/links" },
       { text: "Mobility", link: "/mobility-schema" },
-      { text: "Sovereign rights", link: "/rights-holders-saxony" },
+      { text: "Rights and right holders", link: "/rights-holders-saxony" },
       { text: "Visualisations", link: "/visualisations/" },
     ],
     sidebar: [
@@ -102,7 +102,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "Soverein rights data",
+        text: "Rights and right holders data",
         link: "rights-holders-saxony",
         collapsed: true,
         items: [
@@ -112,7 +112,7 @@ export default defineConfig({
           },
           {
             text: "Data structure",
-            items: [{ text: "Places" }, { text: "Sovereign Rights" }],
+            items: [{ text: "Places" }, { text: "Rights and right holders" }],
           },
           {
             text: "Data access",

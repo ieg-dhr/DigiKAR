@@ -35,7 +35,7 @@ It aims to gain an in-depth overview of existing projects by evaluating the sele
 
 ## Prototype
 
-The prototype for visualizations on mobility and sovereign rights in the Holy Roman Empire is work in progress and frequently updated.
+The prototype for visualizations on mobility and rights and right holders in the Holy Roman Empire is work in progress and frequently updated.
 
 <Button link="https://digikar.geohistoricaldata.org/" label="Go to the prototype"/>
 
