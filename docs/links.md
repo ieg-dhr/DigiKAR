@@ -25,6 +25,14 @@ ways to tackle these issues. Thus, we follow a Linked Data approach towards mode
 
 <Button link="https://ieg-dhr.github.io/DigiKAR-Ontology-Design/" label="Go to the Ontology design patterns"/>
 
+## Best practice visualizations
+
+This working paper combines the Best Practice Visualisations (BPV) that depict historical, cultural, and environmental data in various forms, such as maps, graphs, and databases.
+The BPV has been compiled, analysed, and evaluated for the visualisation purposes of the project DigiKAR.
+It aims to gain an in-depth overview of existing projects by evaluating the selected spatial visualisations.
+
+<Button link="https://kartdok.staatsbibliothek-berlin.de/receive/kartdok_mods_00000862" label="Go to the Best practice visualizations working paper"/>
+
 ## Prototype
 
 The prototype for visualizations on mobility and sovereign rights in the Holy Roman Empire is work in progress and frequently updated.
