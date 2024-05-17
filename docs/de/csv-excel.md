@@ -40,7 +40,7 @@ c) _Relationship Tracer:_
 
 d) _Erweitertes Script zur Abfrage mehrerer Tabellenspalten aus mehreren EXCEL Dateien_
 
-[Abfrage von ODER Bedingungen: XSLX_multiple-conditions_OR.py(https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py)
+[Abfrage von ODER Bedingungen: XSLX_multiple-conditions_OR.py](https://github.com/ieg-dhr/DigiKAR/blob/main/XSLX_multiple-conditions_OR.py)
 
 - Aus dem Standard-Ordner `DigiKAR_DATEN\\Python\\InputLists` werden alle dort abgelegten EXCEL-Dateien (in Factoid-Struktur) in einen gemeinsamen Dataframe gelesen.
 - User kann für Personenname, Datum, Institution, Titel, Funktion und "related person" (Erweiterung auf andere Spalten jederzeit möglich) einen oder mehrere Suchbegriffe / Zeitangaben mit Komma getrennt eingeben.
