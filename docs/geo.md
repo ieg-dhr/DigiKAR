@@ -1,6 +1,6 @@
 # Geohumanities Tutorials
 
-In a separate Github repository, Monika Barget shares [code and tutorials](https://monikabarget.github.io/GeoHumTutorials/)  for geocoding historical spatial data with the Google and Geonames APIs. Some of the scripts also include embedded mapping functionalisties to create static or interactive visualisations on the fly.
+In a separate Github repository, Monika Barget shares [code and tutorials](https://monikabarget.github.io/GeoHumTutorials/) for geocoding historical spatial data with the Google and Geonames APIs. Some of the scripts also include embedded mapping functionalisties to create static or interactive visualisations on the fly.
 
 # Processing of spatial data
 
