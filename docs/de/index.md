@@ -6,7 +6,7 @@ hero:
   name: "DigiKAR"
   text: "Daten und Workflows."
   tagline: |
-    Digitale Kartenwerkstatte Altes Reich.
+    Digitale Kartenwerkstatt Altes Reich.
     Ein Geohumanities Projekt.
   actions:
     - theme: brand
