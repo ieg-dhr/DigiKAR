@@ -16,13 +16,7 @@ This part of the documentation is still missing. It should explain where the dat
 
 ## Handling the relationship between rights and right holders
 
-Also, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
-
-## Challenges of divergent data structures
-
-In the course of normalizing database entries which we could import from the historical gazetteers [HOV](https://hov.isgv.de/") and [RepSax](https://repsax.isgv.de/), we encountered, among other things, an inconsistent recording of the rights holders, especially regarding the so-called **"Grundherrschaft"** in the manorial system. Right holders are sometimes indicated as individuals, but the family seat is mentioned in other cases.
-
-In the **Repertorium Saxonicum (RepSax)**, for instance, we find the variants "von Taupaddel" and "Heinrich von Taupaddel" - the former being an instance of the class 'family,' the latter an instance of the class 'person.' In **HOV**, editors often entered non-person entities like "Rittergut Schleinitz" for data simplification.
+In the course of normalizing database entries which we could import from the historical gazetteers [HOV](https://hov.isgv.de/") and [RepSax](https://repsax.isgv.de/), we encountered, among other things, an inconsistent recording of the rights holders, especially regarding the so-called **"Grundherrschaft"** in the manorial system. Right holders are sometimes indicated as individuals, but the family seat is mentioned in other cases. In the **Repertorium Saxonicum (RepSax)**, for instance, we find the variants "von Taupaddel" and "Heinrich von Taupaddel" - the former being an instance of the class 'family,' the latter an instance of the class 'person.' In **HOV**, editors often entered non-person entities like "Rittergut Schleinitz" for data simplification.
 
 It can be difficult to discern if rights were held by a person or by someone representing a specific hereditary line. This is complicated because groups exercising power became more diverse during the early modern period. In the study ["Bürgerliche Rittergüter : sozialer Wandel und politische Reform in Kursachsen (1680 - 1844)"](https://digi20.digitale-sammlungen.de/de/fs1/object/display/bsb00056061_00147.html), the author states that "bourgeois groups [also] came into possession of the manors," which, in the sense of depicting social change, might require a more detailed categorization of right holders, based on the activities and functions/roles of persons.
 
@@ -51,3 +45,5 @@ Concerning the territorial administration, we find a similar diversity of agents
 - Amtsschösser
 - Amtsrentverwalter
 - Amtmänner (of the local administration)
+
+In DigiKAR, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
