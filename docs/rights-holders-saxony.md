@@ -1,14 +1,18 @@
 # Rights and right holders in Saxony
 
-## Structuring space through complex legal affiliations
-
-The Saxony work package in DigiKAR focuses on the structuring of early modern space through the complex legal affiliations of individual landmarks (e.g. bridges and mills), non-inhabited areas (e.g. forests), settlements and individual estates within settlements.
+## Historical incentives of studying spatial dimensions of rights in early modern Saxony
 
 ::: info
 This part of the documentation is still missing. It should give a brief summary of what the Saxony work package does and why this is important.
 :::
 
-Also, finding an overarching definition of early modern **"Landesherrschaft"** is difficult. Researchers have focused on military organization, imperial taxation, and certain offices or legal instruments as key elements, but they remain contested.
+## Structuring space through complex legal affiliations
+
+The Saxony work package in DigiKAR focuses on the structuring of early modern space through the complex legal affiliations of individual landmarks (e.g. bridges and mills), non-inhabited areas (e.g. forests), settlements and individual estates within settlements. We focus on five rights out of many, and DigiKAR generally does not pretend that we can model *the* Holy Roman Empire with all its administrative bodies. The selected cases are already challenging because abstracting from the original sources to create normalised and structured data requires careful ontological decisions. For example, finding an overarching definition of early modern **"Landesherrschaft"** is difficult. Researchers have focused on military organization, imperial taxation, and certain offices or legal instruments as key elements, but they remain contested. In our own data collection, have therefore decided ...
+
+## Handling the relationship between rights and right holders
+
+Also, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
 
 ### Data collection
 
