@@ -1,4 +1,4 @@
-**2) Extracting structured information from TXT files**
+**Extracting structured information from TXT files**
 
 a) [TXT_replaceWORDwithREGEX.py](https://github.com/ieg-dhr/DigiKAR/blob/main/TXT_replaceWORDwithREGEX.py) 
 
