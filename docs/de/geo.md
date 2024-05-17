@@ -1,3 +1,7 @@
+# Geohumanities Tutorials
+
+In einem separaten Github-Repository teilt Monika Barget [Code und Tutorials](https://monikabarget.github.io/GeoHumTutorials/) zur Geokodierung historischer räumlicher Daten mit den Google- und Geonames-APIs. Einige der Skripte enthalten auch integrierte Mapping-Funktionalitäten, um testweise statische oder interaktive Visualisierungen zu erstellen.
+
 # Bearbeitung von Ortsdaten
 
 1. [Geocodierung mit OpenCage API und Plotting auf statischer Karte](https://github.com/ieg-dhr/DigiKAR/JupyterNotebooks_DigiKAR/Geocode-Plot_OpenCage.ipynb)
