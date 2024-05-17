@@ -4,36 +4,36 @@
 
 Historical documents often contain different and not necessarily compatible ways to denote dates, ranging from specific numeric dates to more qualitative descriptions. Some of the descriptions are vague and cannot easily be transferred to a structured data format. Indicators for time in German historical documents may include the following:
 
-1.	Numeric Dates:
+### Numeric Dates:
 -	Day.Month.Year (e.g., 21.12.1820)
 -	Day/Month/Year (e.g., 21/12/1820)
 -	Month/Year (e.g., 12/1820)
 -	Year (e.g., 1820)
 -	Year range (e.g., 1820-1825)
 
-2.	Qualitative Descriptions:
+### Qualitative Descriptions:
 
-2.1.	Seasons:
+#### Seasons:
 -	"Frühling" (Spring)
 -	"Sommer" (Summer)
 -	"Herbst" (Autumn/Fall)
 -	"Winter"
-2.3. Names of months, often abbreviated and without years:
+#### Names of months, often abbreviated and without years:
 -	"Januar", "Februar", "März", etc. (January, February, March)
 - "Sommermonate" (Summer months)
-2.4. Time indicators specific to the ecclesiastical year:
+#### Time indicators specific to the ecclesiastical year:
 - "Fastenzeit" (Lent)
 - "Weihnachten" (Christmas)
 - festdays of saints
 - office periods of bishops or popes
-2.5. Time indicators concerning the academic year:
+#### Time indicators concerning the academic year:
 - SS / "Sommersemester" (summer term)
 - WS / "Wintersemester" (winter term)
-2.6. Narrative periodisation based on political events:
+#### Narrative periodisation based on political events:
 - Zur Zeit des Kaisers (during the reign of the emperor)
 - Während des Krieges (during the war)
 - In der Ära der Industrialisierung (in the era of industrialization)
-2.7. Relative time expressions in a narrative form:
+#### Relative time expressions in a narrative form:
 -	Vorher (before)
 - Nachher (after)
 -	Davor (prior to)
@@ -59,20 +59,20 @@ Historical documents often contain different and not necessarily compatible ways
 -	Letzte Woche (last week)
 -	Nächsten Monat (next month)
 -	Zwischenzeitlich (in the meantime)
-2.9.	Indefinite qualifiers for numerical dates:
+####	Indefinite qualifiers for numerical dates:
 -	Ungefähr YYYY (in approximately YYYY)
 - Noch YYYY (also still in YYYY)
 - Nicht vor YYYY (not before YYYY)
 - spätestens YYYY (in YYYY at the latest)
 - frühestens YYYY (in YYYY at the earliest)
-2.10. Expressions of doubt or uncertainty:
+#### Expressions of doubt or uncertainty:
 -	? (question mark and other symbols of uncertainty)
 -	Unklar (unclear)
 -	Unbekannt (unknown)
 -	Unbekannt (unknown)
 -	Unbestimmt (indefinite)
   
-This list can to a limited degree be used to work with string matching and simple NPL operations in identifying time frames, but where expressions relate back to dates mentioned earlier in the text and require an interpretation of information in context, AI / Large Language Models will probably need to be used to automate the process of date identification. At present, the most common workflow is to check those dates manually, which is time-consuming.
+While this list is by no means comprehensive, it can, to a limited degree, be used to work with string matching and simple NPL operations in identifying exact dates, time frames and fuzzy dates, but where expressions relate back to dates mentioned earlier in the text and require an interpretation of information in context, AI / Large Language Models will probably need to be used to automate the process of date identification. At present, the most common workflow is to check those dates manually, which is time-consuming. In the DigiKAR project, student assistants at JGU Mainz and IEG Mainz have supported us in this task.
 
 ## Time modelling decisions in the Mainz workpackage
 
