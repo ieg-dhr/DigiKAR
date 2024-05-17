@@ -6,7 +6,7 @@ hero:
   name: "DigiKAR"
   text: "Data and workflows."
   tagline: |
-    Digital map workshop Holy Roman Empire.
+    Digital map lab Holy Roman Empire.
     A geohumanities project.
 
     ⚠️ This documentation is currently work in progress.
