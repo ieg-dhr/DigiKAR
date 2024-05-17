@@ -1,4 +1,4 @@
-# Utilising Germania Sacra Data in JSON Format
+# Writing JSON data to a custom tabular format (e.g. Germania Sacra data dumps)
 
 ## Background and provided data
 
