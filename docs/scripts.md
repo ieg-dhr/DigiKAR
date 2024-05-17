@@ -1,5 +1,13 @@
 ## Code for data collection, data cleaning and data analysis
 
+In DigiKAR, we have also experimented with Python code for data collection, data cleaning and data analysis, especially in our Mainz workpackage. The [pandas](https://pandas.pydata.org/) package in Python is widely used for working with two-dimensional [dataframes](https://www.databricks.com/glossary/what-are-dataframes) and helped us read, manipulate and write EXCEL and CSV files. We have also worked with packages for XML, HTML, JSON and [geocoding](https://monikabarget.github.io/GeoHumTutorials/).
+
+:::info
+Scripts and their use cases are explained in the workflow section below.
+:::
+
+## Editing and running code in different environments
+
 The pages linked below contain brief descriptions of scripts for data collection, data cleaning or data analysis in the DigiKAR project. Some of the [Jupyter Notebook](https://jupyter.org/) files (ending in `.ipynb`) were initially created for [Google Colab](https://colab.google/) and need to be adjusted when used in other environments. In the DigiKAR project, Google Colab was used because we did not have access to an institutional research software infrastructure. Ideally, code should be hosted in non-commercial environments, such as university-hosted computing infrastructures for data science.
 
 ![screenshot google colab](https://github.com/ieg-dhr/DigiKAR/assets/38257338/72173520-9cf1-4dc7-be6e-4f8b25ee97b8)
@@ -11,9 +19,7 @@ To make the Colab notebooks work for you, please carry out the following steps:
 3. Select "open with" and connect to the Google Colab app. If you have not used Google Colab before, select the "connect more apps" option and find Colab there.
 4. Make sure to give Colab all the necessary permissions to run the script and read / write files. If you do not want Colab to access a private Google Drive, you may want to create a new Google account exclusively for research purposes.
 
-:::info
-This part of the documentation needs to be updated. The links below do not need to be provided in multiple languages anymore. We can instead link to specific pages in docs for every language.
-:::
+
 
 |                                                                                                                         |                                                                                                                             |                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
