@@ -3,7 +3,7 @@
 In DigiKAR, we have also experimented with Python code for data collection, data cleaning and data analysis, especially in our Mainz workpackage. The [pandas](https://pandas.pydata.org/) package in Python is widely used for working with two-dimensional [dataframes](https://www.databricks.com/glossary/what-are-dataframes) and helped us read, manipulate and write EXCEL and CSV files. We have also worked with packages for XML, HTML, JSON and [geocoding](https://monikabarget.github.io/GeoHumTutorials/).
 
 :::info
-Scripts and their use cases are explained in the workflow section below.
+Scripts and their use cases are explained in the detailed [*workflow* sections] below. In most cases, a short description is available in English as well as German and French.
 :::
 
 ## Editing and running code in different environments
