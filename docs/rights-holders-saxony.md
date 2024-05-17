@@ -1,6 +1,6 @@
 # Rights and right holders in Saxony
 
-## Historical incentives of studying spatial dimensions of rights in early modern Saxony
+## Historiographical incentives of studying spatial dimensions of rights in early modern Saxony
 
 ::: info
 This part of the documentation is still missing. It should give a brief summary of what the Saxony work package does and why this is important.
