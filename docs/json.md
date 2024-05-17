@@ -2,24 +2,23 @@
 
 ## Background and provided data
 
-In DigiKAR, we have obtained permission to integrate data from [Germania Sacra] for research purposes. We were especially interested in data on early modern monasteries and historical figures such as bishops active in Mainz.
-The data were provided in JSON and CSV formats, but the CSV files proved impossible to parse to our own factoid format.
+In DigiKAR, we have obtained permission to integrate data from the [Germania Sacra](https://adw-goe.de/en/germania-sacra) project for research purposes. We were especially interested in data on early modern monasteries and historical figures such as bishops active in Mainz. The data were provided in JSON and CSV formats, but the CSV files proved impossible to parse to our own factoid format.
 
 Monasteries Data:
 
-   - The JSON file for monasteries parsed successfully.
-   - Data integration can proceed by categorizing information into the Mainz places list and the Mainz institutions list.
-   - Identification of necessary IDs is ongoing to ensure consistency.
+- The JSON file for monasteries parsed successfully.
+- Data integration can proceed by categorizing information into the Mainz places list and the Mainz institutions list.
+- Identification of necessary IDs is ongoing to ensure consistency.
 
 Persons Data:
 
-    - The CSV dumps for persons were unusable due to excessive merged information, posing significant challenges for data extraction and manipulation.
-    - The 22MB JSON dump provided by the Germania Sacra team caused technical problems, including constant decoding errors in Python, suggesting potential file corruption.
-    -  An online tool successfully opened the 22 MB JSON dump but revealed problematic nesting structures.
+- The CSV dumps for persons were unusable due to excessive merged information.
+- The 22MB JSON dump provided by the Germania Sacra team caused technical problems, including constant decoding errors in Python, suggesting potential file corruption.
+-  An online tool successfully opened the 22 MB JSON dump but revealed problematic nesting structures.
 
 ## Extracting the JSON data
 
-A smaller JSON dump specifically for bishops active in Mainz was downloaded directly from Germania Sacra. While this file parsed correctly, it still required restructuring to be useful in a tabular format.
+A smaller JSON dump specifically for bishops active in Mainz was downloaded directly from Germania Sacra API. While this file parsed correctly, it still required restructuring to be useful in a tabular format.
 The initial parsed JSON file included an “offices” column with event information embedded in a dictionary, which needed to be read to individual factoid columns. The “notePerson” column also contains crucial information such as educational trajectories, which are often accompanied by specific places and dates. The events in this column, however, vary in structure: some are dictionaries, while those with only dates are simple lists of strings. These inconsistencies in the data structure proved challenging for the data integration in our own project. There is no guarantee of extracting all “notePerson” information cleanly and expert review is needed.
 
 ### Current Solutions and Recommendations
