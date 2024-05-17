@@ -10,17 +10,15 @@ This part of the documentation is still missing. It should give a brief summary 
 
 The Saxony work package in DigiKAR focuses on the structuring of early modern space through the complex legal affiliations of individual landmarks (e.g. bridges and mills), non-inhabited areas (e.g. forests), settlements and individual estates within settlements. We focus on five rights out of many, and DigiKAR generally does not pretend that we can model *the* Holy Roman Empire with all its administrative bodies. The selected cases are already challenging because abstracting from the original sources to create normalised and structured data requires careful ontological decisions. For example, finding an overarching definition of early modern **"Landesherrschaft"** is difficult. Researchers have focused on military organization, imperial taxation, and certain offices or legal instruments as key elements, but they remain contested. In our own data collection, have therefore decided ...
 
-## Handling the relationship between rights and right holders
-
-Also, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
-
-### Data collection
-
 ::: info
 This part of the documentation is still missing. It should explain where the data comes from, in which formats it is available and how it is collected. Add link to "Datenverfügbarkeitsstudie"?
 :::
 
-### Challenges of divergent data structures
+## Handling the relationship between rights and right holders
+
+Also, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
+
+## Challenges of divergent data structures
 
 In the course of normalizing database entries which we could import from the historical gazetteers [HOV](https://hov.isgv.de/") and [RepSax](https://repsax.isgv.de/), we encountered, among other things, an inconsistent recording of the rights holders, especially regarding the so-called **"Grundherrschaft"** in the manorial system. Right holders are sometimes indicated as individuals, but the family seat is mentioned in other cases.
 
