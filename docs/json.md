@@ -14,7 +14,7 @@ Persons Data:
 
 - The CSV dumps for persons were unusable due to excessive merged information.
 - The 22MB JSON dump provided by the Germania Sacra team caused technical problems, including constant decoding errors in Python, suggesting potential file corruption.
--  An online tool successfully opened the 22 MB JSON dump but revealed problematic nesting structures.
+- An online tool successfully opened the 22 MB JSON dump but revealed problematic nesting structures.
 
 ## Extracting the JSON data
 
@@ -26,10 +26,14 @@ The initial parsed JSON file included an “offices” column with event informa
 - BishopsMainz-fromJSON.xlsx: This file includes the raw JSON data parsed into a dataframe without additional manipulation, retaining the “offices” column as a dictionary.
 - BishopsMainz_OFFICES_separated.xlsx: This file has been partially manipulated to separate the “offices” column into individual columns for person title and person office.
 
-### FINAL SCRIPT NEEDS TO BE EMBEDDED
+::: info
+
+Final screept needs to be embedded here.
+
+:::
 
 ### Next Steps
 
 - Ingo works on improving the extraction script.
-    - Sven should review the manipulated data to determine its consistency and completeness.
-    - It is recommended that Germania Sacra be contacted to discuss the challenges faced and possibly request a more specific data dump focusing on the early modern period.
+  - Sven should review the manipulated data to determine its consistency and completeness.
+  - It is recommended that Germania Sacra be contacted to discuss the challenges faced and possibly request a more specific data dump focusing on the early modern period.
