@@ -1,340 +1,562 @@
-#;;;
-@;;;
-Absolvent;;S;
-Abt;;G;
-Adeliger;;P;
-Adjunkt;;V;
-Administrator;;;je nachdem V und/oder G
-Advokat;;R;
-Aktuar;;R;
-Altarist;;G;
-Ältester;;;
-Alumnus;;S;
-Amtmann;;V;
-Antragsteller;;;
-Anwesender;;;
-Archivar;;V;
-Archivrat;;V;
-Arzt;;V;
-Assessor;;R;
-Assessor, Supernumerar;;R;
-Auditor;;R;
-Beichtvater;;G;
-Beichtvater, für Externe;;G;
-Berater;;;
-Bewerber;;;
-Bibliothekar;;V;
-Bischof;;G;
-Bücherkommissar;;V;
-Bücherzensor;;V;
-Buchhändler;;W;
-Bürger;;P;
-Bürgermeister;;V;
-Collector;;;Kann V oder G sein
-Concionator S. templi;;G;
-Definitor;;G;
-Dekan;;G;
-Diakon;;G;
-Diener;;;am ehesten H
-Diplomat;;D;
-Diplomat, Österreich;;D;
-Direktor;;V;
-Domizellar;;G;
-Edelknabe;;H;
-Edelknabenpräzeptor;;H;
-Ehemann;;P;
-Ehrendoktor;;S;
-Ehrenmitglied;;;
-Eigentümer;;P;
-Einwohner;;P;
-Entlassener;;P;
-Erbe;;P;
-Erzbischof;;G;
-Erzieher;;P;?
-Exulant;;P;
-Fiskal;;V;
-Großfiskal;;V;
-Fiskaladvokat;;R;
-Flüchtling;;P;
-Forscher;;;
-Friedensrichter;;R;
-Gastwirt;;W;
-Geheimer Reichsreferendar;;R;
-Geistlicher;;G;
-Geistlicher Vater;;G;
-Generalvikar;;G;
-Gerichtsschreiber;;R;
-Gesandter;;D;
-Gesandter, stellvertretender;;D;
-Glashändler;;W;
-Großfiskal;;V;
-Großherzog;;;
-Großsiegelbewahrer;;V;
-Gutachter;;;
-Habilitand;;L;?
-Häftling;;P;
-Händler;;W;
-Historiker;;L;
-Historiker, Kirchengeschichte;;L;
-Hofapotheker;;W, H;
-Hofarzt;;M, M, H;
-Hofgerichtsadvokat;;R;
-Hofgerichtsrat;;R;
-Hofgerichtsschreiber;;R, V;
-Hofkaplan;;G;
-Hofmathematiker;;H, L;
-Hofmeister;;H;
-Hofpfalzgraf;;P;
-Hofprediger;;G;
-Immatrikulation;;S;
-Inspektor;;V;
-Jurist;;R;
-Kämmerer;;H;
-Kammerherr;;H;
-Kanoniker;;G;
-Kantor;;G;
-Kanzler;;V;
-Kanzlist;;V;
-Kapitularherr;;G;
-Kapiturlarherr/Präbendar;;G;
-Kaplan;;G;
-Kind;;P;
-Kind / Student;;P, S;
-Kleriker;;G;
-Koadjutor;;;kommt drauf an f�r was, tendenziell G
-Kommandeur;;Mi;
-Kommissar;;V;kann auch G sein
-Konferenzminister / Staatsminister / #;;V;
-Konsulent;;R;
-Konvertit;;P;
-Korrektor;;V;
-Kranker;;P;
-Kurator;;V;
-Kurator, Generalkurator;;V;
-Kurfürst;;V;
-Kustos;;G;
-Landwirt;;W;
-Lehnpropst;;V;
-Lehrer;;L;
-Lehrer, Dogmatik;;L, G;
-Lehrer, Hebräisch;;L;
-Lehrer, Heilige Schrift;;L, G;
-Lehrer, Humaniora;;L;
-Lehrer, Logik;;L;
-Lehrer, Metaphysik;;L;
-Lehrer, Metaphysik / Ethik;;L;
-Lehrer, Metaphysik / Humaniora / Theologie;;L;
-Lehrer, Moral;;L;
-Lehrer, Moraltheologie;;L, G;
-Lehrer, Philosophie;;L;
-Lehrer, Philosophie/Lehrer, Recht;;L, R;
-Lehrer, Physik;;L;
-Lehrer, Physik / Ethik;;L;
-Lehrer, Physik / Mathematik;;L;
-Lehrer, Physik / Metaphysik / Ethik;;L;
-Lehrer, Polemik;;L;
-Lehrer, Rhetorik;;L;
-Lehrer, Theologie;;L, G;
-Lehrer, Theologie / Kirchengeschichte;;L, G;
-Leibarzt;;M, H;
-Leibwundarzt;;M, H;
-Leiter;;;je nachdem
-Lektor;;G;
-Lizentiat;;S, R;
-Logicus;;S;
-Militärarzt;;M, Mi;
-Minister;;V;
-Ministerialbeamter;;V;
-Missionar;;G;
-Mitglied;;;je nachdem
-Munizipal;;V;
-Mutter;;P;
-Notar;;R;
-Novizenmeister;;G;
-Offizial;;G;
-Offizier;;Mi;
-Opponent;;;
-Ordensmann;;G;
-Organist;;G;
-Panegyricus;;G;oder P
-Pastor;;G;
-Pate;;P;
-Pfarrer;;G;
-Physikus;;M;
-Pleban;;G;
-Poeta;;P;
-Präbendar;;G;
-Praefectus advocatiae Urbis;;R;
-Praepositus;;G;
-Praetor;;G;
-Präfekt;;V;
-Praktikant;;R;
-Präses;;G;
-Präsident;;V;
-Prätor;;R;
-Präzeptor;;G;
-Prediger;;G;
-Priester;;G;
-Priester, Bußpriester;;G;
-Priester, Weltgeistlicher;;G;
-Prior;;G;
-Privatier;;P;
-Privatlehrer;;L;
-Privatmann;;P;
-Prodekan;;G;
-Professor;;L;
-Professor, außerordentlicher;;L;
-Professor, emeritierter;;L;
-Professor, Ethik / Mathematik;;L;
-Professor, Gastdozent;;L;
-Professor, Geschichte;;L;
-Professor, Kirchenrecht;;L;
-Professor, Logik;;L;
-Professor, Metaphysik / Ethik;;L;
-Professor, ordentlicher;;L;
-Professor, Philosophie;;L;
-Professor, Physik;;L;
-Professor, Poetik;;L;
-Professor, Rechtswissenschaft;;L;
-Professor, Rhetorik;;L;
-Professor, Theologie;;L, G;
-Professsor, ordentlicher;;L;
-Prokurator;;R;
-Promissarius;;P;
-Promotor;;G;
-Promovend;;S;
-Promovend, Assessor;;S,R;
-Promovend, Professor;;S, L;
-Propst;;G;
-Prorektor;;L;
-Protogé;;;?
-Protonotar;;R;
-Provikar;;G;
-Provincialis;;G;
-Provinzial;;G;
-Prüfer;;L;
-Prüfling;;S;
-Quaestor;;V;
-Rat;;V;
-Rat #;;V;
-Rat, Supernumerar;;V;
-Ratsmeister;;V;
-Rechnungsunterzeichner;;V;
-Rector Magnificus;;L;
-Redner;;;
-Referend;;R, V;
-Referendar;;R, V;
-Reformator;;;?
-Regens;;G;
-Regent;;V;
-Regierungsmitglied;;V;
-Reichsdiener;;V;
-Reichserzkanzler;;V;
-Reichshofkanzleitaxator;;V;
-Reisender;;P;
-Rektor;;L;
-Rektor, Assessor;;L;
-Rentmeister;;V;
-Repetent;;L;
-Resignation;;;
-Revisionsrat;;R, V;
-Richter;;R, V;
-Sänger;;G;
-Sazellan;;G;
-Schöffe;;R;
-Scholaster;;G;
-Schreiber;;V;
-Schriftsteller;;W;
-Schuldirektor;;L;
-Schuldner;;P;
-Schüler;;S;
-Schüler #;;S;
-Schüler];;S;
-Schülerin;;S;
-Schulkommissar;;L;
-Schulmeister;;L;
-Schultheiß;;V;
-Seelsorger;;G;
-Sekretär;;V;
-Sekretär #;;V;
-Seminarist;;G, S;
-Sicherheitsbeamter;;V;
-Siegelbewahrer;;V;
-Siegler;;V;
-Soldat;;Mi;
-Sonstiges;;;?
-Spiritual;;G;
-Staatsbeamter, höherer;;V;
-Staatsminister;;V;
-Stadtgerichtsschultheiß;;R, V;
-Stadthauptmann;;V;
-Stadtkapitän;;V;
-Stadtmajor;;V;
-Stadtschreiber;;V ;
-Stadtschultheiß;;V;
-Stadtvogt;;V;
-Statthalter;;V;
-Steuerzahler;;P;
-Stipendiat;;S;
-Student;;S;
-Student #;;S;
-Student];;S;
-Subcustos;;G;
-Subdelegierter;;V;
-Subdiakon;;G;
-Subkonkretor;;L;Subkonrektor?
-Subregens;;G;
-Superintendent;;G;
-Superior;;G;
-Syndikus;;V;
-Syndikus #;;V;
-Täufling;;P;
-Täufling, evangelisch-kalvinistisch;;P;
-Täufling, evangelisch-lutherisch;;P;
-Täufling, evangelisch-reformiert;;P;
-Täufling, katholisch;;P;
-Testamentsvollstrecker;;P;
-Toter;;P;
-Tryßler;;;??
-Tutor;;L;
-Uhrmacher;;W;
-Ungelder;;V;
-Unterbauherr;;V;
-Unterpräfekt;;V;
-Unterstadtvogt;;V;
-Vater;;P;
-Vater, Braut;;P;
-Vater, Bräutigam;;P;
-Verwalter;;V;
-Verwalter, kommisarisch;;V;
-Verweser;;V;
-Vierherr;;V;
-Vikar;;G;
-Vikariatsassessor;;G, R;
-Visitator;;V,R;je nachdem
-Vizedekan;;L;
-Vizedirektor;;V;
-Vizedom;;V;
-Vizegroßhofmeister;;H;
-Vizekanzler;;V;
-Vizepräsident;;V;
-Vizepräsident];;V;
-Vizeregierungsdirektor/Kanzleidirektor;;V;
-Vizerektor;;V;
-Vizestadtschultheiß;;V;
-Vogelschütze;;W;
-Vogt;;V;
-Vorsitzender;;;ja nachdem von was
-Vorsteher;;;ja nachdem von was
-Vorstizender;;;ja nachdem von was
-Wahlbotschafter, zweiter, Kurfürstentum Mainz;;V;
-Wahlbotschafter, zweiter, Kurköln;;V;
-Weihbischof;;G;
-Zahlmeister;;V;
-Zahlmeister-Adjunkt;;V;
-Zensor;;V;
-Zinseinnehmer-Adjunkt;;V;
-Zinsmeister;;V;
-Zollschreiber;;V;
-Zuckermacher;;W;
-Zweiermann;;V;
+function_old,function_new,function_value
+#,#,
+@,@,
+Absolvent,Absolvent,S
+Abt,Abt,G
+Adeliger,Adliger,P
+Adjunkt,Adjunkt,V
+Administrator,Administrator,"je nachdem V und/oder G"
+Advokat,Advokat,R
+Aktuar,Aktuar,R
+Altarist,Altarist,G
+Ältester,Ältester,
+Alumnus,Alumnus,S
+Amtmann,Amtmann,V
+Antragsteller,Antragsteller,
+Anwesender,Anwesender,
+Archivar,Archivar,V
+Archivrat,Archivrat,V
+Arzt,Arzt,V
+Assessor,Assessor,R
+Assessor, Supernumerar,Assessor,R
+Auditor,Auditor,R
+Beichtvater,Beichtvater,G
+Beichtvater, für Externe,"Beichtvater, für Externe",G
+Berater,Berater,
+Bewerber,Bewerber,
+Bibliothekar,Bibliothekar,V
+Bischof,Bischof,G
+Bücherkommissar,Bücherkommissar,V
+Bücherzensor,Bücherzensor,V
+Buchhändler,Buchhändler,W
+Bürger,Bürger,P
+Bürgermeister,Bürgermeister,V
+Collector,Collector,"Kann V oder G sein"
+Concionator S. templi,Prediger,G
+Definitor,Definitor,G
+Dekan,Dekan,G
+Diakon,Diakon,G
+Diener,Diener,"am ehesten H"
+Diplomat,Diplomat,D
+Diplomat, Österreich,Diplomat,D
+Direktor,Direktor,V
+Domizellar,Domizellar,G
+Edelknabe,Edelknabe,H
+Edelknabenpräzeptor,Edelknabenpräzeptor,H
+Ehemann,Ehemann,P
+Ehrendoktor,Ehrendoktor,S
+Ehrenmitglied,Ehrenmitglied,
+Eigentümer,Eigentümer,P
+Einwohner,Einwohner,P
+Entlassener,Entlassener,P
+Erbe,Erbe,P
+Erzbischof,Erzbischof,G
+Erzieher,Erzieher,P
+Exulant,Exulant,P
+Fiskal,Fiskal,V
+Großfiskal,Großfiskal,V
+Fiskaladvokat,Fiskaladvokat,R
+Flüchtling,Flüchtling,P
+Forscher,Forscher,
+Friedensrichter,Friedensrichter,R
+Gastwirt,Gastwirt,W
+Geheimer Reichsreferendar,Geheimer Reichsreferendar,R
+Geistlicher,Geistlicher,G
+Geistlicher Vater,Geistlicher Vater,G
+Generalvikar,Generalvikar,G
+Gerichtsschreiber,Gerichtsschreiber,R
+Gesandter,Gesandter,D
+Gesandter, stellvertretender,"stellvertretender Gesandter",D
+Glashändler,Glashändler,W
+Großfiskal,Großfiskal,V
+Großherzog,Großherzog,
+Großsiegelbewahrer,Großsiegelbewahrer,V
+Gutachter,Gutachter,
+Habilitand,Habilitand,L
+Häftling,Häftling,P
+Händler,Händler,W
+Historiker,Historiker,L
+Historiker, Kirchengeschichte,Kirchengeschichtshistoriker,L
+Hofapotheker,Hofapotheker,"W, H"
+Hofarzt,Hofarzt,"M, M, H"
+Hofgerichtsadvokat,Hofgerichtsadvokat,R
+Hofgerichtsrat,Hofgerichtsrat,R
+Hofgerichtsschreiber,Hofgerichtsschreiber,"R, V"
+Hofkaplan,Hofkaplan,G
+Hofmathematiker,Hofmathematiker,"H, L"
+Hofmeister,Hofmeister,H
+Hofpfalzgraf,Hofpfalzgraf,P
+Hofprediger,Hofprediger,G
+Immatrikulation,Immatrikulation,S
+Inspektor,Inspektor,V
+Jurist,Jurist,R
+Kämmerer,Kämmerer,H
+Kammerherr,Kammerherr,H
+Kanoniker,Kanoniker,G
+Kantor,Kantor,G
+Kanzler,Kanzler,V
+Kanzlist,Kanzlist,V
+Kapitularherr,Kapitularherr,G
+Kapiturlarherr/Präbendar,Kapitularherr,G
+Kaplan,Kaplan,G
+Kind,Kind,P
+Kind / Student,Kind / Student,"P, S"
+Kleriker,Kleriker,G
+Koadjutor,Koadjutor,"kommt drauf an für was, tendenziell G"
+Kommandeur,Kommandeur,Mi
+Kommissar,Kommissar,"kann auch G sein"
+Konferenzminister / Staatsminister / #,Konferenzminister,V
+Konsulent,Konsulent,R
+Konvertit,Konvertit,P
+Korrektor,Korrektor,V
+Kranker,Kranker,P
+Kurator,Kurator,V
+Kurator, Generalkurator,Generalkurator,V
+Kurfürst,Kurfürst,V
+Kustos,Kustos,G
+Landwirt,Landwirt,W
+Lehnpropst,Lehnpropst,V
+Lehrer,Lehrer,L
+"Lehrer, Dogmatik","Lehrer, Dogmatik","L, G"
+"Lehrer der Dogmatik","Lehrer, Dogmatik","L, G"
+"Lehrer für Dogmatik","Lehrer, Dogmatik","L, G"
+"Lehrer f. Dogmatik","Lehrer, Dogmatik","L, G"
+"Lehrer, Hebräisch","Lehrer, Hebräisch",L
+"Lehrer des Hebräischen","Lehrer, Hebräisch",L
+"Lehrer für Hebräisch","Lehrer, Hebräisch",L
+"Lehrer f. Hebräisch","Lehrer, Hebräisch",L
+"Lehrer, Heilige Schrift","Lehrer, Heilige Schrift","L, G"
+"Lehrer der Heiligen Schrift","Lehrer, Heilige Schrift","L, G"
+"Lehrer für Heilige Schrift","Lehrer, Heilige Schrift","L, G"
+"Lehrer f. Heilige Schrift","Lehrer, Heilige Schrift","L, G"
+"Lehrer, Humaniora","Lehrer, Humaniora",L
+"Lehrer der Humaniora","Lehrer, Humaniora",L
+"Lehrer für Humaniora","Lehrer, Humaniora",L
+"Lehrer f. Humaniora","Lehrer, Humaniora",L
+"Lehrer, Logik","Lehrer, Logik",L
+"Lehrer der Logik","Lehrer, Logik",L
+"Lehrer für Logik","Lehrer, Logik",L
+"Lehrer f. Logik","Lehrer, Logik",L
+"Lehrer, Metaphysik","Lehrer, Metaphysik",L
+"Lehrer der Metaphysik","Lehrer, Metaphysik",L
+"Lehrer für Metaphysik","Lehrer, Metaphysik",L
+"Lehrer f. Metaphysik","Lehrer, Metaphysik",L
+"Lehrer, Metaphysik / Ethik","Lehrer, Metaphysik / Ethik",L
+"Lehrer der Metaphysik und Ethik","Lehrer, Metaphysik / Ethik",L
+"Lehrer für Metaphysik und Ethik","Lehrer, Metaphysik / Ethik",L
+"Lehrer f. Metaphysik und Ethik","Lehrer, Metaphysik / Ethik",L
+"Lehrer, Metaphysik / Humaniora / Theologie","Lehrer, Metaphysik / Humaniora / Theologie","L, G"
+"Lehrer der Metaphysik, Humaniora und Theologie","Lehrer, Metaphysik / Humaniora / Theologie","L, G"
+"Lehrer für Metaphysik, Humaniora und Theologie","Lehrer, Metaphysik / Humaniora / Theologie","L, G"
+"Lehrer f. Metaphysik, Humaniora und Theologie","Lehrer, Metaphysik / Humaniora / Theologie","L, G"
+"Lehrer, Moral","Lehrer, Moral",L
+"Morallehrer","Lehrer, Moral",L
+"Lehrer der Moral","Lehrer, Moral",L
+"Lehrer für Moral","Lehrer, Moral",L
+"Lehrer f. Moral","Lehrer, Moral",L
+"Lehrer, Moraltheologie","Lehrer, Moraltheologie","L, G"
+"Lehrer der Moraltheologie","Lehrer, Moraltheologie","L, G"
+"Lehrer für Moraltheologie","Lehrer, Moraltheologie","L, G"
+"Lehrer f. Moraltheologie","Lehrer, Moraltheologie","L, G"
+"Lehrer, Philosophie","Lehrer, Philosophie",L
+"Philosophielehrer","Lehrer, Philosophie",L
+"Lehrer der Philosophie","Lehrer, Philosophie",L
+"Lehrer für Philosophie","Lehrer, Philosophie",L
+"Lehrer f. Philosophie","Lehrer, Philosophie",L
+"Lehrer, Philosophie / Recht","Lehrer, Philosophie / Recht","L, R"
+"Lehrer der Philosophie und des Rechts","Lehrer, Philosophie / Recht","L, R"
+"Lehrer für Philosophie und Recht","Lehrer, Philosophie / Recht","L, R"
+"Lehrer f. Philosophie und Recht","Lehrer, Philosophie / Recht","L, R"
+"Lehrer, Physik","Lehrer, Physik",L
+"Physiklehrer","Lehrer, Physik",L
+"Lehrer der Physik","Lehrer, Physik",L
+"Lehrer für Physik","Lehrer, Physik",L
+"Lehrer f. Physik","Lehrer, Physik",L
+"Lehrer, Physik / Ethik","Lehrer, Physik / Ethik",L
+"Lehrer der Physik und Ethik","Lehrer, Physik / Ethik",L
+"Lehrer für Physik und Ethik","Lehrer, Physik / Ethik",L
+"Lehrer f. Physik und Ethik","Lehrer, Physik / Ethik",L
+"Lehrer, Physik / Mathematik","Lehrer, Physik / Mathematik",L
+"Lehrer der Physik und Mathematik","Lehrer, Physik / Mathematik",L
+"Lehrer für Physik und Mathematik","Lehrer, Physik / Mathematik",L
+"Lehrer f. Physik und Mathematik","Lehrer, Physik / Mathematik",L
+"Lehrer, Physik / Metaphysik / Ethik","Lehrer, Physik / Metaphysik / Ethik",L
+"Lehrer der Physik, Metaphysik und Ethik","Lehrer, Physik / Metaphysik / Ethik",L
+"Lehrer für Physik, Metaphysik und Ethik","Lehrer, Physik / Metaphysik / Ethik",L
+"Lehrer f. Physik, Metaphysik und Ethik","Lehrer, Physik / Metaphysik / Ethik",L
+"Lehrer, Polemik","Lehrer, Polemik",L
+"Polemiklehrer","Lehrer, Polemik",L
+"Lehrer der Polemik","Lehrer, Polemik",L
+"Lehrer für Polemik","Lehrer, Polemik",L
+"Lehrer f. Polemik","Lehrer, Polemik",L
+"Lehrer, Rhetorik","Lehrer, Rhetorik",L
+"Rhetoriklehrer","Lehrer, Rhetorik",L
+"Lehrer der Rhetorik","Lehrer, Rhetorik",L
+"Lehrer für Rhetorik","Lehrer, Rhetorik",L
+"Lehrer f. Rhetorik","Lehrer, Rhetorik",L
+"Lehrer, Theologie","Lehrer, Theologie","L, G"
+"Theologielehrer","Lehrer, Theologie","L, G"
+"Lehrer der Theologie","Lehrer, Theologie","L, G"
+"Lehrer für Theologie","Lehrer, Theologie","L, G"
+"Lehrer f. Theologie","Lehrer, Theologie","L, G"
+"Lehrer, Theologie / Kirchengeschichte","Lehrer, Theologie / Kirchengeschichte","L, G"
+"Lehrer der Theologie und Kirchengeschichte","Lehrer, Theologie / Kirchengeschichte","L, G"
+"Lehrer für Theologie und Kirchengeschichte","Lehrer, Theologie / Kirchengeschichte","L, G"
+"Lehrer f. Theologie und Kirchengeschichte","Lehrer, Theologie / Kirchengeschichte","L, G"
+Leibarzt,Leibarzt,"M, H"
+Leibwundarzt,Leibwundarzt,"M, H"
+Leiter,Leiter,"je nachdem"
+Lektor,Lektor,G
+Lizentiat,Lizentiat,"S, R"
+Logicus,Logicus,S
+Militärarzt,Militärarzt,"M, Mi"
+Minister,Minister,V
+Ministerialbeamter,Ministerialbeamter,V
+Missionar,Missionar,G
+Mitglied,Mitglied,"je nachdem"
+Munizipal,Munizipal,V
+Mutter,Mutter,P
+Notar,Notar,R
+Novizenmeister,Novizenmeister,G
+Offizial,Offizial,G
+Offizier,Offizier,Mi
+Opponent,Opponent,
+Ordensmann,Ordensmann,G
+Organist,Organist,G
+Panegyricus,Panegyricus,"G oder P"
+Pastor,Pastor,G
+Pate,Pate,P
+Pfarrer,Pfarrer,G
+Physikus,Physikus,M
+Pleban,Pleban,G
+Poeta,Poeta,P
+Präbendar,Präbendar,G
+Praefectus advocatiae Urbis,Praefectus advocatiae Urbis,R
+Praepositus,Praepositus,G
+Praetor,Praetor,G
+Präfekt,Präfekt,V
+Praktikant,Praktikant,R
+Präses,Präses,G
+Präsident,Präsident,V
+Prätor,Prätor,R
+function_old,function_new,function_value
+"Prediger","Prediger","G"
+"Prediger der Gemeinde","Prediger","G"
+"Evangelischer Prediger","Prediger","G"
+"Katholischer Prediger","Prediger","G"
+
+"Priester","Priester","G"
+"Priester der Gemeinde","Priester","G"
+"Evangelischer Priester","Priester","G"
+"Katholischer Priester","Priester","G"
+
+"Priester, Bußpriester","Priester, Bußpriester","G"
+"Bußpriester","Priester, Bußpriester","G"
+"Priester für Buße","Priester, Bußpriester","G"
+"Priester der Buße","Priester, Bußpriester","G"
+
+"Priester, Weltgeistlicher","Priester, Weltgeistlicher","G"
+"Weltgeistlicher Priester","Priester, Weltgeistlicher","G"
+"Priester des Weltlichen","Priester, Weltgeistlicher","G"
+"Priester der Welt","Priester, Weltgeistlicher","G"
+
+"Prior","Prior","G"
+"Prior des Klosters","Prior","G"
+"Klosterprior","Prior","G"
+
+"Privatier","Privatier","P"
+"Privatmann","Privatier","P"
+"Privater Bürger","Privatier","P"
+
+"Privatlehrer","Privatlehrer","L"
+"Lehrer im Privaten","Privatlehrer","L"
+"Lehrer, Privat","Privatlehrer","L"
+
+"Privatmann","Privatmann","P"
+"Privater Mann","Privatmann","P"
+"Bürgerlicher Mann","Privatmann","P"
+
+"Prodekan","Prodekan","G"
+"Pro-Dekan","Prodekan","G"
+"Stellvertretender Dekan","Prodekan","G"
+
+"Professor","Professor","L"
+"Lehrstuhlinhaber","Professor","L"
+"Akademischer Professor","Professor","L"
+
+"Professor, außerordentlicher","Professor, außerordentlicher","L"
+"Außerordentlicher Professor","Professor, außerordentlicher","L"
+"Professor (außerordentlich)","Professor, außerordentlicher","L"
+
+"Professor, emeritierter","Professor, emeritierter","L"
+"Emeritierter Professor","Professor, emeritierter","L"
+"Professor (emeritiert)","Professor, emeritierter","L"
+
+"Professor, Ethik / Mathematik","Professor, Ethik / Mathematik","L"
+"Professor der Ethik und Mathematik","Professor, Ethik / Mathematik","L"
+"Professor für Ethik und Mathematik","Professor, Ethik / Mathematik","L"
+
+"Professor, Gastdozent","Professor, Gastdozent","L"
+"Gastdozent","Professor, Gastdozent","L"
+"Professor als Gastdozent","Professor, Gastdozent","L"
+
+"Professor, Geschichte","Professor, Geschichte","L"
+"Geschichtsprofessor","Professor, Geschichte","L"
+"Professor der Geschichte","Professor, Geschichte","L"
+
+"Professor, Kirchenrecht","Professor, Kirchenrecht","L"
+"Professor des Kirchenrechts","Professor, Kirchenrecht","L"
+"Kirchenrechtsprofessor","Professor, Kirchenrecht","L"
+
+"Professor, Logik","Professor, Logik","L"
+"Logikprofessor","Professor, Logik","L"
+"Professor der Logik","Professor, Logik","L"
+
+"Professor, Metaphysik / Ethik","Professor, Metaphysik / Ethik","L"
+"Professor der Metaphysik und Ethik","Professor, Metaphysik / Ethik","L"
+"Professor für Metaphysik und Ethik","Professor, Metaphysik / Ethik","L"
+
+"Professor, ordentlicher","Professor, ordentlicher","L"
+"Ordentlicher Professor","Professor, ordentlicher","L"
+"Professor (ordentlich)","Professor, ordentlicher","L"
+
+"Professor, Philosophie","Professor, Philosophie","L"
+"Philosophieprofessor","Professor, Philosophie","L"
+"Professor der Philosophie","Professor, Philosophie","L"
+
+"Professor, Physik","Professor, Physik","L"
+"Physikprofessor","Professor, Physik","L"
+"Professor der Physik","Professor, Physik","L"
+
+"Professor, Poetik","Professor, Poetik","L"
+"Poetikprofessor","Professor, Poetik","L"
+"Professor der Poetik","Professor, Poetik","L"
+
+"Professor, Rechtswissenschaft","Professor, Rechtswissenschaft","L"
+"Professor der Rechtswissenschaft","Professor, Rechtswissenschaft","L"
+"Rechtswissenschaftsprofessor","Professor, Rechtswissenschaft","L"
+
+"Professor, Rhetorik","Professor, Rhetorik","L"
+"Rhetorikprofessor","Professor, Rhetorik","L"
+"Professor der Rhetorik","Professor, Rhetorik","L"
+
+"Professor, Theologie","Professor, Theologie","L, G"
+"Theologieprofessor","Professor, Theologie","L, G"
+"Professor der Theologie","Professor, Theologie","L, G"
+
+"Professor, ordentlicher","Professor, ordentlicher","L"
+"Ordentlicher Professor","Professor, ordentlicher","L"
+"Professor (ordentlich)","Professor, ordentlicher","L"
+
+"Prokurator","Prokurator","R"
+"Anwalt","Prokurator","R"
+"Prokurator des Gerichts","Prokurator","R"
+
+"Promissarius","Promissarius","P"
+"Versprechender","Promissarius","P"
+"Promissarius (Versprechender)","Promissarius","P"
+
+"Promotor","Promotor","G"
+"Förderer","Promotor","G"
+"Promotor (Förderer)","Promotor","G"
+
+"Promovend","Promovend","S"
+"Doktorand","Promovend","S"
+"Promovend (Doktorand)","Promovend","S"
+
+"Promovend, Assessor","Promovend, Assessor","S, R"
+"Promovender Assessor","Promovend, Assessor","S, R"
+"Assessor (Promovend)","Promovend, Assessor","S, R"
+
+"Promovend, Professor","Promovend, Professor","S, L"
+"Promovender Professor","Promovend, Professor","S, L"
+"Professor (Promovend)","Promovend, Professor","S, L"
+
+"Propst","Propst","G"
+"Probst","Propst","G"
+"Propst des Klosters","Propst","G"
+
+"Prorektor","Prorektor","L"
+"Stellvertretender Rektor","Prorektor","L"
+"Prorektor der Universität","Prorektor","L"
+
+"Protogé","Protogé","?"
+"Schützling","Protogé","?"
+"Protégé (Schützling)","Protogé","?"
+
+"Protonotar","Protonotar","R"
+"Erster Notar","Protonotar","R"
+"Protonotar des Gerichts","Protonotar","R"
+
+"Provikar","Provikar","G"
+"Stellvertretender Vikar","Provikar","G"
+"Provikar der Kirche","Provikar","G"
+
+"Provincialis","Provincialis","G"
+"Provincial","Provincialis","G"
+"Leiter der Provinz","Provincialis","G"
+
+"Provinzial","Provinzial","G"
+"Provinzial der Kirche","Provinzial","G"
+"Kirchenprovinzial","Provinzial","G"
+
+"Prüfer","Prüfer","L"
+"Examinator","Prüfer","L"
+"Prüfer der Universität","Prüfer","L"
+
+"Prüfling","Prüfling","S"
+"Examinand","Prüfling","S"
+"Prüfling (Examinand)","Prüfling","S"
+
+"Quaestor","Quaestor","V"
+"Schatzmeister","Quaestor","V"
+"Quaestor (Schatzmeister)","Quaestor","V"
+
+"Rat","Rat","V"
+"Berater","Rat","V"
+"Ratsmitglied","Rat","V"
+
+"Rat #","Rat","V"
+"Berater #","Rat","V"
+"Ratsmitglied #","Rat","V"
+
+"Rat, Supernumerar","Rat, Supernumerar","V"
+"Supernumerar-Rat","Rat, Supernumerar","V"
+"Rat (Supernumerar)","Rat, Supernumerar","V"
+
+"Ratsmeister","Ratsmeister","V"
+"Meister des Rats","Ratsmeister","V"
+"Ratsmeister der Gemeinde","Ratsmeister","V"
+
+"Rechnungsunterzeichner","Rechnungsunterzeichner","V"
+"Buchhalter","Rechnungsunterzeichner","V"
+"Rechnungsunterzeichner des Rats","Rechnungsunterzeichner","V"
+
+"Rector Magnificus","Rector Magnificus","L"
+"Rektor Magnificus","Rector Magnificus","L"
+"Rektor der Universität","Rector Magnificus","L"
+
+"Redner","Redner",""
+"Öffentlicher Redner","Redner",""
+"Redner der Gemeinde","Redner",""
+
+"Referend","Referend","R, V"
+"Referendar","Referend","R, V"
+"Referendar des Gerichts","Referend","R, V"
+
+"Reformator","Reformator","?"
+"Regens","Regens","G"
+"Regent","Regent","V"
+"Regierungsmitglied","Regierungsmitglied","V"
+"Reichsdiener","Reichsdiener","V"
+"Reichserzkanzler","Reichserzkanzler","V"
+"Reichshofkanzleitaxator","Reichshofkanzleitaxator","V"
+"Reisender","Reisender","P"
+"Rektor","Rektor","L"
+"Rektor, Assessor","Rektor, Assessor","L"
+"Rentmeister","Rentmeister","V"
+"Repetent","Repetent","L"
+"Resignation","Resignation",""
+"Revisionsrat","Revisionsrat","R, V"
+"Richter","Richter","R, V"
+"Sänger","Sänger","G"
+"Sazellan","Sazellan","G"
+"Schöffe","Schöffe","R"
+"Scholaster","Scholaster","G"
+"Schreiber","Schreiber","V"
+"Schriftsteller","Schriftsteller","W"
+"Schuldirektor","Schuldirektor","L"
+"Schuldner","Schuldner","P"
+"Schüler","Schüler","S"
+"Schüler #","Schüler","S"
+"Schüler]","Schüler","S"
+"Schülerin","Schülerin","S"
+"Schulkommissar","Schulkommissar","L"
+"Schulmeister","Schulmeister","L"
+"Schultheiß","Schultheiß","V"
+"Seelsorger","Seelsorger","G"
+"Sekretär","Sekretär","V"
+"Sekretär #","Sekretär","V"
+"Seminarist","Seminarist","G, S"
+"Sicherheitsbeamter","Sicherheitsbeamter","V"
+"Siegelbewahrer","Siegelbewahrer","V"
+"Siegler","Siegler","V"
+"Soldat","Soldat","Mi"
+"Sonstiges","Sonstiges","?"
+"Spiritual","Spiritual","G"
+"Staatsbeamter, höherer","Staatsbeamter, höherer","V"
+"Staatsminister","Staatsminister","V"
+"Stadtgerichtsschultheiß","Stadtgerichtsschultheiß","R, V"
+"Stadthauptmann","Stadthauptmann","V"
+"Stadtkapitän","Stadtkapitän","V"
+"Stadtmajor","Stadtmajor","V"
+"Stadtschreiber","Stadtschreiber","V"
+"Stadtschultheiß","Stadtschultheiß","V"
+"Stadtvogt","Stadtvogt","V"
+"Statthalter","Statthalter","V"
+"Steuerzahler","Steuerzahler","P"
+"Stipendiat","Stipendiat","S"
+"Student","Student","S"
+"Student #","Student","S"
+"Student]","Student","S"
+"Subcustos","Subcustos","G"
+"Subdelegierter","Subdelegierter","V"
+"Subdiakon","Subdiakon","G"
+"Subkonkretor","Subkonkretor","L"
+"Subregens","Subregens","G"
+"Superintendent","Superintendent","G"
+"Superior","Superior","G"
+"Syndikus","Syndikus","V"
+"Syndikus #","Syndikus","V"
+"Täufling","Täufling","P"
+"Täufling, evangelisch-kalvinistisch","Täufling","P"
+"Täufling, evangelisch-lutherisch","Täufling","P"
+"Täufling, evangelisch-reformiert","Täufling","P"
+"Täufling, katholisch","Täufling","P"
+"Testamentsvollstrecker","Testamentsvollstrecker","P"
+"Toter","Toter","P"
+"Tryßler","Tryßler","?"
+"Tutor","Tutor","L"
+"Uhrmacher","Uhrmacher","W"
+"Ungelder","Ungelder","V"
+"Unterbauherr","Unterbauherr","V"
+"Unterpräfekt","Unterpräfekt","V"
+"Unterstadtvogt","Unterstadtvogt","V"
+"Vater","Vater","P"
+"Vater, Braut","Vater","P"
+"Vater, Bräutigam","Vater","P"
+"Verwalter","Verwalter","V"
+"Verwalter, kommissarisch","Verwalter","V"
+"Verweser","Verweser","V"
+"Vierherr","Vierherr","V"
+"Vikar","Vikar","G"
+"Vikariatsassessor","Vikariatsassessor","G, R"
+"Visitator","Visitator","V, R"
+"Vizedekan","Vizedekan","L"
+"Vizedirektor","Vizedirektor","V"
+"Vizedom","Vizedom","V"
+"Vizegroßhofmeister","Vizegroßhofmeister","H"
+"Vizekanzler","Vizekanzler","V"
+function_old,function_new,function_value
+"Vizekanzler","Vizekanzler","V"
+"Vizepräsident","Vizepräsident","V"
+"Vizepräsident]","Vizepräsident","V"
+"Vizeregierungsdirektor/Kanzleidirektor","Vizeregierungsdirektor/Kanzleidirektor","V"
+"Vizerektor","Vizerektor","V"
+"Vizestadtschultheiß","Vizestadtschultheiß","V"
+"Vogelschütze","Vogelschütze","W"
+"Vogt","Vogt","V"
+"Vorsitzender","Vorsitzender","ja nachdem von was"
+"Vorsteher","Vorsteher","ja nachdem von was"
+"Vorstizender","Vorstizender","ja nachdem von was"
+"Wahlbotschafter, zweiter, Kurfürstentum Mainz","Wahlbotschafter, zweiter, Kurfürstentum Mainz","V"
+"Wahlbotschafter, zweiter, Kurköln","Wahlbotschafter, zweiter, Kurköln","V"
+"Weihbischof","Weihbischof","G"
+"Zahlmeister","Zahlmeister","V"
+"Zahlmeister-Adjunkt","Zahlmeister-Adjunkt","V"
+"Zensor","Zensor","V"
+"Zinseinnehmer-Adjunkt","Zinseinnehmer-Adjunkt","V"
+"Zinsmeister","Zinsmeister","V"
+"Zollschreiber","Zollschreiber","V"
+"Zuckermacher","Zuckermacher","W"
+"Zweiermann","Zweiermann","V"
