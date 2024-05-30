@@ -7,17 +7,22 @@ Adeliger,Adliger,P
 Adjunkt,Adjunkt,V
 Administrator,Administrator,"je nachdem V und/oder G"
 Advokat,Advokat,R
+advokat,Advokat,R
 Aktuar,Aktuar,R
 Altarist,Altarist,G
 Ältester,Ältester,
+Al.,Alumnus,S
+Al ,Alumnus,S
 Alumnus,Alumnus,S
 Amtmann,Amtmann,V
 Antragsteller,Antragsteller,
 Anwesender,Anwesender,
 Archivar,Archivar,V
+archivar,Archivar,V
 Archivrat,Archivrat,V
 Arzt,Arzt,V
 Assessor,Assessor,R
+assessor,Assessor,R
 "Assessor, Supernumerar",Assessor,R
 Auditor,Auditor,R
 Beichtvater,Beichtvater,G
@@ -25,6 +30,7 @@ Beichtvater,Beichtvater,G
 Berater,Berater,
 Bewerber,Bewerber,
 Bibliothekar,Bibliothekar,V
+bibliothekar,Bibliothekar,V
 Bischof,Bischof,G
 Bücherkommissar,Bücherkommissar,V
 Bücherzensor,Bücherzensor,V
@@ -37,9 +43,12 @@ Definitor,Definitor,G
 Dekan,Dekan,G
 Diakon,Diakon,G
 Diener,Diener,"am ehesten H"
+diener,Diener,"am ehesten H"
 Diplomat,Diplomat,D
 Botschafter, Diplomat, D
+botschafter, Diplomat, D
 Direktor,Direktor,V
+direktor,Direktor,V
 Domizellar,Domizellar,G
 Edelknabe,Edelknabe,H
 Edelknabenpräzeptor,Edelknabenpräzeptor,H
@@ -62,6 +71,7 @@ Friedensrichter,Friedensrichter,R
 Gastwirt,Gastwirt,W
 Geheimer Reichsreferendar,Geheimer Reichsreferendar,R
 Geistlicher,Geistlicher,G
+geistlicher,Geistlicher,G
 Geistlicher Vater,Geistlicher Vater,G
 Generalvikar,Generalvikar,G
 Gerichtsschreiber,Gerichtsschreiber,R
@@ -76,6 +86,7 @@ Gutachter,Gutachter,
 Habilitand,Habilitand,L
 Häftling,Häftling,P
 Händler,Händler,W
+händler,Händler,W
 Historiker,Historiker,L
 "Kirchengeschichtshistoriker","Historiker, Kirchengeschichte",L
 Hofapotheker,Hofapotheker,"W, H"
@@ -369,6 +380,7 @@ Prätor,Prätor,R
 "Schatzmeister","Quaestor","V"
 "Quaestor (Schatzmeister)","Quaestor","V"
 "Rat","Rat","V"
+"rat","Rat","V"
 "Berater","Rat","V"
 "Ratsmitglied","Rat","V"
 "Rat #","Rat","V"
@@ -377,27 +389,21 @@ Prätor,Prätor,R
 "Rat, Supernumerar","Rat, Supernumerar","V"
 "Supernumerar-Rat","Rat, Supernumerar","V"
 "Rat (Supernumerar)","Rat, Supernumerar","V"
-
 "Ratsmeister","Ratsmeister","V"
 "Meister des Rats","Ratsmeister","V"
 "Ratsmeister der Gemeinde","Ratsmeister","V"
-
 "Rechnungsunterzeichner","Rechnungsunterzeichner","V"
 "Buchhalter","Rechnungsunterzeichner","V"
 "Rechnungsunterzeichner des Rats","Rechnungsunterzeichner","V"
-
 "Rector Magnificus","Rector Magnificus","L"
 "Rektor Magnificus","Rector Magnificus","L"
 "Rektor der Universität","Rector Magnificus","L"
-
 "Redner","Redner",""
 "Öffentlicher Redner","Redner",""
 "Redner der Gemeinde","Redner",""
-
 "Referend","Referend","R, V"
 "Referendar","Referend","R, V"
 "Referendar des Gerichts","Referend","R, V"
-
 "Reformator","Reformator","?"
 "Regens","Regens","G"
 "Regent","Regent","V"
