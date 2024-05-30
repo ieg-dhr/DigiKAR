@@ -21,7 +21,7 @@ Assessor,Assessor,R
 "Assessor, Supernumerar",Assessor,R
 Auditor,Auditor,R
 Beichtvater,Beichtvater,G
-Beichtvater, für Externe,"Beichtvater, für Externe",G
+"Beichtvater, für Externe","Beichtvater, für Externe",G
 Berater,Berater,
 Bewerber,Bewerber,
 Bibliothekar,Bibliothekar,V
@@ -239,187 +239,140 @@ Praktikant,Praktikant,R
 Präses,Präses,G
 Präsident,Präsident,V
 Prätor,Prätor,R
-function_old,function_new,function_value
 "Prediger","Prediger","G"
 "Prediger der Gemeinde","Prediger","G"
 "Evangelischer Prediger","Prediger","G"
 "Katholischer Prediger","Prediger","G"
-
 "Priester","Priester","G"
 "Priester der Gemeinde","Priester","G"
 "Evangelischer Priester","Priester","G"
 "Katholischer Priester","Priester","G"
-
 "Priester, Bußpriester","Priester, Bußpriester","G"
 "Bußpriester","Priester, Bußpriester","G"
 "Priester für Buße","Priester, Bußpriester","G"
 "Priester der Buße","Priester, Bußpriester","G"
-
 "Priester, Weltgeistlicher","Priester, Weltgeistlicher","G"
 "Weltgeistlicher Priester","Priester, Weltgeistlicher","G"
 "Priester des Weltlichen","Priester, Weltgeistlicher","G"
 "Priester der Welt","Priester, Weltgeistlicher","G"
-
 "Prior","Prior","G"
 "Prior des Klosters","Prior","G"
 "Klosterprior","Prior","G"
-
 "Privatier","Privatier","P"
 "Privatmann","Privatier","P"
 "Privater Bürger","Privatier","P"
-
 "Privatlehrer","Privatlehrer","L"
 "Lehrer im Privaten","Privatlehrer","L"
 "Lehrer, Privat","Privatlehrer","L"
-
 "Privatmann","Privatmann","P"
-"Privater Mann","Privatmann","P"
-"Bürgerlicher Mann","Privatmann","P"
-
 "Prodekan","Prodekan","G"
 "Pro-Dekan","Prodekan","G"
 "Stellvertretender Dekan","Prodekan","G"
-
 "Professor","Professor","L"
 "Lehrstuhlinhaber","Professor","L"
 "Akademischer Professor","Professor","L"
-
 "Professor, außerordentlicher","Professor, außerordentlicher","L"
 "Außerordentlicher Professor","Professor, außerordentlicher","L"
 "Professor (außerordentlich)","Professor, außerordentlicher","L"
-
 "Professor, emeritierter","Professor, emeritierter","L"
 "Emeritierter Professor","Professor, emeritierter","L"
 "Professor (emeritiert)","Professor, emeritierter","L"
-
 "Professor, Ethik / Mathematik","Professor, Ethik / Mathematik","L"
 "Professor der Ethik und Mathematik","Professor, Ethik / Mathematik","L"
 "Professor für Ethik und Mathematik","Professor, Ethik / Mathematik","L"
-
 "Professor, Gastdozent","Professor, Gastdozent","L"
 "Gastdozent","Professor, Gastdozent","L"
 "Professor als Gastdozent","Professor, Gastdozent","L"
-
 "Professor, Geschichte","Professor, Geschichte","L"
 "Geschichtsprofessor","Professor, Geschichte","L"
 "Professor der Geschichte","Professor, Geschichte","L"
-
 "Professor, Kirchenrecht","Professor, Kirchenrecht","L"
 "Professor des Kirchenrechts","Professor, Kirchenrecht","L"
 "Kirchenrechtsprofessor","Professor, Kirchenrecht","L"
-
 "Professor, Logik","Professor, Logik","L"
 "Logikprofessor","Professor, Logik","L"
 "Professor der Logik","Professor, Logik","L"
-
 "Professor, Metaphysik / Ethik","Professor, Metaphysik / Ethik","L"
 "Professor der Metaphysik und Ethik","Professor, Metaphysik / Ethik","L"
 "Professor für Metaphysik und Ethik","Professor, Metaphysik / Ethik","L"
-
 "Professor, ordentlicher","Professor, ordentlicher","L"
 "Ordentlicher Professor","Professor, ordentlicher","L"
 "Professor (ordentlich)","Professor, ordentlicher","L"
-
 "Professor, Philosophie","Professor, Philosophie","L"
 "Philosophieprofessor","Professor, Philosophie","L"
 "Professor der Philosophie","Professor, Philosophie","L"
-
 "Professor, Physik","Professor, Physik","L"
 "Physikprofessor","Professor, Physik","L"
 "Professor der Physik","Professor, Physik","L"
-
 "Professor, Poetik","Professor, Poetik","L"
 "Poetikprofessor","Professor, Poetik","L"
 "Professor der Poetik","Professor, Poetik","L"
-
 "Professor, Rechtswissenschaft","Professor, Rechtswissenschaft","L"
 "Professor der Rechtswissenschaft","Professor, Rechtswissenschaft","L"
 "Rechtswissenschaftsprofessor","Professor, Rechtswissenschaft","L"
-
 "Professor, Rhetorik","Professor, Rhetorik","L"
 "Rhetorikprofessor","Professor, Rhetorik","L"
 "Professor der Rhetorik","Professor, Rhetorik","L"
-
 "Professor, Theologie","Professor, Theologie","L, G"
 "Theologieprofessor","Professor, Theologie","L, G"
 "Professor der Theologie","Professor, Theologie","L, G"
-
 "Professor, ordentlicher","Professor, ordentlicher","L"
 "Ordentlicher Professor","Professor, ordentlicher","L"
 "Professor (ordentlich)","Professor, ordentlicher","L"
-
 "Prokurator","Prokurator","R"
 "Anwalt","Prokurator","R"
 "Prokurator des Gerichts","Prokurator","R"
-
 "Promissarius","Promissarius","P"
 "Versprechender","Promissarius","P"
 "Promissarius (Versprechender)","Promissarius","P"
-
 "Promotor","Promotor","G"
 "Förderer","Promotor","G"
 "Promotor (Förderer)","Promotor","G"
-
 "Promovend","Promovend","S"
 "Doktorand","Promovend","S"
 "Promovend (Doktorand)","Promovend","S"
-
 "Promovend, Assessor","Promovend, Assessor","S, R"
 "Promovender Assessor","Promovend, Assessor","S, R"
 "Assessor (Promovend)","Promovend, Assessor","S, R"
-
 "Promovend, Professor","Promovend, Professor","S, L"
 "Promovender Professor","Promovend, Professor","S, L"
 "Professor (Promovend)","Promovend, Professor","S, L"
-
 "Propst","Propst","G"
 "Probst","Propst","G"
 "Propst des Klosters","Propst","G"
-
 "Prorektor","Prorektor","L"
 "Stellvertretender Rektor","Prorektor","L"
 "Prorektor der Universität","Prorektor","L"
-
 "Protogé","Protogé","?"
 "Schützling","Protogé","?"
 "Protégé (Schützling)","Protogé","?"
-
 "Protonotar","Protonotar","R"
 "Erster Notar","Protonotar","R"
 "Protonotar des Gerichts","Protonotar","R"
-
 "Provikar","Provikar","G"
 "Stellvertretender Vikar","Provikar","G"
 "Provikar der Kirche","Provikar","G"
-
 "Provincialis","Provincialis","G"
 "Provincial","Provincialis","G"
 "Leiter der Provinz","Provincialis","G"
-
 "Provinzial","Provinzial","G"
 "Provinzial der Kirche","Provinzial","G"
 "Kirchenprovinzial","Provinzial","G"
-
 "Prüfer","Prüfer","L"
 "Examinator","Prüfer","L"
 "Prüfer der Universität","Prüfer","L"
-
 "Prüfling","Prüfling","S"
 "Examinand","Prüfling","S"
 "Prüfling (Examinand)","Prüfling","S"
-
 "Quaestor","Quaestor","V"
 "Schatzmeister","Quaestor","V"
 "Quaestor (Schatzmeister)","Quaestor","V"
-
 "Rat","Rat","V"
 "Berater","Rat","V"
 "Ratsmitglied","Rat","V"
-
 "Rat #","Rat","V"
 "Berater #","Rat","V"
 "Ratsmitglied #","Rat","V"
-
 "Rat, Supernumerar","Rat, Supernumerar","V"
 "Supernumerar-Rat","Rat, Supernumerar","V"
 "Rat (Supernumerar)","Rat, Supernumerar","V"
