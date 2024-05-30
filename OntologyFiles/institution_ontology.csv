@@ -1,6 +1,6 @@
 institution_old,institution_new
 "2. Bayerische Kammer","Königreich Bayern, Kammer der Abgeordneten"
-"?],"n/a"
+"?]","n/a"
 @,###
 [?],"n/a"
 "[Kurfürstentum Mainz, Kammer zu Erfurt]","Kurfürstentum Mainz, Kammer Erfurt]"
@@ -253,7 +253,7 @@ Katholische Westfälische Reichsgrafen,"Reichskammergerichtsvisitation, 2. Klass
 Kaufmannsgemeinde,"Kaufmannsgemeinde Erfurt"
 Kaufmannskirche,"Kaufmannsgemeinde Erfurt"
 Kaufmannsschule,"Kaufmannsschule Erfurt"
-Kirche,@
+Kirche, Kirche ###
 Kleines Hospital,"Kleines Hospital Erfurt"
 Kloser Reiffenstein,"Kloster Reiffenstein"
 Kollegiatstift St. Alban,"Ritterstift St. Alban Mainz"
