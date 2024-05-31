@@ -35,7 +35,7 @@ institution_old,institution_new
 "Bistum Konstanz","Bistum Konstanz"
 "Bistum Regensburg","Bistum Regensburg"
 "Bistum Worms","Bistum Worms"
-"BMV", "Kollegiatstift Liebfrauen Mainz"
+"BMV","Kollegiatstift St. Maria Erfurt"
 "Boineburgische Bibliothek in der Juristenschule","Boineburgische Bibliothek Erfurt"
 "Boineburgische Bibliothek","Boineburgische Bibliothek Erfurt"
 "Brau- und Armendirektion, kurmainzische","Kurfürstentum Mainz, Brau- und Armendirektion"
@@ -339,3 +339,70 @@ institution_old,institution_new
 "[Kurfürstentum Mainz]","Kurfürstentum Mainz"
 "?]","n/a"
 @,###
+Benediktiner, Benediktiner ###
+Ordo Sancti Benedicti,Benediktiner ###
+OSB,Benediktiner ###
+Ordo Carthusianorum,Karthäuser ###
+O.Carth.,Karthäuser ###
+Karthäuser,Karthäuser ###
+Ordo Cisterciensis,Zisterzienser ###
+O.Cist.,Zisterzienser ###
+Cistercienser,Zisterzienser ###
+Zisterzienser,Zisterzienser ###
+Ordo Sanctae Ursulae,Ursulinen ###
+OSU,Ursulinen ###
+Ursulinen,Ursulinen ###
+Ordo Cisterciensium Reformatorum,Trappisten ###
+OCR,Trappisten ###
+Trappisten,Trappisten ###
+Ordo Canonici Regularis Praemonstratensis,Prämonstratenser ###
+O.Praem.,Prämonstratenser ###
+O Praem,Prämonstratenser ###
+OPraem,Prämonstratenser ###
+Praem.,Prämonstratenser ###
+Praem,Prämonstratenser ###
+Prämonstratenser,Prämonstratenser ###
+Norbertiner,Prämonstratenser ###
+Ordo Canonicorum Regularium Sanctae Crucis,Kreuzherren ###
+ORC,Kreuzherren ###
+Kreuzherren,Kreuzherren ###
+Ordo Teutonicus,Deutscher Orden ###
+OT,Deutscher Orden ###
+Deutscher Orden,Deutscher Orden ###
+Ordo Sanctae Crucis,Kreuzherren ###
+OSC,Kreuzherren ###
+Kreuzherren,Kreuzherren ###
+Ordo Carmelitarum,Karmeliten ###
+O.Carm.,Karmeliten ###
+Karmeliten,Karmeliten ###
+Ordo Carmelitarum Discalceatorum,Unbeschuhte Karmeliten ###
+OCD,Unbeschuhte Karmeliten ###
+Unbeschuhte Karmelieten,Unbeschuhte Karmeliten ###
+Ordo Fratrum Minorum,Franziskaner ###
+OFM,Franziskaner ###
+Franciscaner,Franziskaner ###
+Franziskaner,Franziskaner ###
+Ordo Fratrum Minorum Conventualium,Konventualen ###
+OFM Conv.,Konventualen ###
+Minderbrüder Konventualen,Konventualen ###
+Ordo Fratrum Minorum Cappucinorum,Kapuziner ###
+OFM Cap.,Kapuziner ###
+Minderbrüder Kapuziner,Kapuziner ###
+Societas Jesu,Jesuiten ###
+SJ,Jesuiten ###
+S.J.,Jesuiten ###
+Jesuit,Jesuiten ###
+Jesuiten,Jesuiten ###
+Ordo Praedicatorum,Dominikaner ###
+OP,Dominikaner ###
+Dominicaner,Dominikaner ###
+Dominikaner,Dominikaner ###
+Ordo Servorum Mariae,Serviten ###
+OSM,Serviten ###
+Serviten,Serviten ###
+Ordo Sancti Augustini,Augustiner ###
+OSA,Augustiner ###
+Augustiner,Augustiner ###
+St. Johannes von Gott,Hospitaliterorden ###
+Ordo Hospitalarius Sancti Joannis de Deo,Hospitaliterorden ###
+OH,Hospitaliterorden ###
