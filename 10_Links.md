@@ -1,14 +1,16 @@
-## Links to DigiKAR output
+## Project links
 
 ### DigiKAR Zotero library
 
-{:.justified}
-The DigiKAR team has created a [ZOTERO](https://www.zotero.org/) library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.
+The DigiKAR team has created a [ZOTERO library](https://www.zotero.org/groups/4725161/digikar/library) in which we share our own project publications as well as related projects and the metadata of sources we have used for the project.  
+{:.justified}  
+Please note that the library is under construction until the end of the funding period and that its current state is a work in progress.
 
 ### DigiKAR conference papers and publications
 
 {:.justified}
 Short overview of the events in which we have participated and what the focus was. If we can directly link a relevant folder in the public Zotero library, we should also do that here. But I would also export a bibliography of the talks and publications to add directly to this page.
+[Click here for our project publications on Zotero.](https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG)
 
 ### Blogposts on work in progress
 
