@@ -5,3 +5,20 @@ Das Projekt widmet sich Fragen der Fragmentierung, Verflechtung, Pluralität und
 
 Das Vorhaben wurde für den Zeitraum von drei Jahren (2021-2024) im Rahmen des Programms „Leibniz-Kooperative Exzellenz“ der Leibniz-Gemeinschaft gefördert.
 
+## Impressum
+**Herausgeber und inhaltliche Verantwortung**  
+  
+Digitale Kartenwerkstatt Altes Reich (DigiKAR)  
+Projektleitung und -koordination:  
+Leibniz-Institut für Europäische Geschichte (IEG)  
+Alte Universitätsstraße 19  
+D – 55116 Mainz  
+Tel: +49 6131 39 39340  
+Fax: +49 6131 39 35326  
+  
+Projektleiter und -sprecher: Prof. Dr. Johannes Paulmann  
+Projektkoordinatorin: Constanze Buyken  
+E-Mail: digikar@ieg-mainz.de  
+  
+  
+Die Herausgeber der Website https://ieg-dhr.github.io/DigiKAR/ sind nicht für die Inhalte anderer Anbieter verantwortlich, auf die die Website mittels direkter oder indirekter Verknüpfungen (Links) verweist.
