@@ -3,20 +3,17 @@
 ## Zotero library
   
 The DigiKAR team has created a [ZOTERO library](https://www.zotero.org/groups/4725161/digikar/library) in which we share our own project publications as well as related projects and the metadata of sources we have used for the project.  
-  
-Please note that the library is under construction until the end of the funding period and that its current state is a work in progress.
-
-
-## Project publications
 
 :::info
 
-Short overview of the events in which we have participated and what the focus was. If we can directly link a relevant folder in the public Zotero library, we should also do that here. But I would also export a bibliography of the talks and publications to add directly to this page.
+Please note that the library is under construction until the end of the funding period and that its current state is a work in progress.
 
 :::
 
-[Click here to browse our project publications in the DigiKAR Zotero library.](https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG)
-
+## Project publications
+  
+<Button link="https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG" label="Click here to browse our project publications in the DigiKAR Zotero library."/>
+  
 ### 2024
 
 - **Starke, Meike und Strokowsky, Catharina (2024):** 4230 Zeilen unter dem Datenmeer: Nutzung von OpenRefine zur Datenbereinigung bei uneindeutigen Datensätzen in DigiKAR, in: Digital Humanities Lab (ISSN 2702-7368), 26/04/2024, [https://dhlab.hypotheses.org/4703](https://dhlab.hypotheses.org/4703).
@@ -94,7 +91,10 @@ Short overview of the events in which we have participated and what the focus wa
 - **Michel, Maximilian (2021):** Praxisprojekt2021 (Digital Humanities Internship 2021), [https://github.com/ieg-dhr/Praxisprojekt2021](https://github.com/ieg-dhr/Praxisprojekt2021).
   
   
-# Presentations
+  
+## Presentations
+
+<Button link="https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG" label="Click here to browse our presentations in the DigiKAR Zotero library."/>
 
 ### 2023
 
@@ -146,7 +146,10 @@ Short overview of the events in which we have participated and what the focus wa
   
 ## Interviews
 
-- **DigiKAR im Podcast**: Clio auf die Ohren. Migrationen und Mobilität im 20. Jahrhundert – Ein Ausflug in die Frühe Neuzeit: Digikar, die Digitale Kartenwerkstatt Altes Reich, in Forschung und Lehre
+- **DigiKAR im Podcast**: Clio auf die Ohren. Migrationen und Mobilität im 20. Jahrhundert – Ein Ausflug in die Frühe Neuzeit: Digikar, die Digitale Kartenwerkstatt Altes Reich, in Forschung und Lehre.
+
+<Button link="https://cliozweipunktnull.uni-mainz.de/2023/11/29/clio-auf-die-ohren-migrationen-und-mobilitaet-im-20-jahrhundert-ein-ausflug-in-die-fruehe-neuzeit-digikar-die-digitale-kartenwerkstatt-altes-reich-in-forschung-und-lehre/" label="Click here to learn more and to listen to the podcast."/>
+
 
 - **DigiKAR im Radio**: „Digitale Karten-Werkstatt Altes Reich“ – Historiker zeigen Einflüsse jenseits klassischer Territorien. Johannes Paulmann über DigiKAR, SWR2 Journal am Mittag, 13/09/2021.
   
