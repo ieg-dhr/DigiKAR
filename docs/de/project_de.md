@@ -3,4 +3,5 @@ DigiKAR ist ein Kooperationsprojekt des Leibniz-Instituts für Europäische Gesc
 
 Das Projekt widmet sich Fragen der Fragmentierung, Verflechtung, Pluralität und Konkurrenz räumlicher Strukturen im frühneuzeitlichen Heiligen Römischen Reich deutscher Nation. Anhand zweier Fallstudien zu den Kurfürstentümern Mainz und Sachsen werden in der „digitalen Kartenwerkstatt“ alternative Ansätze für die Erfassung, Aufbereitung und Darstellung mehrdeutiger räumlicher Konfigurationen und Praktiken erarbeitet. DigiKAR möchte damit einerseits generell einen Beitrag zur geschichtswissenschaftlichen Erforschung des Alten Reichs als Raum geteilter und überlappender Herrschaft leisten. Andererseits sollen innovative und für andere Forschungsprojekte anschlussfähige Konzepte sowie „Best Practices“ der Sammlung, Modellierung und Visualisierung von ortsbezogenen historischen Daten entwickelt werden.
 
-Das Vorhaben wird für den Zeitraum von drei Jahren durch das Programm „Leibniz-Kooperative Exzellenz“ der Leibniz-Gemeinschaft gefördert.
+Das Vorhaben wurde für den Zeitraum von drei Jahren (2021-2024) im Rahmen des Programms „Leibniz-Kooperative Exzellenz“ der Leibniz-Gemeinschaft gefördert.
+
