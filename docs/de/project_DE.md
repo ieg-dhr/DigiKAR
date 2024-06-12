@@ -6,8 +6,7 @@ Das Projekt widmet sich Fragen der Fragmentierung, Verflechtung, Pluralität und
 Das Vorhaben wurde für den Zeitraum von drei Jahren (2021-2024) im Rahmen des Programms „Leibniz-Kooperative Exzellenz“ der Leibniz-Gemeinschaft gefördert.
 
 # Dokumentation
-Skripte zur Bearbeitung von Ortsdaten und biographischen Angaben im DigiKAR Projekt
-Die Dokumentation gibt einen Einblick in die Daten und Datenabfragen im DigiKAR Geohumanities Projekt. Das Arbeitspaket Kursachsen konzentriert sich auf die Raumstrukturierung über Herrschaftsrechte, während das Arbeitspaket Kurmainz die Mobilität von Amtsträgern über biographische Ereignisdaten erfasst. Erklärungen zur Datenstruktur un den Forschungsfragen sind in englischer Sprache dokumentiert, die Kurzbeschreibungen der Skripte und ihrer Anwendungsfälle sind in Deutsch, Englisch und Französisch verfügbar. Zusätzlich zu den Kurzbeschreibungen sind Blogposts (Deutsch und/oder Englisch) zur Erläuterung der Prozesse sowie Video-Präsentationen verlinkt.
+Diese Dokumentation gibt einen Einblick in das DigiKAR Geohumanities Projekt - von den historischen Fragestellungen, über die Daten und Datenabfragen hin zur Konzeption der Visualisierungen. Das Arbeitspaket Kursachsen konzentriert sich auf die Raumstrukturierung über Herrschaftsrechte, während das Arbeitspaket Kurmainz die Mobilität von Amtsträgern über biographische Ereignisdaten erfasst. Erklärungen zur Datenstruktur un den Forschungsfragen sind in englischer Sprache dokumentiert, die Kurzbeschreibungen der Skripte und ihrer Anwendungsfälle sind in Deutsch, Englisch und Französisch verfügbar. Zusätzlich zu den Kurzbeschreibungen sind Blogposts (Deutsch und/oder Englisch) zur Erläuterung der Prozesse sowie Video-Präsentationen verlinkt.
 
 ## Impressum
 **Herausgeber und inhaltliche Verantwortung**  
