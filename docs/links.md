@@ -1,6 +1,11 @@
-# Links
+# Project bibliography and links
 
-Links to DigiKAR output such as conference papers and publications, a Zotero library, and blogposts on work in progress.
+## Zotero library
+  
+The DigiKAR team has created a [ZOTERO library](https://www.zotero.org/groups/4725161/digikar/library) in which we share our own project publications as well as related projects and the metadata of sources we have used for the project.  
+  
+Please note that the library is under construction until the end of the funding period and that its current state is a work in progress.
+
 
 ## Conference papers and publications
 
@@ -10,21 +15,15 @@ Short overview of the events in which we have participated and what the focus wa
 
 :::
 
-## Zotero library
-
-::: info
-
-The DigiKAR team has created a [zotero](https://www.zotero.org/) library in which we share our own project publications as well as related projects and the metadata of sources we have used for the project. This library will be made public after the funding period.
-
-:::
-
+[Click here to browse our project publications in the DigiKAR Zotero library.](https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG)
+    
 ## Ontology design patterns
 
 Traditional modeling of geospatial data limits the possibilities to integrate, distribute, retrieve, and reuse the data. The Linked Data paradigm enables new
 ways to tackle these issues. Thus, we follow a Linked Data approach towards modeling geospatial information extracted from different historical sources.
 
 <Button link="https://ieg-dhr.github.io/DigiKAR-Ontology-Design/" label="Go to the Ontology design patterns"/>
-
+  
 ## Best practice visualizations
 
 This working paper combines the Best Practice Visualisations (BPV) that depict historical, cultural, and environmental data in various forms, such as maps, graphs, and databases.
