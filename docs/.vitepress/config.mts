@@ -27,7 +27,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Links", link: "/links" },
+      { text: "Links", link: "/project-bibliography-and-links" },
       { text: "Mobility", link: "/mobility-schema" },
       { text: "Rights and right holders", link: "/rights-holders-saxony" },
       { text: "Visualisations", link: "/visualisations/" },
@@ -42,7 +42,7 @@ export default defineConfig({
           },
           {
             text: "Links",
-            link: "/links",
+            link: "/project-bibliography-and-links",
           },
           {
             text: "Data queries",
