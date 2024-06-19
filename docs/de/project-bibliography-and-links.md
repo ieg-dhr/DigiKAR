@@ -1,8 +1,12 @@
-# Project bibliography and links
+# Project bibliography und Links
 
-## Zotero library
+::: warning Achtung
 
-The DigiKAR team has created a [ZOTERO library](https://www.zotero.org/groups/4725161/digikar/library) in which we share our own project publications as well as related projects and the metadata of sources we have used for the project.
+Diese Seite muss noch übersetzt werden!
+
+:::
+
+## Zotero Bibliothek
 
 :::info
 
@@ -10,9 +14,7 @@ Please note that the library is under construction until the end of the funding 
 
 :::
 
-## Project publications
-
-<Button link="https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG" label="DigiKAR Zotero library."/>
+<Button link="https://www.zotero.org/groups/4725161/digikar/collections/8MI6YGRG" label="DigiKAR Zotero library"/>
   
 ### 2024
 

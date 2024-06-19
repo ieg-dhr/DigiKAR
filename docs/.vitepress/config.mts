@@ -41,7 +41,7 @@ export default defineConfig({
             link: "/project",
           },
           {
-            text: "Links",
+            text: "Links and bilbiography",
             link: "/project-bibliography-and-links",
           },
           {
