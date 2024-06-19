@@ -34,12 +34,16 @@ export default defineConfig({
     ],
     sidebar: [
       {
+        text: "Project",
+        link: "/project/",
+        collapsed: true,
+        items: [
+          // add pages from current website here
+        ],
+      },
+      {
         text: "General",
         items: [
-          {
-            text: "About the project",
-            link: "/project",
-          },
           {
             text: "Links and bilbiography",
             link: "/project-bibliography-and-links",

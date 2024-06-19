@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: About the project
-      link: /project
+      link: /project/
     - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR

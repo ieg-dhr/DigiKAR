@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Über das Projekt
-      link: /project
+      link: /project/
     - theme: alt
       text: API Beispiele
       link: /api-examples

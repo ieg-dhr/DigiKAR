@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: À propos du projet
-      link: /project
+      link: /project/
     - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR
@@ -34,4 +34,3 @@ features:
     linkText: En savoir plus
     link: /data-categorisation-mainz
 ---
-
