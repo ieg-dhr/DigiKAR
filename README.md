@@ -1,4 +1,6 @@
-<img src="./DigiKAR_logo-small.png" alt="DigiKAR" width="100" style="padding=10px"/>
+<div style="display:flex;justify-content:center;padding-bottom:3em;">
+  <img src="./DigiKAR_logo-small.png" alt="DigiKAR" width="100"/>
+</div>
 
 # DigiKAR
 
@@ -18,9 +20,10 @@ New content can be added to the docs by creating a new markdown file in the `doc
 Note that the name of the markdown files should use kebab-case and should not contain any special characters (including spaces).
 Every markdown file will be compiled into a page in the docs.
 
-However, if you want to add the section to the sidebar or the main navigaitonbar, you need to update the `docs/.vitepress/config.mts` file accordingly.
+However, if you want to add the section to the sidebar or the main navigation bar, you need to update the files `docs/.vitepress/config/<locale>.ts` accordingly. Where locale is currently one of the following: `en`, `de`, `fr`.
 
-The configuration will be updated soon in order to allow for localized sidebar and navigation bar. After this update there will be separate configuration files for each language.
+> [!WARNING]
+> The automatic redirection to the current language is currently not working.
 
 ### How to develop the docs locally
 
