@@ -22,8 +22,8 @@ Every markdown file will be compiled into a page in the docs.
 
 However, if you want to add the section to the sidebar or the main navigation bar, you need to update the files `docs/.vitepress/config/<locale>.ts` accordingly. Where locale is currently one of the following: `en`, `de`, `fr`.
 
-> [!WARNING]
-> The automatic redirection to the current language is currently not working.
+> [!IMPORTANT]
+> The l18n for this docs relies solely on static links (generated during build time). This is because github pages github pages do not allow to configure redirects. This means that whenever linking to pages make sure the correct locale is prefexid to the link. For example, linking to the `project` page in the `de` locale should be done like this: `/de/project/`. If no locale is provided the link will default to the `en` locale.
 
 ### How to develop the docs locally
 

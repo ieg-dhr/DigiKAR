@@ -4,8 +4,8 @@ export const de = defineConfig({
   lang: "de-DE",
   themeConfig: {
     nav: [
-      { text: "Start", link: "/" },
-      { text: "Links", link: "/project-bibliography-and-links" },
+      { text: "Start", link: "/de/" },
+      { text: "Links", link: "/de/project-bibliography-and-links" },
       { text: "Mobilität", link: "/mobility-schema" },
       { text: "Rechte und Rechtsinhaber", link: "/rights-holders-saxony" },
       { text: "Visualisierungen", link: "/visualisations/" },
@@ -13,7 +13,7 @@ export const de = defineConfig({
     sidebar: [
       {
         text: "Projekt",
-        link: "/project/",
+        link: "/de/project/",
         collapsed: true,
         items: [
           // add pages from current website here
@@ -24,7 +24,7 @@ export const de = defineConfig({
         items: [
           {
             text: "Links und Bibliographie",
-            link: "/project-bibliography-and-links",
+            link: "/de/project-bibliography-and-links",
           },
           {
             text: "Daten Queries",
@@ -70,7 +70,7 @@ export const de = defineConfig({
             items: [
               {
                 text: "Data Kategorisierung Mainz",
-                link: "/data-categorisation-mainz",
+                link: "/de/data-categorisation-mainz",
               },
               {
                 text: "Personen Identifizierung Mainz",
@@ -78,9 +78,9 @@ export const de = defineConfig({
               },
               { text: "Temporary IDs" },
               { text: "Geocoding" },
-              { text: "CSV", link: "/csv-excel" },
+              { text: "CSV", link: "/de/csv-excel" },
               { text: "JSON", link: "/json" },
-              { text: "TXT", link: "/txt" },
+              { text: "TXT", link: "/de/txt" },
               { text: "XML", link: "/xml" },
             ],
           },

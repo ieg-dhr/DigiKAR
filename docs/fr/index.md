@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: À propos du projet
-      link: /project/
+      link: /fr/project/
     - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR
@@ -27,10 +27,10 @@ features:
     icon: 📦
     details: Comment utiliser et interpréter nos ensembles de données.
     linkText: En savoir plus
-    link: /mobility-schema
+    link: /fr/mobility-schema
   - title: Flux de travail des données
     icon: 🔧
     details: Comment nous avons créé les ensembles de données.
     linkText: En savoir plus
-    link: /data-categorisation-mainz
+    link: /fr/data-categorisation-mainz
 ---

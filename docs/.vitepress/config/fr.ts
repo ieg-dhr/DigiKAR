@@ -4,7 +4,7 @@ export const fr = defineConfig({
   lang: "fr-FR",
   themeConfig: {
     nav: [
-      { text: "Accueil", link: "/" },
+      { text: "Accueil", link: "/fr/" },
       { text: "Liens", link: "/project-bibliography-and-links" },
       { text: "Mobilité", link: "/mobility-schema" },
       {
@@ -16,7 +16,7 @@ export const fr = defineConfig({
     sidebar: [
       {
         text: "Projet",
-        link: "/project/",
+        link: "/fr/project/",
         collapsed: true,
         items: [
           // add pages from current website here
@@ -73,7 +73,7 @@ export const fr = defineConfig({
             items: [
               {
                 text: "Catégorisation des données Mainz",
-                link: "/data-categorisation-mainz",
+                link: "/fr/data-categorisation-mainz",
               },
               {
                 text: "Identification des personnes Mainz",
@@ -81,7 +81,7 @@ export const fr = defineConfig({
               },
               { text: "IDs temporaires" },
               { text: "Géocodage" },
-              { text: "CSV", link: "/csv-excel" },
+              { text: "CSV", link: "/fr/csv-excel" },
               { text: "JSON", link: "/json" },
               { text: "TXT", link: "/txt" },
               { text: "XML", link: "/xml" },

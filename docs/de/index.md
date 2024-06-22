@@ -8,13 +8,12 @@ hero:
   tagline: |
     Digitale Kartenwerkstatt Altes Reich.
     Ein Geohumanities Projekt.
+
+    ⚠️ Die Dokumentation ist aktuell noch in Arbeit.
   actions:
     - theme: brand
       text: Über das Projekt
-      link: /project/
-    - theme: alt
-      text: API Beispiele
-      link: /api-examples
+      link: /de/project/
     - theme: alt
       text: Github
       link: https://github.com/ieg-dhr/DigiKAR
