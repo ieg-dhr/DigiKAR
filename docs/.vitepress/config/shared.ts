@@ -23,6 +23,9 @@ export const shared = defineConfig({
   },
   base: "/DigiKAR/",
   lastUpdated: true,
+  markdown: {
+    typographer: true,
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
