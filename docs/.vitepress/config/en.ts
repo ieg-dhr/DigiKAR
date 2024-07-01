@@ -77,7 +77,7 @@ export const en = defineConfig({
                 link: "/persons-mainz",
               },
               { text: "Temporary IDs" },
-              { text: "Geocoding" },
+              { text: "Geocoding", link: "/geo" },
               { text: "CSV", link: "/csv-excel" },
               { text: "JSON", link: "/json" },
               { text: "TXT", link: "/txt" },
