@@ -1,24 +1,26 @@
 # Managing space
 
 :::info
-This part of the documentation is still lacking information. It should give a brief summary of how we manage the concept of space in the DigiKAR project.
+The DigiKAR project collects historical location data from the early modern Holy Roman Empire in order to model and visualize spatial relations in new ways. Our main aim is to depict the plurality, interconnectedness and competition of spaces rather than to draw clear boundaries. In doing so, we are consciously moving away from a representational tradition that has visualized (on different levels) the complex structure of the Holy Roman Empire as a "patchwork quilt" and thus contributed to one-sided perceptions of the function and resilience of the imperial federation. In DigiKAR, we pursue an explicitly point-based approach and thus enable a more diverse perspective on historical events and developments.
 :::
 
-The dataset contains place_geonames_id, place_geonames_latitude, place_geonames_longitude, place_name and place_name_variants. This enables the dataset to capture the uncertainty concerning place names and geolocation.
+## Concepts of legal space revisited
 
-The column place_name provides the name of the places we derived either from secondary sources and literature or by interpreting the name of the place given in the primary sources.
+In work package 2, we focus on legal dimensions of space in selected regions of Electoral Saxony.
 
-The original place name given by primary sources or alternative place names found in secondary sources and literature can be found in the place_name_variants column.
+## Spaces as links between people and institutions
+
+In work package 3, our analytical focus is on professional mobility (e.g. of clerics and academics) in early modern Mainz. The Mainz dataset contains place_geonames_id, place_geonames_latitude, place_geonames_longitude, place_name and place_name_variants as spatial information. The geocoding (see separate section under Mobility) is based on an automated mapping of places names which we manually corrected, also using sample maps as a tool for data exploration. After geocoding the derived modern place names with the API it is necessary to controll the results, since typically some of the places are matched with other places of the same name. This requires additional troubleshooting by hand or script.
+
+The column place_name provides the name of the places we derived either from secondary sources and literature or by interpreting the name of the place given in the primary sources. The original place name given by primary sources or alternative place names found in secondary sources and literature can be found in the place_name_variants column.
 
 Using the varchar data type for these columns allows for flexibility in representing uncertain or ambiguous place information. It accommodates various formats of place names or textual descriptions of dates, which is common in historical or fuzzy datasets.
 
-The place_name is also used to generate the geolocation by using the Geonames API. Thus, we derive the coordinates and the Geonames ID of the place.
-
-Overall, focusing on event-related place columns allows us to handle spatial uncertainty per archival factoid but may not be the ideal solution for all projects.
+The place_name is also used to generate the geolocation by using the Geonames API. Thus, we derive the coordinates and the Geonames ID of the place. Overall, focusing on event-related place columns allows us to handle spatial uncertainty per archival factoid but may not be the ideal solution for all projects.
 
 ## Challenges of deriving place names
 
-Abstract: Deriving modern place names from the information given in primary/secondary sources, literature, or other non georeferenced datasets can prove challenging. Place names still developed and varied greatly in the early modern period. Thus, one must use Gazetteers and traditional tools (e.g. Graesse: Orbis Latinus). However, identifying modern places with the information given mostly has to rely on different levels of uncertainty.
+Deriving modern place names from the information given in primary/secondary sources, literature, or other non georeferenced datasets can prove challenging. Place names still developed and varied greatly in the early modern period. Thus, one must use Gazetteers and traditional tools (e.g. Graesse: Orbis Latinus). However, identifying modern places with the information given mostly has to rely on different levels of uncertainty.
 
 In our case, the origin of the place names is derived from the three sources used:
 1) Mainly from the university registers (automatically recorded "source edition")
@@ -40,11 +42,6 @@ If orthographic errors and unassignable specifications of place names have been 
 2 However, as this step does not limit all georeferences to the expected area, further outliers in the visualisation of all georeferenced points must be identified manually and corrected using additional information (assignment to modern states and administrative units).
 3. Although almost all points are located in the expected (Central) European area, a manual check of each individual georeferencing would hardly be feasible. For this reason, the two geo-references from Geonames and Google have now been automatically compared and, in the event of statistically relevant deviations, the modern name form has been re-examined and further specified.
 
-
-## Cotrolling Geocoding results
-
-After geocoding the derived modern place names with the API it is necessary to controll the results, since typically some of the places are matched with other places of the same name. This requires additional troubleshooting by hand or script.
-
 ## Places as virtual / relational spaces
 
 Many places in AP3 denote connections that are not necessarily physical; see places of nobilitation. Many offices and titles awarded in the early modern period could be held by absent persons.
@@ -52,8 +49,6 @@ Many places in AP3 denote connections that are not necessarily physical; see pla
 ## Differentiating between places and territories
 
 Some sources contain research speculations on which places within a country or region a person visited, e.g. "Österreich / Wien". Other regions which people visited are cultural regions whose borders or extensions can hardly be defined, e.g. "Wetterau" / "Wetteraviensis". Such places are identified by an entry in the place_type column.
-
-
 
 ## Dealing with spatial uncertainty in DigiKAR
 
