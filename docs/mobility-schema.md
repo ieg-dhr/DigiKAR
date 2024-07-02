@@ -205,3 +205,5 @@ name="institution_name"
 type="string"
 :examples="[]">
 </SchemaEntry>
+
+*Authors / contacts: Jakob Listabarth (IfL Leibzig)*
