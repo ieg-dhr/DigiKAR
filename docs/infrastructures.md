@@ -3,7 +3,7 @@
 ## Limitations of technical development in small projects
 
 In contrast to projects that are financed as long-term research from fixed budgets or repeatedly receive national funding, 
-DigiKAR was a small and time-limited project from the outset. 
+DigiKAR was a small and fixed-term project from the start. 
 That is why the image of a "digital humanities iceberg" can illustrate how large the proportion of strenuous and often
 barely visible preparatory work is in most digital projects. 
 The development of user portals for data exploration or the creation of interactive visualizations represent only the tip 
@@ -14,7 +14,7 @@ repositories or on publicly accessible websites.
 
 ## Challenges in data sharing
 
-We face several challenges in data provision. One of the biggest challenges is that research institutions often do not 
+We face several challenges in data sharing. One of the biggest challenges is that research institutions often do not 
 provide sustainable infrastructures for the development and use of digital applications. After the end of a project, 
 digital applications are often only archived, and further use of the raw data requires special prior knowledge. 
 In addition, despite the use of standardized formats such as JSON, the data is often difficult to link, as import 
