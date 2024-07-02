@@ -183,3 +183,5 @@ The following blog posts describes the application of some of our Python scripts
 - [Visualisations as exploration](https://insulae.hypotheses.org/613), last updated XXXX
 - [Reading historical maps with OCR](https://insulae.hypotheses.org/485), last updated XXXX
 - [Disambiguating people and places in dirty historical data](https://insulae.hypotheses.org/333), last updated 26/10/2021
+
+*Authors / contacts: Constanze Buyken (IEG Mainz), Monika Barget (IEG Mainz, FASoS Maastricht)*
