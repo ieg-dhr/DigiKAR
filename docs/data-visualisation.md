@@ -67,3 +67,5 @@ Other maps are then used as optional backgrounds, including georeferenced versio
 :::info
 This part of the documentation is still missing. It should briefly explain the method of creating Voronoi polygones based on properties of places for the Holy Roman Empire and its territories.
 :::
+
+*Authors / contacts: Jakob Listabarth (IfL Leibzig), Monika Barget (IEG Mainz, FASoS Maastricht)*
