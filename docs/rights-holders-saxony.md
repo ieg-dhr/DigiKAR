@@ -47,3 +47,5 @@ Concerning the territorial administration, we find a similar diversity of agents
 - Amtmänner (of the local administration)
 
 In DigiKAR, we do not try to identify whether right holders are in charge by office or by inheritance. Our focus is more pragmatically on the fact that there is a spatial expression of a particular right and that one person, community, or non-person entity (e.g. “Rittergut”) holds that right at a particular point in time. Identifying the chain of command behind the right holders is beyond the scope of our project and also not immediately necessary for visualizing the legal space.
+
+Authors / contacts: Ingo Frank (IOS Regensburg)
