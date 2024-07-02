@@ -157,3 +157,5 @@ to denote this additional information. Reading the registers with Python, the #I
 All scripts I have used to split `.txt` files by several delimiters (including sequences of uppercase letters) have been published in the [DigiKAR Github repository](https://github.com/ieg-dhr/DigiKAR). The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**. After the reconstruction of additional events, 2412 rows were added. This combined data frame has **11428 entries**. The merging of duplicate events reduces that number to **9323**.
 
 :::
+
+Authors / contacts: Monika Barget (IEG Mainz, FASoS Maastricht)
