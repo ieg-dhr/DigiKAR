@@ -1,0 +1,7 @@
+# The DigiKAR project
+
+DigiKAR is a cooperative project of the Leibniz Institute of European History Mainz (IEG), the Leibniz Institute for Regional Geography Leipzig (IfL), the Leibniz Institute for East and Southeast European Studies Regensburg (IOS), the Johannes Gutenberg University Mainz (JGU) and the École des Hautes Études en Sciences Sociales Paris, France (EHESS).
+
+The project is dedicated to questions of fragmentation, interdependence, plurality and competition of spatial structures in the early modern Holy Roman Empire of the German Nation. Using two case studies on the electorates of Mainz and Saxony, the "digital map workshop" will develop alternative approaches for the recording, processing and presentation of ambiguous spatial configurations and practices. In the area of Electoral Saxony (WP2) our focus is on rights and rights holders, while in Electoral Mainz (WP3) we concentrate on biographical mobility. These two historical questions are also important in other contexts and therefore contribute to a broader methodological debate that also includes information science, information technology and cartographic impulses.
+
+On the one hand, DigiKAR aims to make a general contribution to historical research into the Old Kingdom as an area of divided and overlapping rule. On the other hand, innovative concepts that can be applied to other research projects are to be developed.
