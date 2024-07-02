@@ -185,4 +185,6 @@ Allowing a free-text entry for comments on date (un)certainty gave as the opport
 
 ::: info
 This part of the documentation is still missing.
+
+Authors / contacts: Florian Stabel (Mainz), Monika Barget (IEG Mainz, FASoS Maastricht)
 :::
