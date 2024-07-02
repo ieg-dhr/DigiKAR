@@ -15,3 +15,5 @@ This script searches for all parent relationships and constructs the group of si
 - "BIOGRAPHY TRACING": select person by ID, match name variants, find all life events recorded, narrow down events by time limits if necessary, put events in chronological order
 - "DISAMBIGUATION": script to compare similar names of people and places and assign unique IDs (human intervention necessary), e.g. using Python's fuzzy wuzzy package.
 - "SPATIAL EVOLUTION": extracts events coinciding in specific places, reconstruct political / cultural role of places through human agency
+
+Authors / contacts: Florian Stabel (Mainz), Monika Barget (Maastricht)
