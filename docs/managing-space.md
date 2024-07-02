@@ -52,4 +52,6 @@ Some sources contain research speculations on which places within a country or r
 
 ## Dealing with spatial uncertainty in DigiKAR
 
+*Authors / contacts: Sven Dittmar (Mainz), Jakob Listabarth (Leibzig), Monika Barget (Maastricht)*
+
 
