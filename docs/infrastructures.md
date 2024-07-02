@@ -24,4 +24,8 @@ often inadequate, which makes it difficult to reuse the data. In addition, digit
 specific group of researchers and are not generally comprehensible. Finally, working with different data sources raises 
 rights issues and can prevent publication according to open science criteria.
 
+## Opportunities through the National Research Data Infrastructure (NFDI)
+
+The National Research Data Infrastructure (NFDI), in which the IEG Mainz is participating as part of the humanities consortium NDFI4Memory, will hopefully offer new opportunities by creating a demand-oriented, integrating and service-based infrastructure. This should enable a coherent data space for the community and create incentives for data publications, which have so far hardly been recognized and therefore neglected. NDF4Memory also aims to contribute to the development of common data standards in the historical sciences. Existing data standards are often subject-specific or not widely applicable, which limits the interoperability of data. A service-based infrastructure can provide a remedy here and significantly improve the quality and usability of the data. I myself am very pleased that NFDI4Memory is working on a Jupyter Notebook infrastructure for the collaborative creation of code, for example.
+
 Author / contact: Monika Barget (IEG Mainz, FASoS Maastricht)
