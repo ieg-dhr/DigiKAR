@@ -1,3 +1,9 @@
+---
+authors:
+  - Jakob Listabarth (IfL Leipzig)
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+---
+
 # Schema mobility data
 
 The different analytical lenses of the mobility data, follow a common data schema.
@@ -205,5 +211,3 @@ name="institution_name"
 type="string"
 :examples="[]">
 </SchemaEntry>
-
-*Authors / contacts: Jakob Listabarth (IfL Leibzig)*

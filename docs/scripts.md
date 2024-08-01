@@ -1,4 +1,9 @@
-## Code for data collection, data cleaning and data analysis
+---
+authors:
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+---
+
+# Code for data collection, data cleaning and data analysis
 
 In DigiKAR, we have also experimented with Python code for data collection, data cleaning and data analysis, especially in our Mainz workpackage. The [pandas](https://pandas.pydata.org/) package in Python is widely used for working with two-dimensional [dataframes](https://www.databricks.com/glossary/what-are-dataframes) and helped us read, manipulate and write EXCEL and CSV files. We have also worked with packages for XML, HTML, JSON and [geocoding](https://monikabarget.github.io/GeoHumTutorials/).
 

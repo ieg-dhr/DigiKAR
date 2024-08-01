@@ -1,3 +1,10 @@
+---
+authors:
+  - Sven Dittmar (Mainz)
+  - Jakob Listabarth (IfL Leipzig)
+  - Monika Barget (Maastricht)
+---
+
 # Managing space
 
 :::info
@@ -51,7 +58,3 @@ Many places in AP3 denote connections that are not necessarily physical; see pla
 Some sources contain research speculations on which places within a country or region a person visited, e.g. "Österreich / Wien". Other regions which people visited are cultural regions whose borders or extensions can hardly be defined, e.g. "Wetterau" / "Wetteraviensis". Such places are identified by an entry in the place_type column.
 
 ## Dealing with spatial uncertainty in DigiKAR
-
-*Authors / contacts: Sven Dittmar (Mainz), Jakob Listabarth (Leibzig), Monika Barget (Maastricht)*
-
-

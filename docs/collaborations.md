@@ -1,3 +1,7 @@
+---
+authors:
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+---
 
 # Collaborations
 
@@ -29,5 +33,3 @@ but we also hope that we can show potential and inspire historical research in g
 Through our experimental and exploratory approaches, the collaboration with different partners and the use of a wide
 range of data sources and formats, we were able to gain important 
 insights into the modelling and visualization of historical data, which we would like to share and discuss.
-
-Author / contact: Monika Barget (IEG Mainz, FASoS Maastricht)

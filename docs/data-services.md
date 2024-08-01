@@ -1,3 +1,10 @@
+---
+authors:
+  - Ingo Frank (IOS Regensburg)
+  - Jakob Listabarth (IfL Leipzig)
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+---
+
 # Data services for (historical) geodata
 
 This page presents a few German and international services that provide and / or accept (historical) geodata and can be useful for making project data more accessible and interoperable.
@@ -62,5 +69,3 @@ Although spatial data in Wikidata are not complete, we have experimented with pl
 Geonames is one of the most commonly used Gazetteers and also offers a geocoding API. Similar to the Getty Thesaurus of Geographic Names, Geonames offers "some level of data curation, nominally global coverage, but limited explicit information with respect to data quality". (Elise Acheson, Stefano De Sabbata, Ross S. Purves, [A quantitative analysis of global gazetteers: Patterns of coverage for common feature types](https://doi.org/10.1016/j.compenvurbsys.2017.03.007), in: Computers, Environment and Urban Systems, Volume 64, 2017, p. 309-320, ISSN 0198-9715.
 
 In the DigiKAR project, we mainly use Geonames for geocoding place names in comparison with the Google API. Geocoding results for historical place names often require manual correction. For more information, visit the tutorial [Geocoding with the Geonames API in Python](https://monikabarget.github.io/GeoHumTutorials/Tutorial_geocodingGEONAMES).
-
-Authors / contacts: Ingo Frank (IOS Regensburg), Jakob Listabarth (IfL Leibzig), Monika Barget (IEG Mainz, FASoS Maastricht)

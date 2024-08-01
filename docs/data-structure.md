@@ -1,3 +1,8 @@
+---
+authors:
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+---
+
 # Data structure in DigiKAR
 
 Humanities projects, especially historians, work with large amounts of data from various sources that often need more structure. Ingesting these data into an easy-to-use database that permits complex queries or visualisations is often unattainable. Therefore, we conducted a careful tool review at the beginning of the DigiKAR project to be able to discuss the advantages and challenges of different (open source and proprietary) database systems:
@@ -157,5 +162,3 @@ to denote this additional information. Reading the registers with Python, the #I
 All scripts I have used to split `.txt` files by several delimiters (including sequences of uppercase letters) have been published in the [DigiKAR Github repository](https://github.com/ieg-dhr/DigiKAR). The data structure matches the initially defined model. API and OCR data combined, there are **9013 rows of entries**. After the reconstruction of additional events, 2412 rows were added. This combined data frame has **11428 entries**. The merging of duplicate events reduces that number to **9323**.
 
 :::
-
-Authors / contacts: Monika Barget (IEG Mainz, FASoS Maastricht)

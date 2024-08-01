@@ -1,3 +1,11 @@
+---
+authors:
+  - Ingo Frank (IOS Regensburg)
+  - Jakob Listabarth (IfL Leipzig)
+  - Monika Barget (IEG Mainz, FASoS Maastricht)
+  - Bertrand Duménieu (EHESS Paris)
+---
+
 # Tools used or recommended by the DigiKAR project
 
 Different tools and the appropriate underlying database technologies are needed in the various phases of the research data life cycle (see the phases of the historical information life cycle presented in the report [Past, present and future of histortical information science](http://library.oapen.org/handle/20.500.12657/34839): _creation_, _enrichment_, _editing_, _retrieval_, _analysis_, _presentation_.) in order to support the phases from data creation to querying the enriched, edited and interlinked data for various visualization purposes (incl. e.g. explorative analysis). in general, a selection of tools for DigiKAR has to be used in the following tasks.
@@ -82,5 +90,3 @@ Proposal for tool review table using specific aspects (data import, data export,
 - [Metaphactory](https://metaphactory.com/") is a knowledge graph platform designed for managing and exploring semantic data. It allows users to create, search, and visualize linked data and knowledge graphs, making it a popular tool for researchers and organizations dealing with complex data relationships. In addition to the proprietary Metaphactory platform, the tool is available as ResearchSpace for those who can host their own instance. ResearchSpace was specifically designed for cultural heritage and digital humanities application. While ResearchSpace has a user base in cultural heritage and digital humanities research, Metaphactory's user community is more diverse. The choice between them depends on the specific requirements and financial means of your knowledge graph project or research. ResearchSpace is focused on CIDOC CRM and its extension as core ontology and due to its origin from cultural heritage application it supports IIIF and semantic annotation -- a feature not available in the commercial Metaphactory.
 - [Linked Data Reactor](http://ld-r.org/) (LD-Reactor or LD-R) is an open-source framework to develop web-based user interfaces to create, edit, search and explore linked data. Similar to ResearchSpace and Metaphactory, LD-R allows the configuration of faceted navigation systems and editing of RDF data, but in a very generic way based on its user interface components for Linked Data applications.
 - [Duckdb](https://duckdb.org/) is a free and open-source _"in-process SQL OLAP database management system"_. It is optimized for analytical purposes, where querying and aggregating significant amount of data is required making a good fit to analyze data of work package "Electoral Mainz" where a large collection of individual events need to be grouped, aggregated and linked before they can be eventually visualized in a map.
-
-*Authors / contacts: Ingo Frank (IOS Regensburg), Jakob Listabarth (IfL Leibzig), Monika Barget (IEG Mainz, FASoS Maastricht), Bertrant Duménieu (EHESS Paris)*
