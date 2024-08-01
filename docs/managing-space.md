@@ -30,9 +30,10 @@ The place_name is also used to generate the geolocation by using the Geonames AP
 Deriving modern place names from the information given in primary/secondary sources, literature, or other non georeferenced datasets can prove challenging. Place names still developed and varied greatly in the early modern period. Thus, one must use Gazetteers and traditional tools (e.g. Graesse: Orbis Latinus). However, identifying modern places with the information given mostly has to rely on different levels of uncertainty.
 
 In our case, the origin of the place names is derived from the three sources used:
-1) Mainly from the university registers (automatically recorded "source edition")
-2) Partly also professor data (partly manually and partly automatically recorded secondary literature)
-3) Partly from secondary literature on the RKG by Jahns (secondary literature)
+
+1. Mainly from the university registers (automatically recorded "source edition")
+2. Partly also professor data (partly manually and partly automatically recorded secondary literature)
+3. Partly from secondary literature on the RKG by Jahns (secondary literature)
 
 Initially, the place names were automatically recorded from the respective sources and collated and compiled in an alphabetically sorted Excel list. 
 Advantage: Similar spellings of a place name are often close to each other and are therefore easily recognisable and sometimes helpful for a person
@@ -42,12 +43,13 @@ On the one hand, this requires a basic familiarity with early modern place name 
 The frequent similarity of German place names is already problematic in the resolution of old or Latinised forms of names, and then also in the clear assignment to modern places. The safest and at the same time laborious and rarely successful way is to research the individual persons, assigned to the respective place name: Is there other evidence in the secondary literature or sources for the person or their family that can be clearly assigned to the place or a geographically close one? If this does not lead to a result, probabilities must be used: Does one of the possible places recommend itself, due to its local history or location in or near the archbishopric? What was the approximate size of the places in the early modern period? What was the denominational character of the place? If a place was clearly recommended above all others on the basis of these criteria, it was accepted. If the criteria did not clearly point to a place, a probable option was selected, and this was noted with the remark "unsicher"; if necessary, an equivalent alternative was given.
 Even if the stated criteria and approach seem obvious and justified on the basis of previous research, especially on the Catholic University of Mainz, and the Catholic imperial chamber judges, apart from the usual uncertainties of historical research, it leads to a further problem: The assumption of places as more probable, if they were located in or near the archbishopric and were Catholic can possibly distort the results of the study in the direction of the previous research opinion as part of a self-fulfilling prophecy.
 Once this time-consuming process of manually assigning the place names selected from the (secondary) sources to modern place names had been completed, the place ontology was automatically georeferenced on the basis of the latter. In our case, this was done using the Geonames API on the one hand and Google's API on the other. This resulted in the following problems, especially for Geonames:
+
 1. Place names were not recognised due to typos or superfluous spaces.
 2. Place names were not recognised because the respective specification was not stored. For example, Geonames cannot recognise Bischofsheim near Groß-Gerau, if the more common names Mainz-Bischofsheim or Bischofsheim, Mainspitze are used.
-If orthographic errors and unassignable specifications of place names have been corrected manually, all places can be georeferenced. However, the assignment of the selected modern German place name to the object georeferenced by the API is often incorrect:
-1. in particular, it can be seen that the APIs generally favour places located on the American continents over the (Central) European ones meant in our case. This must be corrected with additional geographical information. For example, a "Europe" is added to the place names for the query by the API.
-2 However, as this step does not limit all georeferences to the expected area, further outliers in the visualisation of all georeferenced points must be identified manually and corrected using additional information (assignment to modern states and administrative units).
-3. Although almost all points are located in the expected (Central) European area, a manual check of each individual georeferencing would hardly be feasible. For this reason, the two geo-references from Geonames and Google have now been automatically compared and, in the event of statistically relevant deviations, the modern name form has been re-examined and further specified.
+   If orthographic errors and unassignable specifications of place names have been corrected manually, all places can be georeferenced. However, the assignment of the selected modern German place name to the object georeferenced by the API is often incorrect:
+3. in particular, it can be seen that the APIs generally favour places located on the American continents over the (Central) European ones meant in our case. This must be corrected with additional geographical information. For example, a "Europe" is added to the place names for the query by the API.
+   2 However, as this step does not limit all georeferences to the expected area, further outliers in the visualisation of all georeferenced points must be identified manually and corrected using additional information (assignment to modern states and administrative units).
+4. Although almost all points are located in the expected (Central) European area, a manual check of each individual georeferencing would hardly be feasible. For this reason, the two geo-references from Geonames and Google have now been automatically compared and, in the event of statistically relevant deviations, the modern name form has been re-examined and further specified.
 
 ## Places as virtual / relational spaces
 

@@ -11,73 +11,89 @@ authors:
 Historical documents often contain different and not necessarily compatible ways to denote dates, ranging from specific numeric dates to more qualitative descriptions. Some of the descriptions are vague and cannot easily be transferred to a structured data format. Indicators for time in German historical documents may include the following:
 
 ### Numeric Dates:
--	Day.Month.Year (e.g., 21.12.1820)
--	Day/Month/Year (e.g., 21/12/1820)
--	Month/Year (e.g., 12/1820)
--	Year (e.g., 1820)
--	Year range (e.g., 1820-1825)
+
+- Day.Month.Year (e.g., 21.12.1820)
+- Day/Month/Year (e.g., 21/12/1820)
+- Month/Year (e.g., 12/1820)
+- Year (e.g., 1820)
+- Year range (e.g., 1820-1825)
 
 ### Qualitative Descriptions:
 
 #### Seasons:
--	"Frühling" (Spring)
--	"Sommer" (Summer)
--	"Herbst" (Autumn/Fall)
--	"Winter"
+
+- "Frühling" (Spring)
+- "Sommer" (Summer)
+- "Herbst" (Autumn/Fall)
+- "Winter"
+
 #### Names of months, often abbreviated and without years:
--	"Januar", "Februar", "März", etc. (January, February, March)
+
+- "Januar", "Februar", "März", etc. (January, February, March)
 - "Sommermonate" (Summer months)
+
 #### Time indicators specific to the ecclesiastical year:
+
 - "Fastenzeit" (Lent)
 - "Weihnachten" (Christmas)
 - festdays of saints
 - office periods of bishops or popes
+
 #### Time indicators concerning the academic year:
+
 - SS / "Sommersemester" (summer term)
 - WS / "Wintersemester" (winter term)
+
 #### Narrative periodisation based on political events:
+
 - Zur Zeit des Kaisers (during the reign of the emperor)
 - Während des Krieges (during the war)
 - In der Ära der Industrialisierung (in the era of industrialization)
+
 #### Relative time expressions in a narrative form:
--	Vorher (before)
+
+- Vorher (before)
 - Nachher (after)
--	Davor (prior to)
--	Danach (subsequently)
--	Am selben Tag (on the same day)
--	Einen Tag später (a day later)
--	Eine Woche zuvor (a week earlier)
--	In der Zwischenzeit (in the meantime)
--	Zu dieser Zeit (at that time)
+- Davor (prior to)
+- Danach (subsequently)
+- Am selben Tag (on the same day)
+- Einen Tag später (a day later)
+- Eine Woche zuvor (a week earlier)
+- In der Zwischenzeit (in the meantime)
+- Zu dieser Zeit (at that time)
 - Vor x Jahren (x years ago)
--	In x Jahren (in x years)
--	Zu einer unbestimmten Zeit (at an unspecified time)
+- In x Jahren (in x years)
+- Zu einer unbestimmten Zeit (at an unspecified time)
 - In der Vergangenheit (in the past)
 - Im Laufe des Jahres (during the year)
--	Jetzt (now)
--	Gegenwärtig (presently)
--	Bald (soon)
--	Später (later)
--	Früher (earlier)
--	Heute (today)
--	Gestern (yesterday)
--	Morgen (tomorrow)
--	Letzte Woche (last week)
--	Nächsten Monat (next month)
--	Zwischenzeitlich (in the meantime)
-####	Indefinite qualifiers for numerical dates:
--	Ungefähr YYYY (in approximately YYYY)
+- Jetzt (now)
+- Gegenwärtig (presently)
+- Bald (soon)
+- Später (later)
+- Früher (earlier)
+- Heute (today)
+- Gestern (yesterday)
+- Morgen (tomorrow)
+- Letzte Woche (last week)
+- Nächsten Monat (next month)
+- Zwischenzeitlich (in the meantime)
+
+#### Indefinite qualifiers for numerical dates:
+
+- Ungefähr YYYY (in approximately YYYY)
 - Noch YYYY (also still in YYYY)
 - Nicht vor YYYY (not before YYYY)
 - spätestens YYYY (in YYYY at the latest)
 - frühestens YYYY (in YYYY at the earliest)
+
 #### Expressions of doubt or uncertainty:
--	? (question mark and other symbols of uncertainty)
--	Unklar (unclear)
--	Unbekannt (unknown)
--	Unbekannt (unknown)
--	Unbestimmt (indefinite)
-  
+
+- ? (question mark and other symbols of uncertainty)
+- Unklar (unclear)
+- Unbekannt (unknown)
+- Unbekannt (unknown)
+- Unbestimmt (indefinite)
+
 While this list is by no means comprehensive, it can, to a limited degree, be used to work with string matching and simple NPL operations in identifying exact dates, time frames and fuzzy dates, but where expressions relate back to dates mentioned earlier in the text and require an interpretation of information in context, AI / Large Language Models will probably need to be used to automate the process of date identification. At present, the most common workflow is to check those dates manually, which is time-consuming. In the DigiKAR project, student assistants at JGU Mainz and IEG Mainz have supported us in this task.
 
 ## Time modelling decisions in the Mainz workpackage
