@@ -1,0 +1,1374 @@
+person_id,person_name,person_name_variants,person_editorial_comment,person_name_normalised,pers_ID_FS,person_relevance,person_name_corrected,person_frequency
+1.0,Johann Joseph Appel,,,Johann Joseph Appel,1,0,Johann Joseph Appel,1
+2.0,Franz Madhes,,,Matthias Joseph Anton Franz Matthes,45,poi-1,Franz Madhes,1
+2.0,Franz Mauritius Bachmann,,,Franz Moritz Bachmann,2,poi-1,Franz Moritz Bachmann,5
+2.0,Franz Moritz Bachmann,,,Franz Moritz Bachmann,2?,poi-1,Franz Moritz Bachmann,22
+2.0,Franz Moritz Bachmann,,,Franz Moritz Bachmann,2?,poi-1,Franz Moritz Bachmann,22
+2.0,Franz Moritz Bachmann,Franciscus M. Bachmann / Franz Mauritius Bachmann / Franz Moriz Bachmann,,Franz Moritz Bachmann,2?,poi-1,Franz Moritz Bachmann,22
+2.0,Franz Moriz Bachmann,,,Franz Moritz Bachmann,2,poi-1,Franz Moriz Bachmann,6
+9096.0,Mauritius Bachmann,Mauriz,,Franz Moritz Bachmann,2,poi-1,Moritz Bachmann,1
+9096.0,Mauritius Bachmann,,,Franz Moritz Bachmann,2,poi-1,Moritz Bachmann,1
+9096.0,Mauritius Bachmann,Mauriz Bachmann,,Franz Moritz Bachmann,2,poi-1,Moritz Bachmann,1
+9096.0,Mauritius Bachmann,Moritz Bachmann,,Franz Moritz Bachmann,2,poi-1,Moritz Bachmann,1
+9096.0,Moritz Bachmann,,,Franz Moritz Bachmann,2,poi-1,Moritz Bachmann,2
+3.0,[Adolph Freiherr] von Bellmont,,,Adolph von Bellmont,,poi-1,Adolph von Bellmont,1
+3.0,Adolph Freiherr von Bellmont,,,Adolph von Bellmont,,poi-1,Adolph von Bellmont,2
+3.0,Adolph Freiherr von Bellmont,,,Adolph von Bellmont,,poi-1,Adolph von Bellmont,2
+4.0,Arnold von Bellmont,,,###,,poi-1,Johann Arnold von Bellmont,3
+4.0,Johann Arnold de Bellmont,,,Johann Arnold von Bellmont,4,poi-1,Johann Arnold von Bellmont,14
+4.0,Johann Arnold Freiherr von Bellmont,,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,Johann Arnold von Bellmont,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,Johannes Arnold von Bellmont,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,Johann Arnold de Bellmont,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont,Geheimer Rat,,###,4?,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont ,,,Johann Arnold von Bellmont,4,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold Freiherr von Bellmont ,Carl Freiherr von Bellmont,,Johann Arnold von Bellmont,4,poi-1,Johann Arnold von Bellmont,32
+4.0,Johann Arnold von Bellmont,,,Johann Arnold von Bellmont,4,poi-1,Johann Arnold von Bellmont,34
+4.0,Johann Arnold von Bellmont ,,,Johann Arnold von Bellmont,4,poi-1,Johann Arnold von Bellmont ,30
+4.0,Johann Arnoldt von Bellmont,,,Johann Arnold von Bellmont,4,poi-1,Johann Arnoldt von Bellmont,2
+5.0,[Philipp Franz] von Bellmont,de Bellmont,,Philipp Franz von Bellmont,,poi-1,Philipp Franz von Bellmont,2
+5.0,Philipp Franciscus von Bellmont,,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,12
+5.0,Philipp Frantz von Bellmont,,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,4
+5.0,Philipp Franz von Bellmont,,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,19
+5.0,Philipp Franz von Bellmont,de Bellmont,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,19
+5.0,Philipp Franz von Bellmont,Franciscus Philippus Bellmon,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,19
+5.0,Philipp Franz von Bellmont,Franciscus Philippus Bellmont Francofourtensis,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,19
+5.0,Philipp Franz von Bellmont,,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,19
+5.0,Philippus Franciscus a Bellmont,,,Philipp Franz von Bellmont,5,poi-1,Philipp Franz von Bellmont,1
+6.0,Carl Christian E. Graf Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,2
+6.0,Carl Christian Graf von Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,15
+6.0,Christian Ernst Graf von Bentzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,18
+6.0,Christian Ernst Karl Graf von Bentzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,43
+9097.0,Christian Joseph Freiherr von Benzel,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Christian Joseph Freiherr von Benzel,1
+6.0,K[arl] C[hristian] Graf von Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,5
+6.0,K[arl] Ch[ristian] Graf von Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,3
+6.0,Karl Christian Ernst Graf von Bentzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,42
+6.0,Karl Christian Ernst Graf von Bentzel-Sternau,Karl Christian Ernst Freiherr von Bentzel-Sternau,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,42
+6.0,Karl Christian Ernst Graf von Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,16
+6.0,Karl Christian Graf von Benzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,23
+6.0,Karl Christian von Benzel,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,2
+6.0,Karl Graf von Bentzel-Sternau,,,Karl Christian Ernst von Bentzel zu Sternau,6,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,16
+6.0,Karl von Benzel,Benzell,,###,6?,poi-1,Karl Christian Ernst Graf von Bentzel-Sternau,2
+9098.0,Jacobus de Billstein,,,Johann Jakob von Bielstein,7,poi-1,Jakob Billstein,2
+7.0,Johann Jacob Billstein,,,Johann Jakob von Bielstein,7,poi-1,Johann Jakob Billstein,7
+7.0,Johann Jacob Bilstein,,,Johann Jakob von Bielstein,7,poi-1,Johann Jakob Billstein,3
+7.0,Johann Jacob von Bilstein,,,Johann Jakob von Bielstein,7,poi-1,Johann Jakob Billstein,1
+7.0,Johann Jakob Bielstein,,,Johann Jakob von Bielstein,7,poi-1,Johann Jakob Billstein,2
+7.0,Johann Jakob von Bielstein,,,Johann Jakob von Bielstein,7,poi-1,Johann Jakob Billstein,4
+8.0,Franz Emmerich Kaspar von Bilstein,,,Franz Emmerich Kaspar von Bielstein,8,0,Franz Emmerich Kaspar von Bilstein,2
+9.0,[Johann Michael] Bocklet,,,Johann Michael Bocklet,,poi-1,Johann Michael Bocklet,4
+9.0,[Johann Michael] Bocklet,Booklet,,Johann Michael Bocklet,,poi-1,Johann Michael Bocklet,4
+9.0,[Johann Michael] Bockleth,Bookleth,,Johann Michael Bocklet,,poi-1,Johann Michael Bocklet,1
+9.0,[Johann Michael] Booklet,,,Johann Michael Bocklet,,poi-1,Johann Michael Bocklet,1
+9.0,Johann Michael Bockhlet,,,Johann Michael Bocklet,9,poi-1,Johann Michael Bocklet,6
+9.0,Johann Michael Bockleth,,,Johann Michael Bocklet,9,poi-1,Johann Michael Bocklet,2
+9.0,N.N. Bocklett,,,Johann Michael Bocklet,9,poi-1,Johann Michael Bocklet,1
+10.0,Siegfried Wilhelm Bollmann,,,Siegfried Wilhelm Bollmann,10,poi-1,Siegfried Wilhelm Bollmann,2
+10.0,Siegfried Wilhelm Bollmann,,,Siegfried Wilhelm Bollmann,10,poi-1,Siegfried Wilhelm Bollmann,2
+10.0,Siegfried Wilhelm] Bollmann,,,Siegfried Wilhelm Bollmann,10,poi-1,Siegfried Wilhelm Bollmann,3
+10.0,Siegfried Willhelm Bollmann,,,Siegfried Wilhelm Bollmann,10,poi-1,Siegfried Wilhelm Bollmann,4
+10.0,Siegfriedt Wilhelm Bollmann,,,Siegfried Wilhelm Bollmann,10,poi-1,Siegfried Wilhelm Bollmann,1
+12.0,Johann Georg Brückmann,,,Johann Georg Brückmann,12,poi-1,Johann Georg Brückmann,75
+12.0,Johann Georg Brückmann,,,Johann Georg Brückmann,12,poi-1,Johann Georg Brückmann,75
+13.0,Carl Wilhelm Joseph Adam Fraiherr von Breidbach zu Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,3
+13.0,Carl Wilhelm Joseph Adam von Breidbach zu Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,2
+13.0,Karl Wilhelm Freiherr von Breidbach-Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,3
+13.0,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,2
+13.0,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,2
+13.0,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,Karl Wilhelm Anton Freiherr von Breidbach zu Bürresheim,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,2
+13.0,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,4
+13.0,Karl Wilhelm Joseph von Breidbach-Buerresheim,,,Karl Wilhelm Joseph Adolph von Breidbach zu Bürresheim,13,poi-1,Karl Wilhelm Joseph Adam Freiherr von Breidbach zu Bürresheim,4
+14.0,Johann Tobias Lagus Junior,,,Tobias Lagus,14,0,Tobias Lagus,2
+14.0,Tobias Lagus,,,Tobias Lagus,14,0,Tobias Lagus,6
+14.0,Tobias Lagus,,,Tobias Lagus,14,0,Tobias Lagus,6
+14.0,Tobias Lagus [?],,,Tobias Lagus,14,0,Tobias Lagus,3
+15.0,[Georg Melchior] Clemens,,,Georg Melchior von Clemens,,poi-1,Georg Melchior Clemens,3
+15.0,Georg Melchior Clemens,,,Georg Melchior von Clemens,15,poi-1,Georg Melchior Clemens,4
+15.0,Georg Melchior Clemens,Clemenz,,Georg Melchior von Clemens,15,poi-1,Georg Melchior Clemens,4
+15.0,Georg Melchior Klemens,Clemenz,,Georg Melchior von Clemens,15,poi-1,Georg Melchior Clemens,2
+15.0,Georg Melchior von Clemens,Georg Melchior von Clemens Milwitz,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Clemens,9
+15.0,Georg Melchior von Clemens,,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Clemens,9
+15.0,George Melchior Clemens,,,Georg Melchior von Clemens,15,poi-1,George Melchior Clemens,1
+16.0,[Johann Georg] Cöler,Köhler,,Johann Georg Cöler,,poi-1,Johann Georg Köhler,6
+16.0,[Johann Georg] Cöler,,,Johann Georg Cöler,,poi-1,Johann Georg Köhler,6
+15.0,Georg Melchior von Clemens,Georg von Clemens Milwiz,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Clemens,9
+16.0,Johann Georg Coeler,,,Johann Georg Cöler,16,poi-1,Johann Georg Köhler,6
+16.0,Johann Georg Cöler,,,Johann Georg Cöler,16,poi-1,Johann Georg Köhler,4
+16.0,Johann Georg Köhler,Koehler / Köler,,Johann Georg Cöler,16,poi-1,Johann Georg Köhler,2
+16.0,Johannes Georg Köhler,Koehler / Köler,,Johann Georg Cöler,16,poi-1,Johann Georg Köhler,3
+17.0,[Johann Adolph] Cöler,,,Johann Rudolph Cöler,,poi-1,Johann Adolph Köhler,1
+9095.0,[Johann Rudolph] Cöler,,,Johann Rudolph Cöler,,poi-1,Johann Adolph Köhler,6
+17.0,Georg Melchior von Clemens,Clemenz,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Clemens,9
+17.0,Johann Adolph Cöler,,,Johann Rudolph Cöler,17,poi-1,Johann Adolph Köhler,2
+17.0,Johann Rudolph Coeler,,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,4
+17.0,Johann Rudolph Coeler,Köhler,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,4
+17.0,Johann Rudolph Cöhler,,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,2
+17.0,Johann Rudolph Cöler,,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,11
+17.0,Johann Rudolph Cöler,Köhler,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,11
+17.0,Johann Rudolph Koehler,Coehler,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,1
+17.0,Johannes Rudolf Köhler,Koehler / Köler,,Johann Rudolph Cöler,17,poi-1,Johann Rudolph Köhler,2
+18.0,Ernst Ludwig Wilhelm Freiherr von Dacheröden,,,Ernst Ludwig Wilhelm von Dacheröden,18,poi-1,Ernst Ludwig Wilhelm Freiherr von Dacheröden,15
+18.0,Georg Melchior von Klemens,Georg Melchior Klemens,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Klemens,1
+19.0,Carl Theodor Anton Maria von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Carl Theodor Anton Maria von Dalberg,38
+19.0,Carl Theodor Cämmerer von Worms Freiherr von und zu Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Carl Theodor Cämmerer von Worms Freiherr von und zu Dalberg,6
+19.0,Carl Theodor Freiherr von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Carl Theodor Freiherr von Dalberg,1
+9097.0,Ernst Ludwig Wilhelm Freiherr von Dacheröden,,,Ernst Ludwig Wilhelm von Dacheröden,18,poi-1,Ernst Ludwig Wilhelm Freiherr von Dacheröden,15
+20.0,Georg Melchior von Klemens,Georg Melchior Klemens,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Klemens,1
+19.0,Karl Theodor Anton Maria Kämmerer von Worms Freiherr von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor Anton Maria Kämmerer von Worms Freiherr von Dalberg,2
+19.0,Karl Theodor Anton Maria von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor Anton Maria von Dalberg,21
+19.0,Karl Theodor Anton von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor Anton von Dalberg,8
+19.0,Karl Theodor Freiherr von Dalberg,Karl Theodor Anton Maria Reichsfreiherr von Dalberg,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor Freiherr von Dalberg,29
+19.0,Karl Theodor von Dalberg,,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor von Dalberg,72
+19.0,Karl Theodor von Dalberg,Carl Theodor Anton Maria Reichsfreiherr von Dalberg,,Karl Theodor Anton Maria von Dalberg,19,poi-1,Karl Theodor von Dalberg,72
+9096.0,[Johann Philipp] Dehmar,Dehmer,,Johann Heinrich Demar,,poi-1,Johann Philipp Demar,2
+9096.0,[Johann Philipp] Dehmar,,,Johann Heinrich Demar,,poi-1,Johann Philipp Demar,2
+9097.0,Ernst Ludwig Wilhelm Freiherr von Dachröden,,,Ernst Ludwig Wilhelm von Dacheröden,18,poi-1,Ernst Ludwig Wilhelm Freiherr von Dachröden,1
+20.0,Georg Melchior von Klemens,,,Georg Melchior von Clemens,15,poi-1,Georg Melchior von Klemens,1
+20.0,Johann Heinrich Dehmer,,,Johann Heinrich Demar,20,poi-1,Johann Heinrich Demar,2
+20.0,Johann Heinrich Demar,,,Johann Heinrich Demar,20,poi-1,Johann Heinrich Demar,4
+20.0,Johann Heinrich Demar,von [!] Dehmar [?],,Johann Heinrich Demar,20,poi-1,Johann Heinrich Demar,4
+9096.0,Johann Philipp Demar,,,Johann Heinrich Demar,20,poi-1,Johann Philipp Demar,4
+20.0,N.N. Dehmer,,,Johann Heinrich Demar,20,poi-1,Johann Heinrich Demar,2
+9097.0,Ernst Ludwig Wilhelm Freiherr von Dachröden,,,Ernst Ludwig Wilhelm von Dacheröden,18,poi-1,Ernst Ludwig Wilhelm Freiherr von Dachröden,1
+21.0,Friedrich Ludwig Doering,,,Friedrich Ludwig Döring,21,poi-1,Friedrich Ludwig Döring,3
+21.0,Friedrich Ludwig Döring,,,Friedrich Ludwig Döring,21,poi-1,Friedrich Ludwig Döring,36
+21.0,Friedrich Ludwig Döring,,,Friedrich Ludwig Döring,21,poi-1,Friedrich Ludwig Döring,36
+22.0,[N.N.] Fuxius,,Siehe Person Names Liste: an anderer Stelle mit Vorname erfasst! Restunsicherheit bleibt!,Emmerich Ernst Joseph Fuxius,,poi-1,Emmerich Ernst Joseph Fuxius,5
+22.0,Emmerich Ernst Joseph Fuxius,,,Emmerich Ernst Joseph Fuxius,22,poi-1,Emmerich Ernst Joseph Fuxius,1
+9097.0,Ernst Ludwig Wilhelm von Dacheröden,,,Ernst Ludwig Wilhelm von Dacheröden,18,poi-1,Ernst Ludwig Wilhelm von Dacheröden,5
+23.0,Johann Heinrich Genau,,,Johann Heinrich Genau,23,poi-1,Johann Heinrich Genau,1
+23.0,Johann Heinrich Genau,Johann Heinrich Jena [?],,Johann Heinrich Genau,23,poi-1,Johann Heinrich Genau,1
+23.0,Johann Heinrich Genau,,,Johann Heinrich Genau,23,poi-1,Johann Heinrich Genau,1
+23.0,Johann Heinrich] Genau,,,Johann Heinrich Genau,23,poi-1,Johann Heinrich Genau,2
+23.0,N.N. Genau,,,Johann Heinrich Genau,23,poi-1,Johann Heinrich Genau,2
+24.0,[Sigismund] Gerstenberg,,,Sigismund Gerstenberger,,poi-1,[Sigismund] Gerstenberg,1
+24.0,[Sigmund] Gerstenberg,,,Sigismund Gerstenberger,,poi-1,[Sigmund] Gerstenberg,3
+24.0,[Sigmund] Gerstenberger,Gerstenberg,,Sigismund Gerstenberger,,poi-1,[Sigmund] Gerstenberg,1
+24.0,Sigismund Gerstenberg,,,Sigismund Gerstenberger,24,poi-1,Sigismund Gerstenberg,2
+24.0,Sigismund Gerstenberger,,,Sigismund Gerstenberger,24,poi-1,Sigismund Gerstenberg,1
+24.0,Sigmund Gerstenberger,,,Sigismund Gerstenberger,24,poi-1,Sigismund Gerstenberg,1
+25.0,Gustav Adolf Graberg,,,Gustav Adolph Graberg,25,poi-1,Gustav Adolf Graberg,11
+25.0,Gustav Adolph Graberg,,,Gustav Adolph Graberg,25,poi-1,Gustav Adolph Graberg,1
+25.0,Gustav Adolph Graberg,,,Gustav Adolph Graberg,25,poi-1,Gustav Adolph Graberg,1
+25.0,Gustav Adolph Graberg,Gustav Adolph Greberg,,Gustav Adolph Graberg,25,poi-1,Gustav Adolph Graberg,1
+25.0,Gustavus Adolphus Graberg,,,Gustav Adolph Graberg,25,poi-1,Gustavus Adolphus Graberg,6
+26.0,Johann Jacob von Gudenus,,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jacob von Gudenus,1
+26.0,Johann Jakob Gudenus,,,Johann Jakob Gudenus,378,poi-2,Johann Jakob Gudenus,2
+26.0,Johann Jakob Gudenus,,,Johann Jakob Gudenus,378,poi-2,Johann Jakob Gudenus,2
+26.0,Johann Jakob von Gudenus,,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob von Gudenus,37
+26.0,Johann Jakob von Gudenus,(Johann Jacob) von Gudenus,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob von Gudenus,37
+26.0,Johann Jakob von Gudenus,,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob von Gudenus,37
+26.0,Johann Jakob von Gudenus,Johannes Jakobus von Gudenus,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob von Gudenus,37
+27.0,Christoph Ignatius Gudenus,,,Christoph Ignaz von Gudenus,27,poi-2,Christoph Ignaz von Gudenus,8
+27.0,Christoph Ignatius von Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz von Gudenus,4
+27.0,Christoph Ignaz Freiherr von Gudenus,,,Christoph Ignaz von Gudenus,27,poi-2,Christoph Ignaz von Gudenus,18
+27.0,Christoph Ignaz Gudenus,,,Christoph Ignaz von Gudenus,27,poi-2,Christoph Ignaz von Gudenus,1
+27.0,Christoph Ignaz von Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz von Gudenus,2
+27.0,Christoph Ignaz von Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz von Gudenus,2
+27.0,Christoph Ignaz von Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz von Gudenus,2
+28.0,Daniel Mauritius de Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,1
+28.0,Daniel Mauritius Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,3
+28.0,Daniel Mauritius von Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,5
+28.0,Daniel Moritz Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,10
+28.0,Daniel Moritz von Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,3
+28.0,Daniel Moritz von Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Daniel Moritz von Gudenus,3
+9098.0,Mauritius Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Mauritius Gudenus,14
+9098.0,Mauritius Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Mauritius Gudenus,14
+9098.0,Mauritius von Gudenus,,,Daniel Moritz von Gudenus,29,0,Mauritius von Gudenus,1
+30.0,N.N. Heyland,N.N. Heiland,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Jakob Heiland,1
+30.0,Peter Heinrich Heiland,,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Heiland,40
+30.0,Peter Heinrich Heiland,,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Heiland,40
+30.0,Peter Heinrich Heiland,Peter Heinrich Jakob Heiland,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Heiland,40
+30.0,Peter Heinrich Jacob Heylandt,,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Heiland,3
+30.0,Peter Heinrich Jakob Heiland,,,Peter Heinrich Jakob Heiland,30,poi-1,Peter Heinrich Heiland,2
+31.0,Elias Friedrich Heitmann,,,Elias Friedrich Heitmann,31,0,Elias Friedrich Heitmann,2
+32.0,Johann Nepomuk Christoph Hucke,,,Johann Nepomuk Christoph Hucke,32,0,Johann Nepomuk Christoph Hucke,1
+33.0,[Franz Hugo] Hunold,,,Franz Hugo Hunold,,poi-1,Franz Hugo Hunoldt,2
+33.0,Franciscus Hugo Hunold,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,1
+33.0,Franz Hugo Hunold,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,3
+33.0,Franz Hugo Hunoldt,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,5
+33.0,Hugo Franciscus Hunold,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,4
+33.0,Hugo Frantz Hunoldt,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,1
+33.0,Hugo Franz Hunold,,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,3
+33.0,Hugo Franz Hunold,Hunoldt / Hunolt,,Franz Hugo Hunold,33,poi-1,Franz Hugo Hunoldt,3
+34.0,Anselm Franz Friedrich von Ingelheim,,,Anselm Franz Friedrich von Ingelheim,34,poi-1,Anselm Franz Friedrich von Ingelheim,1
+34.0,Anselm Franz von Ingelheim,,,Anselm Franz Friedrich von Ingelheim,34,poi-1,Anselm Franz von Ingelheim,2
+34.0,Anselm von Ingelheim,,,Anselm Franz Friedrich von Ingelheim,34,poi-1,Anselm von Ingelheim,18
+35.0,Caspar Jungk,,,Kaspar Jungk,35,poi-1,Caspar Jungk,7
+35.0,Casparus Junck,,,Kaspar Jungk,35,poi-1,Casparus Junck,5
+35.0,Kaspar Jungk,,,Kaspar Jungk,35,poi-1,Kaspar Jungk,2
+36.0,Christoph Kerl,,,Johann Christoph Kerl,36,poi-1,Johann Christoph Kerl,1
+36.0,Christoph Kerl,,,Johann Christoph Kerl,36,poi-1,Johann Christoph Kerl,1
+36.0,Johann Christoph Kerl,,,Johann Christoph Kerl,36,poi-1,Johann Christoph Kerl,1
+36.0,Johann Christoph Kerl,,,Johann Christoph Kerl,36,poi-1,Johann Christoph Kerl,1
+38.0,Georg von Clemens-Millwitz,,,Georg Melchior von Klemens zu Millwitz,38,poi-1,Georg von Clemens-Milwitz,26
+38.0,Georg von Klemens zu Millwitz,,,Georg Melchior von Klemens zu Millwitz,38,poi-1,Georg von Clemens-Milwitz,1
+38.0,Georg von Klemens zu Millwitz,,,Georg Melchior von Klemens zu Millwitz,38,poi-1,Georg von Clemens-Milwitz,1
+39.0,Anton Koch,,,Anton Koch,39,poi-1,Anton Koch,1
+39.0,Anton Koch,,,Anton Koch,39,poi-1,Anton Koch,1
+40.0,Gabriel Heinrich Lilien,,,Gabriel Heinrich Lilien,40,0,Gabriel Heinrich Lilien,2
+41.0,Melchior Ludolph Lilien,,,Melchior Ludolph Lilien,41,0,Melchior Ludolph Lilien,2
+42.0,[Johann Jacob] Lincker von Lützenwick,,,Johann Jakob Lincker von Lützenwick,,poi-1,Johann Jakob Lincker von Lützenwick,2
+42.0,[Johann Jacob] Lincker von Lützenwick,Lincker de Lüzenwick / Lincker à Lüzenwick,,Johann Jakob Lincker von Lützenwick,,poi-1,Johann Jakob Lincker von Lützenwick,2
+42.0,[Johann Jacob] von Lincker,â Lincker,,Johann Jakob Lincker von Lützenwick,,poi-1,Johann Jakob Lincker von Lützenwick,5
+42.0,[Johann Jacob] von Lincker,â Lincker / Lincker â Lützenwick,,Johann Jakob Lincker von Lützenwick,,poi-1,Johann Jakob Lincker von Lützenwick,5
+42.0,Johann Jacob Lincker,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,3
+42.0,Johann Jacob Lincker [von Lützenwick],,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,1
+42.0,Johann Jacob Lincker von Lützenwick,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,9
+42.0,Johann Jacob Lyncker von Lützenwiyck,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,1
+42.0,Johann Jakob Freiherr Lincker von Lützenwick,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,2
+42.0,Johann Jakob Lincker,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,2
+42.0,Johann Jakob Lincker von Lützenwick,,,Johann Jakob Lincker von Lützenwick,42,poi-1,Johann Jakob Lincker von Lützenwick,1
+43.0,Johann Daniel Christoph Freiherr Lincker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,17
+43.0,Johann Daniel Christoph Freiherr Lincker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,17
+43.0,Johann Daniel Christoph Freiherr Lincker von Lützenwick,Johann Daniel Christoph Linckert von Lützewick,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,17
+43.0,Johann Daniel Christoph Freiherr Lincker von Lützenwick,Johann Daniel Christoph Lincker von Lützenwick,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,17
+43.0,Johann Daniel Christoph Freiherr Lyncker von Lützenwick,"Lyncker von Lützenwick, Johann Daniel Freiherr / Lyncker von Lützenwick, Johann Daniel / Lincker und Lützenwick, Johann Daniel Christoph von / Lincker und Lützenwick, Johann Daniel von / Lincker, Johann Daniel Christoph Jacob von / Lincker, Johann Daniel Christoph von / Lincker, Johann Daniel Christophorus Jacobus de / Lincker, Johann Daniel von / Linker und Lutzenwick, Johann Daniel von / Linker von Lutzenwick, Johann Daniel / Linker von Lützenwick, Johann Daniel / Linker von Lützenwick, Johann Daniel Christoph / Lützenwick, Johann Daniel Lyncker von / Lincker, Johann Daniel Christoph Jakob von / Lincker, Johann Daniel Christophorus Jakobus de / Linker von Lützenwick, Johann Daniel Christof",,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,3
+43.0,Johann Daniel Christoph Freiherr Lyncker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,3
+43.0,Johann Daniel Christoph Lincker Ritter und Edler von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,1
+43.0,Johann Daniel Christoph Lincker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,1
+43.0,Johann Daniel Freiherr Lincker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,2
+43.0,Johann Daniel Freiherr Lyncker von Lützenwick,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,3
+43.0,Johann Daniel Lincker,,,0,218,0,Johann Daniel Lincker,6
+43.0,Johann Daniel Lincker,,,0,218,0,Johann Daniel Lincker,6
+43.0,Johann Daniel Lincker,,,0,218,0,Johann Daniel Lincker,6
+43.0,Johann Daniel Lincker Ritter und Edler von Lützenwick,,,0,218,0,Johann Daniel Christoph Lincker von Lützenwick,12
+43.0,Johann Daniel Lincker von Lützenwick,,,0,227,0,Johann Daniel Christoph Lincker von Lützenwick,2
+43.0,Johann Daniel Lyncker,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Lincker,1
+43.0,N.N. von Lincker,,,Johann Daniel Christoph Lincker von Lützenwick,43,poi-1,Johann Daniel Christoph Lincker von Lützenwick,1
+44.0,Damian Freiherr von Linden,,,Franz Damian von Linden,44,poi-1,Franz Damian  von Linden,4
+44.0,Franz Damian Freiherr von Linden,,,Franz Damian von Linden,44,poi-1,Franz Damian  von Linden,6
+44.0,Franz Damian Linden,,,Franz Damian von Linden,44,poi-1,Franz Damian Linden,1
+45.0,Joseph Matthias Frantz Matthes,,,Matthias Joseph Anton Franz Matthes,45,poi-1,Joseph Matthias Frantz Matthes,3
+45.0,Mathias Josephus Antonius Frantz Madhes,,,Matthias Joseph Anton Franz Matthes,45,poi-1,Matthias Joseph Anton Franz Matthes,1
+45.0,Matthias Joseph Anton Franz Matthes,Matthias Joseph Anton Frantzmatdhes,,Matthias Joseph Anton Franz Matthes,45,poi-1,Matthias Joseph Anton Franz Matthes,1
+47.0,[Elias] Meltzer,Flie [?] Meltzzern,,Elias Meltzer,,poi-1,Elias Meltzer,5
+47.0,[Elias] Meltzer,,,Elias Meltzer,,poi-1,Elias Meltzer,5
+47.0,[Elias] Meltzer,Melzer,,Elias Meltzer,,poi-1,Elias Meltzer,5
+47.0,Elias Meltzer,,,Elias Meltzer,47,poi-1,Elias Meltzer,8
+47.0,Elias Melzer,,,Elias Meltzer,47,poi-1,Elias Meltzer,3
+47.0,Elias Melzer,Meltzer,,Elias Meltzer,47,poi-1,Elias Meltzer,3
+48.0,[Andreas Ignaz] Meyer,,,Andreas Ignaz Meyer,,0,Andreas Ignaz Meyer,1
+48.0,Andreas Ignaz Meyer,,,Andreas Ignaz Meyer,,0,Andreas Ignaz Meyer,2
+49.0,Joachim Andreas Meier,,,Joachim Andreas Meyer,49,poi-1,Joachim Andreas Meyer,4
+49.0,Joachim Andreas Meyer,Meuer,,Joachim Andreas Meyer,49,poi-1,Joachim Andreas Meyer,8
+49.0,Joachim Andreas Meyer,,,Joachim Andreas Meyer,49,poi-1,Joachim Andreas Meyer,8
+49.0,Joachim Andreas Meyer,,,Joachim Andreas Meyer,49,poi-1,Joachim Andreas Meyer,8
+50.0,Johann Andreas Meyer,,,Johann Andreas Meyer,50,poi-1,Johann Andreas Meyer,6
+51.0,[Anselm Franz] Molitoris,,"Verwandtschaft mit 52: ggf. über rel_pers auslesen, aber nicht in der Person Names Liste erfasst. Im Zweifel unterschiedliche IDs!",Anselm Franz Molitoris,,poi-1,Anselm Franz Molitor,9
+51.0,[Anselm Franz] Molitoris,Molitor,,Anselm Franz Molitoris,,poi-1,Anselm Franz Molitor,9
+51.0,Anselm Franz Molitoris,,,Anselm Franz Molitoris,51,poi-1,Anselm Franz Molitor,10
+51.0,Anselm Franz von Molitoris,,,Anselm Franz Molitoris,51,poi-1,Anselm Franz Molitor,4
+51.0,Anselmus Franciscus Molitoris,,,Anselm Franz Molitoris,51,poi-1,Anselm Franz Molitor,2
+51.0,N.N. Molitoris,,,Anselm Franz Molitoris,51,poi-1,Anselm Franz Molitor,1
+52.0,[Georg Melchior Gereon] Molitoris,,,Georg Melchior Gereon Molitoris,,poi-1,Georg Melchior Gereon Molitor,3
+52.0,[Georg Melchior Gereon] Molitoris,Molitor,,Georg Melchior Gereon Molitoris,,poi-1,Georg Melchior Gereon Molitor,3
+52.0,Georg Melchior Gereon Molitoris,,,Georg Melchior Gereon Molitoris,52,poi-1,Georg Melchior Gereon Molitor,6
+52.0,Georg Melchior Gereon Molitoris,,,Georg Melchior Gereon Molitoris,52,poi-1,Georg Melchior Gereon Molitor,6
+52.0,Melchior Gereon Molitoris,,,Georg Melchior Gereon Molitoris,52,poi-1,Georg Melchior Gereon Molitor,1
+52.0,Philipp Georg Jerion Molitoris,,,Georg Melchior Gereon Molitoris,52,poi-1,Philipp Georg Jerion Molitor,1
+9099.0,[Gereon] Molitor,,,Gereon Molitoris,,poi-1,Gereon Molitoris,1
+9099.0,Gereon Molitoris,,,Gereon Molitoris,53,poi-1,Gereon Molitoris,7
+54.0,[Friedrich Wilhelm] Mosel von Alenstein,,,Friedrich Wilhelm Mosel von Alenstein,,poi-1,Friedrich Wilhelm Mosel von Alenstein,1
+54.0,Friedrich Wilhelm Mosel von Alenstein,,,Friedrich Wilhelm Mosel von Alenstein,54,poi-1,Friedrich Wilhelm Mosel von Alenstein,1
+54.0,Friedrich Wilhelm Mosel von Alenstein,,,Friedrich Wilhelm Mosel von Alenstein,54,poi-1,Friedrich Wilhelm Mosel von Alenstein,1
+55.0,[Johann Bernhard] Müller,,,Johann Bernhard Müller,,poi-1,Johann Bernhard Müller,1
+55.0,Johann Bernhard Molitoris,Molitor,,Johann Bernhard Müller,55,poi-1,Johann Bernhard Müller,2
+55.0,Johann Bernhard Müller,,,Johann Bernhard Müller,55,poi-1,Johann Bernhard Müller,1
+55.0,Johann Bernhard Müller,Molitor,,Johann Bernhard Müller,55,poi-1,Johann Bernhard Müller,1
+55.0,Johann Bernhard Müller,,,Johann Bernhard Müller,55,poi-1,Johann Bernhard Müller,1
+56.0,Herrmann Pfingsten,,,Johann Hermann Pfingsten,56,poi-1,Herrmann Pfingsten,2
+56.0,Herrmann Pfingsten,,,Johann Hermann Pfingsten,56,poi-1,Herrmann Pfingsten,2
+56.0,Johann Hermann Pfingsten,,,Johann Hermann Pfingsten,56,poi-1,Johann Hermann Pfingsten,115
+57.0,Daniel Veit von Pipper,,,Daniel Veit von Pipper,57,poi-1,Daniel Veit von Pipper,1
+57.0,Vitus Daniel von Piper,,,Daniel Veit von Pipper,57,poi-1,Daniel Veit von Pipper,2
+58.0,Adam Christian Friedrich Reinhard,August Chrstian Friedrich Reinhard,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,2
+58.0,Adam Christian Reinhardt,,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,4
+58.0,Adam F. Reinhardt,,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,5
+58.0,Adam Friedrich Christian Reinhard,,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,60
+58.0,Adam Friedrich Christian Reinhard,August Chrstian Friedrich Reinhard,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,60
+58.0,Adam Friedrich Christian Reinhard,Reinhardt / Reinhardus / Reinhart / Reinharth,,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,60
+58.0,Adam Friedrich Christian Reinhard,,ID-Lücken rekonstruieren!,Adam Friedrich Christian Reinhard,,poi-1,Adam Friedrich Christian Reinhard,60
+59.0,Andreas Reinhard,,,Georg Andreas Reinhard,,poi-2,Georg Andreas Reinhard,4
+59.0,Georg Andreas Reinhard,,,Georg Andreas Reinhard,59,0,Georg Andreas Reinhard,2
+59.0,Georg Andreas Reinhard,Reinhardt,,Georg Andreas Reinhard,59,0,Georg Andreas Reinhard,2
+59.0,Georg Andreas Reinhard,Reinhardt / Reinhardus / Reinhart / Reinharth,,Georg Andreas Reinhard,59,0,Georg Andreas Reinhard,2
+59.0,Georg Andreas Reinhard,,,Georg Andreas Reinhard,59,0,Georg Andreas Reinhard,2
+59.0,N.N. Reinhard,,,Georg Andreas Reinhard,59,poi-2,Georg Andreas Reinhard,3
+60.0,Franz A[nton] R[esch],,,Franz Anton Resch,60,poi-1,Franz Anton Resch,1
+60.0,Franz Anton Resch,,,Franz Anton Resch,60,poi-1,Franz Anton Resch,1
+60.0,Franz Anton Resch,,,Franz Anton Resch,60,poi-1,Franz Anton Resch,1
+60.0,Franz Anton von Resch,,,Franz Anton Resch,60,poi-1,Franz Anton von Resch,2
+60.0,Franz Anton? von Resch,,,Franz Anton Resch,60,poi-1,Franz Anton von Resch,11
+61.0,[Johann Ernst Dominik] Rhieß,,,Johann Ernst Dominik Ries,,poi-1,Johann Ernst Dominik Ries,1
+61.0,Ernst Dominik Rhiesen,,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,1
+61.0,Jacob Ernestus Dominicus Riese,,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,1
+61.0,Johann Ernst Dominicus Riehs,,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,1
+61.0,Johann Ernst Dominicus Riese,Riehse,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,4
+61.0,Johann Ernst Dominicus Rieße,,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,2
+61.0,Johann Rese,,,Johann Ernst Dominik Ries,61,poi-1,Johann Ries,2
+61.0,Johann Riese,Riehs / Riehse / Riess / Riesse,,Johann Ernst Dominik Ries,61,poi-1,Johann Ries,4
+61.0,Johannes Ernst Dominik Riese,Riehs / Riehse / Riess / Riesse,,Johann Ernst Dominik Ries,61,poi-1,Johann Ernst Dominik Ries,2
+62.0,[Valentin] Rhies,Rhieß,,Valentin Ries,,poi-1,Valentin Ries,1
+62.0,[Valentin] Rhieß,Rhies,,Valentin Ries,,poi-1,Valentin Ries,1
+62.0,[Valentin] Rhiß,Rhis,,Valentin Ries,,poi-1,Valentin Ries,1
+62.0,[Valentin] Riehse,Rhiese,,Valentin Ries,,poi-1,Valentin Ries,3
+62.0,[Valentin] Riehse,Rihese,,Valentin Ries,,poi-1,Valentin Ries,3
+62.0,Valentin Rhieß,Riheßen,,Valentin Ries,62,poi-1,Valentin Ries,4
+62.0,Valentin Rhieß,Riheßen / Rihesen / Rihse,,Valentin Ries,62,poi-1,Valentin Ries,4
+62.0,Valentin Rhieß,Rihessen,,Valentin Ries,62,poi-1,Valentin Ries,4
+62.0,Valentin Riehsen,,,Valentin Ries,62,poi-1,Valentin Ries,2
+62.0,Valentin Riehßen,,,Valentin Ries,62,poi-1,Valentin Ries,2
+62.0,Valentin Rieß,,,Valentin Ries,62,poi-1,Valentin Ries,1
+63.0,Johann Heinrich Daniel Freiherr von Ritter zu Groenesteyn,,,Johann Heinrich Daniel von Ritter zu Grünstein,63,poi-1,Johann Heinrich Daniel Freiherr von Ritter zu Groenesteyn,20
+63.0,Johann Heinrich Daniel Freiherr von Ritter zu Grünstein,,,Johann Heinrich Daniel von Ritter zu Grünstein,63,poi-1,Johann Heinrich Daniel Freiherr von Ritter zu Grünstein,17
+63.0,Johann Heinrich Daniel von Ritter zu Grünstein,Johann Daniel von Ridder zu Groenstein,,Johann Heinrich Daniel von Ritter zu Grünstein,63,poi-1,Johann Heinrich Daniel von Ritter zu Grünstein,1
+63.0,Johann Heinrich Daniel von Ritter zu Grünstein,,,Johann Heinrich Daniel von Ritter zu Grünstein,63,poi-1,Johann Heinrich Daniel von Ritter zu Grünstein,1
+64.0,[Johann Michael] Rotermund,,,Johann Michael Rotermund,,poi-1,[Johann Michael] Rotermund,2
+64.0,Johann Michael Rotermund,,,Johann Michael Rotermund,64,poi-1,Johann Michael Rotermund,48
+64.0,Johann Michael Rotermundt,,,Johann Michael Rotermund,64,poi-1,Johann Michael Rotermundt,39
+64.0,Johann Michael Rotermundt,Rotermund,,Johann Michael Rotermund,64,poi-1,Johann Michael Rotermundt,39
+64.0,Johann Michael Rotermundt,,,Johann Michael Rotermund,64,poi-1,Johann Michael Rotermundt,39
+64.0,Johann Michael Rotermundt,Johannes Michael Rotermund,,Johann Michael Rotermund,64,poi-1,Johann Michael Rotermundt,39
+64.0,Johann Michael Rothermund,,,Johann Michael Rotermund,64,poi-1,Johann Michael Rothermund,6
+65.0,Georg Ignaz Mansuet Rüding,,,Georg Mansuet Ignaz Rüding,65,poi-1,Georg Ignaz Mansuet Rüding,5
+65.0,Georg Mansuet Ignaz Ruding,,,Georg Mansuet Ignaz Rüding,65,poi-1,Georg Ignaz Mansuet Rüding,1
+65.0,N.N. von Ruding,,,Georg Mansuet Ignaz Rüding,65,poi-1,Georg Ignaz Mansuet Rüding,2
+66.0,Johann Josef Senger,,,Johann Josef Senger,66,poi-1,Johann Josef Sänger,2
+66.0,Joseph von Sänger,,,Johann Josef Senger,66,poi-1,Joseph von Sänger,1
+66.0,Joseph von Sänger,,,Johann Josef Senger,66,poi-1,Joseph von Sänger,1
+67.0,Carl Joseph Freiherr Schenck von Schmidtburg,,,Karl Joseph Adolph Lukas Schenk von Schmidtburg,67,poi-1,Karl Joseph Adolph Lukas Schenk von Schmidtburg,4
+67.0,Karl Franz Adolf Schenk Schmiedburg,,,Karl Joseph Adolph Lukas Schenk von Schmidtburg,67,poi-1,Karl Joseph Adolph Lukas Schenk von Schmidtburg,1
+67.0,Karl Joseph Adolf Schenk von Schmidburg,,,Karl Joseph Adolph Lukas Schenk von Schmidtburg,67,poi-1,Karl Joseph Adolph Lukas Schenk von Schmidtburg,2
+67.0,Karl Joseph Adolph Lukas Freiherr Schenk Schmidburg,,,Karl Joseph Adolph Lukas Schenk von Schmidtburg,67,poi-1,Karl Joseph Adolph Lukas Schenk von Schmidtburg,2
+67.0,Karl Joseph Adolph lukas Freiherr Schenk von Schmidtburg,,,Karl Joseph Adolph Lukas Schenk von Schmidtburg,67,poi-1,Karl Joseph Adolph Lukas Schenk von Schmidtburg,1
+68.0,Johann Adam Schmitt,,,Johann Adam Schmitt,68,0,Johann Adam Schmidt,1
+68.0,Johann Adam Schmitt,,,Johann Adam Schmitt,68,0,Johann Adam Schmidt,1
+68.0,Johannes Adam Schmidt,Schmid / Schmied / Schmidius / Schmitt / Smid,,Johann Adam Schmitt,68,0,Johann Adam Schmidt,2
+69.0,[Hieronymus] Schorch,,,Hieronymus Schorch,,poi-1,Hieronymus Schorch,4
+69.0,Hieronymo Schorchen,,,Hieronymus Schorch,69,poi-1,Hieronymus Schorch,2
+69.0,Hieronymus Schorch,,,Hieronymus Schorch,69,poi-1,Hieronymus Schorch,1
+70.0,[Johann Arnold] Schütz,,,Johann Arnold Schütz,,poi-1,Johann Arnold Schütz,4
+70.0,[Johann Arnold] Schütz,Schutzio,"Bei Daten aus API, OCR und Staatskalender ggf. nochmals Varianten in die Person Names übertragen. Staatskalender beziehen sich aber meist auf anderweitig ""bekannte"" Personen.",Johann Arnold Schütz,,poi-1,Johann Arnold Schütz,4
+70.0,[Johann Arnold] Schüz,,,Johann Arnold Schütz,,poi-1,Johann Arnold Schütz,4
+70.0,[Johann Arnold] Schüz,Schütz,,Johann Arnold Schütz,,poi-1,Johann Arnold Schütz,4
+70.0,Johann Arnold Schütz,,,Johann Arnold Schütz,70,poi-1,Johann Arnold Schütz,2
+70.0,Johann Arnold Schütz,Schütze / Schüz / Schüze,,Johann Arnold Schütz,70,poi-1,Johann Arnold Schütz,2
+70.0,Johann Arnold Schütze,,,Johann Arnold Schütz,70,poi-1,Johann Arnold Schütz,1
+71.0,Johann Christian Spitz,,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,4
+71.0,Johann Christoph Spitz,,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,27
+71.0,Johann Christoph Spitz,Spiz,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,27
+71.0,Johann Christoph Spitz,Johann Christian Spitz,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,27
+71.0,Johann Christoph Spitz,,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,27
+71.0,Johann Christoph Spitz,Johann Christophel Spitz,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,27
+71.0,Johannes Christophorus Spitz,,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,5
+71.0,N.N. Spitz,,,Johann Christoph Spitz,71,poi-1,Johann Christoph Spitz,1
+72.0,[Johann Michael] Spönla,,,Johann Michael Spoenla,,poi-1,Johann Michael Spoenla,4
+72.0,Johann Michael Spoenla,,,Johann Michael Spoenla,72,poi-1,Johann Michael Spoenla,2
+72.0,Johann Michael Spohnla [?],,,Johann Michael Spoenla,72,poi-1,Johann Michael Spoenla,2
+72.0,Johannes Michael Spoenla,,,Johann Michael Spoenla,72,poi-1,Johann Michael Spoenla,2
+73.0,[Gottfried?] Spönla,,,Johann Gottfried Spoenla,,poi-1,Johann Gottfried Spoenla,1
+73.0,Gottfried Spoenla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,6
+73.0,Gottfried Spoenla,Johann Gottfried Spoenla,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,6
+73.0,Gottfried Spoenla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,6
+73.0,Gottfried Spönla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,1
+73.0,Johann Gottfried Spönla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,1
+73.0,Johann Gottfried von Spoenla,,,###,73?,poi-1,Johann Gottfried von Spoenla,2
+74.0,[Johann Daniel Richard] Spönla,,,Johann Daniel Richard Spoenla,,0,Johann Daniel Richard Spoenla,1
+74.0,Johann Daniel Richard Spönla,Spoenla,,Johann Daniel Richard Spoenla,74,0,Johann Daniel Richard Spoenla,3
+75.0,Alexander Bernhard Strecker,Bernhard Alexander Strecker,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard Strecker,,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard Strecker,Bernard,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard Strecker,,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard Strecker,Bernhard Alexander Strecker,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard Strecker,Hof- und Regierungsrat,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,30
+75.0,Alexander Bernhard] Strecker,,,Alexander Bernhard Strecker,,poi-1,Alexander Bernhard Strecker,2
+76.0,Ernst Wilhelm Strecker,,,Ernst Wilhelm Strecker,76,poi-1,Ernst Wilhelm Strecker,27
+76.0,Ernst Wilhelm Strecker,,,Ernst Wilhelm Strecker,76,poi-1,Ernst Wilhelm Strecker,27
+77.0,Josepha Strecker,,,Josepha Strecker,77,0,Josepha Strecker,1
+77.0,Maria Anna Josepha Thecla Strecker,,,Josepha Strecker,77,0,Maria Anna Josepha Thecla Strecker,3
+78.0,Karl Friedrich Strecker,,,Karl Friedrich Strecker,78,poi-2,Karl Friedrich Strecker,14
+79.0,Karl Strecker,,,Karl Strecker,79,poi-2,Karl Strecker,1
+80.0,Karl Wilhelm Strecker,,,Karl Wilhelm Strecker,80,0,Karl Wilhelm Strecker,2
+81.0,[Conrad Wilhelm] Streckerth,,,Konrad Wilhelm Strecker,,poi-1,Konrad Wilhelm Strecker,1
+81.0,Konrad Wilhelm Strecker,,,Konrad Wilhelm Strecker,81,poi-1,Konrad Wilhelm Strecker,187
+81.0,Konrad Wilhelm Strecker,Dr. Strecker,,Konrad Wilhelm Strecker,81,poi-1,Konrad Wilhelm Strecker,187
+81.0,Konrad Wilhelm Strecker,,,Konrad Wilhelm Strecker,81,poi-1,Konrad Wilhelm Strecker,187
+82.0,Wilhelm Moritz Strecker,,,Wilhelm Moritz Strecker,82,poi-2,Wilhelm Moritz Strecker,10
+82.0,Wilhelm Moritz Strecker,,,Wilhelm Moritz Strecker,82,poi-2,Wilhelm Moritz Strecker,10
+83.0,[Johann Philipp] Streit,,,Johann Philipp Streit,,poi-1,Johann Philipp Streit,12
+83.0,[Johann Philipp] Streit,Streit Senior,,Johann Philipp Streit,,poi-1,Johann Philipp Streit,12
+83.0,Johann Philipp Streidt,,,Johann Philipp Streit,83,poi-1,Johann Philipp Streit,5
+83.0,Johann Philipp Streit,,,Johann Philipp Streit,83,poi-1,Johann Philipp Streit,28
+83.0,Johann Philipp Streit,Streitt,,Johann Philipp Streit,83,poi-1,Johann Philipp Streit,28
+83.0,Johannes Philipp Streit,,,Johann Philipp Streit,83,poi-1,Johann Philipp Streit,2
+84.0,[Christoph Ignaz] Streit,Streit Junior,,Christoph Ignaz Streit,,poi-1,Christoph Ignaz Streit,3
+84.0,Christoph Ignaz Streit,,,Christoph Ignaz Streit,84,poi-1,Christoph Ignaz Streit,2
+84.0,Christoph Ignaz Streit,Streitt,,Christoph Ignaz Streit,84,poi-1,Christoph Ignaz Streit,2
+84.0,Christoph Ignaz Streit,,,Christoph Ignaz Streit,84,poi-1,Christoph Ignaz Streit,2
+85.0,Johann Daniel Streit,,,Johann Daniel Streit,85,poi-1,Johann Daniel Streit,9
+85.0,Johann Daniel Streit,Streitt,,Johann Daniel Streit,85,poi-1,Johann Daniel Streit,9
+86.0,Johann Veit Stumpelius,,,Johann Veit Stumpel,86,0,Johann Veit Stumpelius,3
+87.0,Ernest Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernest Tentzel,14
+87.0,Ernest Tenzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernest Tenzel,4
+9100.0,Ernst Emanuel Tentzel,Tenzel,,Ernst Emanuel Tentzel,87,poi-1,Ernst Emanuel Tentzel,7
+9101.0,Ernst III Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernst III. Tentzel,20
+9100.0,Ernst Immanuel Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernst Emanuel Tentzel,1
+87.0,Ernst Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernst Tentzel,67
+87.0,Ernst Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernst Tentzel,67
+87.0,Ernst Tentzel,Tenzel,,Ernst Emanuel Tentzel,87,poi-1,Ernst Tentzel,67
+87.0,Ernst Tentzel,Ernst Dentzel,,Ernst Emanuel Tentzel,87,poi-1,Ernst Tentzel,67
+87.0,Ernst Tentzl,,,Ernst Emanuel Tentzel,87,poi-1,Ernst Tentzel,24
+88.0,Franz Trömer,,,Franz Trömer,88,0,Franz Trömer,1
+89.0,Georg Friedrich Trott,,,Georg Samuel Friedrich Trott,89,poi-1,Georg Friedrich Trott,1
+89.0,Georg Friedrich Trott,,,Georg Samuel Friedrich Trott,89,poi-1,Georg Friedrich Trott,1
+89.0,Georg Samuel Friedrich Trott,,,Georg Samuel Friedrich Trott,89,poi-1,Georg Samuel Friedrich Trott,7
+90.0,Anselm Franz Ernst Freiherr von Warsberg,,,Anselm Franz Ernst von Warsberg,90,poi-1,Anselm Franz Ernst von Warsberg,34
+90.0,Anselm Franz Ernst Freiherr von Warsberg,,,Anselm Franz Ernst von Warsberg,90,poi-1,Anselm Franz Ernst von Warsberg,34
+90.0,Anselm Franz Ernst Freiherr von Warsberg,Geheimer Rat,,Anselm Franz Ernst von Warsberg,90,poi-1,Anselm Franz Ernst von Warsberg,34
+90.0,Anselm Franz Ernst von Warsberg,,,Anselm Franz Ernst von Warsberg,90,poi-1,Anselm Franz Ernst von Warsberg,3
+90.0,Anselm Franz Freiherr von Warsberg,,,Anselm Franz Ernst von Warsberg,90,poi-1,Anselm Franz Ernst von Warsberg,1
+91.0,Johann Adolph Weltz,,,Johann Adolph Weltz,91,poi-1,Johann Adolph Weltz,23
+91.0,Johann Adolph Weltz,Wältz,,Johann Adolph Weltz,91,poi-1,Johann Adolph Weltz,23
+91.0,Johann Adolph Weltz,,,Johann Adolph Weltz,91,poi-1,Johann Adolph Weltz,23
+92.0,Eberhard Sigmund Wincop,,,Eberhardus Sigismundus Winkopp,92,0,Eberhard Sigmund Wincop,55
+92.0,Eberhard Sigmund Wincop,,,Eberhardus Sigismundus Winkopp,92,0,Eberhard Sigmund Wincop,55
+92.0,Eberhardus Sigismundus Winkopp,,,Eberhardus Sigismundus Winkopp,92,0,Eberhard Sigmund Wincop,3
+93.0,Johannes Matthias Wincop,,,Johannes Matthias Wikopp,93,0,Johannes Matthias Wincop,2
+93.0,Johannes Matthias Wincop ,,,Johannes Matthias Wikopp,93,0,Johannes Matthias Wincop ,2
+94.0,[Wilhelm Heinrich] Wincop,,,Wilhelm Heinrich Winkopp,,poi-1,Wilhelm Heinrich Wincop,4
+94.0,[Wilhelm Heinrich] Wincop,Winkopp,,Wilhelm Heinrich Winkopp,,poi-1,Wilhelm Heinrich Wincop,4
+94.0,Wilhelm Heinrich Wincop,,,Wilhelm Heinrich Winkopp,94,poi-1,Wilhelm Heinrich Wincop,3
+94.0,Wilhelm Heinrich Wincop,Wilhelm Wincop / Heinrich Wincop / Wilhelm Heinrich Winkopp,,Wilhelm Heinrich Winkopp,94,poi-1,Wilhelm Heinrich Wincop,3
+94.0,Wilhelm Heinrich Wincop,,,Wilhelm Heinrich Winkopp,94,poi-1,Wilhelm Heinrich Wincop,3
+95.0,N.N. Mueß,Meueß [?],,N.N. Mues,95,poi-1,N.N. Mues,1
+96.0,Georg Heinrich (von) Ziegler,,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich von Ziegler,3
+96.0,Georg Heinrich von Ziegler,,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich von Ziegler,3
+96.0,Georg Heinrich von Ziegler,Ziegeler / Zieglerus / Zigler,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich von Ziegler,3
+96.0,Georg Heinrich von Ziegler,,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich von Ziegler,3
+96.0,Georg Heinrich von Ziegler ,,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich von Ziegler ,2
+96.0,Georg Heinrich Ziegler ,Johann Heinrich Ziegler,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich Ziegler ,7
+96.0,Georg Heinrich Ziegler ,,,Georg Heinrich von Ziegler,96,poi-2,Georg Heinrich Ziegler ,7
+97.0,Jacob Paul Heinrich Ziegler,Jacob Heinrich Ziegler,,Jakob Paul Heinrich von Ziegler,97,poi-2,Jakob Paul Heinrich von Ziegler,1
+97.0,Jakob Paul Heinrich von Ziegler,Ziegeler / Zieglerus / Zigler,,Jakob Paul Heinrich von Ziegler,97,poi-2,Jakob Paul Heinrich von Ziegler,2
+98.0,Magdalena Gudenus,,,Maria Magdalena Sidonia Gabriela Theresia Gudenus,98,0,Magdalena Gudenus,1
+98.0,Maria Magdalena Gudenus,,,Maria Magdalena Sidonia Gabriela Theresia Gudenus,98,0,Maria Magdalena Gudenus,1
+98.0,Maria Magdalena Sidonia Gabriela Theresia Gudenus,,,Maria Magdalena Sidonia Gabriela Theresia Gudenus,98,0,Maria Magdalena Sidonia Gabriela Theresia Gudenus,6
+99.0,[Johann Pleikard] Heinrich,,,Adolph Johann Pleikard Heinrich,,poi-1,Adolf Johann Pleichard Heinrich,1
+99.0,Adolf Johann Pleichard Heinrici,,,Adolph Johann Pleikard Heinrich,,poi-1,Adolf Johann Pleichard Heinrich,2
+99.0,Johann Pleikard Heinrich,Johann Pleiccard Heinrici,,Adolph Johann Pleikard Heinrich,99,poi-1,Adolf Johann Pleichard Heinrich,1
+100.0,Dresanus,Dresano,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,13
+100.0,Dresanus,,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,13
+100.0,Erhard Dresanus,Dresano,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,1
+100.0,Ioannes Gerardus Dresanus,,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,1
+100.0,Johann Gerald Dresanus,,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,1
+100.0,Johann Gerhard Bresano [?],,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,2
+100.0,Johann Gerhard Dresanus,,,Johann Gerhard Dresanus,100,poi-1,Johann Gerhard Dresanus,13
+9102.0,Johannes Dresanus,,,Johann Gerhard Dresanus,100,poi-1,Johannes Dresanus,14
+101.0,Christoph Ignatz Alois Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz Aloys von Gudenus,4
+101.0,Christoph Ignaz Aloys von Gudenus,,,Christoph Ignaz Aloys von Gudenus,101,poi-2,Christoph Ignaz Aloys von Gudenus,2
+102.0,[Georg Marx] Hahn,,,Georg Marx Hahn von Königsburg,,poi-1,Georg Marx Hahn von Königsburg,1
+102.0,[Georg Marx] Hahn [von Königsburg],,,Georg Marx Hahn von Königsburg,,poi-1,Georg Marx Hahn von Königsburg,1
+102.0,[Georg Marx] Hahn von Königsburg,Hahn von Küngsburg / Hahn von König. / Hahn von Küngsburg,,Georg Marx Hahn von Königsburg,,poi-1,Georg Marx Hahn von Königsburg,1
+102.0,Georg Marx Hahn,Haanen,,Georg Marx Hahn von Königsburg,102,poi-1,Georg Marx Hahn,1
+102.0,Goeorg Marx Hahn von Königsburg,,,Georg Marx Hahn von Königsburg,102,poi-1,Georg Marx Hahn von Königsburg,1
+102.0,N.N. Hahn von Königsburg,,,Georg Marx Hahn von Königsburg,102,poi-1,Georg Marx Hahn von Königsburg,2
+103.0,Dieter Guillielmus Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dieter Wilhelm Matthiae,2
+103.0,Dieter Wilhelm Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dieter Wilhelm Matthiae,24
+103.0,Dietrich Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm Matthiae,1
+103.0,Dietrich Wilhelm Matthaei,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm Matthiae,1
+103.0,Dietrich Wilhelm Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm Matthiae,10
+103.0,Dietrich Wilhelm von Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm von Matthiae,1
+103.0,Matthia,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm Matthiae,1
+103.0,Matthiae,,,Dietrich Wilhelm Matthiae,103,poi-1,Dietrich Wilhelm Matthiae,3
+104.0,Maximilian Wagner,,,Maximilian Wagner,104,poi-1,Maximilian Wagner,2
+105.0,Christina Sophia Tentzel,,,0,105,0,Christina Sophia Tentzel,7
+106.0,Johann Heinrich Mayer,,,Johann Heinrich Meyer,106,poi-2,Johann Heinrich Meyer,2
+106.0,Johann Heinrich Meier,Meyer,,Johann Heinrich Meyer,106,poi-2,Johann Heinrich Meyer,3
+106.0,Johann Heinrich Meier,,,Johann Heinrich Meyer,106,poi-2,Johann Heinrich Meyer,3
+106.0,Johann Heinrich Meyer,,,Johann Heinrich Meyer,106,poi-2,Johann Heinrich Meyer,9
+106.0,Johann Henrich Meier,,,Johann Heinrich Benedikt Meier,122,poi-2,Johann Heinrich Meyer,1
+106.0,Johannes Heinrich Meyer,,,Johann Heinrich Meyer,106,poi-2,Johann Heinrich Meyer,8
+107.0,[Georg Freidrich] von Kreuz,,,Georg Friedrich von Kreuz,,poi-1,Georg Friedrich von Kreuz,1
+107.0,Georg Friedrich von Creutz,,,Georg Friedrich von Kreuz,107,poi-1,Georg Friedrich von Kreuz,1
+107.0,Georg Friedrich von Kreutz,Georg Friedrich Kreutz auf Kripitsch und Rudelsburg,,Georg Friedrich von Kreuz,107,poi-1,Georg Friedrich von Kreuz,1
+112.0,Carl Dresanus,,,Karl Dresanus,112,poi-2,Karl Dresanus,2
+113.0,Jacob M. Berger,Jacob M. Berringer,,Jakob M. Berger,520,poi-2,M. Jakob Berger,19
+113.0,M. Jacob Berger,,,Jakob M. Berger,520,poi-2,M. Jakob Berger,6
+113.0,M. Jacob Berger,Berringer,,Jakob M. Berger,520,poi-2,M. Jakob Berger,6
+113.0,M. Jacobus Berger,,,M. Jakob Berger,113,poi-2,M. Jakob Berger,1
+114.0,Maria Berger,Berringer,,0,114,0,Maria Berger,5
+114.0,Maria Berger,,,0,114,0,Maria Berger,5
+115.0,Agneta Weidmann,Agneta Weidemann,,0,,0,Agneta Weidmann,3
+115.0,Agneta Weidmann,,,0,,0,Agneta Weidmann,3
+116.0,N. Molitoris,,,0,116,0,N. Molitoris,3
+117.0,[N.N.] Pape,,,Peter Christian Joseph Franz Papius,,poi-1,Peter Christian Joseph Franz Papius,1
+117.0,[N.N.] Papius,,,Peter Christian Joseph Franz Papius,,poi-1,Peter Christian Joseph Franz Papius,2
+117.0,N.N. Papius,,,Peter Christian Joseph Franz Papius,117,poi-1,Peter Christian Joseph Franz Papius,3
+117.0,Peter Christian Franz Papius,,,Peter Christian Joseph Franz Papius,117,poi-1,Peter Christian Joseph Franz Papius,5
+117.0,Peter Christian Papius,,,Peter Christian Joseph Franz Papius,117,poi-1,Peter Christian Joseph Franz Papius,3
+117.0,Peter Cristian Frantz Pape,,,Peter Christian Joseph Franz Papius,117,poi-1,Peter Christian Joseph Franz Papius,2
+117.0,Petrus Christianus Josephus Papius,,,Peter Christian Joseph Franz Papius,117,poi-1,Peter Christian Joseph Franz Papius,2
+118.0,[Johann] Hallenhorst,,,Johann Hallenhorst,,poi-1,Johann Hallenhorst,1
+118.0,Ioannes Hallenhorst,,,Johann Hallenhorst,118,poi-1,Johann Hallenhorst,2
+118.0,Johann Hallenhorst,,,Johann Hallenhorst,118,poi-1,Johann Hallenhorst,7
+118.0,Johannes Hallenhorst,,,Johann Hallenhorst,118,poi-1,Johann Hallenhorst,12
+118.0,Johannes Hallenhorst,Johann Hallenhorst,,Johann Hallenhorst,118,poi-1,Johann Hallenhorst,12
+119.0,[Jacob] Berger,,,Johann Jakob Berger,,poi-1,Johann Jakob Berger,1
+119.0,Jacob Berger,Jacob Berger Senior,,Jakob Berger,521,poi-2,Johann Jakob Berger,2
+119.0,Jacob Berger,,,Jakob Berger,521,poi-2,Johann Jakob Berger,2
+119.0,Jacobus Berger,Berringer,,Johann Jakob Berger,119,poi-1,Johann Jakob Berger,1
+119.0,Jakob Berger,,,Jakob M. Berger,520,poi-1,Johann Jakob Berger,5
+119.0,Johann Jakob Berger,,,Johann Jakob Berger,119,poi-1,Johann Jakob Berger,3
+119.0,Johann Jakob Berger,Johann Jakob Beringer,,Johann Jakob Berger,119,poi-1,Johann Jakob Berger,3
+120.0,[Georg Heinrich] Ludolf,Lüdolf / Ludolph,,Georg Heinrich Ludolph,,poi-1,Georg Heinrich Ludolf,1
+120.0,Georg Heinrich Ludolf,,,Georg Heinrich Ludolph,120,poi-1,Georg Heinrich Ludolf,7
+120.0,Georg Heinrich Ludolph,,,Georg Heinrich Ludolph,120,poi-1,Georg Heinrich Ludolf,7
+121.0,Martha Berger,,,0,121,0,Martha Berger,1
+122.0,Johann Heinrich Benedict Meier,,,Johann Heinrich Benedikt Meier,122,poi-2,Johann Heinrich Benedict Meier,2
+122.0,Johann Henrich Meier,,,Johann Heinrich Benedikt Meier,122,poi-2,Johann Heinrich Benedict Meier,1
+123.0,Hieronymus Friedrich Schorch,,,0,123,0,Hieronymus Friedrich Schorch,4
+124.0,Christian Wilhelm Schorch,,,0,124,0,Christian Wilhelm Schorch,6
+125.0,Friedrich Christian Schorch,,,0,125,0,Friedrich Christian Schorch,2
+126.0,Johann Wilhelm Schorch,,,Johann Schorch,550,poi-2,Johann Wilhelm Schorch,1
+128.0,Frantz Adam Bocklett,,,0,128,0,Frantz Adam Bocklett,1
+129.0,Jacobus Franciscus Bocklet,,,0,129,0,Jakob Franz Bocklet,1
+129.0,Jakob Franz Bocklet,Boclet,,0,129,0,Jakob Franz Bocklet,2
+130.0,Justus Christoph Weltz,,,Justus Christoph Weltz,130,poi-2,Justus Christoph Weltz,2
+130.0,Justus Christoph Weltz,,,Justus Christoph Weltz,130,poi-2,Justus Christoph Weltz,2
+130.0,Justus Christophorus Weltz,,,Justus Christoph Weltz,130,poi-2,Justus Christoph Weltz,2
+131.0,Johann Ernst Fratzscher,,,Johann Ernst Fratzscher,131,poi-2,Johann Ernst Fratzscher,4
+131.0,Johann Ernst Fratzscher,,,Johann Ernst Fratzscher,131,poi-2,Johann Ernst Fratzscher,4
+132.0,Christian Heinrich Weltz,,,Christian Heinrich Weltz,132,poi-2,Christian Heinrich Weltz,12
+132.0,Christian Heinrich Weltz,Welz,,Christian Heinrich Weltz,132,poi-2,Christian Heinrich Weltz,12
+133.0,Christoph Reichardt,,,Christoph Wilhelm Emanuel Reichardt,133,poi-2,Christoph Wilhelm Immanuel Reichart,4
+133.0,Christoph Reichardt,Reichard / Reichart,,Christoph Wilhelm Emanuel Reichardt,133,poi-2,Christoph Wilhelm Immanuel Reichart,4
+133.0,Christoph Reichhart,,,Christoph Wilhelm Emanuel Reichardt,133,poi-2,Christoph Wilhelm Immanuel Reichart,3
+133.0,Christoph Wilhelm Emanuel Reichardt,Reichard / Reichart,,Christoph Wilhelm Emanuel Reichardt,133,poi-2,Christoph Wilhelm Immanuel Reichart,3
+133.0,Christoph Wilhelm Immanuel Reichart,,,###,133?,poi-2,Christoph Wilhelm Immanuel Reichart,4
+134.0,Friedrich Wilhelm Stallforth,,,Friedrich Wilhelm Stallforth,134,poi-2,Friedrich Wilhelm Stallforth,5
+135.0,Christian Heinrich Weltz,,,Christian Heinrich Weltz,132,poi-2,Christian Heinrich Weltz,12
+135.0,Christian Heinrich Weltz,Christian Heinrich Waltz,,Christian Heinrich Weltz,132,poi-2,Christian Heinrich Weltz,12
+135.0,Heinrich Christian Weltz ,,,Christian Heinrich Weltz,135,poi-2,Christian Heinrich Weltz,6
+135.0,Heinrich Christian Weltz ,Welz,,Christian Heinrich Weltz,135,poi-2,Christian Heinrich Weltz,6
+137.0,Anna Regina Cöler,,,Christian Heinrich Weltz,137,0,Anna Regina Cöler,1
+138.0,Martha Regina Gerstenberg,,,Christian Heinrich Weltz,138,0,Martha Regina Gerstenberger,1
+138.0,Martha Regina Gerstenberger,,,Christian Heinrich Weltz,138,0,Martha Regina Gerstenberger,3
+139.0,Johann Joachim Gerstenberg,,,Johann Joachim Gerstenberger,139,poi-2,Johann Joachim Gerstenberger,3
+139.0,Johann Joachim Gerstenberger,,,Johann Joachim Gerstenberger,139,poi-2,Johann Joachim Gerstenberger,12
+140.0,Martha Sabina Cöler ,,,Johann Joachim Gerstenberger,140,0,Martha Sabina Cöler ,1
+142.0,Barbara N.N.,,,Johann Joachim Gerstenberger,142,0,Barbara N.N.,1
+143.0,Maria Philippina Theresia Rotermund,,,Johann Joachim Gerstenberger,143,0,Maria Philippina Theresia Rotermund,2
+143.0,Theresia Rotermund,,,Johann Joachim Gerstenberger,143,0,Theresia Rotermund,1
+144.0,Catharina N.N.,,,Johann Joachim Gerstenberger,144,0,Catharina N.N.,1
+145.0,Philippina von Bellmont,,,Johann Joachim Gerstenberger,145,0,Philippina von Bellmont,1
+145.0,Philippina von Fensterer,Philippina von Bellmont,,Johann Joachim Gerstenberger,145,0,Philippina von Fensterer,1
+146.0,Johann Jungk,,,Johann Wolfgang Jungk,146,poi-2,Johann Jungk,2
+146.0,Johann Wolfgang Jungk,,,Johann Wolfgang Jungk,146,poi-2,Johann Wolfgang Jungk,21
+147.0,Clara Catharina Bader,,,0,147,0,Clara Catharina Bader,4
+148.0,Martha Sophie Schmidt,,,0,148,0,Martha Sophie Schmidt,3
+149.0,Johann Jacob Schmidt,,,Johann Jakob Schmidt,149,poi-2,Johann Jakob Schmidt,6
+149.0,Johann Jakob Schmidt,Schmid / Schmied / Schmidius / Schmitt / Smid,,Johann Jakob Schmidt,149,poi-2,Johann Jakob Schmidt,1
+150.0,Martha Sophia Menius,,,0,150,0,Martha Sophia Menius,1
+151.0,Justina Magdalena Schmidt,,,0,151,0,Justina Magdalena Schmidt,2
+151.0,Justina Magdalena Schmidt ,,,0,151,0,Justina Magdalena Schmidt ,4
+151.0,Justina Margaretha Schmidt ,,,0,151,0,Justina Margaretha Schmidt ,1
+152.0,Anna Christina Möltzer ,,,0,152,0,Anna Christina Möltzer ,1
+153.0,Johannes Stechanius,,,Johannes Stechau,153,poi-2,Johannes Stechanius,4
+153.0,Johannes Stechanius ,Johannes Stechau,,Johannes Stechau,153,poi-2,Johannes Stechanius ,4
+154.0,Barbara Regina Magdalena Langguth,,,0,154,0,Barbara Regina Magdalena Langguth,2
+154.0,Regina Magdalena Langguth,,,0,154,0,Barbara Regina Magdalena Langguth,1
+155.0,Eva Maria Breitenbach,,,0,155,0,Eva Maria Breitenbach,1
+156.0,Hieronymus Friedrich Breitenbach,,,Hieronymus Friedrich Breitenbach,156,poi-2,Hieronymus Friedrich Breitenbach,3
+157.0,Anna Veronica Schwengfeld,,,0,157,0,Anna Veronica Schwengfeld,1
+158.0,Anna Maria von Zwehl,,,0,158,0,Anna Maria von Zwehl,1
+159.0,Maria Anna Gudenus,,,0,159,0,Maria Anna Gudenus,2
+159.0,Maria Anna von Gudenus,,,0,159,0,Maria Anna von Gudenus,1
+160.0,Maria Katharina Böning,,,0,160,0,Maria Katharina Böning,3
+160.0,Martha Catharina Böning,,,0,160,0,Martha Catharina Böning,1
+161.0,Johann Nicolaus Reinhardt,,,Johann Nicolaus Reinhardt,161,poi-2,Johann Nicolaus Reinhardt,2
+162.0,Dorothea Wilhelmina Birnstiel,,,0,162,0,Dorothea Wilhelmina Birnstiel,1
+163.0,Georg Heinrich Birnstiel ,,,Georg Heinrich Birnstiel ,163,poi-2,Georg Heinrich Birnstiel ,2
+163.0,Georg Heinrich Birnstiel ,Birnstilius / Biernstiel,,Georg Heinrich Birnstiel ,163,poi-2,Georg Heinrich Birnstiel ,2
+163.0,Georg Heinrich Birnstiel ,Biernstiel,,Georg Heinrich Birnstiel ,163,poi-2,Georg Heinrich Birnstiel ,2
+164.0,Maria Josepha Rotermund,,,0,164,0,Maria Josepha Rotermund,1
+165.0,Anna Philippina Meinong,,,0,165,0,Anna Philippina Meinong,1
+166.0,J[ohann] V[alentin] Friese,,,Johann Valentin Friese,166,poi-2,Johann Valentin Friese,1
+166.0,Johann Valentin Friese,,,Johann Valentin Friese,166,poi-2,Johann Valentin Friese,18
+166.0,Johann Valentin Frisius,,,Johann Valentin Friese,166,poi-2,Johann Valentin Friese,1
+166.0,Johannes Valentin Frisius,,,Johann Valentin Friese,166,poi-2,Johann Valentin Friese,2
+167.0,Josepha Rotermund,,,0,167,0,Josepha Rotermund,1
+167.0,Sophia Josepha Rotermund ,,,0,167,0,Sophia Josepha Rotermund ,1
+168.0,Francisca Renata Elisabeth Stahl,,,0,168,0,Franzisca Renata Elisabeth Stahl,2
+168.0,Francisca Stahl ,,,0,168,0,Franzisca Stahl ,1
+170.0,Martha Adami,,,0,170,0,Martha Adami,4
+171.0,Adelgunda Elisabeth Streit,,,0,,0,Adelgunda Elisabeth Streit,1
+172.0,Johannes Laurentius Welsch,,,Johann Lorenz Welsch,172,poi-2,Johannes Laurentius Welsch,1
+173.0,Rosina Sophia Perthes,,,0,173,0,Rosina Sophia Perthes,1
+174.0,Johann Justus Perthes,,,0,174,0,Johann Justus Perthes,2
+175.0,Johanna Regina Hesse,,,0,175,0,Johanna Regina Hesse,1
+176.0,Eleonora Sophia Friese,,,0,176,0,Eleonora Sophia Friese,1
+176.0,Eleonore Sophie Friese,,,0,176,0,Eleonore Sophie Friese,7
+177.0,Rosina Catharina Ulle ,,,0,177,0,Rosina Catharina Ulle ,2
+178.0,Georg Ulla,,,Georg Ulle ,178,poi-2,Georg Ulle,4
+178.0,Georg Ulle,,,Georg Ulle ,178,poi-2,Georg Ulle,4
+178.0,Georg Ulle ,,,Georg Ulle ,178,poi-2,Georg Ulle ,4
+179.0,Martha Sophia Schmatz,,,0,179,0,Martha Sophia Schmatz,1
+180.0,Susanna Christina Weltz ,,,0,180,0,Susanna Christina Weltz ,5
+181.0,Friederike Eleonore Weltz ,,,0,181,0,Friederike Eleonore Weltz ,3
+182.0,Martha Magdalena Fabritius,,,0,182,0,Martha Magdalena Fabritius,2
+183.0,Johann Heinrich Rudolphi ,,,0,183,0,Johann Heinrich Rudolphi ,1
+184.0,Christina Schröder,,,0,184,0,Christina Schröder,1
+185.0,Michael Schröder,,,0,185,0,Michael Schröder,1
+186.0,Heinrich Enoch von Ziegler,,,Heinrich Enoch von Ziegler,186,poi-2,Heinrich Enoch von Ziegler,2
+186.0,Heinrich Enoch Ziegler,,,Heinrich Enoch von Ziegler,186,poi-2,Heinrich Enoch Ziegler,4
+186.0,Heinrich Enoch Ziegler,Ziegeler / Zieglerus / Zigler,,Heinrich Enoch von Ziegler,186,poi-2,Heinrich Enoch Ziegler,4
+187.0,Anna Regina von Brettin,,,0,187,0,Anna Regina von Brettin,2
+188.0,Johann Philipp Jacobi,,,Philipp Johann Jacobi,188,poi-2,Johann Philipp Jacobi,4
+188.0,Philipp Johann Jacobi,,,Philipp Johann Jacobi,188,poi-2,Johann Philipp Jacobi,1
+190.0,Sophie Brochhausen,,,0,190,0,Sophie Brochhausen,1
+191.0,Jost Brochhausen,,,Jost Brochhausen,191,poi-1,Jost Brochhausen,16
+192.0,Johanne Christiane Kießling,,,0,192,0,Johanne Christiane Kießling,1
+193.0,Johann Kießling,,,0,193,0,Johann Kießling,3
+194.0,Volckmar Schorch,,,0,194,0,Volckmar Schorch,2
+195.0,Juditha Dorothea Stiede,,,0,195,0,Juditha Dorothea Stiede,1
+196.0,Martha Rosina Beyer,,,0,196,0,Martha Rosina Beyer,1
+197.0,Catharina Maria Vogel,Catharina Maria Schorch,,0,197,0,Catharina Maria Vogel,1
+198.0,Christina Juditha Schorch,,,0,198,0,Christina Juditha Schorch,1
+199.0,David Georg Ernemann,,,0,199,0,David Georg Ernemann,1
+200.0,Catharina Dorothea Fischer,,,0,200,0,Catharina Dorothea Fischer,1
+201.0,Balthasar Fischer ,,,0,201,0,Balthasar Fischer ,1
+202.0,Marie Dorothee Büchner,,,0,202,0,Marie Dorothee Büchner,1
+203.0,Johann Christoph Büchner ,,,0,203,0,Johann Christoph Büchner ,2
+204.0,M. Melchior Weidmann,,,M. Melchior Weidmann,204,poi-2,M. Melchior Weidmann,4
+204.0,Melchior Weidmann,Melchior Weidemann,,M. Melchior Weidmann,204,poi-2,Melchior Weidmann,5
+204.0,Melchior Weidmann,,,M. Melchior Weidmann,204,poi-2,Melchior Weidmann,5
+205.0,Anna Voigt,,,0,205,0,Anna Voigt,1
+206.0,Anna Berger ,,,0,206,0,Anna Berger ,1
+207.0,Magdalena Berger,,,0,207,0,Magdalena Berger,1
+208.0,Johann David Schorch,,,Johann Schorch,550,poi-2,Johann David Schorch,4
+209.0,Anna Mohr ,Anna Noß,,0,209,0,Anna Mohr ,1
+210.0,Christoph Avianus,,,0,210,0,Christoph Avianus,1
+211.0,Johann Melchior Förster,,,0,211,0,Johann Melchior Förster,9
+212.0,Johann Rehefeld,,,0,212,0,Johann Rehefeld,5
+213.0,Wolff Christoph von Ziegler,,,0,213,0,Wolff Christoph von Ziegler,1
+214.0,Antonetta Wilhelmina Ziegler,,,0,214,0,Antonetta Wilhelmina Ziegler,1
+215.0,Maria Salome Müller ,,,0,215,0,Maria Salome Müller ,1
+216.0,Johannes Schorch,,,0,216,0,Johannes Schorch,2
+217.0,Johann Christian Gudenus,,,0,217,0,Johann Christian Gudenus,4
+219.0,Johann Daniel von Lincker,,,Johann Daniel von Lincker,219,poi-1,Johann Daniel von Lincker,1
+220.0,Ernestus Cöler,,,0,220,0,Ernst Köhler,1
+221.0,Carl Friedrich Molitoris,,,0,221,0,Carl Friedrich Molitoris,1
+222.0,Johann Anton Pipper,,,0,222,0,Johann Anton Pipper,1
+223.0,Johann Jacob Frantz Spoenla,,,Johann Jakob Franz Spoenla,223,poi-2,Johann Jakob Franz Spoenla,1
+223.0,Johann Jacobus Franciscus Spoenla,,,Johann Jakob Franz Spoenla,223,poi-2,Johann Jakob Franz Spoenla,1
+223.0,Johann Jakob Franz Spoenla,,,Johann Jakob Franz Spoenla,223,poi-2,Johann Jakob Franz Spoenla,2
+223.0,Johann Jakob Franz Spoenla,,,Johann Jakob Franz Spoenla,223,poi-2,Johann Jakob Franz Spoenla,2
+224.0,Johann Carl Weltz,,,Johann Karl Weltz,224,poi-2,Johann Karl Weltz,3
+224.0,Johann Carl Welz,,,Johann Karl Weltz,224,poi-2,Johann Karl Weltz,1
+224.0,Johann Karl Weltz,Welz,,Johann Karl Weltz,224,poi-2,Johann Karl Weltz,2
+224.0,Johann Karl Weltz,,,Johann Karl Weltz,224,poi-2,Johann Karl Weltz,2
+225.0,Elias Andreas Stechan,,,0,225,0,Elias Andreas Stechan,1
+226.0,Burckhardt Lincker,,,Burckhardt Lincker von Lützenwick,226,poi-2,Burckhardt Lincker,1
+226.0,Burckhardt Lincker von Lützenwick,,,Burckhardt Lincker von Lützenwick,226,poi-2,Burckhardt Lincker von Lützenwick,3
+228.0,Sibille Lincker,,,0,228,0,Sibille Lincker,1
+229.0,[N.N.] Meinong,,,Nicolaus Meinong,,poi-1,Nicolaus Meinong,2
+229.0,Nicolaus Meinong,,,Nicolaus Meinong,229,poi-1,Nicolaus Meinong,2
+230.0,[N.N] Everts,,,N.N. Everts,,poi-1,[N.N] Everts,1
+230.0,Joachim Dietrich Evers,,,N.N. Everts,230,poi-1,Joachim Dietrich Evers,2
+230.0,Sebastian Evert,,,N.N. Everts,230,poi-1,Sebastian Evert,2
+231.0,[Johann Moritz] Gudenus [?],,,Johann Mauritz Bodo von Gudenus,,poi-1,Johann Moritz Bodo Gudenus,2
+231.0,Johann Mauritz Bodo Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Bodo Gudenus,2
+231.0,Johann Mauritz Bodo von Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Bodo von Gudenus,5
+231.0,Johannes Mauritius de Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz von Gudenus,2
+231.0,Johannes Mauritius Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Gudenus,2
+232.0,Johann Gottfried Spoenla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,7
+232.0,Johann Gottfried Spönla,,,Johann Gottfried Spoenla,73,poi-1,Johann Gottfried Spoenla,1
+233.0,Philipp Wilhelm Freiher von Boyneburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,7
+233.0,Philipp Wilhelm Freiherr von Boineburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,8
+233.0,Philipp Wilhelm Graf und edler Herr von Boineburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,7
+233.0,Philipp Wilhelm Graf von Boyneburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,15
+233.0,Philipp Wilhelm Reichsgraf von Boineburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,1
+233.0,Philipp Wilhelm von Boineburg,,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,46
+233.0,Philipp Wilhelm von Boineburg,Philipp Wilhelm Reichsgraf zu Boineburg,,Philipp Wilhelm von Boineburg,233,poi-1,Philipp Wilhelm von Boineburg,46
+234.0,Johann Heinrich Rotermundt,,,Johann Heinrich Rotermund,234,poi-2,Johann Heinrich Rotermundt,4
+235.0,Johann Adam Strecker,,,Johann Adam Strecker ,235,poi-2,Johann Adam Strecker,14
+235.0,Johann Adam Strecker ,,,Johann Adam Strecker ,235,poi-2,Johann Adam Strecker ,1
+236.0,Johann Bartholomäus Brückmann,,,Johann Bartholomäus Brückmann,236,poi-2,Johann Bartholomäus Brückmann,1
+237.0,Johann Christian Baron von Boineburg,,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,12
+237.0,Johann Christian Freiherr von Boineburg,,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,7
+237.0,Johann Christian Freiherr von Boyneburg,Boineburg,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,1
+237.0,Johann Christian von Boineburg,,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,34
+237.0,Johann Christian von Boineburg,Boyneburg / Bönburg / Bemmelburg / Bemmelberg,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,34
+237.0,Johann Christian von Boineburg ,,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,2
+237.0,Johann Christian von Boyneburg,,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,27
+237.0,Johann Christian von Boyneburg,Boineburg,,Johann Christian von Boineburg ,237,poi-2,Johann Christian von Boineburg,27
+238.0,Carl Anselm Freiherr von Breidbach zu Bürresheim,,,Karl Anselm von Breidbach zu Bürresheim,238,poi-2,Carl Anselm von Breidbach zu Bürresheim,4
+239.0,Sophia Eleonora von Rothenhahn,,,0,239,0,Sophia Eleonora von Rothenhahn,1
+240.0,Andreas Joachim von Brettin,,,Joachim Andreas von Brettin,,poi-2,Joachim Andreas von Brettin,1
+240.0,Joachim Andreas von Brettin,,,Joachim Andreas von Brettin,240,poi-2,Joachim Andreas von Brettin,9
+241.0,Regina Dorothea von Seltzer,,,0,241,0,Regina Dorothea von Seltzer,5
+242.0,Dorothea Sophia von Ziegler,,,0,242,0,Dorothea Sophia von Ziegler,2
+243.0,Anna Regina Ilgen,,,0,243,0,Anna Regina Ilgen,1
+9103.0,Johann Heinrich M. Riedel,,,0,243,0,Johann Heinrich M. Riedel,11
+244.0,Sabine Magdalene Cöler,,,0,244,0,Sabine Magdalene Köhler,1
+245.0,Susanne Sabine Coeler,,,0,245,0,Susanne Sabine Köhler,2
+246.0,Caspar Friedrich Lentin,,,Kaspar Friedrich Lentin,246,poi-2,Caspar Friedrich Lentin,11
+246.0,Kaspar Friedrich Lentin,,,Kaspar Friedrich Lentin,246,poi-2,Caspar Friedrich Lentin,2
+247.0,Johann Ludwig Döring,,,###,247?,poi-2,Johann Ludwig Döring,2
+247.0,Johann Ludwig Döring,,,###,247?,poi-2,Johann Ludwig Döring,2
+247.0,M. Joh. Ludwig Döring,,,M. Johann Ludwig Döring,247,poi-2,Johann Ludwig Döring,1
+247.0,M. Johann Ludwig Döring,,,M. Johann Ludwig Döring,247,poi-2,Johann Ludwig Döring,2
+248.0,Friederica Sophia Magdalena Döring,,,0,248,0,Friederica Sophia Magdalena Döring,1
+249.0,Christiana Sibylla Weltz,,,0,249,0,Christiana Sibylla Weltz,1
+250.0,Henrietta Maria Weltz,,,0,250,0,Henrietta Maria Weltz,1
+251.0,Martha Sophia Schmaltz,,,0,251,0,Martha Sophia Schmaltz,2
+252.0,Johann Joachim Gerstenberger,,,Johann Joachim Gerstenberger,139,poi-2,Johann Joachim Gerstenberger,12
+253.0,Johann Jacob Gerstenberger,,,0,253,0,Johann Jakob Gerstenberger,1
+254.0,Dorothea Regina Gerstenberg,,,0,254,0,Dorothea Regina Gerstenberg,2
+255.0,Joachim Gerstenberg,,,Joachim Gerstenberger,255,poi-2,Joachim Gerstenberger,22
+255.0,Joachim Gerstenberger,Gerstenberg,,Joachim Gerstenberger,255,poi-2,Joachim Gerstenberger,16
+255.0,Joachim Gerstenberger,,,Joachim Gerstenberger,255,poi-2,Joachim Gerstenberger,16
+256.0,Joachim Gerstenberg,,,Joachim Gerstenberger,255,poi-2,Joachim Gerstenberger,22
+256.0,Joachim Gerstenberger,,,Joachim Gerstenberger,255,poi-2,Joachim Gerstenberger,16
+257.0,Veronica Martini,,,0,257,0,Veronica Martini,4
+258.0,Johann Martini,,,Johann Martini,258,poi-2,Johannes Martini,1
+258.0,Johannes Martini,,,Johann Martini,258,poi-2,Johannes Martini,4
+258.0,Veronica Gerstenberger,,,0,266,0,Veronica Gerstenberger,4
+258.0,Veronica Kronenberger,,,0,258,0,Veronica Kronenberger,1
+259.0,Marcus Gerstenberg,,,0,259,0,Marcus Gerstenberger,5
+259.0,Marcus Gerstenberger,Gerstenberg,,0,259,0,Marcus Gerstenberger,1
+260.0,Justina Gerstenberger,,,0,260,0,Justina Gerstenberger,1
+261.0,Johann Christoph Dehmar,,,0,261,0,Johann Christoph Dehmar,1
+262.0,Regina Gerstenberger,,,0,262,0,Regina Gerstenberger,2
+263.0,Heinrich Langguth,,,Jakob Heinrich Langguth,263,poi-2,Heinrich Langguth,5
+263.0,Heinrich Langut,Langguth,,Jakob Heinrich Langguth,263,poi-2,Heinrich Langguth,3
+263.0,Heinrich Langut,,,Jakob Heinrich Langguth,263,poi-2,Heinrich Langguth,3
+263.0,Henricus Langut,,,Jakob Heinrich Langguth,263,poi-2,Heinrich Langguth,1
+9104.0,Jakob Heinrich Langguth,Languth,,Jakob Heinrich Langguth,263,poi-2,Jakob Heinrich Langguth,2
+9104.0,Jakob Heinrich Langguth,,,Jakob Heinrich Langguth,263,poi-2,Jakob Heinrich Langguth,2
+263.0,Regina Gerstenberger,,,0,262,0,Regina Gerstenberger,2
+264.0,Dorothea Gerstenberger,,,0,264,0,Dorothea Gerstenberger,4
+265.0,Johann Scheffer,Schäfer,,0,265,0,Johann Scheffer,2
+265.0,Johann Scheffer,,,0,265,0,Johann Scheffer,2
+267.0,Georg de Ahna,,,0,267,0,Georg de Ahna,1
+268.0,Dorothea Hentrich,,,0,268,0,Dorothea Hentrich,1
+269.0,Martha Catharina von der Sachsen ,,,0,269,0,Martha Catharina von der Sachsen ,2
+270.0,Jacob von der Sachsen,,,Jakob von der Sachsen,270,poi-2,Jakob von der Sachsen,6
+253.0,Jacobus Gerstenberger,,,0,271,0,Jakob Gerstenberger,1
+272.0,Martha Gerstenberger ,,,0,272,0,Martha Gerstenberger ,3
+273.0,Hieronymus Gerstenberger ,,,0,273,0,Hieronymus Gerstenberger ,2
+274.0,Johann Heinrich Menius,,,0,274,0,Johann Heinrich Menius,9
+274.0,N.N. Menius,,,0,274,0,N.N. Menius,2
+275.0,Catharina von Bodewitz,,,0,275,0,Catharina von Bodewitz,1
+276.0,Henrich Gerstenberg,,,0,276,0,Henrich Rudolph Gerstenberger,3
+276.0,Henrich Rudolph Gerstenberger,,,0,277,0,Henrich Rudolph Gerstenberger,2
+278.0,Johann Heinrich von Gerstenberg,,,0,278,0,Johann Heinrich von Gerstenberg,4
+279.0,Sibylla Veronica Gerstenberg,,,0,279,0,Sibylla Veronica Gerstenberger,2
+280.0,Anna Salome Jacobi von Ehrencron,,,0,280,0,Anna Salome Jacobi von Ehrencron,2
+280.0,Anna Salome von Ehrenkron,,,0,280,0,Anna Salome von Ehrencron,2
+281.0,Hartmann Jacob von Ehrenkron,,,Hartmann Jakob von Ehrenkron,281,poi-2,Hartmann Jakob von Ehrencron,1
+282.0,Anna Salome de Lasser,,,0,282,0,Anna Salome von Lasser,1
+283.0,Mauritius Gudenus,,,Daniel Moritz von Gudenus,28,poi-1,Moritz Gudenus,14
+283.0,Moritz Gudenus,Moritz Gude,,Moritz Gudenus,283,poi-2,Moritz Gudenus,24
+283.0,Moritz Gudenus,,,Moritz Gudenus,283,poi-2,Moritz Gudenus,24
+283.0,Moritz von Gudenus,,,0,?,0,Moritz von Gudenus,2
+284.0,Johannes Leopold von Gudenus,,,0,284,0,Johannes Leopold von Gudenus,2
+285.0,Wilhelm Streit,,,0,285,0,Wilhelm Streit,6
+286.0,Heinrich Adam Streit,,,Henrich Adam Streit,286,poi-2,Heinrich Adam Streit,1
+286.0,Henrich Adam Streit,,,Henrich Adam Streit,286,poi-2,Henrich Adam Streit,2
+287.0,Georg Henrich Streit,,,0,287,0,Georg Heinrich Streit,2
+288.0,Anthonius Hallenhorst ,,,Anton Hallenhorst ,288,poi-2,Anton Hallenhorst ,2
+288.0,Anton Hallenhorst ,,,Anton Hallenhorst ,288,poi-2,Anton Hallenhorst ,1
+288.0,Antonius Hallenhorst ,,,Anton Hallenhorst ,288,poi-2,Anton Hallenhorst ,2
+288.0,Urbanus Josephus Streit ,,,0,288,0,Urbanus Josephus Streit ,1
+289.0,Anna Hövel,,,0,289,0,Anna Hövel,1
+290.0,Maria Brand,,,0,290,0,Maria Brand,5
+290.0,Maria Brand ,,,0,290,0,Maria Brand ,6
+290.0,Maria Brandt ,,,0,290,0,Maria Brand ,4
+291.0,Hieronymus Anthon Hallenhorst,,,Hieronymus Anton Hallenhorst,291,poi-2,Hieronymus Anton Hallenhorst,1
+291.0,Hieronymus Anton Hallenhorst,,,Hieronymus Anton Hallenhorst,291,poi-2,Hieronymus Anton Hallenhorst,4
+291.0,Johannes Brandis ,,,0,291,0,Johannes Brandis ,1
+292.0,Heinrich Adam Hallenhorst,,,Heinrich Adam Hallenhorst,292,poi-2,Heinrich Adam Hallenhorst,22
+293.0,Heinrich Brand,,,Heinrich Brand,293,poi-2,Heinrich Brand,2
+293.0,Heinrich II Brandt,,,Heinrich Brand,293,poi-2,Heinrich II. Brandt,19
+293.0,Heinrich II. Brand,,,Heinrich Brand,293,poi-2,Heinrich II. Brand,6
+294.0,Barbara Richthauser,,,0,294,0,Barbara Richthäuser ,2
+294.0,Barbara Richthäuser ,,,0,294,0,Barbara Richthäuser ,3
+295.0,Anna Sabina Ziegler,,,0,295,0,Anna Sabina Ziegler,3
+295.0,Anne Sabine Ziegler,,,0,295,0,Anna Sabina Ziegler,2
+296.0,Heinrich Adam Hallenhorst,,,Heinrich Adam Hallenhorst,292,poi-2,Heinrich Adam Hallenhorst,22
+297.0,Juditha Sophia Hallenhorst,,,0,297,0,Juditha Sophia Hallenhorst,3
+297.0,Regina Sabina Hallenhorst,,,0,297,0,Regina Sabina Hallenhorst,3
+298.0,Christoph Frickinger,,,Johann Christoph Frickinger ,298,poi-2,Johann Christoph Frickinger ,1
+298.0,Johann Christoph Frikkinger ,Frickinger,,Johann Christoph Frickinger ,298,poi-2,Johann Christoph Frickinger ,4
+298.0,Johann Christoph Frikkinger ,,,Johann Christoph Frickinger ,298,poi-2,Johann Christoph Frickinger ,4
+299.0,Franz Leopold Hunold,,,0,299,0,Franz Leopold Hunold,3
+300.0,George Sigismund Hunold,,,0,300,0,George Sigismund Hunold,3
+301.0,Valentin Bader,,,Valentin Bader,301,poi-2,Valentin Bader,5
+302.0,Catharina Herr,,,0,302,0,Catharina Herr,2
+303.0,Friderica Sophia Louise Jungk,,,0,303,0,Friderica Sophia Louise Jungk,1
+303.0,Friederike Sophie Louise Schmidt,,,0,303,0,Friederike Sophie Louise Schmidt,2
+304.0,Johann Caspar Jungk ,,,Johann Kaspar Jungk,304,poi-2,Johann Kaspar Jungk,1
+304.0,Johann Kaspar Jungk,,,Johann Kaspar Jungk,304,poi-2,Johann Kaspar Jungk,2
+305.0,Paulus Jungk,,,Paul Jungk,305,poi-2,Paulus Jungk,2
+306.0,Elisabeth Gärtner,,,0,306,0,Elisabeth Gärtner,1
+307.0,Christian Ferdinand von Zedtwitz ,,,Christian Ferdinand von Zedtwitz ,307,poi-2,Christian Ferdinand von Zedtwitz ,1
+308.0,Johanna Louise Schmidt,Schmied,,0,308,0,Johanna Louise Schmidt,2
+308.0,Johanna Louise Schmidt,,,0,308,0,Johanna Louise Schmidt,2
+309.0,Jacob Samuel Schmidt,,,0,309,0,Jacob Samuel Schmidt,2
+310.0,Catharina Margaretha Rennemann,,,0,310,0,Catharina Margaretha Rennemann,2
+310.0,Catharina Margaretha Rennemann ,,,0,310,0,Catharina Margaretha Rennemann ,3
+311.0,Georg Melchior Ludolf,Ludolff / Ludolph / Ludolphus,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior Ludolf,9
+311.0,Georg Melchior Ludolf,,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior Ludolf,9
+311.0,Georg Melchior von Ludolf,,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolf,45
+311.0,Georg Melchior von Ludolf,Georg Melchior von Ludolph,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolf,45
+311.0,Georg Melchior von Ludolff,Leutholf,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolff,6
+311.0,Georg Melchior von Ludolff,,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolff,6
+311.0,Georg Melchior von Ludolph,,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolff,5
+311.0,George Melchior von Ludolf,,,Georg Melchior von Ludolph,311,poi-2,Georg Melchior von Ludolff,14
+312.0,Martha Benigna Schmidt,,,0,312,0,Martha Benigna Schmidt,1
+312.0,Martha Benigna Schmidt],,,0,312,0,Martha Benigna Schmidt,1
+313.0,Dorothea Magdalena Brießmann,,,0,313,0,Dorothea Magdalena Brießmann,2
+314.0,Judith Margarethe Seltzer,,,0,314,0,Judith Margarethe Seltzer,1
+314.0,Juditha Margaretha von Seltzer,,,0,314,0,Juditha Margaretha von Seltzer,2
+315.0,Jeremias Herbord Seltzer,,,Jeremias Herbord von Seltzer,315,poi-2,Jeremias Herbord Seltzer,7
+315.0,Jeremias Herbord von Seltzer,,,Jeremias Herbord von Seltzer,315,poi-2,Jeremias Herbord von Seltzer,2
+316.0,Dorothea von Utzberg,,,0,316,0,Dorothea von Utzberg,2
+317.0,Melchior Schmidt,,,Melchior Schmidt,317,poi-2,Melchior Schmidt,14
+317.0,Melchior Schmidt,Melchior Schmied,,Melchior Schmidt,317,poi-2,Melchior Schmidt,14
+317.0,Melchior Schmidt,Melchior Schmied / Melchior Schmid,,Melchior Schmidt,317,poi-2,Melchior Schmidt,14
+318.0,Anna Regina Kniphoff,,,0,318,0,Anna Regina Kniphoff,3
+319.0,Johann Melchior der Jüngere Kniphoff,,,Johann Melchior Kniphoff,319,poi-2,Johann Melchior der Jüngere Kniphoff,1
+319.0,Johann Melchior Kniephoff,,,Johann Melchior Kniphoff,319,poi-2,Johann Melchior Kniphoff,4
+319.0,Johann Melchior Kniphoff,,,Johann Melchior Kniphoff,319,poi-2,Johann Melchior Kniphoff,17
+320.0,Johann Matthiae,,,Johann Matthiae,320,poi-2,Johann Matthiae,1
+321.0,Magdalena Müller,,,0,321,0,Magdalena Müller,1
+322.0,Cyriacus Müller ,,,Cyriax Müller ,322,poi-2,Cyriacus Müller ,1
+322.0,Cyriax Müller ,,,Cyriax Müller ,322,poi-2,Cyriax Müller ,1
+323.0,Martha Ilgen,,,0,323,0,Martha Ilgen,3
+324.0,Heinrich Ilgen der Jüngere,,,Heinrich Ilgen der Jüngere,324,poi-2,Heinrich Ilgen der Jüngere,1
+324.0,Heinrich Ilgen junior,,,Heinrich Ilgen der Jüngere,324,poi-2,Heinrich Ilgen junior,11
+325.0,Martha Mohr,,,0,325,0,Martha Mohr,1
+326.0,Anna Christina Meltzer,,,0,326,0,Anna Christina Meltzer,1
+327.0,Johann Stechanius,,,Johannes Stechau,327,poi-2,Johann Stechanius,4
+328.0,Sabina Magdalena von der Marthen,,,0,328,0,Sabina Magdalena von der Marthen,2
+328.0,Sabina Magdalena Wolff,Sabina Magdalena von der Marthen,,0,328,0,Sabina Magdalena Wolff,2
+329.0,Henning von der Marthen,,,Henning von der Marthen,329,poi-2,Henning von der Marthen,19
+330.0,Sabina Magdalena Wolff,,,0,328,0,Sabina Magdalena Wolff,2
+331.0,Martha Christina Sophie Brückner,,,0,331,0,Martha Christina Sophie Brückner,2
+332.0,Hieronymus Friedrich Brückner,,,Hieronymus Friedrich Brückner,332,0,Hieronymus Friedrich Brückner,1
+332.0,Hieronymus Friedrich Brückner,Brueckner / Brücknerus,,Hieronymus Friedrich Brückner,332,0,Hieronymus Friedrich Brückner,1
+333.0,Johannes Weltz,,,Johannes Weltz,333,poi-2,Johannes Weltz,6
+333.0,Johannes Weltz,Johannes Waltz,,Johannes Weltz,333,poi-2,Johannes Weltz,6
+334.0,N.N.,,,0,334,0,N.N.,1
+335.0,Catharina von Ryssel,,,0,335,0,Catharina von Ryssel,1
+336.0,Eduard Brochhausen,,,Eduard Brochhausen,336,poi-2,Eduard Brochhausen,1
+337.0,Lucia Biermann,,,0,337,0,Lucia Biermann,1
+338.0,Judith Ludolff ,,,0,338,0,Judith Ludolff ,1
+338.0,Judith Ludolph,,,0,338,0,Judith Ludolff ,1
+339.0,Hiob I. Ludolph,,,Hiob Ludolph,339,poi-2,Hiob I. Ludolff,11
+339.0,Hiob Ludolf,,,Hiob Ludolph,339,poi-2,Hiob Ludolff ,1
+339.0,Hiob Ludolf ,,,Hiob Ludolph,339,poi-2,Hiob Ludolf ,2
+339.0,Hiob Ludolff ,,,Hiob Ludolph,339,poi-2,Hiob Ludolff ,1
+339.0,Hiob Ludolph,,,Hiob Ludolph,339,poi-2,Hiob Ludolff ,10
+340.0,Andreas Heinrich Brochhausen,,,Andreas Heinrich Brochhausen,,poi-2,Andreas Heinrich Brochhausen,1
+341.0,Johann Joachim Brochhausen,,,Johann Joachim Brochhausen,341,poi-2,Johann Joachim Brochhausen,1
+342.0,Christina Brochhausen,,,0,342,0,Christina Brochhausen,2
+342.0,Christina Brochhausen ,,,0,342,0,Christina Brochhausen ,1
+343.0,Johann Wilhelm Sömmering,,,Johann Wilhelm Sömmering,343,poi-2,Johann Wilhelm Sömmering,3
+343.0,Johann Wilhelm Sömmering,Soemering,,Johann Wilhelm Sömmering,343,poi-2,Johann Wilhelm Sömmering,3
+344.0,Regine Brochhausen ,,,0,344,0,Regine Brochhausen ,1
+345.0,Johann Ernst Brochhausen ,,,Johann Ernst Brochhausen ,345,poi-2,Johann Ernst Brochhausen ,1
+345.0,Johann Ernst Brockhausen,,,###,345?,poi-2,Johann Ernst Brockhausen,2
+346.0,Jost Heinrich Brochhausen,,,Jost Heinrich Brochhausen,346,poi-2,Jost Heinrich Brochhausen,1
+346.0,Jost Heinrich Brockhausen,,,###,191?,poi-1,Jost Heinrich Brockhausen,2
+347.0,Johan Jacob Brochhausen,,,Johan Jakob Brochhausen,347,poi-2,Johann Jakob Brochhausen,1
+348.0,Angela Brochhausen,,,0,348,0,Angela Brochhausen,1
+349.0,Tobias Emanuel Adami,,,Tobias Emanuel Adami ,349,poi-2,Tobias Emanuel Adami,2
+349.0,Tobias Emanuel Adami ,,,Tobias Emanuel Adami ,349,poi-2,Tobias Emanuel Adami ,2
+350.0,Anna Magdalena Brochhausen ,,,0,350,0,Anna Magdalena Brochhausen ,1
+350.0,Johann Christoph Evander,,,Johann Christoph Evander,350,poi-2,Johann Christoph Evander,2
+351.0,Johann Georg Evander,,,Johann Georg Evander,351,poi-2,Johann Georg Evander,1
+352.0,Johann Jacob von Walpott,Johannes Jacobus Walbott a Bassenheim et Bornheim,,Johann Jakob Waldbott von Bassenheim,352,poi-1,Johann Jakob Waldbott von Bassenheim,4
+352.0,Johann Jacob Waldbott,,,Johann Jakob Waldbott von Bassenheim,352,poi-1,Johann Jakob Waldbott von Bassenheim,7
+352.0,Johann Jacob Waldbott von Bassenheim,,,Johann Jakob Waldbott von Bassenheim,352,poi-1,Johann Jakob Waldbott von Bassenheim,1
+352.0,Johann Jacob Walpoth von Bassenheim,,,Johann Jakob Waldbott von Bassenheim,352,poi-1,Johann Jakob Waldbott von Bassenheim,4
+352.0,Johann Jakob von Waldbott-Olbrueck,,,Johann Jakob Waldbott von Bassenheim,352,poi-1,Johann Jakob von Waldbott-Olbrueck,2
+353.0,Barbara Brandt ,,,0,353,0,Barbara Brandt ,3
+354.0,Heinrich Jacob Brandt,,,0,354,0,Heinrich Jacob Brandt,4
+355.0,David Brandt ,,,0,355,0,David Brandt ,4
+356.0,Martha Brandt ,,,0,356,0,Martha Brandt ,3
+357.0,Balthasar Rudolph Brandt ,,,0,357,0,Balthasar Rudolph Brandt ,3
+358.0,Hieronymus Brandt ,,,0,358,0,Hieronymus Brandt ,3
+359.0,Conrad Theodoricus Brandt ,Dietrich,,0,359,0,Konrad Theoderich Brandt ,2
+360.0,Christina Brandt ,,,0,360,0,Christina Brandt ,4
+361.0,Johann Melchior Brandt,,,0,361,0,Johann Melchior Brandt,2
+362.0,Maria Brandt ,,,0,290,0,Maria Brandt ,4
+363.0,Agatha von Bingen,,,0,,0,Agatha von Bingen,2
+364.0,Anna Maria Barbara von Bielstein,,,0,364,0,Anna Maria Barbara von Bielstein,2
+365.0,Beate Franziska Gudenus,,,0,365,0,Beate Franziska Gudenus,5
+366.0,Maria Josefa Salome Gudenus,,,0,366,0,Maria Josefa Salome Gudenus,2
+367.0,Judith Brandt,,,0,367,0,Judith Brandt,2
+368.0,Adelgunde Gudenus ,,,0,,0,Adelgunde Gudenus ,3
+369.0,Maria Theresia Gudenus ,,,0,369,0,Maria Theresia Gudenus ,3
+370.0,Carl Josef Dresanus,,,Karl Joseph Dresanus,370,poi-2,Karl Josef Dresanus,1
+370.0,Karl Josef Dresanus,,,Karl Joseph Dresanus,370,poi-2,Karl Josef Dresanus,2
+371.0,Johann Leopold Gudenus,,,Johann Leopold Gudenus,371,poi-2,Johann Leopold Gudenus,3
+371.0,Johannes Leopold Gudenus,,,Johann Leopold Gudenus,371,poi-2,Johann Leopold Gudenus,1
+372.0,Jacob Moritz Gudenus,,,Jakob Moritz Gudenus,372,poi-2,Jakob Moritz Gudenus,2
+373.0,Franziska Beata Gudenus,,,0,373,0,Franziska Beata Gudenus,3
+374.0,Johann Adam von Eck,,,Johann Adam von Eck,374,poi-2,Johann Adam von Eck,2
+375.0,Friedrich Wilhelm Gudenus,,,Friedrich Wilhelm Gudenus,375,poi-2,Friedrich Wilhelm Gudenus,4
+376.0,Anna Elisabeth Maria Emilia von Tattenberg und Rheinstein,,,0,376,0,Anna Elisabeth Maria Emilia von Tattenberg und Rheinstein,2
+377.0,Johann Daniel Gudenus ,,,Johann Daniel Gudenus ,377,poi-2,Johann Daniel Gudenus ,2
+379.0,Franz Christoph Gudenus,,,Franz Christoph Gudenus,379,poi-2,Franz Christoph Gudenus,2
+380.0,Maria Katharina Gudenus,,,0,380,0,Maria Katharina Gudenus,2
+381.0,Beata Stein,,,0,381,0,Beata Stein,3
+381.0,Beate Stein,,,0,381,0,Beate Stein,1
+382.0,Hans Stein,,,Hans Stein,382,poi-2,Hans Stein,1
+383.0,Elisabeth Ziegenhorn,,,0,383,0,Elisabeth Ziegenhorn,1
+384.0,Johann Daniel Gudenus,,,0,384,0,Johann Daniel Gudenus,10
+385.0,Anna Katharina Gudenus,,,0,385,0,Anna Katharina Gudenus,3
+386.0,N.N. Wedelmann,,,0,386,0,N.N. Wedelmann,1
+387.0,Anna Beate Gudenus ,,,0,387,0,Anna Beate Gudenus ,3
+388.0,Anna Christiana Gudenus,,,0,388,0,Anna Christiana Gudenus,3
+389.0,Johann Dietrich Theodor Heiland,,,0,389,0,Johann Dietrich Theodor Heiland,1
+390.0,Johann Christoph Gudenus,,,0,390,0,Johann Christoph Gudenus,5
+390.0,Johann Christoph Gudenus,,,0,390,0,Johann Christoph Gudenus,5
+391.0,Maria Clara Thavonath,,,0,391,0,Maria Clara Thavonath,2
+392.0,Urban Ferdinand Gudenus ,,,0,392,0,Urban Ferdinand Gudenus ,6
+393.0,Lotharia Mechtildis von Birkig,,,0,393,0,Lotharia Mechtildis von Birkig,2
+394.0,Georg Friedrich Gudenus,,,0,394,0,Georg Friedrich Gudenus,7
+395.0,Johanna Franziska von Birkig,,,0,395,0,Johanna Franziska von Birkig,2
+396.0,Dorothea Sibylla von der Weser,,,0,396,0,Dorothea Sibylla von der Weser,2
+397.0,Magdalene Franziska Isselbach,,,0,397,0,Magdalene Franziska Isselbach,2
+398.0,Johanna Klara Gudenus,,,0,398,0,Johanna Klara Gudenus,2
+399.0,Christoffel Gudenus,,,Christoffel Gudenus,399,poi-2,Christoffel Gudenus,4
+400.0,Ursula vom Hoffe,,,0,400,0,Ursula vom Hoffe,1
+401.0,Johannes d.Ä. Gudenus,,,0,401,0,Johannes d.Ä. Gudenus,2
+402.0,Margaretha Gudenus,,,0,402,0,Margaretha Gudenus,2
+403.0,Johannes d.J. Gudenus,,,0,403,0,Johannes d.J. Gudenus,2
+404.0,Maria Josefa Felizitas Gudenus,,,0,404,0,Maria Josefa Felizitas Gudenus,2
+405.0,Johann Georg Mauritius Gudenus,,,Johann Georg Moritz Gudenus,405,poi-2,Johann Georg Moritz Gudenus,2
+406.0,Maria Franziska Theresia Josefa Gudenus,,,0,406,0,Maria Franziska Theresia Josefa Gudenus,2
+407.0,Maria Katharina Barbara Anastasia Gudenus,,,0,407,0,Maria Katharina Barbara Anastasia Gudenus,3
+408.0,Friedrich Wilhelm Moritz Bernhard Gudenus,,,Friedrich Wilhelm Moritz Bernhard von Gudenus,408,poi-2,Friedrich Wilhelm Moritz Bernhard Gudenus,3
+408.0,Friedrich Wilhelm Moritz Bernhard von Gudenus,,,Friedrich Wilhelm Moritz Bernhard von Gudenus,408,poi-2,Friedrich Wilhelm Moritz Bernhard von Gudenus,2
+409.0,Eva Sabina Straub,,,0,409,0,Eva Sabina Straub,1
+410.0,F. L. Löber,,,Friedrich Leonhard Löber,410,poi-2,F. L. Löber,3
+410.0,Friedrich Leonhard Löber,,,Friedrich Leonhard Löber,410,poi-2,Friedrich Leonhard Löber,12
+410.0,Friedrich Leonhard Löber,Loeber,,Friedrich Leonhard Löber,410,poi-2,Friedrich Leonhard Löber,12
+410.0,Leonhard Löber,Loeber,,Friedrich Leonhard Löber,410,poi-2,Leonhard Löber,2
+411.0,Philipp Wilhelm Meinong,,,Philipp Wilhelm Meinong,411,poi-2,Philipp Wilhelm Meinong,1
+411.0,Philipp Wilhelm Meinong,,,Philipp Wilhelm Meinong,411,poi-2,Philipp Wilhelm Meinong,1
+412.0,Johann Jakob Josef Franz Gudenus,,,Johann Jakob Josef Franz Gudenus,412,poi-2,Johann Jakob Josef Franz Gudenus,4
+412.0,Johann Jakob Josef Franz Gudenus,,,Johann Jakob Josef Franz Gudenus,412,poi-2,Johann Jakob Josef Franz Gudenus,4
+412.0,Johann Jakob Josef Franz von Gudenus,,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob Josef Franz von Gudenus,4
+412.0,Johann Jakob Josef Franz von Gudenus,,,Johann Jakob Josef Franz von Gudenus,26,poi-1,Johann Jakob Josef Franz von Gudenus,4
+413.0,Benedikt von Döttinchem,,,Benedikt von Döttinchem,413,poi-2,Benedikt von Döttinchem,1
+414.0,Ursula Loscant,,,0,414,0,Ursula Loscant,2
+415.0,Anselm Friedrich Adolf Gudenus,,,Anselm Friedrich Adolph von Gudenus,415,poi-2,Anselm Friedrich Adolf Gudenus,4
+415.0,Anselm Friedrich von Gudenus,,,Anselm Friedrich Adolph von Gudenus,415,poi-2,Anselm Friedrich von Gudenus,14
+416.0,Adolf Johann Sigismund von Gudenus,,,Johann Adolf Damian Gudenus,,poi-2,Adolf Johann Sigismund von Gudenus,2
+416.0,Johann Adolf Damian Gudenus,,,Johann Adolf Damian Gudenus,416,poi-2,Johann Adolf Damian Gudenus,3
+417.0,Mauritius Ferdinand Anton Gudenus,,,Moritz Ferdinand von Gudenus,417,poi-2,Mauritius Ferdinand Anton von Gudenus,3
+417.0,Moritz Ferdinand von Gudenus,,,Moritz Ferdinand von Gudenus,417,poi-2,Mauritius Ferdinand Anton von Gudenus,2
+419.0,Hans Hugold Strecker,Johannes Hugold Strecker,,Hans Hugold Strecker,419,poi-2,Hans Hugold Strecker,6
+420.0,Anna Maria Sältzer,,,0,420,0,Anna Maria Sältzer,2
+421.0,Johann Adam Strecker,,,Johann Adam Strecker ,235,poi-2,Johann Adam Strecker,14
+422.0,Maria Agnes Jordan,,,0,422,0,Maria Agnes Jordan,1
+423.0,Philipp Kaspar Strecker,,,0,423,0,Philipp Kaspar Strecker,1
+424.0,Johann Christoph Strecker,,,0,424,0,Johann Christoph Strecker,4
+425.0,Elise Ständer,,,0,425,0,Elise Ständer,1
+426.0,Johann Hugo Strecker,,,0,426,0,Johann Hugo Strecker,3
+427.0,Elisabeth Wolf,,,0,427,0,Elisabeth Wolf,1
+428.0,Johann Franz Strecker,,,0,428,0,Johann Franz Strecker,4
+429.0,Apollonia Elise Marie Simon,,,0,429,0,Apollonia Elise Marie Simon,1
+429.0,Maria Anna Strecker,,,0,429,0,Maria Anna Strecker,2
+430.0,Dorothea Elisabeth Strecker,,,0,430,0,Dorothea Elisabeth Strecker,3
+431.0,Hans Georg Hentrich,,,0,431,0,Hans Georg Hentrich,2
+432.0,Maria Katharina Strecker,,,0,432,0,Maria Katharina Strecker,2
+433.0,Johann Valtin Kaltwasser,,,0,433,0,Johann Valtin Kaltwasser,1
+434.0,Friedrich Christian August Strecker,,,Friedrich Christian August Strecker,434,poi-2,Friedrich Christian August Strecker,4
+435.0,Georg Heinrich Gottlieb Strecker,,,Georg Heinrich Gottlieb Strecker,435,poi-2,Georg Heinrich Gottlieb Strecker,2
+436.0,Maria Anna Wagner,,,0,436,0,Maria Anna Wagner,1
+437.0,Maria Maximilia Christina Antonetta Strecker,,,0,437,0,Maria Maximilia Christina Antonetta Strecker,2
+438.0,Anna Catharina Wilhelmina Josepha Strecker,,,0,438,0,Anna Catharina Wilhelmina Josepha Strecker,2
+439.0,Ivo Johann Stahl,,,Ivo Johann Stahl,439,0,Ivo Johann Stahl,6
+439.0,Ivo Johannes Stahl,,,Ivo Johann Stahl,439,0,Ivo Johann Stahl,2
+439.0,Ivo Stahl,,,Ivo Johann Stahl,439,0,Ivo Stahl,2
+440.0,Catharina Molitoris,,,0,440,0,Catharina Molitoris,1
+441.0,Alexander Johann Strecker,,,Alexander Johann Strecker,,poi-2,Alexander Johann Strecker,6
+441.0,Alexander Strecker,,,Alexander Johann Strecker,,poi-2,Alexander Johann Strecker,2
+442.0,Maria Susanna von Zwehl,,,0,442,0,Maria Susanna von Zwehl,3
+443.0,Maria Anna Francisca Renata Strecker,,,0,443,0,Maria Anna Francisca Renata Strecker,2
+444.0,Maria Wilhelmina Josepha Strecker,,,0,444,0,Maria Wilhelmina Josepha Strecker,1
+445.0,Johann Bernhard Strecker,,,Johann Bernhard Strecker,445,poi-2,Johann Bernhard Strecker,1
+446.0,Maria Anna Francisca Wagner,,,0,446,0,Maria Anna Francisca Wagner,1
+447.0,Ernst Friedrich Hugo Strecker,,,Ernst Friedrich Hugo Strecker,447,poi-2,Ernst Friedrich Hugo Strecker,3
+448.0,Alexander Bernhard Johann Nepomuk Strecker,,,Alexander Bernhard Johann Nepomuk Strecker,,poi-2,Alexander Bernhard Johann Nepomuk Strecker,2
+449.0,N.N. Strecker,,,0,449,0,N.N. Strecker,1
+450.0,Adam Ignatius Turin,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,2
+450.0,Adam Ignatz Turin,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,8
+450.0,Adam Ignatz Turin,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,8
+450.0,Adam Ignaz Durino,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,2
+450.0,Adam Ignaz Turin,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,6
+450.0,Adam Ignaz Turin,Turinus / Turino,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,6
+450.0,Adam Ignaz Turin,,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,6
+450.0,Adam Ignaz Turin,Adam Ignaz Durino,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,6
+450.0,Adam Ignaz Turin,Adam Ignaz Tirtin,,Adam Ignaz Turin,,poi-2,Adam Ignaz Turin,6
+451.0,Johann Herwig von Zwehl,,,0,451,0,Johann Herwig von Zwehl,1
+452.0,Carl Wilhelm Strecker,,,Karl Wilhelm Anton Strecker,452,poi-2,Karl Wilhelm Anton Strecker,4
+452.0,Karl Wilhelm Anton Strecker,,,Karl Wilhelm Anton Strecker,452,poi-2,Karl Wilhelm Anton Strecker,5
+452.0,Karl Wilhelm Anton Strecker,,,Karl Wilhelm Anton Strecker,452,poi-2,Karl Wilhelm Anton Strecker,5
+453.0,Agnes Turin,,,0,,0,Agnes Turin,1
+454.0,Maria Francisca Renate Strecker,,,0,454,0,Maria Franzisca Renate Strecker,1
+455.0,Franciscus Jacobus Johannes Nepomuk Strecker,,,Franz Jakob Johann Nepomuk Strecker,455,poi-2,Franz Jakob Johann Nepomuk Strecker,2
+456.0,Sophia Katharina Josepha Strecker,,,0,456,0,Sophia Katharina Josepha Strecker,2
+457.0,Karl Friedrich Wunderlich,,,Karl Friedrich Wunderlich,457,poi-2,Karl Friedrich Wunderlich,5
+458.0,Susanna Josepha Strecker,,,0,458,0,Susanna Josepha Strecker,3
+459.0,Jakob Dominicus,,,###,459?,poi-2,Johann Jakob Dominicus,1
+459.0,Johann Jakob Dominicus,,,Johann Jakob Dominicus,459,poi-2,Johann Jakob Dominicus,5
+460.0,Henricus Strecker,,,Heinrich Strecker,460,poi-2,Henricus Strecker,2
+461.0,Maria Apollonia Wilhelmina Susanna Strecker,,,0,461,0,Maria Apollonia Wilhelmina Susanna Strecker,2
+462.0,Regina Elisabeth Tentzel,,,0,462,0,Regina Elisabeth Tentzel,3
+463.0,Friedrich Heinrich Jacobs,,,M. Friedrich Heinrich Jakobs,463,poi-2,Friedrich Heinrich Jakobs,2
+463.0,Friedrich Heinrich Jacobs,Fridrich Heinrich Iacobs,,M. Friedrich Heinrich Jakobs,463,poi-2,Friedrich Heinrich Jakobs,2
+463.0,Friedrich Heinrich Jakob,,,M. Friedrich Heinrich Jakobs,463,poi-2,Friedrich Heinrich Jakobs,2
+463.0,M. Friedrich Heinrich Jacobs,,,M. Friedrich Heinrich Jakobs,463,poi-2,Friedrich Heinrich Jakobs,2
+464.0,Christine Elisabeth Tentzel,,,0,464,0,Christine Elisabeth Tentzel,1
+465.0,Hieronymus Gottlieb Tentzel,,,Hieronymus Gottlieb Tentzel,465,poi-2,Hieronymus Gottlieb Tentzel,4
+466.0,Johann Friedrich Tentzel,,,Johann Friedrich Tentzel,466,poi-2,Johann Friedrich Tentzel,4
+467.0,Ernst Emanuel Tentzel,,,Ernst Emanuel Tentzel,87,poi-1,Ernst Emanuel Tentzel,7
+468.0,Salome Sophia Tentzel,,,0,468,0,Salome Sophia Tentzel,2
+469.0,Christian Friedrich Schelhas,,,Christian Friedrich Schelhas,469,poi-2,Christian Friedrich Schellhas,2
+469.0,Christian Friedrich Schellhas,,,Christian Friedrich Schelhas,469,poi-2,Christian Friedrich Schellhas,11
+87.0,Ernst I Tentzel,,,Ernst Tentzel,470,poi-2,Ernst I. Tentzel,8
+471.0,Barbara Happe,,,0,471,0,Barbara Happe,1
+472.0,Ernst II Tentzel,,,Ernst Tentzel,472,poi-2,Ernst II. Tentzel,7
+473.0,Elisabeth Bonner,,,0,473,0,Elisabeth Bonner,5
+473.0,Johann Gottlieb Adami,,,###,473?,poi-2,Johann Gottlieb Adami,11
+473.0,Johann Gottlieb Adami,,,###,473?,poi-2,Johann Gottlieb Adami,11
+474.0,Regina Brückner,,,0,474,0,Regina Brückner,3
+475.0,Rudolph Adami,,,0,475,0,Rudolph Adami,2
+476.0,Johann Christian Tentzel,,,0,476,0,Johann Christian Tentzel,5
+470.0,Regina Adami,,,0,476,0,Regina Adami,2
+477.0,Stephan Bonner,,,Stephan Bonner,477,poi-2,Stephan Bonner,5
+478.0,Anna Siebold,,,0,478,0,Anna Siebold,1
+479.0,Juditha Margaretha Döring,,,0,479,0,Juditha Margaretha Döring,2
+480.0,Sabine Magdalene von Eberbach,,,0,480,0,Sabine Magdalene von Eberbach,1
+481.0,Benigna von der Sachsen,,,0,481,0,Benigna von der Sachsen,4
+482.0,Christian Wilhelm von Brettin,,,0,482,0,Christian Wilhelm von Brettin,12
+482.0,Tobias Adami,,,0,482,0,Tobias Adami,22
+482.0,Tobias Adami ,,,0,482,0,Tobias Adami ,13
+482.0,Tobias Emmanuel Adami ,,,0,482,0,Tobias Emmanuel Adami ,3
+483.0,Dorothea von der Sachsen,,,0,483,0,Dorothea von der Sachsen,3
+485.0,Henning Rennemann,Henningus Rennemann,,Henning Rennemann,485,poi-2,Henning Rennemann,39
+485.0,Henning Rennemann,,,Henning Rennemann,485,poi-2,Henning Rennemann,39
+486.0,Justus Josias Rennemann ,,,0,486,0,Justus Josias Rennemann ,6
+487.0,Helmoldevigus Rennemann,,,0,487,0,Helmoldevigus Rennemann,2
+488.0,Margaretha Sprocovius,,,0,488,0,Margaretha Sprocovius,2
+488.0,Maria Northausen,,,0,488,0,Maria Northausen,2
+489.0,Lydia Rothardt ,,,0,489,0,Lydia Rothardt ,2
+489.0,Lydia Rothart ,,,0,489,0,Lydia Rothart ,4
+490.0,Maria Northausen ,,,0,490,0,Maria Northausen ,2
+491.0,Gottfried von Benzel-Sternau,,,0,491,0,Gottfried von Benzel-Sternau,6
+492.0,Johann Jakob Bentzell,,,Johann Jakob Josef Bentzel,492,poi-2,Johann Jakob Josef Benzel,2
+492.0,Johann Jakob Josef Benzel,Benzell,,Johann Jakob Josef Bentzel,492,poi-2,Johann Jakob Josef Benzel,1
+493.0,Anselm Franz Freiherr von Benzel,Benzell,,Anselm Franz von Bentzel zu Sternau,493,poi-2,Anselm Franz von Bentzel-Sternau,1
+493.0,Anselm Franz von Bentzel-Sternau,,,Anselm Franz von Bentzel zu Sternau,493,poi-2,Anselm Franz von Bentzel-Sternau,12
+493.0,Franz Anselm Freiherr von Benzel,Benzell,,Anselm Franz von Bentzel zu Sternau,493,poi-2,Anselm Franz von Bentzel-Sternau,2
+494.0,Hans von Ingelheim,,,Hans von Ingelheim,494,poi-2,Hans von Ingelheim,1
+495.0,N.N. von Clemens-Millwitz,,,N.N. von Klemens zu Millwitz,495,poi-2,N.N. von Klemens zu Millwitz,1
+496.0,Berthold Boineburg,,,Berthold von Boineburg,496,poi-2,Berthold von Boineburg,1
+496.0,N.N. von Boineburg,,,Berthold von Boineburg,496,poi-2,Berthold von Boineburg,1
+496.0,N.N. von Boyneburg,,,Berthold von Boineburg,496,poi-2,Berthold von Boineburg,1
+497.0,Melchior Friedrich zu Schönborn,,,0,497,0,Melchior Friedrich von Schönborn,2
+498.0,Anna Sophia von Boineburg,,,0,498,0,Anna Sophia von Boineburg,1
+499.0,Barbara von Buttlar,,,0,499,0,Barbara von Buttlar,1
+500.0,N.N. Meier,,,N.N. Meier,500,poi-2,N.N. Meier,1
+501.0,Christoph Gudenus,,,Christoph Gudenus,501,poi-2,Christoph Gudenus,3
+502.0,Sophia Dorothea Faligken,,,0,502,0,Sophia Dorothea Faligken,2
+503.0,Maria Josepha Theresia Molitoris,Maria Josepha Theresia de Clemens,,0,503,0,Maria Josepha Theresia Molitoris,2
+503.0,Maria Josepha Theresia Molitoris,,,0,503,0,Maria Josepha Theresia Molitoris,2
+504.0,Anna Josepha von Clemens,,,0,504,0,Anna Josepha von Clemens,1
+504.0,Anna Josepha Wallburgis von Clemens,,,0,504,0,Anna Josepha Wallburgis von Clemens,1
+505.0,Robert Balthasar Adam Clemens,Clemenz,,Robert Balthasar Adam von Klemens zu Millwitz,505,poi-2,Robert Balthasar Adam Klemens,2
+505.0,Robert Balthasar von Clemens,,,Robert Balthasar Adam von Klemens zu Millwitz,505,poi-2,Robert Balthasar von Klemens,4
+505.0,Robert Balthasar von Klemens,Rupert Klemens,,,,,Robert Balthasar von Klemens,42
+505.0,Robert Balthasar von Klemens,,,,,,Robert Balthasar von Klemens,42
+505.0,Robert Clemens,Clemenz,,Robert Balthasar Adam von Klemens zu Millwitz,505,poi-2,Robert Clemens,1
+506.0,Maria Margaretha von Clemens,,,0,506,0,Maria Margaretha von Clemens,2
+507.0,N.N. Fritz,,,N.N. Fritz,507,poi-2,N.N. Fritz,1
+508.0,Susanna Theresia Fritz,,,0,508,0,Susanna Theresia Fritz,1
+510.0,Catharina Höglein,Catharina Hoeglien,,0,510,0,Catharina Höglein,1
+511.0,M. E. L. [?] von Gerstenberg,,,0,511,0,M. E. L. [?] von Gerstenberg,2
+512.0,Bernhard von Sommerlattae,,,N.N. von Sommerlatte ,512,poi-2,Bernhard von Sommerlatte,1
+512.0,N.N. von Sommerlatte ,,,N.N. von Sommerlatte ,512,poi-2,N.N. von Sommerlatte ,2
+512.0,Otto Arnold von Sommerlattae,,,N.N. von Sommerlatte ,512,poi-2,Otto Arnold von Sommerlatte,1
+513.0,Charlotte von Bellmont,,,0,513,0,Charlotte von Bellmont,1
+514.0,Maria Angelica Bendleb,,,0,514,0,Maria Angelica Bendleb,1
+515.0,Christian Samuel Graberg,,,Christian Samuel Graberg,515,poi-2,Christian Samuel Graberg,6
+516.0,Eva Eleonora Schmidt,,,0,516,0,Eva Eleonora Schmidt,1
+517.0,Rosina Chrisitna Fratzscher,,,0,517,0,Rosina Chrisitna Fratzscher,2
+9100.0,Ernst Christian Immanuel Tentzel,Tenzel,,0,518,0,Ernst Christian Immanuel Tentzel,2
+519.0,M. Georg Berger,,,M. Georg Berger,519,poi-2,M. Georg Berger,2
+520.0,Jacob Berger,,,Jakob Berger,521,poi-2,Jakob Berger,2
+520.0,Jacob M. Berger,Jacob M. Berringer,,Jakob M. Berger,520,poi-2,Jakob Berger,19
+520.0,Jacobus M. Berger,,,Jakob M. Berger,520,poi-1,Jakob Berger,12
+520.0,Jakob Berger,Jakob Berringer,,Jakob M. Berger,520,poi-1,Jakob Berger,5
+520.0,M. Jacob Berger,,,Jakob M. Berger,520,poi-2,Jakob Berger,6
+521.0,Jacob Berger,,,Jakob Berger,521,poi-2,Jakob Berger,2
+522.0,Judith Brochhausen,,,0,522,0,Judith Brochhausen,1
+523.0,Jost Christoph Reinhardt,,,Jost Christoph Reinhardt,523,poi-2,Jost Christoph Reinhardt,1
+524.0,David Hamilton,,,David Hamilton,524,poi-2,David Hamilton,2
+525.0,Laurentius Heinrici,Laurentius Heine,,0,525,0,Laurentius Heinrici,4
+526.0,Heinrich Wilhelm Ludolf,,,Heinrich Wilhelm Ludolph,526,poi-2,Heinrich Wilhelm Ludolf,7
+526.0,Heinrich Wilhelm Ludolf,Ludolff / Ludolph / Ludolphus,,Heinrich Wilhelm Ludolph,526,poi-2,Heinrich Wilhelm Ludolf,7
+527.0,Martha Benigna Ludolf ,,,0,527,0,Martha Benigna Ludolf ,1
+528.0,Caspar Friedrich Heidenreich,,,Kaspar Friedrich Heidenreich,528,poi-2,Caspar Friedrich Heidenreich,1
+529.0,Hans Ludolf,Hans Lidloff,,Hans Ludolph,529,poi-2,Hans Ludolf,7
+530.0,Anna Gebhard,Anna Wesener,,0,530,0,Anna Gebhard,1
+531.0,Conrad Brand ,,,Konrad Brand ,531,poi-2,Conrad Brand ,6
+532.0,Christina Gebhard,,,0,532,0,Christina Gebhard,2
+533.0,Jonas Meltzer,Johann Meltzer / Johann Möltzer / Jonas Möltzer,,Jonas Meltzer,533,poi-2,Jonas Meltzer,1
+534.0,Martha Catharina von Utzberg,,,0,534,0,Martha Catharina von Utzberg,1
+536.0,Jeremias Schorch,,,Jeremias Schorch,536,poi-2,Jeremias Schorch,8
+540.0,Martha Birnstiel,,,0,540,0,Martha Birnstiel,1
+541.0,Jeremias Birnstiel,,,Jeremias Birnstiel,541,poi-2,Jeremias Birnstiel,1
+542.0,Elisabeth Elsner ,,,0,542,0,Elisabeth Elsner ,2
+543.0,Bartholomaeus Elsner ,,,Johann Bartholomäus Elsner ,543,poi-2,Bartholomaeus Elsner ,4
+543.0,Bartholomaeus Elßner ,,,Johann Bartholomäus Elsner ,543,poi-2,Bartholomaeus Elsner ,3
+543.0,Johannes Bartholomaeus Elsnerus,,,Johann Bartholomäus Elsner ,543,poi-2,Johann Bartholomaeus Elsner,2
+544.0,Regina Frischmann,,,0,544,0,Regina Frischmann,1
+544.0,Ursula Wagner,,,0,544,0,Ursula Wagner,5
+545.0,Johannes Wagner,,,Johannes Wagner,545,poi-2,Johannes Wagner,20
+545.0,Johannes Wagner,Wagener,,Johannes Wagner,545,poi-2,Johannes Wagner,20
+546.0,Anna Maria Schorch,,,0,546,0,Anna Maria Schorch,1
+547.0,Heinrich Friedemann,,,Heinrich Wilhelm Friedemann,547,poi-2,Heinrich Friedemann,1
+547.0,Heinrich Wilhelm Friedemann,Friedemannus,,Heinrich Wilhelm Friedemann,547,poi-2,Heinrich Wilhelm Friedemann,2
+548.0,Maria Magdalena Schorch,,,0,548,0,Maria Magdalena Schorch,1
+549.0,Franz Heinrich Schiller,Schieller / Schillers,,Franz Heinrich Schiller,549,poi-2,Franz Heinrich Schiller,3
+549.0,Franz Schiller,,,Franz Heinrich Schiller,549,poi-2,Franz Schiller,4
+550.0,Johann David Schorch,,,Johann Schorch,550,poi-2,Johann David Schorch,4
+9105.0,Johann Heinrich Schorch,,,Johann Schorch,550,poi-2,Johann Heinrich Schorch,2
+9106.0,Johann Schorch,,,Johann Schorch,550,poi-2,Johann Schorch,15
+9107.0,Johann Wilhelm Schorch,,,Johann Schorch,550,poi-2,Johann Wilhelm Schorch,1
+551.0,Heinrich Bartholomaeus Schorch,,,Heinrich Bartholomäus Schorch,551,poi-2,Heinrich Bartholomäus Schorch,2
+551.0,Heinrich Bartholomäus Schorch,,,Heinrich Bartholomäus Schorch,551,poi-2,Heinrich Bartholomäus Schorch,2
+552.0,Martha Elisabeth Andreae,Martha Elisabeth Schorch ,,0,552,0,Martha Elisabeth Andreae,1
+552.0,Martha Elisabeth Schorch ,,,0,552,0,Martha Elisabeth Schorch ,2
+553.0,Johann Wilhelm Andreae,,,M. Johann Wilhelm Andreae,553,poi-2,Johann Wilhelm Andreae,4
+553.0,M. Johann Wilhelm Andreae,,,M. Johann Wilhelm Andreae,553,poi-2,Johann Wilhelm Andreae,4
+554.0,Johannes Schorch ,,,Johannes Schorch ,554,poi-2,Johannes Schorch ,5
+555.0,Anna Funcke,,,0,555,0,Anna Funcke,1
+556.0,Martha Nacke,,,0,556,0,Martha Nacke,2
+557.0,Hartmann Nacke ,,,Hartmann Nacke ,557,poi-2,Hartmann Nacke ,5
+558.0,Anna Benigna Gerstenberg ,,,0,558,0,Anna Benigna Gerstenberg ,1
+559.0,Marie Christine von Brettin,,,0,559,0,Marie Christine von Brettin,1
+560.0,Cordula Maximiliana von der Weser ,,,0,560,0,Cordula Maximiliana von der Weser ,1
+561.0,Wolf Balthasar von der Weser,,,Wolf Balthasar von der Weser,561,poi-2,Wolf Balthasar von der Weser,5
+562.0,Hedwig Müller,,,0,562,0,Hedwig Müller,1
+563.0,Jacob Heinrich Ziegler,,,Jakob Heinrich Ziegler,563,poi-2,Jacob Heinrich Ziegler,4
+564.0,Elisabeth Stichling,,,0,564,0,Elisabeth Stichling,1
+565.0,Martha Vasold ,,,0,565,0,Martha Vasold ,2
+566.0,Ursula Förster ,,,0,566,0,Ursula Förster ,1
+567.0,Catharina Herr ,,,0,567,0,Catharina Herr ,1
+568.0,Sabina Magdalena Melzer,,,0,568,0,Sabina Magdalena Melzer,1
+569.0,Anna Christina Schütz von Holzhausen,,,0,569,0,Anna Christina Schütz von Holzhausen,1
+570.0,Philipp Ludwig Freiherr von Reiffenberg,,,Philipp Ludwig von Reiffenberg,570,poi-1,Philipp Ludwig von Reiffenberg,2
+570.0,Philipp Ludwig Ritter von Reiffenberg,,,Philipp Ludwig von Reiffenberg,570,poi-1,Philipp Ludwig von Reiffenberg,13
+570.0,Philipp Ludwig von Reiffenberg,,,Philipp Ludwig von Reiffenberg,570,poi-1,Philipp Ludwig von Reiffenberg,21
+570.0,Philipp von Reiffenberg,,,Philipp Ludwig von Reiffenberg,570,poi-1,Philipp Ludwig von Reiffenberg,1
+571.0,Friedrich Greiffenclau zu Vollrats,,,Friedrich von Greiffenclau zu Vollrads,571,poi-1,Friedrich von Greiffenclau zu Vollraths,3
+571.0,Friedrich von Greiffenclau,,,Friedrich von Greiffenclau zu Vollrads,571,poi-1,Friedrich von Greiffenclau zu Vollraths,4
+571.0,Friedrich von Greiffenclau zu Vollraths,,,Friedrich von Greiffenclau zu Vollrads,571,poi-1,Friedrich von Greiffenclau zu Vollraths,5
+572.0,Gottfried Philipp Faust von Stromberg,,,Gottlieb Philipp Joseph Faust von Stromberg,572,poi-1,Gottlieb Philipp Joseph Faust von Stromberg,2
+572.0,Gottlieb Philipp Joseph Faust von Stromberg,,,Gottlieb Philipp Joseph Faust von Stromberg,572,poi-1,Gottlieb Philipp Joseph Faust von Stromberg,5
+573.0,Friedrich Wilhelm Freiherr von Bicken,,,Friedrich Wilhelm von Bicken,573,poi-1,Friedrich Wilhelm von Bicken,4
+573.0,Friedrich Wilhelm von Bicken,,,Friedrich Wilhelm von Bicken,573,poi-1,Friedrich Wilhelm von Bicken,26
+9001.0,Adam Philipp Teitzel,,,,,,Adam Philipp Teitzel,2
+9002.0,Adolf Friedrich Rudolf Joseph (Freiherr) von TROTT zu SOLZ,,,Adolf Friedrich Rudolf Joseph von Trott zu Solz,,poi-1,Adolf Friedrich Rudolf Joseph von Trott zu Solz,24
+9003.0,Adolf Karl Alexander Lothar (Freiherr) von ZEHMEN,,,Adolf Karl Alexander Lothar von Zehmen,,poi-1,Adolf Karl Alexander Lothar von Zehmen,25
+9004.0,Adolph Wilhelm Franz Freiherr von Greiffenclau zu Vollrads,Adolph Freiherr von Greiffenclau zu Vollrads,,,,,Adolph Wilhelm Franz von Greiffenclau zu Vollrads,11
+9004.0,Adolph Wilhelm Franz Freiherr von Greiffenclau zu Vollrads,,,,,,Adolph Wilhelm Franz von Greiffenclau zu Vollrads,11
+9005.0,Aegidius (Egid) Valentin Felix (Freiherr von) BORIÉ (Beaurieux) (zu SCHÖNBACH),,,Aegidius Valentin Felix von Borié zu Schönbach,P-022,poi-1,Aegidius (Egid) Valentin Felix von Borié (Beaurieux) zu Schönbach,40
+9006.0,Aegidius Joseph Valentin Felix genannt Egid Joseph Karl von FAHNENBERG,,,Aegidius Joseph Valentin Felix genannt Egid Joseph Karl von Fahnenberg,P-060,poi-1,Aegidius Joseph Valentin Felix von Borié (Beaurieux) zu Schönbach gen. von Fahnenberg,37
+9007.0,Aeneas Anton von Fleischmann,Aeneas Anton Fleischmann,,,,,Aeneas Anton von Fleischmann,4
+9007.0,Aeneas Anton von Fleischmann,,,,,,Aeneas Anton von Fleischmann,4
+9008.0,Aloys Joseph Dominik Johann Franz (Freiherr) MAURER von KRONEGG zu Ungarshofen,,,Aloys Joseph Dominik Johann Franz Maurer von Kronegg zu Ungarshofen,,poi-1,Aloys Joseph Dominik Johann Franz Maurer von Kronegg zu Ungarshofen,26
+9009.0,Andreas (Freiherr von) STEIGENTESCH,,,Andreas von Steigentesch,,poi-1,Andreas von Steigentsch,73
+9010.0,Anselm Franz Serger,,,,,,Anselm Franz Serger,77
+9011.0,Anselm Freiherr Groß von und zu Trockau,,,,,,Anselm Freiherr Groß von und zu Trockau,28
+9011.0,Anselm Freiherr Groß von und zu Trockau,Anselm Baron von Groß zu Trockau,,,,,Anselm Freiherr Groß von und zu Trockau,28
+9012.0,Anselm Gerhard Schott,,,,,,Anselm Gerhard Schott,2
+9013.0,Arnold Gottfried Events,,,###,230?,poi-1,Arnold Gottfried Events,2
+9014.0,Augustin Franz von Kunibert,Augustin Franz Kunibert,,,,,Augustin Franz von Kunibert,5
+9014.0,Augustin Franz von Kunibert,,,,,,Augustin Franz von Kunibert,5
+9015.0,Benjamin Schüz,,,0,?,0,Benjamin Schüz,1
+9016.0,Bernhard Gottfried Reider,,,,,,Bernhard Gottfried Reider,69
+9016.0,Bernhard Gottfried Reider,Reuter,,,,,Bernhard Gottfried Reider,69
+9016.0,Bernhard Gottfried von Reider,Bernhard Gottfried Reider,,,,,Bernhard Gottfried von Reider,47
+9016.0,Bernhard Gottfried von Reider,,,,,,Bernhard Gottfried von Reider,47
+9016.0,Bernhard Gottfried von Reider,Gottfried von Reider,,,,,Bernhard Gottfried von Reider,47
+9016.0,Bernhard Gottfried von Reider,Bernhard Gottfried Reuter,,,,,Bernhard Gottfried von Reider,47
+9017.0,"Christian Franz [von, S.J.] WEIDENFELD",,,Christian Franz von Weidenfeld,P-017,poi-1,Christian Franz von Weidenfeld,30
+9017.0,Christian von Ottenthal,Christian Ottenthal,,,,,Christian von Ottenthal,18
+9017.0,Christian von Ottenthal,,,,,,Christian von Ottenthal,18
+9018.0,Christoph Hartmann Freiherr von Fechenbach zu Laudenbach,,,,,,Christoph Hartmann Freiherr von Fechenbach zu Laudenbach,38
+9018.0,Christoph Hartmann Freiherr von Fechenbach zu Lautenbach,,,,,,Christoph Hartmann Freiherr von Fechenbach zu Lautenbach,48
+9018.0,Christoph Hartmann Freiherr von Fechenbach zu Lautenbach,Christophel Hartmann Freiherr von Fechenbach,,,,,Christoph Hartmann Freiherr von Fechenbach zu Lautenbach,48
+9019.0,Damian Friedrich von Strauß,,,,,,Damian Friedrich von Strauß,44
+9019.0,Damian Friedrich von Strauß,Damian Friedrich Strauß,,,,,Damian Friedrich von Strauß,44
+9020.0,Emmerich Joseph Freiherr von Breidbach zu Bürresheim,,,,,,Emmerich Joseph von Breidbach zu Bürresheim,75
+9021.0,"Ferdinand Heinrich (Freiherr von) DÜNWALDT (Dünnwaldt, Dünwald, Dün(n)ewald)",,,Ferdinand Heinrich von Dünwaldt,P-082,poi-1,Ferdinand Heinrich von Dünwaldt ,32
+9022.0,Franz Arnold (Freiherr) von der BECKE,,,Franz Arnold von der Becke,P-107,poi-1,Franz Arnold von der Becke,28
+9023.0,Franz Arnold Evers,,,###,230?,poi-1,Franz Arnold Evers,2
+9024.0,Franz Bernhard Joseph Freiherr von STEIN zu LAUSNITZ,,,Franz Bernhard Joseph von Stein zu Lausnitz,P-062,poi-1,Franz Bernhard Joseph Freiherr von Stein zu Lausnitz,44
+9025.0,Franz Bertram Freiherr von Scheben,"Franz Bertram von Scheben, Edler von Kronfeld",,,,,Franz Bertram Freiherr von Scheben,12
+9025.0,Franz Bertram Freiherr von Scheben,,,,,,Franz Bertram Freiherr von Scheben,12
+9026.0,Franz Christoph Heinrich Aloys (Graf) von Reigersberg,,,Franz Christoph Heinrich Aloys von Reigersberg,P-086,poi-1,Franz Christoph Heinrich Aloys von Reigersberg,62
+9027.0,Franz Georg (Freiherr von) LEYKAM,,,Franz Georg von Leykam,P-019,poi-1,Franz Georg von Leykam,35
+9028.0,Franz Graf von Spaur,,,,,,Franz Graf von Spaur,12
+9028.0,Franz Graf von Spaur,Franz Graf von Spaur zu Pflaum und Valeur,,,,,Franz Graf von Spaur,12
+9029.0,Franz Joseph (Freiherr von) Albini,,,Franz Joseph von Albini,P-075,poi-1,Franz Joseph von Albini,70
+9030.0,Franz Joseph Ignaz (Freiherr von) LINDEN,,,Franz Joseph Ignaz von Linden,P-020,poi-1,Franz Joseph Ignaz von Linden,53
+9031.0,Franz Philipp Ernst Freiherr von Hettersdorf,,,,,,Franz Philipp Ernst Freiherr von Hettersdorf,26
+9032.0,Franz Valerius (Edler von) HAUER,,,Franz Valerius von Hauer,P-057,poi-1,Franz Valerius von Hauer,27
+9033.0,Franz Wilhelm LOSKAND,Loskandt / Loskant,,Franz Wilhelm Loskand,P-004,poi-1,Franz Wilhelm Loskand,23
+9034.0,Friedrich Joseph Anton (Freiherr) von SCHMITZ (zu GROLLENBURG),,,Friedrich Joseph Anton von Schmitz zu Grollenburg,P-103,poi-1,Friedrich Joseph Anton von Schmitz zu Grollenburg,33
+9035.0,Friedrich Karl Freiherr von Groschlag zu Dieburg,,,,,,Friedrich Karl von Groschlag zu Dieburg,34
+9035.0,Friedrich Karl Freiherr von Groschlag zu Dieburg,Friedrich Karl Freiherr von Groschlag ,,,,,Friedrich Karl von Groschlag zu Dieburg,34
+9036.0,Georg Friedrich von Lasser,,,,,,Georg Friedrich von Lasser,28
+9037.0,Gerhard Evers,,,###,230?,poi-1,Gerhard Evers,2
+9038.0,Gerhard Georg Wilhelm Franz Xaver (Freiherr von) VOGELIUS,,,Gerhard Georg Wilhelm Franz Xaver von Vogelius,P-015,poi-1,Gerhard Georg Wilhelm Franz Xaver von Vogelius,30
+9039.0,Gottfried Emanuel Friedrich Freiherr von ANDRIAN-WERBURG,Gottfried Emanuel Ferdinand Andont Freiherr von ANDRIAN-WERBURG,,Gottfried Emanuel Friedrich von Andrian-Werburg,P-061,poi-1,Gottfried Emanuel Friedrich Freiherr von Andrian-Werburg,19
+9039.0,Gottfried Emanuel Friedrich Freiherr von ANDRIAN-WERBURG,,,Gottfried Emanuel Friedrich von Andrian-Werburg,P-061,poi-1,Gottfried Emanuel Friedrich Freiherr von Andrian-Werburg,19
+9040.0,Gottfried von Lammertz,,,,,,Gottfried von Lammertz,37
+9041.0,Hartmann Andreas von Faber,Hartmann Andreas Faber,,,,,Hartmann Andreas von Faber,10
+9041.0,Hartmann Andreas von Faber,,,,,,Hartmann Andreas von Faber,10
+9042.0,"Heinrich Ludwig Karl (von) GEBLER, (des Heiligen Römischen Reichs Ritter)",,,Heinrich Ludwig Karl von Gebler,P-055,poi-1,Heinrich Ludwig Karl von Gebler,28
+9043.0,Heinrich Schweickart Oswald Hellmandel,Heinrich Schweickart Hellmandel,,,,,Heinrich Schweickart Oswald Hellmandel,21
+9043.0,Heinrich Schweickart Oswald Hellmandel,,,,,,Heinrich Schweickart Oswald Hellmandel,21
+9044.0,"Hermann Franz (Edler von, des Heiligen Römischen Reichs Ritter) SONBORN",,,Hermann Franz von Sonborn,P-021,poi-1,Hermann Franz von Sonborn,24
+9045.0,Hugo Johann Philipp Graf von Stadion,Johann Philipp Graf von Stadion,,,,,Hugo Johann Philipp von Stadion,1
+9045.0,Hugo Johann Philipp Graf von Stadion,,,,,,Hugo Johann Philipp von Stadion,1
+9046.0,Ignaz Friedrich Maria Joseph Anton Apollinaris Canutus (Freiherr von) GRUBEN,,,Ignaz Friedrich Maria Joseph Anton Apollinaris Canutus von Gruben,P-005,poi-1,Ignaz Friedrich Maria Joseph Anton Apollinaris Canutus von Gruben,53
+9047.0,Joachim Albert Johann Zacharias (Freiherr von) HESS,Heß,,Joachim Albert Johann Zacharias von Hess,P-073,poi-1,Joachim Albert Johann Zacharias von Hess,28
+9047.0,Joachim Albert Johann Zacharias (Freiherr von) HESS,,,Joachim Albert Johann Zacharias von Hess,P-073,poi-1,Joachim Albert Johann Zacharias von Hess,28
+9048.0,Joachim Leonhard SCHÜLL,Schül / Schul,,Joachim Leonhard Schüll,P-071,poi-1,Joachim Leonhard Schüll,24
+9048.0,Joachim Leonhard SCHÜLL,,,Joachim Leonhard Schüll,P-071,poi-1,Joachim Leonhard Schüll,24
+9049.0,Johann Adam (Freiherr von) SCHROFF,,,Johann Adam von Schroff,P-078,poi-1,Johann Adam von Schroff,41
+9050.0,Johann Albert Freiherr von Gudenus,,,,,,Johann Albert Freiherr von Gudenus,23
+9050.0,Johann Albert Freiherr von Gudenus,Johann Albert von Gudenus,,,,,Johann Albert Freiherr von Gudenus,23
+9051.0,Johann Alexander Bernhard Strecker,Alexander Bernhard Strecker,,,,,Johann Alexander Bernhard Strecker,2
+9052.0,Johann Arnold Heinrich Joseph CRAMER von CLAUSBRUCH,,,Johann Arnold Heinrich Joseph Cramer von Clausbruch,P-016,poi-1,Johann Arnold Heinrich Joseph Cramer von Clausbruch,24
+9053.0,Johann Christian Joseph Freiherr von WALDENFELS,Wallenfels,,Johann Christian Joseph von Waldenfels,P-084,poi-1,Johann Christian Joseph Freiherr von Waldenfels,34
+9054.0,Johann Christoph Joseph (von) SCHMITZ,,,Johann Christoph Joseph von Schmitz,P-077,poi-1,Johann Christoph Joseph von Schmitz,41
+9055.0,Johann Christoph Joseph Schlehlein,,,,,,Johann Christoph Joseph Schlehlein,20
+9055.0,Johann Christoph Joseph Schlehlein,Christoph Joseph Schlehlein,,,,,Johann Christoph Joseph Schlehlein,20
+9055.0,Johann Christoph Joseph Schlehlein,Johann Christoph Schlehlein,,,,,Johann Christoph Joseph Schlehlein,20
+9056.0,Johann Christoph Veit (Edler von) TÖNNEANN,,,Johann Christoph Veit von Tönnemann,P-050,poi-1,Johann Christoph Veit von Tönneann,15
+9057.0,Johann Daniel Clemens (von) HUEBER (von der WILTAU) (Wildau),,,Johann Daniel Clemens von Hueber von der Wiltau,P-024,poi-1,Johann Daniel Clemens Hueber von Wildau,27
+9058.0,Johann Daniel Heyland,,,0,X,0,Johann Daniel Heyland,1
+9058.0,Johann Stephan (Edler von) SPECKMANN,,,Johann Stephan von Speckmann,P-018,poi-1,Johann Stephan von Speckmann,42
+9059.0,Johann Daniel Marianus FRANK,Franck,,Johann Daniel Marianus Frank,P-096,poi-1,Johann Daniel Marianus Frank,29
+9059.0,Johann Werner Freiherr von Vorster,,,,,,Johann Werner Freiherr von Vorster,8
+9059.0,Johann Werner Freiherr von Vorster,Johann Werner von Vorster,,,,,Johann Werner Freiherr von Vorster,8
+9200.0,Valentin Ferdinand (Freiherr) von GUDENUS,,,Valentin Ferdinand von Gudenus,P-069,poi-1,Valentin Ferdinand  von Gudenus,32
+9060.0,Johann Eberhard Franz von Löhr,Johann Erhard Franz von Löhr,,,,,Johann Eberhard Franz von Löhr,17
+9060.0,Johann Eberhard Franz von Löhr,,,,,,Johann Eberhard Franz von Löhr,17
+9060.0,Joseph Anton Leonard Hartmann,,,,,,Joseph Anton Leonard Hartmann,36
+9060.0,Joseph Anton Leonard Hartmann,Johann Anton Leonard Hartmann,,,,,Joseph Anton Leonard Hartmann,36
+9060.0,Veit Christoph Molitor,,,,,,Veit Christoph Molitor,78
+9061.0,Johann Ferdinand Andreas von Lammertz,,,,,,Johann Ferdinand Andreas von Lammertz,68
+9061.0,Johann Ferdinand Andreas von Lammertz,Ferdinand Andreas von Lammertz,,,,,Johann Ferdinand Andreas von Lammertz,68
+9061.0,Joseph Graf von Fugger zu Kirchheim,,,,,,Joseph Graf von Fugger zu Kirchheim,4
+9061.0,Joseph Graf von Fugger zu Kirchheim,Joseph Graf von Fugger,,,,,Joseph Graf von Fugger zu Kirchheim,4
+9062.0,Johann Franz Aegidius (Egid) (von) BEAURIEUX (zu SCHÖNBACH),,,Johann Franz Aegidius von Beaurieux zu Schönbach,P-001,poi-1,Johann Franz Aegidius (Egid) von Beaurieux zu Schönbach,22
+9062.0,Joseph Philipp (Philipp Karl Joseph) Graf zu SPAUR und FLAVON,,,Joseph Philipp zu Spaur und Flavon,P-085,poi-1,JosephPhilipp Karl Joseph zu Spaur und Flavon,21
+9063.0,Johann Franz Rudolf Nikolaus DEGEN,,,Johann Franz Rudolf Nikolaus Degen,P-009,poi-1,Johann Franz Rudolf Nikolaus Degen,17
+9063.0,Joseph ULLHEIMER,,,Joseph Ullheimer,P-076,poi-1,Joseph Ullheimer,31
+9064.0,Johann Franz Valentin (von) EMMERICH,,,Johann Franz Valentin von Emmerich,P-094,poi-1,Johann Franz Valentin von Emmerich,24
+9064.0,Karl Adolph Freiherr von Ritter zu Grünstein,,,,,,Karl Adolph Freiherr von Ritter zu Grünstein,83
+9064.0,Karl Adolph Freiherr von Ritter zu Grünstein,Karl Adolph Baron von Ritter,,,,,Karl Adolph Freiherr von Ritter zu Grünstein,83
+9065.0,Johann Friedrich Edler von Stubenrauch,Johann Friedrich Stubenrauch,,,,,Johann Friedrich Edler von Stubenrauch,10
+9065.0,Johann Friedrich Edler von Stubenrauch,,,,,,Johann Friedrich Edler von Stubenrauch,10
+9065.0,Karl Anton Freiherr von Vorster,Karl Anton von Vorster,,,,,Karl Anton Freiherr von Vorster,14
+9065.0,Karl Anton Freiherr von Vorster,,,,,,Karl Anton Freiherr von Vorster,14
+9066.0,Johann Friedrich Joseph Anton CRAMER von CLAUSBRUCH,,,Johann Friedrich Joseph Anton Cramer von Clausbruch,P-106,poi-1,Johann Friedrich Joseph Anton Cramer von Clausbruch,24
+9066.0,Karl Friedrich August Philipp Freiherr von DALWIGK zu LICHTENFELS,,,Karl Friedrich August Philipp von Dalwigk zu Lichtenfels,P-036,poi-1,Karl Friedrich August Philipp von Dalwigk zu Lichtenfels,31
+9067.0,Johann Georg Evenius,,,###,351?,poi-2,Johann Georg Evenius,2
+9067.0,Karl Friedrich Freiherr von Frankenstein zu Ockstadt,,,,,,Karl Friedrich von Frankenstein zu Ockstadt,27
+9067.0,Karl Friedrich Freiherr von Frankenstein zu Ockstadt,Karl Friedrich Freiherr von Frankenstein,,,,,Karl Friedrich von Frankenstein zu Ockstadt,27
+9068.0,Johann Georg Jakob (Freiherr von) BORIÉ (Beaurieux) (zu SCHÖNBACH),,,Johann Georg Jakob von Borié zu Schönbach,P-008,poi-1,Johann Georg Jakob von Beaurieux zu Schönbach,21
+9068.0,Karl Friedrich Wilhelm Freiherr von Erthal,,,,,,Karl Friedrich Wilhelm von Erthal,46
+9068.0,Karl Friedrich Wilhelm Freiherr von Erthal,Friedrich Wilhelm Freiherr von Erthal,,,,,Karl Friedrich Wilhelm von Erthal,46
+9069.0,Johann Georg Mansuet Freiherr von Bentzel,Johann Georg Mansuet von Bentzel,,,,,Johann Georg Mansuet von Bentzel,13
+9069.0,Johann Georg Mansuet Freiherr von Bentzel,,,,,,Johann Georg Mansuet von Bentzel,13
+9069.0,Johann Georg Mansuet Freiherr von Bentzel,Georg Mansuet Freiherr von Bentzel ,,,,,Johann Georg Mansuet von Bentzel,13
+9069.0,Karl Heinrich (Edler) von JODOCI,,,Karl Heinrich von Jodoci,P-053,poi-1,Karl Heinrich (Edler) von Jodoki,29
+9070.0,Johann Georg Neureuter,,,Johann Georg Neureuter,P-002,poi-1,Johann Georg Neureuter,21
+9070.0,Johann Georg Reurether,,,,,,Johann Georg Reurether,1
+9070.0,Karl Kaspar (Freiherr von) HERTWICH,,,Karl Kaspar von Hertwich,P-098,poi-1,Karl Kaspar von Hertwich,22
+9071.0,Johann Georg von Nitschke,Georg von Nitschke,,,,,Johann Georg von Nitschke,19
+9071.0,Johann Georg von Nitschke,,,,,,Johann Georg von Nitschke,19
+9071.0,Karl Ludwig (Freiherr von) BRANCA,,,Karl Ludwig von Branca,P-081,poi-1,Karl Ludwig von Branca,38
+9072.0,Johann Hermann Joseph Franz PAPIUS (Freiherr von PAPE gen. PAPIUS),,,Johann Hermann Joseph Franz Papius,P-058,poi-1,Johann Hermann Joseph Franz Papius,20
+9272.0,Karl Peter Rüssel,,,,,,Karl Peter Rüssel,74
+9273.0,Johann Hugo Heinrich Franz von GAERZ (Gaertz),,,Johann Hugo Heinrich Franz von Gaerz,P-007,poi-1,Johann Hugo Heinrich Franz von Gaertz,16
+9073.0,Karl Wilhelm Freiherr von Hagen,Karl von Hagen,,,,,Karl Wilhelm Freiherr von Hagen,35
+9073.0,Karl Wilhelm Freiherr von Hagen,Karl Freiherr von Hagen,,,,,Karl Wilhelm Freiherr von Hagen,35
+9073.0,Karl Wilhelm Freiherr von Hagen,,,,,,Karl Wilhelm Freiherr von Hagen,35
+9073.0,Karl Wilhelm Freiherr von Hagen,Karl Wilhelm von Hagen,,,,,Karl Wilhelm Freiherr von Hagen,35
+9074.0,Johann Jakob Edler von Stubenrauch,Johann Jakob Stubenrauch,,,,,Johann Jakob Edler von Stubenrauch,19
+9074.0,Johann Jakob Edler von Stubenrauch,,,,,,Johann Jakob Edler von Stubenrauch,19
+9074.0,Johann Jakob Edler von Stubenrauch,Jakob Stubenrauch,,,,,Johann Jakob Edler von Stubenrauch,19
+9074.0,Karl Wilhelm Friedrich (Freiherr) von KÜNSBERG,(Künssberg)-Thurnau-Ermreuth,,Karl Wilhelm Friedrich von Künsberg-Thurnau-Ermreuth,P-070,poi-1,Karl Wilhelm Friedrich von Künsberg,21
+9074.0,Karl Wilhelm Friedrich (Freiherr) von KÜNSBERG,,,Karl Wilhelm Friedrich von Künsberg-Thurnau-Ermreuth,P-070,poi-1,Karl Wilhelm Friedrich von Künsberg,21
+9075.0,Johann Joachim Georg (Freiherr) von MÜNCH (von/zu BELLINGHAUSEN),,,,,,Johann Joachim Georg von Münch zu Bellinghausen,24
+9275.0,Kaspar Anton (Freiherr von) Albini,,,Kaspar Anton von Albini,P-095,poi-1,Kaspar Anton von Albini,30
+9276.0,Johann Joseph Edler von WEINBACH,,,Johann Joseph von Weinbach,P-080,poi-1,Johann Joseph Edler von Weinbach,25
+9076.0,Kaspar Philipp Joseph Franz (Graf) von SPIEGEL zum DIESENBERG(-HANXLEDEN),,,Kaspar Philipp Joseph Franz von Spiegel zum Diesenberg-Hanxleden,P-087,poi-1,Kaspar Philipp Joseph Franz von Spiegel zum Diesenberg-Hanxleben,41
+9077.0,Johann Kaspar von Hagen,,,,,,Johann Kaspar von Hagen,3
+9277.0,"Leopold Philipp Albert Adolf Erhard Graf und Freiherr GALLER zu Schwanberg, Lannach und Waldschach",,,"Leopold Philipp Albert Adolf Erhard Galler zu Schwanberg, Lannach und Waldschach",P-072,poi-1,"Leopold Philipp Albert Adolf Erhard von Galler zu Schwanberg, Lannach und Waldschach",32
+9278.0,Johann Ludwig Vollrath (von) FROHN,,,Johann Ludwig Vollrath von Frohn,P-012,poi-1,Johann Ludwig Vollrath von Frohn,20
+9078.0,Lothar Franz Michael Freiherr von Erthal,,,,,,Lothar Franz Michael Freiherr von Erthal,29
+9078.0,Lothar Franz Michael Freiherr von Erthal,Lothar Franz Michael Freiherr von und zu Erthal,,,,,Lothar Franz Michael Freiherr von Erthal,29
+9078.0,Lothar Franz Michael Freiherr von Erthal,Lothar Franz Freiherr von und zu Erthal,,,,,Lothar Franz Michael Freiherr von Erthal,29
+9279.0,Johann Matthias (Edler von) COLL,,,Johann Matthias von Coll,P-006,poi-1,Johann Matthias Edler von Coll,30
+9079.0,Lothar Karl Freiherr von Bettendorf,,,,,,Lothar Karl Freiherr von Bettendorf,6
+9080.0,Johann Mauritius Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Gudenus,19
+9080.0,Johann Moritz Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Gudenus,18
+9080.0,Johannes Moritz Gudenus,,,Johann Mauritz Bodo von Gudenus,231,poi-1,Johann Moritz Gudenus,2
+9280.0,Lothar von Horn,,,,,,Lothar von Horn,1
+9081.0,Johann Melchior CRAMER von CLAUSBRUCH,,,Johann Melchior Cramer von Clausbruch,P-014,poi-1,Johann Melchior Cramer von Clausbruch,18
+9281.0,Johann Michael Strecker,,,,,,Johann Michael Strecker,2
+9181.0,Maria Joseph Graf FUGGER von DIETENHEIM,,,Maria Joseph Fugger von Dietenheim,P-097,poi-1,Maria Joseph Graf Fugger von Dietenheim,28
+9082.0,Johann Melchior von Birckenstock,Johann Melchior Birckenstock,,,,,Johann Melchior von Birckenstock,6
+9082.0,Johann Melchior von Birckenstock,,,,,,Johann Melchior von Birckenstock,6
+9182.0,Johann Peter (von) ORTMANN,,,Johann Peter von Ortmann,P-054,poi-1,Johann Peter von Ortmann,34
+9282.0,Maximilian Joseph Anton Joseph Nepomuk (Freiherr von) MARTINI,,,Maximilian Joseph Anton Joseph Nepomuk von Martini,P-056,poi-1,Maximilian Joseph Anton Joseph Nepomuk von Martini,20
+9183.0,Johann Philipp Freiherr von Bettendorf,,,,,,Johann Philipp von Bettendorf,31
+9083.0,Otto Heinrich (Freiherr) von GEMMINGEN-HORNBERG-Hoffenheim,,,Otto Heinrich von Gemmingen-Hornberg-Hoffenheim,P-121,poi-1,Otto Heinrich von Gemmingen-Hornberg-Hoffenheim,21
+9184.0,Johann Sebastian Nikolaus Tolentinus Erasmus Judas Thaddäus (Freiherr) von ZILLERBERG,,,Johann Sebastian Nikolaus Tolentinus Erasmus Judas Thaddäus von Zillerberg,P-079,poi-1,Johann Sebastian Nikolaus Tolentinus Erasmus Judas Thaddäus von Zillerberg,29
+9084.0,Paul Theodor (von) ANTHONI,Antoni,,Paul Theodor von Anthoni,P-093,poi-1,Paul Theodor von Anthoni,31
+9084.0,Paul Theodor (von) ANTHONI,,,Paul Theodor von Anthoni,P-093,poi-1,Paul Theodor von Anthoni,31
+9085.0,Peter Joseph Melchior (von) HOMMER,,,Peter Joseph Melchior von Hommer,P-013,poi-1,Peter Joseph Melchior von Hommer,26
+9086.0,Philipp Ernst (Freiherr von) REUSS (genannt HABERKORN),Reuß,,Philipp Ernst von Reuß genannt Haberkorn,P-074,poi-1,Philipp Ernst von Reuss gen. Haberkorn,16
+9087.0,Philipp Franz Freiherr Knebel von Katzenelnbogen,,,,,,Philipp Franz  Knebel von Katzenelnbogen,16
+9087.0,Philipp Franz Freiherr Knebel von Katzenelnbogen,Philipp Franz Freiherr von Knebel zu Katzenelnbogen,,,,,Philipp Franz  Knebel von Katzenelnbogen,16
+9088.0,Philipp Franz Karl Freiherr von Wambold zu Umstadt,Philipp Franz Karl Freiherr von Wambold,,,,,Philipp Franz Karl von Wambold zu Umstadt,13
+9088.0,Philipp Franz Karl Freiherr von Wambold zu Umstadt,,,,,,Philipp Franz Karl von Wambold zu Umstadt,13
+9088.0,Philipp Franz Karl Freiherr von Wambold zu Umstadt,Philipp Franz Freiherr von Wambold,,,,,Philipp Franz Karl von Wambold zu Umstadt,13
+9089.0,Philipp Heinrich (Freiherr von) REUSS (Reuß) (genannt HABERKORN),,,Philipp Heinrich von Reuß genannt Haberkorn,P-023,poi-1,Philipp Heinrich von Reuß gen. Haberkorn,33
+9090.0,Philipp Karl (von) DEEL (Edler zu DEELSBURG) (später: Freiherr DEEL von DEELSBURG),,,Philipp Karl Deel von Deelsburg,P-059,poi-1,Philipp Karl von Deel zu Deelsburg,37
+9091.0,Philipp Moritz Gedult von Jungenfeld,,,,,,Philipp Moritz Gedult von Jungenfeld,32
+9092.0,Robert Balthasar von Milwitz,,,Robert Balthasar Adam von Klemens zu Millwitz,505,poi-2,Robert Balthasar von Milwitz,2
+9093.0,Theodor Karl Joseph Johann (Edler) de/von L'EAU,,,,,,Theodor Karl Joseph Johann de l'Eau,22
+9094.0,Theodor Wilhelm Franz zum PÜTZ,Theodor Wilhelm Franz von PÜTZ,,Theodor Wilhelm Franz zum Pütz,P-102,poi-1,Theodor Wilhelm Franz zum Pütz,22
+9094.0,Theodor Wilhelm Franz zum PÜTZ,,,Theodor Wilhelm Franz zum Pütz,P-102,poi-1,Theodor Wilhelm Franz zum Pütz,22
+,Gudenus,,,###,?,poi-1,Gudenus,2
