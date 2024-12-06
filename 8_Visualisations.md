@@ -62,8 +62,14 @@ Thirdly, we are re-using historical spatial data originally gathered by historia
 
 ### (Automated) geocoding
 
-{:.callout.todo}
-Link Monika's blogpost here!
+{:.justified}
+In work package 3 "Kurmainz" within DigiKAR project, we have performed our initial geocoding of place names with the Google and Geonames API, comparing and manually correcting the results. As we had decided to focus on a settlement level rather than visualising individual institutions / estates, the results of the automated geocoding were sufficient although the exact point coordinates for modern places are now often located outside the historical centres. In most cases, the Geonames results were preferred to the Google results. Smaller places, especially those that are now part of larger administrative units, could not be found via the automated geocoding and were added by Sven Dittmar and student assistants at Mainz University. 
+
+In work package 2 "Kursachsen", we received geodata for most spatial entities from existing data sources such as the historical gazetteers for Saxony. Therefore, no from-scratch geocoding was performed here.
+
+:::info
+For details on our geocoding process and our challenges in the Mainz work package, also consult Monika Barget's blog posts on [geocoding with the Geonames API](https://insulae.hypotheses.org/2040) and [geocoding with the Google API](https://insulae.hypotheses.org/2123).
+:::
 
 ### What do we consider "base maps"?
 
