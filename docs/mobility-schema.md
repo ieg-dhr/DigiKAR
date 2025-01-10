@@ -147,7 +147,12 @@ To get a better idea of the different types of ecclesiastical, academic, and pol
 
 <SchemaEntry
 name="person_id"
-:examples="[]">
+type="number"
+description="A unique identifier for the person."
+:examples="[1, 234, 56789]">
+
+Every person in the DigiKAR project gets a _unique_ identifier. This identifier is a number. The identifier needs to be unique across all persons in the dataset (across analytical lenses).
+
 </SchemaEntry>
 
 <SchemaEntry
