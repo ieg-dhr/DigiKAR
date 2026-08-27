@@ -9,7 +9,6 @@ hero:
     Digitale Kartenwerkstatt Altes Reich.
     Ein Geohumanities Projekt.
 
-    ⚠️ Die Dokumentation ist aktuell noch in Arbeit.
   actions:
     - theme: brand
       text: Über das Projekt
