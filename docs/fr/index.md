@@ -9,7 +9,6 @@ hero:
     Laboratoire de cartographie numérique du Saint-Empire romain germanique.
     Un projet de géohumanités.
 
-    ⚠️ Cette documentation est actuellement en cours d'élaboration.
   actions:
     - theme: brand
       text: À propos du projet
