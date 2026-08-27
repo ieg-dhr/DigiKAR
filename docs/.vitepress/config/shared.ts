@@ -33,7 +33,6 @@ export const shared = defineConfig({
     },
     socialLinks: [
       { icon: "github", link: "https://github.com/ieg-dhr/DigiKAR" },
-      { icon: "x", link: "https://twitter.com/digi_KAR" },
       {
         icon: {
           svg: `
